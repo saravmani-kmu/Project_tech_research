@@ -1,0 +1,27 @@
+<a routerLink="/" class="back-link">← Back to feed</a>
+
+@if (loading()) {
+  <p class="status">Loading…</p>
+} @else if (!item()) {
+  <p class="status">Item not found. It may have rolled off today's feed.</p>
+} @else {
+  <article class="detail">
+    <div class="meta">
+      <span class="source-badge" [attr.data-source]="item()!.source">{{ item()!.source }}</span>
+      <time>{{ item()!.publishedAt | date: 'medium' }}</time>
+      @if (item()!.score) {
+        <span class="score">★ {{ item()!.score }}</span>
+      }
+    </div>
+    <h1>{{ item()!.title }}</h1>
+    <p class="details-body">{{ item()!.details || item()!.summary }}</p>
+    @if (item()!.tags.length > 0) {
+      <div class="tags">
+        @for (tag of item()!.tags; track tag) {
+          <span class="mini-tag">{{ tag }}</span>
+        }
+      </div>
+    }
+    <a [href]="item()!.url" target="_blank" rel="noopener" class="source-link">View original source →</a>
+  </article>
+}

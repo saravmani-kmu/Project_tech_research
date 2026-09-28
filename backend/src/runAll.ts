@@ -6,7 +6,13 @@ import { fetchArxivPapers } from './fetchers/arxiv';
 import { fetchHackerNewsTrending } from './fetchers/hackernews';
 import { fetchAllRssFeeds } from './fetchers/rss';
 import { mergeAndDedup } from './merge';
-import { writeSourceYaml, writeLatestYaml, updateIndexYaml, todayIsoDate } from './writeYaml';
+import {
+  writeSourceYaml,
+  writeLatestYaml,
+  writeMergedForDate,
+  updateIndexYaml,
+  todayIsoDate,
+} from './writeYaml';
 
 const DATA_DIR = path.join(__dirname, '..', '..', 'data');
 
@@ -40,6 +46,7 @@ async function main(): Promise<void> {
 
   const merged = mergeAndDedup(results);
   writeLatestYaml(DATA_DIR, merged);
+  writeMergedForDate(DATA_DIR, date, merged);
   updateIndexYaml(DATA_DIR, date);
   console.log(`Wrote ${merged.length} merged items to latest.yaml`);
 }

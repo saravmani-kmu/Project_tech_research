@@ -4,6 +4,7 @@ import * as path from 'path';
 import {
   writeSourceYaml,
   writeLatestYaml,
+  writeMergedForDate,
   updateIndexYaml,
   readYamlItems,
   todayIsoDate,
@@ -60,6 +61,13 @@ describe('writeYaml', () => {
     const filePath = updateIndexYaml(tmpDir, '2026-09-26');
     const dates = readYamlItems(filePath) as unknown as string[];
     expect(dates).toEqual(['2026-09-28', '2026-09-26']);
+  });
+
+  it('writes a per-date merged all.yaml alongside the per-source files', () => {
+    const filePath = writeMergedForDate(tmpDir, '2026-09-28', sampleItems);
+    expect(path.basename(filePath)).toBe('all.yaml');
+    expect(path.dirname(filePath)).toBe(path.join(tmpDir, '2026-09-28'));
+    expect(readYamlItems(filePath)).toEqual(sampleItems);
   });
 
   it('todayIsoDate formats a given date as YYYY-MM-DD', () => {

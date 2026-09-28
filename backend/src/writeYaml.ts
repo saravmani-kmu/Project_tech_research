@@ -26,6 +26,14 @@ export function writeLatestYaml(dataDir: string, items: ContentItem[]): string {
   return filePath;
 }
 
+export function writeMergedForDate(dataDir: string, date: string, items: ContentItem[]): string {
+  const dayDir = path.join(dataDir, date);
+  fs.mkdirSync(dayDir, { recursive: true });
+  const filePath = path.join(dayDir, 'all.yaml');
+  fs.writeFileSync(filePath, yaml.dump(items, { noRefs: true, lineWidth: 100 }), 'utf8');
+  return filePath;
+}
+
 export function updateIndexYaml(dataDir: string, date: string): string {
   const filePath = path.join(dataDir, 'index.yaml');
   let dates: string[] = [];

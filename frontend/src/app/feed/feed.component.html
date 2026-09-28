@@ -1,0 +1,71 @@
+<section class="filters">
+  <div class="source-tabs">
+    <button
+      type="button"
+      class="source-tab"
+      [class.active]="selectedSource() === 'all'"
+      (click)="setSource('all')"
+    >
+      All
+    </button>
+    @for (source of ['github', 'huggingface', 'arxiv', 'hackernews', 'rss']; track source) {
+      <button
+        type="button"
+        class="source-tab"
+        [class.active]="selectedSource() === source"
+        (click)="setSource($any(source))"
+      >
+        {{ sourceLabels[$any(source)] }}
+      </button>
+    }
+  </div>
+
+  @if (allTags().length > 0) {
+    <div class="tag-row">
+      @for (tag of allTags(); track tag) {
+        <button
+          type="button"
+          class="tag-chip"
+          [class.selected]="selectedTags().has(tag)"
+          (click)="toggleTag(tag)"
+        >
+          {{ tag }}
+        </button>
+      }
+      @if (selectedTags().size > 0) {
+        <button type="button" class="tag-chip clear" (click)="clearTags()">Clear tags</button>
+      }
+    </div>
+  }
+</section>
+
+@if (loading()) {
+  <p class="status">Loading latest AI trends…</p>
+} @else if (filteredItems().length === 0) {
+  <p class="status">No items match the current filters.</p>
+} @else {
+  <ul class="card-list">
+    @for (item of filteredItems(); track item.id) {
+      <li class="card">
+        <a [routerLink]="['/item', item.id]" class="card-link">
+          <div class="card-meta">
+            <span class="source-badge" [attr.data-source]="item.source">{{ sourceLabels[item.source] }}</span>
+            @if (item.score) {
+              <span class="score">★ {{ item.score }}</span>
+            }
+            <time>{{ item.publishedAt | date: 'mediumDate' }}</time>
+          </div>
+          <h2 class="card-title">{{ item.title }}</h2>
+          <p class="card-summary">{{ item.summary }}</p>
+          @if (item.tags.length > 0) {
+            <div class="card-tags">
+              @for (tag of item.tags; track tag) {
+                <span class="mini-tag">{{ tag }}</span>
+              }
+            </div>
+          }
+        </a>
+      </li>
+    }
+  </ul>
+}
