@@ -1,0 +1,258 @@
+- id: arxiv-2609.31607v1
+  title: Statistical attribute alignment for black-box generative AI via output post-processing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31607v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T17:55:49.000Z'
+- id: arxiv-2609.31603v1
+  title: User Model Extraction via Belief Self-Distillation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31603v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T17:54:32.000Z'
+- id: arxiv-2609.31600v1
+  title: New LoRA Skills Should Read but Never Write
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31600v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T17:54:01.000Z'
+- id: arxiv-2609.31595v1
+  title: 'GraphWrit3R: End-to-End 3D Scene Graph Writing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31595v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T17:52:39.000Z'
+- id: arxiv-2609.31562v1
+  title: Agentic Economies for Autonomous Scientific Discovery
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31562v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T17:28:53.000Z'
+- id: arxiv-2609.31552v1
+  title: 'FragToken: Amplifying LLM Inference Costs through Noncanonical Token Generation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31552v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T17:20:47.000Z'
+- id: arxiv-2609.31551v1
+  title: 'EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31551v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T17:20:22.000Z'
+- id: arxiv-2609.31524v1
+  title: Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31524v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T17:01:56.000Z'
+- id: arxiv-2609.31514v1
+  title: 'Forensic Twins: Self-Supervised Residual Learning for AI-Generated Image Forensics'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31514v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T16:55:20.000Z'
+- id: arxiv-2609.31506v1
+  title: Evaluating Cultural Awareness of LLMs for Haitian Creole
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31506v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T16:47:07.000Z'
+- id: arxiv-2609.31505v1
+  title: 'Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31505v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T16:45:28.000Z'
+- id: arxiv-2609.31482v1
+  title: '"AI is (not) the new...": A Diagnostic Analogy Framework for Generative AI''s Cultural Impacts'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31482v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T16:25:46.000Z'
+- id: arxiv-2609.31473v1
+  title: 'Game Arena: Strategic LLM Evaluation in Competitive Environments'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31473v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T16:20:55.000Z'
+- id: arxiv-2609.31460v1
+  title: Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31460v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T16:11:42.000Z'
+- id: arxiv-2609.31458v1
+  title: >-
+    Nonparametric In-Context Learning under Growing Geometric Complexity: Minimax Optimality and
+    Local Geometry-Adaptivity of Transformers
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31458v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T16:10:53.000Z'
+- id: arxiv-2609.31448v1
+  title: >-
+    ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in
+    Multimodal LLMs
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31448v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T16:06:29.000Z'
+- id: arxiv-2609.31422v1
+  title: >-
+    Towards Mitigating Fabricated Consensus: The Active Provenance Gate for Multi-Agent Debate
+    Synthesis
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31422v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T15:44:18.000Z'
+- id: arxiv-2609.31397v1
+  title: 'Intent2Tc: Automated Intent-to-Traffic Control Translation with Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31397v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T15:25:05.000Z'
+- id: arxiv-2609.31390v1
+  title: 'AlphaOpsBench: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31390v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T15:20:59.000Z'
+- id: arxiv-2609.31386v1
+  title: Modeling and Generative-AI-Based Design of Load-Adaptive Gravity Balancing Mechanisms
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31386v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T15:18:54.000Z'
+- id: arxiv-2609.31382v1
+  title: 'Highlight-Then-Summarize: Learning to Compress Evidence for Long-Context Understanding'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31382v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T15:16:35.000Z'
+- id: arxiv-2609.31371v1
+  title: >-
+    Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance,
+    Efficiency, and Robustness
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31371v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T15:08:16.000Z'
+- id: arxiv-2609.31354v1
+  title: 'Mutable Transcripts: Mitigating Context Pollution through Editable Conversation State'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31354v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T14:51:49.000Z'
+- id: arxiv-2609.31301v1
+  title: 'Beyond Approved Actions: Runtime Validation of Persistent Outcomes in Agent Workflows'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31301v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T14:11:14.000Z'
+- id: arxiv-2609.31288v1
+  title: 'When the Model Retires: An Empirical Study of LLM Migration in Open-Source Applications'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.31288v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-25T13:57:50.000Z'
