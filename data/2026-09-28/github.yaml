@@ -1,0 +1,30 @@
+- id: github-1351279868
+  title: Ishant6565/GenAI-Software-Developer-Agent
+  summary: >-
+    An agentic GenAI software development platform that transforms natural-language requirements
+    into complete, tested, reviewed, and documented software projects using multiple AI agents.
+  details: >-
+    An agentic GenAI software development platform that transforms natural-language requirements
+    into complete, tested, reviewed, and documented software projects using multiple AI agents.
+  url: https://github.com/Ishant6565/GenAI-Software-Developer-Agent
+  source: github
+  tags:
+    - agentic-ai
+    - ai-agents
+    - automated-testing
+    - code-generation
+    - code-review
+    - developer-tools
+    - docker
+    - fastapi
+    - genai
+    - genrative-ai
+    - github-api
+    - langgraph
+    - llm
+    - multi-agent-systems
+    - python
+    - rag
+    - software-engineering
+  score: 2
+  publishedAt: '2026-08-30T22:35:39Z'
