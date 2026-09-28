@@ -1,0 +1,10 @@
+[
+  {
+    "id": "acme/llama-agent-7b",
+    "likes": 512,
+    "downloads": 100000,
+    "tags": ["text-generation", "agentic-ai", "pytorch"],
+    "pipeline_tag": "text-generation",
+    "lastModified": "2026-09-25T00:00:00.000Z"
+  }
+]

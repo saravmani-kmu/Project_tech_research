@@ -1,0 +1,22 @@
+{
+  "total_count": 2,
+  "items": [
+    {
+      "id": 111,
+      "full_name": "acme/agentic-framework",
+      "html_url": "https://github.com/acme/agentic-framework",
+      "description": "A framework for building autonomous AI agents",
+      "stargazers_count": 4200,
+      "topics": ["llm", "agentic-ai", "python"],
+      "pushed_at": "2026-09-20T12:00:00Z"
+    },
+    {
+      "id": 222,
+      "full_name": "acme/genai-toolkit",
+      "html_url": "https://github.com/acme/genai-toolkit",
+      "description": null,
+      "stargazers_count": 950,
+      "pushed_at": "2026-09-18T08:30:00Z"
+    }
+  ]
+}

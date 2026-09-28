@@ -1,0 +1,22 @@
+{
+  "hits": [
+    {
+      "objectID": "999",
+      "title": "Show HN: An open-source agentic AI framework",
+      "url": "https://example.com/agentic-framework",
+      "points": 340,
+      "created_at": "2026-09-27T09:00:00.000Z",
+      "story_text": null,
+      "_tags": ["story", "show_hn", "author_alice"]
+    },
+    {
+      "objectID": "1000",
+      "title": "Ask HN: Best LLM frameworks in 2026?",
+      "url": null,
+      "points": 120,
+      "created_at": "2026-09-26T09:00:00.000Z",
+      "story_text": "Curious what people are using for building LLM apps.",
+      "_tags": ["story", "ask_hn", "author_bob"]
+    }
+  ]
+}
