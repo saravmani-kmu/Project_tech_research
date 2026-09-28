@@ -19,7 +19,7 @@
     - deploy:azure
     - deploy:sagemaker
     - region:us
-  score: 16453
+  score: 16458
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -39,7 +39,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15137
+  score: 15139
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -153,7 +153,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 7993
+  score: 7996
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -199,7 +199,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7041
+  score: 7042
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -421,7 +421,7 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
-  score: 6136
+  score: 6137
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -443,7 +443,7 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
-  score: 6036
+  score: 6038
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -462,7 +462,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 5749
+  score: 5751
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -492,7 +492,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 5737
+  score: 5742
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -515,27 +515,6 @@
     - region:us
     - deploy:sagemaker
   score: 5602
-- id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
-  title: Tongyi-MAI/Z-Image-Turbo
-  summary: text-to-image
-  details: >-
-    Model · diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677,
-    arxiv:2511.13649, license:apache-2.0, diffusers:ZImagePipeline, deploy:azure, region:us
-  url: https://huggingface.co/Tongyi-MAI/Z-Image-Turbo
-  source: huggingface
-  tags:
-    - diffusers
-    - safetensors
-    - text-to-image
-    - en
-    - arxiv:2511.22699
-    - arxiv:2511.22677
-    - arxiv:2511.13649
-    - license:apache-2.0
-    - diffusers:ZImagePipeline
-    - deploy:azure
-    - region:us
-  score: 5380
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -577,7 +556,28 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 5367
+  score: 5382
+- id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
+  title: Tongyi-MAI/Z-Image-Turbo
+  summary: text-to-image
+  details: >-
+    Model · diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677,
+    arxiv:2511.13649, license:apache-2.0, diffusers:ZImagePipeline, deploy:azure, region:us
+  url: https://huggingface.co/Tongyi-MAI/Z-Image-Turbo
+  source: huggingface
+  tags:
+    - diffusers
+    - safetensors
+    - text-to-image
+    - en
+    - arxiv:2511.22699
+    - arxiv:2511.22677
+    - arxiv:2511.13649
+    - license:apache-2.0
+    - diffusers:ZImagePipeline
+    - deploy:azure
+    - region:us
+  score: 5380
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
   summary: text-generation
@@ -603,7 +603,7 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
-  score: 5316
+  score: 5317
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
   summary: text-generation
@@ -626,7 +626,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 5138
+  score: 5139
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -654,7 +654,7 @@
     - region:us
     - deploy:sagemaker
     - deploy:azure
-  score: 5128
+  score: 5129
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -864,7 +864,7 @@
   tags:
     - docker
     - region:us
-  score: 11279
+  score: 11280
 - id: huggingface-space-Kwai-Kolors/Kolors-Virtual-Try-On
   title: Kwai-Kolors/Kolors-Virtual-Try-On
   summary: gradio, region:us
@@ -884,7 +884,7 @@
   tags:
     - gradio
     - region:us
-  score: 9561
+  score: 9562
 - id: huggingface-space-mteb/leaderboard
   title: mteb/leaderboard
   summary: docker, leaderboard, region:us
@@ -895,7 +895,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7696
+  score: 7697
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -1029,7 +1029,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3630
+  score: 3632
 - id: huggingface-space-hexgrad/Kokoro-TTS
   title: hexgrad/Kokoro-TTS
   summary: gradio, region:us
