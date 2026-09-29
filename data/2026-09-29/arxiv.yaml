@@ -1,0 +1,256 @@
+- id: arxiv-2609.35760v1
+  title: 'TokenCast: Forecasting Token Consumption During LLM Agent Execution'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35760v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:59:09.000Z'
+- id: arxiv-2609.35742v1
+  title: 'MINT: Modeling GenAI Impact on Network Traffic'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35742v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:54:31.000Z'
+- id: arxiv-2609.35706v1
+  title: Reinforcing Agentic Creativity in Scientific Ideation with Night Science
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35706v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:43:52.000Z'
+- id: arxiv-2609.35701v1
+  title: 'MeqMuon: Matrix-Equilibrating Muon for LLM Pretraining'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35701v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:41:34.000Z'
+- id: arxiv-2609.35699v1
+  title: Distillation Defenses Easily Break After Reinforcement Learning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35699v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:40:32.000Z'
+- id: arxiv-2609.35695v1
+  title: 'Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35695v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:38:53.000Z'
+- id: arxiv-2609.35673v1
+  title: 'FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35673v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:28:05.000Z'
+- id: arxiv-2609.35663v1
+  title: Late Attention Layers Alone Can Copy Entity Tokens, but Not Without Attending to Their Context
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35663v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:23:01.000Z'
+- id: arxiv-2609.35643v1
+  title: >-
+    Not All Thinking is Created Equal: Latent Reasoning Discovers a Recurrent Search Algorithm for
+    Depth Generalization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35643v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T17:12:30.000Z'
+- id: arxiv-2609.35621v1
+  title: 'Cartridges++: KV Cache Compression without Off-Context Derailment'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35621v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:57:36.000Z'
+- id: arxiv-2609.35615v1
+  title: Behavioral Foundation Models for Quality Diversity
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35615v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:56:06.000Z'
+- id: arxiv-2609.35606v1
+  title: 'TCSAlgBench: Benchmarking Automated Proving for Research-Level Theoretical Computer Science'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35606v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:52:40.000Z'
+- id: arxiv-2609.35599v1
+  title: Signatures of semantic search in the activations of large language models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35599v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:48:06.000Z'
+- id: arxiv-2609.35586v1
+  title: 'IMC-CLINIC: Coupled Loss-Informed Newton Iterations for Clipping in Analog In-Memory Computing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35586v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:38:47.000Z'
+- id: arxiv-2609.35581v1
+  title: >-
+    QC-Stark: A Multi-Task Benchmark Revealing Capability Dissociations in LLMs Evaluated on Quantum
+    Computing Tasks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35581v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:36:12.000Z'
+- id: arxiv-2609.35579v1
+  title: Output-aware Residual Stream Pruning for Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35579v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:35:45.000Z'
+- id: arxiv-2609.35578v1
+  title: 'FactorEngram: Factorized N-gram Memory with Basis-Level Gating for Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35578v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:35:18.000Z'
+- id: arxiv-2609.35576v1
+  title: 'Share-Borne AI Virus: Memory-Hopping Attacks Across LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35576v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:34:52.000Z'
+- id: arxiv-2609.35569v1
+  title: 'Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35569v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:31:50.000Z'
+- id: arxiv-2609.35559v1
+  title: 'From Search to Research: Exploring Search Scaling in Autonomous Quantitative Factor Mining'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35559v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:28:08.000Z'
+- id: arxiv-2609.35540v1
+  title: Continuous Context Management
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35540v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:20:08.000Z'
+- id: arxiv-2609.35536v1
+  title: >-
+    Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake
+    Detection
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35536v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:19:22.000Z'
+- id: arxiv-2609.35507v1
+  title: 'ReVA: A Scene-Centric Dataset Beyond Repetition for Remote Sensing Video Question Answering'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35507v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:05:47.000Z'
+- id: arxiv-2609.35501v1
+  title: 'SRHarness: A Harness for Agentic Symbolic Regression'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35501v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:03:24.000Z'
+- id: arxiv-2609.35497v1
+  title: 'Sprout: Building Dynamic Memory While Reasoning for Agentic Video Understanding'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.35497v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-28T16:01:59.000Z'
