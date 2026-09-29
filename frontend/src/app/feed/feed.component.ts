@@ -12,6 +12,8 @@ const SOURCE_LABELS: Record<SourceType, string> = {
   rss: 'Blog',
 };
 
+const ALL_SOURCES: SourceType[] = ['github', 'huggingface', 'arxiv', 'hackernews', 'rss'];
+
 @Component({
   selector: 'app-feed',
   standalone: true,
@@ -28,6 +30,7 @@ export class FeedComponent implements OnInit {
   selectedSource = signal<SourceType | 'all'>('all');
 
   sourceLabels = SOURCE_LABELS;
+  sources = ALL_SOURCES;
 
   allTags = computed(() => {
     const tagCounts = new Map<string, number>();

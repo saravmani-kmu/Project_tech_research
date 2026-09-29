@@ -8,14 +8,14 @@
     >
       All
     </button>
-    @for (source of ['github', 'huggingface', 'arxiv', 'hackernews', 'rss']; track source) {
+    @for (source of sources; track source) {
       <button
         type="button"
         class="source-tab"
         [class.active]="selectedSource() === source"
-        (click)="setSource($any(source))"
+        (click)="setSource(source)"
       >
-        {{ sourceLabels[$any(source)] }}
+        {{ sourceLabels[source] }}
       </button>
     }
   </div>
