@@ -16,6 +16,8 @@ const ALL_SOURCES: SourceType[] = ['github', 'huggingface', 'arxiv', 'hackernews
 
 const MAX_TAGS = 5;
 
+const PINNED_TAGS = ['agentic-ai', 'azure', 'dotnet', 'angular', 'langgraph', 'llm', 'genai'];
+
 @Component({
   selector: 'app-feed',
   standalone: true,
@@ -43,10 +45,12 @@ export class FeedComponent implements OnInit {
         tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
       }
     }
-    return [...tagCounts.entries()]
+    const topTags = [...tagCounts.entries()]
+      .filter(([tag]) => !PINNED_TAGS.includes(tag))
       .sort((a, b) => b[1] - a[1])
       .slice(0, MAX_TAGS)
       .map(([tag]) => tag);
+    return [...PINNED_TAGS, ...topTags];
   });
 
   filteredItems = computed(() => {

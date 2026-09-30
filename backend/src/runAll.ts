@@ -6,6 +6,7 @@ import { fetchArxivPapers } from './fetchers/arxiv';
 import { fetchHackerNewsTrending } from './fetchers/hackernews';
 import { fetchAllRssFeeds } from './fetchers/rss';
 import { mergeAndDedup } from './merge';
+import { enrichTags } from './tags';
 import {
   writeSourceYaml,
   writeLatestYaml,
@@ -35,7 +36,7 @@ async function main(): Promise<void> {
 
   for (const job of JOBS) {
     try {
-      const items = await job.run();
+      const items = (await job.run()).map(enrichTags);
       writeSourceYaml(DATA_DIR, date, job.source, items);
       results.push(items);
       console.log(`[${job.source}] fetched ${items.length} items`);

@@ -20,7 +20,7 @@
     }
   </div>
 
-  @if (allTags().length > 0) {
+  @if (!loading()) {
     <div class="tag-row">
       @for (tag of allTags(); track tag) {
         <button
