@@ -1,0 +1,244 @@
+- id: hackernews-47138618
+  title: 'Show HN: Neuron – Independent Rust crates for building AI agents'
+  summary: >-
+    The core of every agent framework is the same ReAct loop. It&#x27;s commodity code. What
+    actually matters is everything around that loop — how you manage context windows, how you
+    pipeline tool executi
+  details: >-
+    The core of every agent framework is the same ReAct loop. It&#x27;s commodity code. What
+    actually matters is everything around that loop — how you manage context windows, how you
+    pipeline tool execution, how you handle durability and replay. These are hard problems with real
+    design trade-offs, and yet every framework bundles them into one monolith where you buy all of
+    it or none of it.<p>neuron is the layer below frameworks. It defines trait boundaries —
+    `Provider`, `Tool`, `ContextStrategy` — and ships working implementations of each as independent
+    crates. You get four context compaction strategies without pulling a single provider. You get
+    the Anthropic provider without the tool registry. You get MCP support without the agent loop.
+    The analogy is `serde` and `serde_json`: one crate defines the traits, the others implement
+    them, and you compose what you need.<p>v0.3 is 12 crates. Three providers (Anthropic, OpenAI,
+    Ollama), composable tool middleware with a `#[neuron_tool]` proc macro, four context compaction
+    strategies, an agent loop with cancellation and parallel tool execution, full MCP support across
+    both stdio and Streamable HTTP, sessions, guardrails with sandboxing and permission policies,
+    and a dedicated OpenTelemetry crate following the GenAI semantic conventions. Rust 2024 edition,
+    native async traits.<p>Adding a provider is adding a crate. The existing provider crates serve
+    as templates — implement the `Provider` trait from `neuron-types`, wire up streaming, and you
+    have a first-class citizen in the ecosystem. The same goes for context strategies, tool
+    middleware, and session backends. More provider and integration crates are on the roadmap, but
+    the architecture is specifically designed so that you or your agent can add them without waiting
+    on me.<p>That last point is deliberate. The repo ships with `CLAUDE.md`, `llms.txt`, and
+    architecture docs written to be machine-readable. An LLM agent can pull the codebase, understand
+    the trait boundaries, and start building against them. If you&#x27;re using Claude Code or
+    similar tools to scaffold new integrations, neuron is optimized for that workflow.<p>Looking for
+    feedback on the crate boundaries and API surface. The docs site walks through the reasoning
+    behind specific trade-offs — why axum-style middleware instead of tower, why `DurableContext`
+    wraps side effects rather than observing them, why the flat `Message` struct instead of
+    variant-per-role.<p>Repo: <a href="https:&#x2F;&#x2F;github.com&#x2F;SecBear&#x2F;neuron"
+    rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;SecBear&#x2F;neuron</a>
+
+    Crates: <a href="https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;neuron"
+    rel="nofollow">https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;neuron</a>
+  url: https://secbear.github.io/neuron/
+  source: hackernews
+  tags:
+    - author_secbear
+    - story_47138618
+    - show_hn
+  score: 1
+  publishedAt: '2026-02-24T15:49:56Z'
+- id: hackernews-43782869
+  title: 'Show HN: High-performance GenAI engine now open source'
+  summary: >-
+    Hey HN<p>After one too many customer firedrills regarding hallucinating or insecure AI models,
+    we built a system to catch these issues before they reached production. The Arthur Engine has
+    been runnin
+  details: >-
+    Hey HN<p>After one too many customer firedrills regarding hallucinating or insecure AI models,
+    we built a system to catch these issues before they reached production. The Arthur Engine has
+    been running in Fortune 100 to AI Native Start-Ups over the past two years, putting security
+    controls around more than 10 billion tokens in production every month. We&#x27;re now opening up
+    this service to developers, enabling you to leverage enterprise-grade solutions to provide
+    guardrails and evals as a service, all for free.<p>Get it on Github (<a
+    href="https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;arthur-engine">https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;arthur-engine</a>)
+    to start evaluating your models today<p>Highlights of Arthur&#x27;s Engine include:<p>* Built
+    for speed and scale: It performs well with p90 latencies of sub-second well over 100+ RPS<p>*
+    Made for full lifecycle support: Ideal for pre-production validation, real-time guardrails, and
+    post-production monitoring.<p>* Ease of use: It is designed to be easy for anyone to run and
+    deploy whether you&#x27;re working on it locally during development, or you&#x27;re deploying it
+    within a horizontally-scaling architecture for large-scale workloads.<p>* Unification of
+    generative and traditional AI: The Arthur AI Engine can be used to evaluate a diverse range of
+    models from LLMs and Agentic AI systems to binary classifiers, regression models, recommender
+    systems, forecasting models, and more.<p>* Content-specific guardrail and detection features:
+    Ranging from toxicity and hallucination detection to sensitive data (like PII,
+    keyword&#x2F;regex and custom rules) and prompt injection.<p>* Customizability: Plug in your own
+    models or integrate with other model or guardrail providers with ease, and tailor the system to
+    match your specific needs.<p>Having been first-hand witnesses to the lack of adequate AI
+    monitoring tools and the general under delivery of Gen AI systems in production, we believe that
+    such a capability shouldn&#x27;t be exclusive to big-budget organizations. Our mission is to
+    make AI better, for everyone, and we believe by opening up this tool we can help more people get
+    to that goal.<p>Check out our GitHub repo for examples and directions on how to use the Arthur
+    AI Engine for various purposes such as validation during development, real-time guardrails or
+    performance troubleshooting using enriched logging data. (<a
+    href="https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;engine-examples">https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;engine-examples</a>)<p>We
+    can’t wait to see what you build<p>— Zach and Team Arthur
+  url: https://github.com/arthur-ai/arthur-engine
+  source: hackernews
+  tags:
+    - author_fryz
+    - story_43782869
+    - show_hn
+  score: 22
+  publishedAt: '2025-04-24T13:55:19Z'
+- id: hackernews-43627329
+  title: 'Show HN: Dapto – AI Prompt and Response Firewall for Enterprises'
+  summary: >-
+    Hi HN,
+
+    We’ve been working on a problem we kept seeing in enterprise GenAI rollouts:<p>As tools like
+    GPT, Claude, and Gemini get embedded into dashboards, support tools, and business systems, most
+    orga
+  details: >-
+    Hi HN,
+
+    We’ve been working on a problem we kept seeing in enterprise GenAI rollouts:<p>As tools like
+    GPT, Claude, and Gemini get embedded into dashboards, support tools, and business systems, most
+    organizations have no control or context over what the AI sees, says, or shares.<p>That creates
+    serious risks:
+     - Hallucinated answers
+     - Prompt injection attacks
+     - Data and PII exposure
+     - Industry compliance violations (e.g. HIPAA, SOC2, GDPR)<p>So we built Dapto ,  an enterprise-grade trust layer designed for companies that want to deploy GenAI safely, at scale, and with full governance.<p>See it in action - <a href="https:&#x2F;&#x2F;youtu.be&#x2F;dxFb7Q12gcw" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;dxFb7Q12gcw</a><p>Here’s how it works:
+     - Validates prompts before they hit the LLM - catching jailbreaks, injections, and 
+       policy violations
+     - Checks AI responses before they reach the user - to prevent hallucinations or 
+       unauthorized content
+     - Auto-generates real-time metadata context from the input prompt
+     - Then re-verifies the AI’s response against enterprise data before it’s shown
+     - Detects and masks sensitive data (PII, financials, health info) as needed
+     - Keeps full logs, audit trails, and risk scoring, without changing your model or 
+       app<p>But here&#x27;s what makes it different:<p>We use a multi-agent architecture with:
+     - Vertical-specific AI agents (Finance, Healthcare, Legal, etc.) that understand 
+       the unique compliance and domain context of your industry
+     - Horizontal supporting agents that handle metadata, hallucination detection, 
+       policy enforcement, and data verification<p>You can build your own AI agents inside Dapto, with all safety and governance layers baked in.<p>It works out of the box with OpenAI, Claude, Gemini, Ollama, LangChain, and self-hosted models.<p>We’d love feedback, especially from folks building with LLMs in regulated or complex domains.<p>What are you using today for guardrails? Would this plug-in approach fit into your stack?<p>Thanks for reading.
+    www.dapto.ai
+  url: https://dapto.ai
+  source: hackernews
+  tags:
+    - author_sharmasachin98
+    - story_43627329
+    - show_hn
+  score: 2
+  publishedAt: '2025-04-08T23:04:16Z'
+- id: hackernews-42697592
+  title: 'Ask HN: Continue with SaaS type platform, or pursue AI?'
+  summary: >-
+    I&#x27;m building a collaborative platform for improving sanity (efficiency) when working on
+    complex projects, and with all the AI hype I spent some time diving into LLMs, agents, etc.<p>My
+    key takeaw
+  details: >-
+    I&#x27;m building a collaborative platform for improving sanity (efficiency) when working on
+    complex projects, and with all the AI hype I spent some time diving into LLMs, agents, etc.<p>My
+    key takeaway after spending a couple months on it is that inaccuracy is really the biggest
+    killer.<p>Here are some key takeaways after talking to some people as well as doing my own
+    projects:<p>1. 1hr meeting&#x27;s AI gen minutes (zoom&#x2F;teams&#x2F;etc). It makes a dozen or
+    so points but some of them are not relevant to the meeting at all, and some folks have heavy
+    accents and their input is mostly incorrectly captured. Folks ended up just using manual minutes
+    again because these are important for their workflow.<p>2. Creating embeddings of
+    files&#x2F;documentation&#x2F;messages&#x2F;etc and then searching on them seems to work well.
+    For the most part, it seems these can be 60-80% accurate because the alternative is even worse
+    (try searching a huge slack for a file, or even software made for file management). However,
+    when it doesn&#x27;t work, it is really bad because I get wildly unrelated results.<p>3. Not
+    very accurate for anything involving calculations or open ended questions about numeric data,
+    granted this is a known limitation. Creating a graph or something like that? Sure. Asking it
+    about those figures or trying to derive some additional information seems to be hit or
+    miss.<p>So I&#x27;m a little stuck. I feel like if I stick with a SaaS platform, it won&#x27;t
+    be appealing in the current landscape where everyone is hammering AI into their products.
+    Personally I find most of the gen AI not that useful - like when I open up a project management
+    tool and the description box has an AI button.<p>NL input seems to instill a sense of false
+    confidence - I will get what I ask. But when it doesn&#x27;t work, especially after effort
+    placed into the prompt, people just revert to the vanilla experience.<p>So what am I missing? Am
+    I just thinking the wrong way? Maybe I just suck at setting vision for the future based on my
+    own experience with these tools.<p>Any thoughts would be helpful. Thanks!
+  url: https://news.ycombinator.com/item?id=42697592
+  source: hackernews
+  tags:
+    - author_babyent
+    - story_42697592
+    - ask_hn
+  score: 2
+  publishedAt: '2025-01-14T14:28:18Z'
+- id: hackernews-42347825
+  title: 'Ask HN: What will happen to social media?'
+  summary: >-
+    With the incoming AI agents, I am pretty sure social media teams will be run mostly by these LLM
+    bots. I am already observing accounts replying to every post on my feed.<p>Soon social media is
+    going t
+  details: >-
+    With the incoming AI agents, I am pretty sure social media teams will be run mostly by these LLM
+    bots. I am already observing accounts replying to every post on my feed.<p>Soon social media is
+    going to be filled with bots posting content, and other bots commenting, re-sharing, and
+    upvoting content. Quora already has an &quot;Assistant&quot; answering each and every
+    question.<p>I am sure I will not stick around to scroll through such AI generated
+    content.<p>With image generation models, even instagram is not going to be spared it seems.
+    However, I am optimistic that video still has time. Most popular video contents usually have a
+    human element with some presenter or subject doing or saying something interesting which is
+    still hard using gen AI.
+  url: https://news.ycombinator.com/item?id=42347825
+  source: hackernews
+  tags:
+    - author_ghoshbishakh
+    - story_42347825
+    - ask_hn
+  score: 5
+  publishedAt: '2024-12-07T07:02:32Z'
+- id: hackernews-41451698
+  title: 'Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust'
+  summary: >-
+    Hey HN, we’re Robert, Din and Temirlan from Laminar (<a
+    href="https:&#x2F;&#x2F;www.lmnr.ai">https:&#x2F;&#x2F;www.lmnr.ai</a>), an open-source
+    observability and analytics platform for complex LLM app
+  details: >-
+    Hey HN, we’re Robert, Din and Temirlan from Laminar (<a
+    href="https:&#x2F;&#x2F;www.lmnr.ai">https:&#x2F;&#x2F;www.lmnr.ai</a>), an open-source
+    observability and analytics platform for complex LLM apps. It’s designed to be fast, reliable,
+    and scalable. The stack is RabbitMQ for message queues, Postgres for storage, Clickhouse for
+    analytics, Qdrant for semantic search - all powered by Rust.<p>How is Laminar different from the
+    swarm of other “LLM observability” platforms?<p>On the observability part, we’re focused on
+    handling full execution traces, not just LLM calls. We built a Rust ingestor for OpenTelemetry
+    (Otel) spans with GenAI semantic conventions. As LLM apps get more complex (think Agents with
+    hundreds of LLM and function calls, or complex RAG pipelines), full tracing is critical. With
+    Otel spans, we can: 1. Cover the entire execution trace. 2. Keep the platform future-proof 3.
+    Leverage an amazing OpenLLMetry (<a
+    href="https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry">https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry</a>),
+    open-source package for span production.<p>The key difference is that we tie text analytics
+    directly to execution traces. Rich text data makes LLM traces unique, so we let you track
+    “semantic metrics” (like what your AI agent is actually saying) and connect those metrics to
+    where they happen in the trace. If you want to know if your AI drive-through agent made an
+    upsell, you can design an LLM extraction pipeline in our builder (more on it later), host it on
+    Laminar, and handle everything from event requests to output logging. Processing requests simply
+    come as events in the Otel span.<p>We think it’s a win to separate core app logic from LLM event
+    processing. Most devs don’t want to manage background queues for LLM analytics processing but
+    still want insights into how their Agents or RAGs are working.<p>Our Pipeline Builder uses graph
+    UI where nodes are LLM and util functions, and edges showing data flow. We built a custom task
+    execution engine with support of parallel branch executions, cycles and branches (it’s overkill
+    for simple pipelines, but it’s extremely cool and we’ve spent a lot of time designing a robust
+    engine). You can also call pipelines directly as API endpoints. We found them to be extremely
+    useful for iterating on and separating LLM logic. Laminar also traces pipeline directly, which
+    removes the overhead of sending large outputs over the network.<p>One thing missing from all LLM
+    observability platforms right now is an adequate search over traces. We’re attacking this
+    problem by indexing each span in a vector DB and performing hybrid search at query time. This
+    feature is still in beta, but we think it’s gonna be crucial part of our platform going
+    forward.<p>We also support evaluations. We loved the “run everything locally, send results to a
+    server” approach from Braintrust and Weights &amp; Biases, so we did that too: a simple SDK and
+    nice dashboards to track everything. Evals are still early, but we’re pushing hard on
+    them.<p>Our goal is to make Laminar the Supabase for LLMOps - the go-to open-source
+    comprehensive platform for all things LLMs &#x2F; GenAI. In it’s current shape, Laminar is just
+    few weeks old and developing rapidly, we’d love any feedback or for you to give Laminar a try in
+    your LLM projects!
+  url: https://github.com/lmnr-ai/lmnr
+  source: hackernews
+  tags:
+    - author_skull8888888
+    - story_41451698
+    - show_hn
+  score: 203
+  publishedAt: '2024-09-04T22:52:19Z'
