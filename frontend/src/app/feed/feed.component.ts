@@ -14,6 +14,8 @@ const SOURCE_LABELS: Record<SourceType, string> = {
 
 const ALL_SOURCES: SourceType[] = ['github', 'huggingface', 'arxiv', 'hackernews', 'rss'];
 
+const MAX_TAGS = 5;
+
 @Component({
   selector: 'app-feed',
   standalone: true,
@@ -33,13 +35,18 @@ export class FeedComponent implements OnInit {
   sources = ALL_SOURCES;
 
   allTags = computed(() => {
+    const source = this.selectedSource();
     const tagCounts = new Map<string, number>();
     for (const item of this.items()) {
+      if (source !== 'all' && item.source !== source) continue;
       for (const tag of item.tags) {
         tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
       }
     }
-    return [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) => tag);
+    return [...tagCounts.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, MAX_TAGS)
+      .map(([tag]) => tag);
   });
 
   filteredItems = computed(() => {
@@ -70,6 +77,7 @@ export class FeedComponent implements OnInit {
 
   setSource(source: SourceType | 'all'): void {
     this.selectedSource.set(source);
+    this.selectedTags.set(new Set());
   }
 
   clearTags(): void {
