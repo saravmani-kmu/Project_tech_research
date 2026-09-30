@@ -28,6 +28,8 @@
     - author_AndrewLiu96
     - story_49011806
     - show_hn
+    - llm
+    - genai
   score: 10
   publishedAt: '2026-07-22T19:03:50Z'
 - id: hackernews-47621306
@@ -75,6 +77,8 @@
     - author_PAndreew
     - story_47621306
     - show_hn
+    - agentic-ai
+    - llm
   score: 4
   publishedAt: '2026-04-02T23:00:37Z'
 - id: hackernews-47138618
@@ -121,6 +125,9 @@
     - author_secbear
     - story_47138618
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 1
   publishedAt: '2026-02-24T15:49:56Z'
 - id: hackernews-43812336
@@ -194,6 +201,8 @@
     - author_sat13
     - story_43812336
     - show_hn
+    - llm
+    - genai
   score: 5
   publishedAt: '2025-04-27T14:47:49Z'
 - id: hackernews-43782869
@@ -237,6 +246,9 @@
     - author_fryz
     - story_43782869
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 22
   publishedAt: '2025-04-24T13:55:19Z'
 - id: hackernews-43627329
@@ -278,6 +290,9 @@
     - author_sharmasachin98
     - story_43627329
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 2
   publishedAt: '2025-04-08T23:04:16Z'
 - id: hackernews-42697592
@@ -316,6 +331,7 @@
     - author_babyent
     - story_42697592
     - ask_hn
+    - llm
   score: 2
   publishedAt: '2025-01-14T14:28:18Z'
 - id: hackernews-42347825
@@ -340,6 +356,8 @@
     - author_ghoshbishakh
     - story_42347825
     - ask_hn
+    - agentic-ai
+    - llm
   score: 5
   publishedAt: '2024-12-07T07:02:32Z'
 - id: hackernews-42174829
@@ -450,6 +468,8 @@
     - author_liukidar
     - story_42174829
     - show_hn
+    - llm
+    - genai
   score: 457
   publishedAt: '2024-11-18T17:43:13Z'
 - id: hackernews-41451698
@@ -502,6 +522,9 @@
     - author_skull8888888
     - story_41451698
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 203
   publishedAt: '2024-09-04T22:52:19Z'
 - id: hackernews-40985609
@@ -551,6 +574,8 @@
     - author_GalKlm
     - story_40985609
     - launch_hn
+    - llm
+    - genai
   score: 101
   publishedAt: '2024-07-17T13:19:03Z'
 - id: hackernews-37753791
@@ -598,5 +623,8 @@
     - author_yasmind
     - story_37753791
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 55
   publishedAt: '2023-10-03T16:08:50Z'

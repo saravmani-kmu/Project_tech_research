@@ -19,7 +19,8 @@
     - deploy:azure
     - deploy:sagemaker
     - region:us
-  score: 16607
+    - azure
+  score: 16609
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -88,7 +89,7 @@
     - 8-bit
     - region:us
     - deploy:sagemaker
-  score: 11553
+  score: 11554
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -114,6 +115,7 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
+    - azure
   score: 8254
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
@@ -153,7 +155,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8084
+  score: 8086
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -199,7 +201,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7065
+  score: 7066
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -225,7 +227,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 6719
+  score: 6720
 - id: huggingface-model-openai/whisper-large-v3
   title: openai/whisper-large-v3
   summary: automatic-speech-recognition
@@ -354,7 +356,8 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
-  score: 6487
+    - azure
+  score: 6490
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -421,7 +424,8 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
-  score: 6150
+    - azure
+  score: 6151
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -443,26 +447,8 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
+    - azure
   score: 6065
-- id: huggingface-model-Qwen/Qwen3.8-Flash-Next
-  title: Qwen/Qwen3.8-Flash-Next
-  summary: image-text-to-text
-  details: >-
-    Model · transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other,
-    eval-results, endpoints_compatible, region:us
-  url: https://huggingface.co/Qwen/Qwen3.8-Flash-Next
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - qwen4_exp
-    - image-text-to-text
-    - conversational
-    - license:other
-    - eval-results
-    - endpoints_compatible
-    - region:us
-  score: 5784
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -492,7 +478,26 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 5783
+  score: 5785
+- id: huggingface-model-Qwen/Qwen3.8-Flash-Next
+  title: Qwen/Qwen3.8-Flash-Next
+  summary: image-text-to-text
+  details: >-
+    Model · transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other,
+    eval-results, endpoints_compatible, region:us
+  url: https://huggingface.co/Qwen/Qwen3.8-Flash-Next
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - qwen4_exp
+    - image-text-to-text
+    - conversational
+    - license:other
+    - eval-results
+    - endpoints_compatible
+    - region:us
+  score: 5785
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -534,7 +539,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 5612
+  score: 5620
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -577,6 +582,7 @@
     - diffusers:ZImagePipeline
     - deploy:azure
     - region:us
+    - azure
   score: 5391
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
@@ -603,6 +609,7 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
+    - azure
   score: 5331
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
@@ -631,6 +638,7 @@
     - region:us
     - deploy:sagemaker
     - deploy:azure
+    - azure
   score: 5147
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
@@ -680,6 +688,7 @@
     - deploy:sagemaker
     - deploy:azure
     - region:us
+    - azure
   score: 5107
 - id: huggingface-model-bigscience/bloom
   title: bigscience/bloom
@@ -758,6 +767,7 @@
     - endpoints_compatible
     - region:us
     - deploy:azure
+    - azure
   score: 5071
 - id: huggingface-model-stabilityai/stable-diffusion-3-medium
   title: stabilityai/stable-diffusion-3-medium
@@ -854,6 +864,7 @@
     - eval:code
     - eval:math
     - region:us
+    - llm
   score: 14123
 - id: huggingface-space-jbilcke-hf/ai-comic-factory
   title: jbilcke-hf/ai-comic-factory
@@ -874,7 +885,7 @@
   tags:
     - gradio
     - region:us
-  score: 10194
+  score: 10195
 - id: huggingface-space-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: gradio, region:us
@@ -938,6 +949,7 @@
     - language models
     - LLMs
     - region:us
+    - llm
   score: 5099
 - id: huggingface-space-lmarena-ai/arena-leaderboard
   title: lmarena-ai/arena-leaderboard
@@ -1008,6 +1020,7 @@
     - language models
     - LLMs
     - region:us
+    - llm
   score: 3799
 - id: huggingface-space-zerogpu-aoti/wan2-2-fp8da-aoti-faster
   title: zerogpu-aoti/wan2-2-fp8da-aoti-faster
@@ -1039,7 +1052,7 @@
   tags:
     - gradio
     - region:us
-  score: 3489
+  score: 3490
 - id: huggingface-space-tencent/Hunyuan3D-2
   title: tencent/Hunyuan3D-2
   summary: gradio, region:us
@@ -1115,6 +1128,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T17:59:52.000Z'
 - id: arxiv-2609.38140v1
@@ -1137,6 +1151,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T17:47:18.000Z'
 - id: arxiv-2609.38104v1
@@ -1169,6 +1184,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T17:33:36.000Z'
 - id: arxiv-2609.38043v1
@@ -1179,6 +1195,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T17:17:24.000Z'
 - id: arxiv-2609.38036v1
@@ -1189,6 +1206,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T17:11:53.000Z'
 - id: arxiv-2609.38029v1
@@ -1201,6 +1219,7 @@
   source: arxiv
   tags:
     - arxiv
+    - genai
   score: 0
   publishedAt: '2026-09-29T17:08:08.000Z'
 - id: arxiv-2609.38025v1
@@ -1211,6 +1230,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T17:07:00.000Z'
 - id: arxiv-2609.38005v1
@@ -1221,6 +1241,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T16:55:50.000Z'
 - id: arxiv-2609.37956v1
@@ -1299,6 +1320,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T15:44:42.000Z'
 - id: arxiv-2609.37857v1
@@ -1319,6 +1341,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T15:43:07.000Z'
 - id: arxiv-2609.37852v1
@@ -1329,6 +1352,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T15:43:02.000Z'
 - id: arxiv-2609.37849v1
@@ -1349,6 +1373,7 @@
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
   publishedAt: '2026-09-29T15:40:53.000Z'
 - id: arxiv-2609.37829v1
@@ -1591,6 +1616,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-09-23T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -2439,6 +2465,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-09-01T17:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -2983,6 +3010,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-08-13T11:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -3031,6 +3059,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-08-12T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -3527,6 +3556,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-07-29T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -3543,6 +3573,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-07-28T17:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -3607,6 +3638,8 @@
     - author_AndrewLiu96
     - story_49011806
     - show_hn
+    - llm
+    - genai
   score: 10
   publishedAt: '2026-07-22T19:03:50Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -3671,6 +3704,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-07-22T05:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -3815,6 +3849,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-07-16T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -3863,6 +3898,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-07-14T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -4203,6 +4239,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-06-25T02:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -4539,6 +4576,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-06-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -4701,6 +4739,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-06-04T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -5030,6 +5069,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-05-28T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -5366,6 +5406,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-05-14T20:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -5691,6 +5732,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-05-06T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -5833,6 +5875,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-05-04T21:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6009,6 +6052,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-04-27T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6117,6 +6161,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-04-22T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6311,6 +6356,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-04-13T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6711,6 +6757,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-04-08T14:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6790,6 +6837,8 @@
     - author_PAndreew
     - story_47621306
     - show_hn
+    - agentic-ai
+    - llm
   score: 4
   publishedAt: '2026-04-02T23:00:37Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6838,6 +6887,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-04-01T02:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6914,6 +6964,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-03-25T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6962,6 +7013,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-03-24T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -7088,6 +7140,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-03-11T11:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -7484,6 +7537,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-02-27T05:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -7613,6 +7667,9 @@
     - author_secbear
     - story_47138618
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 1
   publishedAt: '2026-02-24T15:49:56Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -7725,6 +7782,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-02-18T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -7897,6 +7955,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-02-05T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -7931,6 +7990,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-02-05T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -7979,6 +8039,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-02-02T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -8223,6 +8284,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-01-28T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -8255,6 +8317,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-01-27T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -8641,6 +8704,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-01-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -8729,6 +8793,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-12-22T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -8986,6 +9051,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-12-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9081,6 +9147,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-12-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9097,6 +9164,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-12-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9168,6 +9236,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-12-09T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9368,6 +9437,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-12-01T22:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9438,6 +9508,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-12-01T05:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9680,6 +9751,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-11-19T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -10064,6 +10136,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-10-30T11:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -10080,6 +10153,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-10-30T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -10289,6 +10363,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-10-23T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -10976,6 +11051,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-09-29T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -11256,6 +11332,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-09-15T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -11600,6 +11677,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-08-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -11972,6 +12050,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-07-24T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -11988,6 +12067,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-07-23T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -12120,6 +12200,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-07-17T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -12996,6 +13077,8 @@
     - author_sat13
     - story_43812336
     - show_hn
+    - llm
+    - genai
   score: 5
   publishedAt: '2025-04-27T14:47:49Z'
 - id: hackernews-43782869
@@ -13039,6 +13122,9 @@
     - author_fryz
     - story_43782869
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 22
   publishedAt: '2025-04-24T13:55:19Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -13254,6 +13340,9 @@
     - author_sharmasachin98
     - story_43627329
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 2
   publishedAt: '2025-04-08T23:04:16Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -13320,6 +13409,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-04-02T10:15:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -13362,6 +13452,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-03-27T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -13516,6 +13607,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-03-18T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -14264,6 +14356,7 @@
     - author_babyent
     - story_42697592
     - ask_hn
+    - llm
   score: 2
   publishedAt: '2025-01-14T14:28:18Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -14451,6 +14544,8 @@
     - author_ghoshbishakh
     - story_42347825
     - ask_hn
+    - agentic-ai
+    - llm
   score: 5
   publishedAt: '2024-12-07T07:02:32Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -14659,6 +14754,8 @@
     - author_liukidar
     - story_42174829
     - show_hn
+    - llm
+    - genai
   score: 457
   publishedAt: '2024-11-18T17:43:13Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -14799,6 +14896,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2024-10-10T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -15359,6 +15457,9 @@
     - author_skull8888888
     - story_41451698
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 203
   publishedAt: '2024-09-04T22:52:19Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -15644,6 +15745,8 @@
     - author_GalKlm
     - story_40985609
     - launch_hn
+    - llm
+    - genai
   score: 101
   publishedAt: '2024-07-17T13:19:03Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -15813,6 +15916,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2024-06-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -16955,6 +17059,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2023-12-14T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -17198,6 +17303,9 @@
     - author_yasmind
     - story_37753791
     - show_hn
+    - agentic-ai
+    - llm
+    - genai
   score: 55
   publishedAt: '2023-10-03T16:08:50Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -19001,6 +19109,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2019-09-17T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -19069,6 +19178,7 @@
     - genai
     - llm
     - openai
+    - azure
   score: 0
   publishedAt: '2019-07-22T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -20610,6 +20720,7 @@
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2017-03-15T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -20753,6 +20864,7 @@
     - genai
     - llm
     - openai
+    - azure
   score: 0
   publishedAt: '2016-11-15T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
