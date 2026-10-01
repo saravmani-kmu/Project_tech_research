@@ -1,0 +1,275 @@
+- id: arxiv-2609.40361v1
+  title: Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40361v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T17:59:56.000Z'
+- id: arxiv-2609.40360v1
+  title: Semifactual Credit-Augmented Policy Optimization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40360v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T17:59:56.000Z'
+- id: arxiv-2609.40340v1
+  title: 'EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40340v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T17:58:28.000Z'
+- id: arxiv-2609.40335v1
+  title: Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40335v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T17:57:43.000Z'
+- id: arxiv-2609.40303v1
+  title: How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40303v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T17:51:30.000Z'
+- id: arxiv-2609.40296v1
+  title: >-
+    Open Capacity Pooling in Agentic Supply Chains: Coordination-Directed LLM Discovery and
+    Distributed Re-optimization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40296v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T17:50:30.000Z'
+- id: arxiv-2609.40258v1
+  title: >-
+    Large Language Model-Guided Evolutionary Discovery of Native Neural Architectures for Spiking
+    Sequence Modeling
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40258v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T17:41:01.000Z'
+- id: arxiv-2609.40247v1
+  title: 'Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40247v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T17:36:45.000Z'
+- id: arxiv-2609.40241v1
+  title: 'Decision-Oriented Recommendation Reranking: An Empirical Study of Jev'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40241v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T17:33:43.000Z'
+- id: arxiv-2609.40143v1
+  title: 'From DNA Design to DNA Slimming: Auditable Agentic Discovery of a Deletion-Only Designer'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40143v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-09-30T16:51:23.000Z'
+- id: arxiv-2609.40124v1
+  title: 'Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40124v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T16:46:19.000Z'
+- id: arxiv-2609.40121v1
+  title: On the (In)effectiveness of AMR Augmentation for Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40121v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T16:45:14.000Z'
+- id: arxiv-2609.40119v1
+  title: Automatically Building Machine-Checked Assurance Cases from C Codebases to Requirements
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40119v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T16:44:34.000Z'
+- id: arxiv-2609.40103v1
+  title: 'JuryFlow: Disagreement-Guided Human-in-the-Loop Multi-Agent Evaluation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40103v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-09-30T16:36:04.000Z'
+- id: arxiv-2609.40079v1
+  title: 'LongEmo: Towards Emotion Understanding and Reasoning in Long Videos'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40079v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T16:27:25.000Z'
+- id: arxiv-2609.40069v1
+  title: >-
+    Conversational Capture: A Trajectory-Level Framework for Evaluating Generative Engine
+    Optimization in Multi-turn Human-Agent Interaction
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.40069v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T16:23:23.000Z'
+- id: arxiv-2609.39969v1
+  title: 'TACTIC: Temporal and Context-Aware LLM Tactical Planning for Roadside LiDAR Attacks'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39969v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T15:33:46.000Z'
+- id: arxiv-2609.39964v1
+  title: 'AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39964v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-09-30T15:31:29.000Z'
+- id: arxiv-2609.39953v1
+  title: >-
+    Learning to Reason with Compressed Context: Ground-Truth-Free Adaptation of OmniLLMs via
+    Self-Distillation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39953v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T15:24:57.000Z'
+- id: arxiv-2609.39913v1
+  title: 'The Concrete-Arbitrary Gap: Kinship Reasoning in LLMs Is Not Indifferent to Presentation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39913v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T15:06:20.000Z'
+- id: arxiv-2609.39902v1
+  title: >-
+    CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code
+    Completion
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39902v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T15:02:14.000Z'
+- id: arxiv-2609.39884v1
+  title: 'OPSRD: On-Policy Self-Role Distillation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39884v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T14:56:10.000Z'
+- id: arxiv-2609.39882v1
+  title: LLM Persona Unlearning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39882v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T14:55:52.000Z'
+- id: arxiv-2609.39863v1
+  title: 'FIGS: Evaluating Multi-Turn Sycophancy Without Penalizing Empathy'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39863v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-09-30T14:46:13.000Z'
+- id: arxiv-2609.39853v1
+  title: 'Cognitive Enhancement: Rethinking the Necessity of Role-Playing for Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2609.39853v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-09-30T14:42:03.000Z'
