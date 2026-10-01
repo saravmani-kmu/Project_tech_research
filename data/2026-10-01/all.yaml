@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 16672
+  score: 16688
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15268
+  score: 15269
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -65,7 +65,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14311
+  score: 14312
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -89,7 +89,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11565
+  score: 11566
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -155,7 +155,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8127
+  score: 8131
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -201,7 +201,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7078
+  score: 7081
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -357,7 +357,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6525
+  score: 6526
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -425,7 +425,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6153
+  score: 6155
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -448,7 +448,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6071
+  score: 6078
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -478,7 +478,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 5798
+  score: 5803
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -497,7 +497,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 5796
+  score: 5799
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -539,7 +539,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 5743
+  score: 5782
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -561,7 +561,7 @@
     - fp8
     - region:us
     - deploy:sagemaker
-  score: 5615
+  score: 5616
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -610,7 +610,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5335
+  score: 5336
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -639,7 +639,7 @@
     - deploy:sagemaker
     - deploy:azure
     - azure
-  score: 5159
+  score: 5168
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
   summary: text-generation
@@ -833,7 +833,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 4764
+  score: 4770
 - id: huggingface-space-enzostvs/deepsite
   title: enzostvs/deepsite
   summary: docker, region:us
@@ -893,7 +893,7 @@
   tags:
     - gradio
     - region:us
-  score: 9565
+  score: 9566
 - id: huggingface-space-mteb/leaderboard
   title: mteb/leaderboard
   summary: docker, leaderboard, region:us
@@ -904,7 +904,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7699
+  score: 7700
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -1050,7 +1050,7 @@
   tags:
     - gradio
     - region:us
-  score: 3491
+  score: 3493
 - id: huggingface-space-tencent/Hunyuan3D-2
   title: tencent/Hunyuan3D-2
   summary: gradio, region:us
@@ -1097,7 +1097,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3183
+  score: 3184
 - id: huggingface-space-mukaist/Midjourney
   title: mukaist/Midjourney
   summary: gradio, region:us
@@ -1117,7 +1117,7 @@
   tags:
     - gradio
     - region:us
-  score: 2981
+  score: 2982
 - id: arxiv-2609.40361v1
   title: Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis
   summary: ''
@@ -6821,6 +6821,55 @@
     - openai
   score: 0
   publishedAt: '2026-04-06T10:00:00.000Z'
+- id: hackernews-47621306
+  title: 'Show HN: Currant – Anonymus social media for NON-AI agents'
+  summary: >-
+    I was once having a bad day and wanted to ventillate about the peculiarities of corporate life.
+    Then I realised I don&#x27;t trust these sites. Neither my blog. I didn&#x27;t want to link
+    these though
+  details: >-
+    I was once having a bad day and wanted to ventillate about the peculiarities of corporate life.
+    Then I realised I don&#x27;t trust these sites. Neither my blog. I didn&#x27;t want to link
+    these thoughts to an account - my stream of thoughts. I also needed comfort from real human
+    beings - not gen AI bots. Don&#x27;t get me wrong I engineered&#x2F;hacked&#x2F;conjured? this
+    stuff together with the help of LLMs. I think gen AI CAN be a net positive. Yet, I don&#x27;t
+    want to interact with agents if they are being pushed on me. So I created Currant. This is
+    basically a wannabe feed of posts. What hopefully makes it a bit different are the following
+    things:
+
+    1) No accounts. You can create posts, comment without an identity. You can create hashtags, you
+    can write down your phone number and address if you want, but you&#x27;re not pushed to do that.
+    You can prevent others to comment if you wish.
+
+    2) Proof-of-work AI&#x2F;ripoff detection. Currant uses a WYSWYG text editor that records
+    everyhting you do in that hundred by hundred pixel area - what you paste, how fast you type, how
+    you format your content - and stores it in a hashed logfile. It can be replayed by anyone. :) If
+    the detector thinks you&#x27;re an AI your content will be rejected. Will it prevent AI use
+    alltogether? No. But hopefully it will throttle it. Will it produce some false positives?
+    Absolutely. You might wonder - isn&#x27;t this against the anonym thingy? Well, in theory I can
+    imagine that some sort of profile could be built based on all the content you have ever typed.
+    But it&#x27;s still not a cookie that sends all your click data to 87565 &quot;trusted&quot;
+    partners.
+
+    3) Content expiry. By default everything you post will be deleted after 1 month. You can set it
+    to 1 hour, 1 day ... or never. But if you don&#x27;t want, the site will not store your
+    manifested thoughts forever.
+
+    4) Customisation. It&#x27;s a bit silly, but you have control over several stylistic things
+    about your post - background colors, gradients, border radius. Maybe useless but style can be a
+    vehicle to express your feelings and identity.<p>It&#x27;s an experiment and I really appreciate
+    if you give it a chance! &lt;3<p>Ps.: If you do try it and have any feedback or suggestion you
+    can use the &quot;Contact&quot; submenu. The software currently has 68% statement coverage.
+  url: https://currantfeed.cc
+  source: hackernews
+  tags:
+    - author_PAndreew
+    - story_47621306
+    - show_hn
+    - agentic-ai
+    - llm
+  score: 4
+  publishedAt: '2026-04-02T23:00:37Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI acquires TBPN
   summary: >-
@@ -17238,6 +17287,56 @@
     - openai
   score: 0
   publishedAt: '2023-10-11T07:00:00.000Z'
+- id: hackernews-37753791
+  title: 'Show HN: Wild Moose – Autonomous agent for production debugging'
+  summary: >-
+    Hi Hacker News! We launched an autonomous agent that helps debug production issues, and we’re
+    curious to get your feedback.<p>Today&#x27;s GenAI devtools, such as Copilot, are limited: they
+    are great 
+  details: >-
+    Hi Hacker News! We launched an autonomous agent that helps debug production issues, and we’re
+    curious to get your feedback.<p>Today&#x27;s GenAI devtools, such as Copilot, are limited: they
+    are great for writing code, but we all know that programming is only 20% coding, and 80%
+    debugging.<p>So how can GenAI be used for debugging? As opposed to code completion or test
+    automation, production debugging is not about generating text. Debugging is mostly about
+    root-cause analysis. We realized two things:<p>1) Generative AI is drastically changing the way
+    we work with data, thanks to its ability to not only generate queries, but also run code and
+    analyze unstructured data. This enables building better data-exploration experiences with far
+    more intuitive interfaces.<p>2) RCA is all about exploring different types of data. When you
+    don’t know why a transaction was dropped or which customers are affected – you explore metrics,
+    logs, your code, other people’s code, old slack messages, and whatnot, to figure out what’s
+    broken.<p>Putting those two together, we built an autonomous agent that helps debug production
+    issues. Our LLM &quot;moose&quot; (ok, it&#x27;s corny but we like it) connects to your logs,
+    metrics, and other observability data, and lets you extract and analyze them by conversing with
+    it. Once it gets a task, it will start reasoning, invoking APIs, and running code, until it
+    comes back with an answer.<p>For example, when requested to “show me IDs of transactions that
+    took over 1 minute today”, it will fetch those transactions from Datadog for you. You might then
+    ask it if long-running transactions correlate with a metric such as DB CPU load. It will fetch
+    the metric values, visualize them on a graph alongside the long transaction frequency, and give
+    you the answer.<p>Our software both runs code and invokes API calls; the interplay between these
+    is nontrivial to design and a fertile ground for innovation. There are “textbook” solutions to
+    let agents write and run code (open sourced by, for example, Open Interpreter), and also to
+    invoke tools&#x2F;APIs (for example, Gorilla). But doing both together is harder, and yet
+    required. We welcome your thoughts on this!<p>Try our tool with your Datadog’s logs and metrics
+    &gt;&gt; <a
+    href="https:&#x2F;&#x2F;app.wildmoose.ai&#x2F;slack&#x2F;install">https:&#x2F;&#x2F;app.wildmoose.ai&#x2F;slack&#x2F;install</a><p>Setup
+    demo &gt;&gt; <a
+    href="https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;9a4adc39806742c48d14cdd39da6e560?sid=3d518e11-64b3-4139-82fd-451a3f055940"
+    rel="nofollow
+    noreferrer">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;9a4adc39806742c48d14cdd39da6e560?...</a><p>If
+    you want to see other integrations, or have ideas for features, or you’ve spotted behaviors that
+    seem off - we’d love to hear. Hit us up in the comments!
+  url: https://www.wildmoose.ai/
+  source: hackernews
+  tags:
+    - author_yasmind
+    - story_37753791
+    - show_hn
+    - agentic-ai
+    - llm
+    - genai
+  score: 55
+  publishedAt: '2023-10-03T16:08:50Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: DALL·E 3 system card
   summary: ''
