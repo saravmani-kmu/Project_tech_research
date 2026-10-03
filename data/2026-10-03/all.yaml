@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 16813
+  score: 16833
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15304
+  score: 15310
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -65,7 +65,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14313
+  score: 14314
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -89,7 +89,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11577
+  score: 11580
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -155,7 +155,27 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8157
+  score: 8159
+- id: huggingface-model-hexgrad/Kokoro-82M
+  title: hexgrad/Kokoro-82M
+  summary: text-to-speech
+  details: >-
+    Model · text-to-speech, en, arxiv:2306.07691, arxiv:2203.02395,
+    base_model:yl4579/StyleTTS2-LJSpeech, base_model:finetune:yl4579/StyleTTS2-LJSpeech,
+    doi:10.57967/hf/4329, license:apache-2.0, region:us
+  url: https://huggingface.co/hexgrad/Kokoro-82M
+  source: huggingface
+  tags:
+    - text-to-speech
+    - en
+    - arxiv:2306.07691
+    - arxiv:2203.02395
+    - base_model:yl4579/StyleTTS2-LJSpeech
+    - base_model:finetune:yl4579/StyleTTS2-LJSpeech
+    - doi:10.57967/hf/4329
+    - license:apache-2.0
+    - region:us
+  score: 7107
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -180,26 +200,6 @@
     - license:creativeml-openrail-m
     - endpoints_compatible
     - diffusers:StableDiffusionPipeline
-    - region:us
-  score: 7105
-- id: huggingface-model-hexgrad/Kokoro-82M
-  title: hexgrad/Kokoro-82M
-  summary: text-to-speech
-  details: >-
-    Model · text-to-speech, en, arxiv:2306.07691, arxiv:2203.02395,
-    base_model:yl4579/StyleTTS2-LJSpeech, base_model:finetune:yl4579/StyleTTS2-LJSpeech,
-    doi:10.57967/hf/4329, license:apache-2.0, region:us
-  url: https://huggingface.co/hexgrad/Kokoro-82M
-  source: huggingface
-  tags:
-    - text-to-speech
-    - en
-    - arxiv:2306.07691
-    - arxiv:2203.02395
-    - base_model:yl4579/StyleTTS2-LJSpeech
-    - base_model:finetune:yl4579/StyleTTS2-LJSpeech
-    - doi:10.57967/hf/4329
-    - license:apache-2.0
     - region:us
   score: 7105
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
@@ -357,7 +357,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6535
+  score: 6537
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -425,7 +425,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6163
+  score: 6165
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -448,7 +448,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6096
+  score: 6099
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -490,26 +490,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 6006
-- id: huggingface-model-Qwen/Qwen3.8-Flash-Next
-  title: Qwen/Qwen3.8-Flash-Next
-  summary: image-text-to-text
-  details: >-
-    Model · transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other,
-    eval-results, endpoints_compatible, region:us
-  url: https://huggingface.co/Qwen/Qwen3.8-Flash-Next
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - qwen4_exp
-    - image-text-to-text
-    - conversational
-    - license:other
-    - eval-results
-    - endpoints_compatible
-    - region:us
-  score: 5844
+  score: 6045
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -539,7 +520,26 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 5843
+  score: 5850
+- id: huggingface-model-Qwen/Qwen3.8-Flash-Next
+  title: Qwen/Qwen3.8-Flash-Next
+  summary: image-text-to-text
+  details: >-
+    Model · transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other,
+    eval-results, endpoints_compatible, region:us
+  url: https://huggingface.co/Qwen/Qwen3.8-Flash-Next
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - qwen4_exp
+    - image-text-to-text
+    - conversational
+    - license:other
+    - eval-results
+    - endpoints_compatible
+    - region:us
+  score: 5849
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -583,7 +583,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5397
+  score: 5398
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
   summary: text-generation
@@ -610,7 +610,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5343
+  score: 5347
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -639,7 +639,7 @@
     - deploy:sagemaker
     - deploy:azure
     - azure
-  score: 5185
+  score: 5189
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
   summary: text-generation
@@ -689,7 +689,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5118
+  score: 5122
 - id: huggingface-model-bigscience/bloom
   title: bigscience/bloom
   summary: text-generation
@@ -785,7 +785,7 @@
     - arxiv:2403.03206
     - license:other
     - region:us
-  score: 5057
+  score: 5058
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -813,7 +813,7 @@
     - license:apache-2.0
     - endpoints_compatible
     - region:us
-  score: 5009
+  score: 5026
 - id: huggingface-model-meta-llama/Llama-2-7b-chat-hf
   title: meta-llama/Llama-2-7b-chat-hf
   summary: text-generation
@@ -880,7 +880,7 @@
   tags:
     - docker
     - region:us
-  score: 11291
+  score: 11292
 - id: huggingface-space-Kwai-Kolors/Kolors-Virtual-Try-On
   title: Kwai-Kolors/Kolors-Virtual-Try-On
   summary: gradio, region:us
@@ -890,7 +890,7 @@
   tags:
     - gradio
     - region:us
-  score: 10198
+  score: 10199
 - id: huggingface-space-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: gradio, region:us
@@ -900,7 +900,7 @@
   tags:
     - gradio
     - region:us
-  score: 9567
+  score: 9568
 - id: huggingface-space-mteb/leaderboard
   title: mteb/leaderboard
   summary: docker, leaderboard, region:us
@@ -1047,7 +1047,7 @@
   tags:
     - gradio
     - region:us
-  score: 3650
+  score: 3651
 - id: huggingface-space-hexgrad/Kokoro-TTS
   title: hexgrad/Kokoro-TTS
   summary: gradio, region:us
@@ -1057,7 +1057,7 @@
   tags:
     - gradio
     - region:us
-  score: 3497
+  score: 3498
 - id: huggingface-space-tencent/Hunyuan3D-2
   title: tencent/Hunyuan3D-2
   summary: gradio, region:us
@@ -1083,7 +1083,7 @@
     - scientific paper
     - data visualization
     - region:us
-  score: 3316
+  score: 3317
 - id: huggingface-space-akhaliq/anycoder
   title: akhaliq/anycoder
   summary: docker, region:us
@@ -1104,7 +1104,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3192
+  score: 3193
 - id: huggingface-space-mukaist/Midjourney
   title: mukaist/Midjourney
   summary: gradio, region:us
@@ -3729,40 +3729,6 @@
     - openai
   score: 0
   publishedAt: '2026-07-23T00:00:00.000Z'
-- id: hackernews-49011806
-  title: 'Show HN: Millwright – Rust-based, self-hosted LLM router'
-  summary: >-
-    Hey HN,<p>With the news of OpenRouter possibly being acquired and proliferation of hosted LLM
-    routers (i.e. Ramp Router, Vercel’s AI Gateway), I saw the need for a self hosted solution
-    focused on cost
-  details: >-
-    Hey HN,<p>With the news of OpenRouter possibly being acquired and proliferation of hosted LLM
-    routers (i.e. Ramp Router, Vercel’s AI Gateway), I saw the need for a self hosted solution
-    focused on cost savings, transparency, and performance. So, I built an open sourced router with
-    a simple CLI interface that can easily sit between coding agents and GenAI workloads.<p>For the
-    curious and lazy, at the moment, Millwright has the tools for,<p>- Providers: OpenAI-compatible
-    APIs, Anthropic, Amazon Bedrock<p>- Routing: policy-controlled model roles (cheap, mid,
-    frontier), cheapest healthy route selection<p>- Protocols: OpenAI Chat Completions, Anthropic
-    Messages, text and tool translation<p>- Cache Affinity: role-scoped session lanes without
-    serializing concurrent agent traffic<p>- Spend Tracking: per-team costs, cache usage,
-    model&#x2F;provider mix, request traces<p>- Cost Analysis: measured usage and modeled candidate
-    economics (HTML, Markdown, JSON)<p>- Reliability: bounded failover, circuit breakers, timeouts,
-    concurrency limits<p>- Setup: interactive provider, model, and pricing configuration without
-    storing provider secrets<p>- Deployment: one Rust binary, Docker, SQLite or PostgreSQL<p>Full
-    disclosure: parts of the codebase were built with AI coding agents. All feedback is welcome, I’d
-    especially value feedback on the routing policy, provider coverage, and anything that would
-    block you from self-hosting it. Feel free to open feature&#x2F;request and&#x2F;or contribute as
-    well.
-  url: https://github.com/Northwood-Systems/millwright
-  source: hackernews
-  tags:
-    - author_AndrewLiu96
-    - story_49011806
-    - show_hn
-    - llm
-    - genai
-  score: 10
-  publishedAt: '2026-07-22T19:03:50Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Building AI infrastructure with the Effingham County community
   summary: >-
@@ -6913,55 +6879,6 @@
     - openai
   score: 0
   publishedAt: '2026-04-06T10:00:00.000Z'
-- id: hackernews-47621306
-  title: 'Show HN: Currant – Anonymus social media for NON-AI agents'
-  summary: >-
-    I was once having a bad day and wanted to ventillate about the peculiarities of corporate life.
-    Then I realised I don&#x27;t trust these sites. Neither my blog. I didn&#x27;t want to link
-    these though
-  details: >-
-    I was once having a bad day and wanted to ventillate about the peculiarities of corporate life.
-    Then I realised I don&#x27;t trust these sites. Neither my blog. I didn&#x27;t want to link
-    these thoughts to an account - my stream of thoughts. I also needed comfort from real human
-    beings - not gen AI bots. Don&#x27;t get me wrong I engineered&#x2F;hacked&#x2F;conjured? this
-    stuff together with the help of LLMs. I think gen AI CAN be a net positive. Yet, I don&#x27;t
-    want to interact with agents if they are being pushed on me. So I created Currant. This is
-    basically a wannabe feed of posts. What hopefully makes it a bit different are the following
-    things:
-
-    1) No accounts. You can create posts, comment without an identity. You can create hashtags, you
-    can write down your phone number and address if you want, but you&#x27;re not pushed to do that.
-    You can prevent others to comment if you wish.
-
-    2) Proof-of-work AI&#x2F;ripoff detection. Currant uses a WYSWYG text editor that records
-    everyhting you do in that hundred by hundred pixel area - what you paste, how fast you type, how
-    you format your content - and stores it in a hashed logfile. It can be replayed by anyone. :) If
-    the detector thinks you&#x27;re an AI your content will be rejected. Will it prevent AI use
-    alltogether? No. But hopefully it will throttle it. Will it produce some false positives?
-    Absolutely. You might wonder - isn&#x27;t this against the anonym thingy? Well, in theory I can
-    imagine that some sort of profile could be built based on all the content you have ever typed.
-    But it&#x27;s still not a cookie that sends all your click data to 87565 &quot;trusted&quot;
-    partners.
-
-    3) Content expiry. By default everything you post will be deleted after 1 month. You can set it
-    to 1 hour, 1 day ... or never. But if you don&#x27;t want, the site will not store your
-    manifested thoughts forever.
-
-    4) Customisation. It&#x27;s a bit silly, but you have control over several stylistic things
-    about your post - background colors, gradients, border radius. Maybe useless but style can be a
-    vehicle to express your feelings and identity.<p>It&#x27;s an experiment and I really appreciate
-    if you give it a chance! &lt;3<p>Ps.: If you do try it and have any feedback or suggestion you
-    can use the &quot;Contact&quot; submenu. The software currently has 68% statement coverage.
-  url: https://currantfeed.cc
-  source: hackernews
-  tags:
-    - author_PAndreew
-    - story_47621306
-    - show_hn
-    - agentic-ai
-    - llm
-  score: 4
-  publishedAt: '2026-04-02T23:00:37Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI acquires TBPN
   summary: >-
@@ -7744,55 +7661,6 @@
     - openai
   score: 0
   publishedAt: '2026-02-25T00:00:00.000Z'
-- id: hackernews-47138618
-  title: 'Show HN: Neuron – Independent Rust crates for building AI agents'
-  summary: >-
-    The core of every agent framework is the same ReAct loop. It&#x27;s commodity code. What
-    actually matters is everything around that loop — how you manage context windows, how you
-    pipeline tool executi
-  details: >-
-    The core of every agent framework is the same ReAct loop. It&#x27;s commodity code. What
-    actually matters is everything around that loop — how you manage context windows, how you
-    pipeline tool execution, how you handle durability and replay. These are hard problems with real
-    design trade-offs, and yet every framework bundles them into one monolith where you buy all of
-    it or none of it.<p>neuron is the layer below frameworks. It defines trait boundaries —
-    `Provider`, `Tool`, `ContextStrategy` — and ships working implementations of each as independent
-    crates. You get four context compaction strategies without pulling a single provider. You get
-    the Anthropic provider without the tool registry. You get MCP support without the agent loop.
-    The analogy is `serde` and `serde_json`: one crate defines the traits, the others implement
-    them, and you compose what you need.<p>v0.3 is 12 crates. Three providers (Anthropic, OpenAI,
-    Ollama), composable tool middleware with a `#[neuron_tool]` proc macro, four context compaction
-    strategies, an agent loop with cancellation and parallel tool execution, full MCP support across
-    both stdio and Streamable HTTP, sessions, guardrails with sandboxing and permission policies,
-    and a dedicated OpenTelemetry crate following the GenAI semantic conventions. Rust 2024 edition,
-    native async traits.<p>Adding a provider is adding a crate. The existing provider crates serve
-    as templates — implement the `Provider` trait from `neuron-types`, wire up streaming, and you
-    have a first-class citizen in the ecosystem. The same goes for context strategies, tool
-    middleware, and session backends. More provider and integration crates are on the roadmap, but
-    the architecture is specifically designed so that you or your agent can add them without waiting
-    on me.<p>That last point is deliberate. The repo ships with `CLAUDE.md`, `llms.txt`, and
-    architecture docs written to be machine-readable. An LLM agent can pull the codebase, understand
-    the trait boundaries, and start building against them. If you&#x27;re using Claude Code or
-    similar tools to scaffold new integrations, neuron is optimized for that workflow.<p>Looking for
-    feedback on the crate boundaries and API surface. The docs site walks through the reasoning
-    behind specific trade-offs — why axum-style middleware instead of tower, why `DurableContext`
-    wraps side effects rather than observing them, why the flat `Message` struct instead of
-    variant-per-role.<p>Repo: <a href="https:&#x2F;&#x2F;github.com&#x2F;SecBear&#x2F;neuron"
-    rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;SecBear&#x2F;neuron</a>
-
-    Crates: <a href="https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;neuron"
-    rel="nofollow">https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;neuron</a>
-  url: https://secbear.github.io/neuron/
-  source: hackernews
-  tags:
-    - author_secbear
-    - story_47138618
-    - show_hn
-    - agentic-ai
-    - llm
-    - genai
-  score: 1
-  publishedAt: '2026-02-24T15:49:56Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Arvind KC appointed Chief People Officer
   summary: >-
@@ -13127,81 +12995,6 @@
     - openai
   score: 0
   publishedAt: '2025-04-29T18:00:00.000Z'
-- id: hackernews-43812336
-  title: 'Show HN: Mirror AI – LLM agent that takes action, not just chat'
-  summary: >-
-    Hi HN,<p>TL;DR  Mirror AI is a cross-platform desktop <i>action oriented LLM</i>.  
-
-    Instead of just replying with text, it can run terminal commands, move files, hit APIs, send
-    email&#x2F;messages, sc
-  details: >-
-    Hi HN,<p>TL;DR  Mirror AI is a cross-platform desktop <i>action oriented LLM</i>.  
-
-    Instead of just replying with text, it can run terminal commands, move files, hit APIs, send
-    email&#x2F;messages, schedule calendar events, query databases etc. - and chain those steps in
-    one request.<p>Why I built it  
-
-    Chatbots are great for answers but stop at the “OK, now go do it” moment.  
-
-    I was copy-pasting between ChatGPT and my shell&#x2F;IDE&#x2F;Gmail far too often, so on red-eye
-    flights I hacked a bridge that lets an LLM execute tasks under a permission layer. Friends asked
-    for it, feature-creep happened, and here we are.<p>What it can do today  
-
-    - Files &amp; Shell – read&#x2F;write&#x2F;rename&#x2F;compress&#x2F;execute files, run shell
-    commands  
-
-    - Productivity – draft + send Gmail, create Google Calendar events, read&#x2F;write Notion, post
-    to Slack&#x2F;Discord&#x2F;WhatsApp (via Beeper)  
-
-    - Dev&#x2F;Ops – query Postgres&#x2F;Mongo, interact with GitHub, call AWS, curl any REST
-    endpoint  
-
-    - Search&#x2F;GenAI – web search (Perplexity), summarise PDFs, generate images&#x2F;video, keep
-    long-term memory
-
-    - Extensible via MCP (Modular Command Protocol) to add your own skills
-
-    - And a lot more<p>Example prompt after you have added a few integrations
-    (copy-paste):<p><pre><code>  Search Reddit for discussion on LangChain streaming, summarise it,
-    email me the summary, and block 30 min in Calendar tomorrow.
-      
-      OR
-
-      Investigate my AWS account and tell me how to easily save money. Also check my MongoDB and make some proposition to optimize it.
-
-    </code></pre>
-
-    How it works  
-
-    - Desktop app (macOS, Windows, Linux) written in TS  
-
-    - No SaaS backend: everything runs locally; outbound calls only hit the model provider you
-    configure (OpenAI, Claude, local Ollama, etc.)  
-
-    - Safety: every risky actions require approval from the user<p>Status &amp; roadmap  
-
-    - Free alpha download: <a href="https:&#x2F;&#x2F;themirrorai.com"
-    rel="nofollow">https:&#x2F;&#x2F;themirrorai.com</a>  (bring your own API keys)  
-
-    - Planning to open-source core in the coming months after tidying up if there is enough interest
-
-    - Up next: improved working memory, event-driven triggers for autonomous responses, and expanded
-    integrations.<p>Ask  
-
-    Kick the tires, try weird edge-cases, look for security holes, and tell me what hurts or what
-    you wish it did. I will be in the thread checking the comments.<p>Thanks!  
-
-    Sat
-  url: https://themirrorai.com
-  source: hackernews
-  tags:
-    - author_sat13
-    - story_43812336
-    - show_hn
-    - llm
-    - genai
-  score: 5
-  publishedAt: '2025-04-27T14:47:49Z'
 - id: hackernews-43782869
   title: 'Show HN: High-performance GenAI engine now open source'
   summary: >-
@@ -13422,50 +13215,6 @@
     - openai
   score: 0
   publishedAt: '2025-04-09T10:00:00.000Z'
-- id: hackernews-43627329
-  title: 'Show HN: Dapto – AI Prompt and Response Firewall for Enterprises'
-  summary: >-
-    Hi HN,
-
-    We’ve been working on a problem we kept seeing in enterprise GenAI rollouts:<p>As tools like
-    GPT, Claude, and Gemini get embedded into dashboards, support tools, and business systems, most
-    orga
-  details: >-
-    Hi HN,
-
-    We’ve been working on a problem we kept seeing in enterprise GenAI rollouts:<p>As tools like
-    GPT, Claude, and Gemini get embedded into dashboards, support tools, and business systems, most
-    organizations have no control or context over what the AI sees, says, or shares.<p>That creates
-    serious risks:
-     - Hallucinated answers
-     - Prompt injection attacks
-     - Data and PII exposure
-     - Industry compliance violations (e.g. HIPAA, SOC2, GDPR)<p>So we built Dapto ,  an enterprise-grade trust layer designed for companies that want to deploy GenAI safely, at scale, and with full governance.<p>See it in action - <a href="https:&#x2F;&#x2F;youtu.be&#x2F;dxFb7Q12gcw" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;dxFb7Q12gcw</a><p>Here’s how it works:
-     - Validates prompts before they hit the LLM - catching jailbreaks, injections, and 
-       policy violations
-     - Checks AI responses before they reach the user - to prevent hallucinations or 
-       unauthorized content
-     - Auto-generates real-time metadata context from the input prompt
-     - Then re-verifies the AI’s response against enterprise data before it’s shown
-     - Detects and masks sensitive data (PII, financials, health info) as needed
-     - Keeps full logs, audit trails, and risk scoring, without changing your model or 
-       app<p>But here&#x27;s what makes it different:<p>We use a multi-agent architecture with:
-     - Vertical-specific AI agents (Finance, Healthcare, Legal, etc.) that understand 
-       the unique compliance and domain context of your industry
-     - Horizontal supporting agents that handle metadata, hallucination detection, 
-       policy enforcement, and data verification<p>You can build your own AI agents inside Dapto, with all safety and governance layers baked in.<p>It works out of the box with OpenAI, Claude, Gemini, Ollama, LangChain, and self-hosted models.<p>We’d love feedback, especially from folks building with LLMs in regulated or complex domains.<p>What are you using today for guardrails? Would this plug-in approach fit into your stack?<p>Thanks for reading.
-    www.dapto.ai
-  url: https://dapto.ai
-  source: hackernews
-  tags:
-    - author_sharmasachin98
-    - story_43627329
-    - show_hn
-    - agentic-ai
-    - llm
-    - genai
-  score: 2
-  publishedAt: '2025-04-08T23:04:16Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI’s EU Economic Blueprint
   summary: >-
@@ -14441,45 +14190,6 @@
     - openai
   score: 0
   publishedAt: '2025-01-15T03:00:00.000Z'
-- id: hackernews-42697592
-  title: 'Ask HN: Continue with SaaS type platform, or pursue AI?'
-  summary: >-
-    I&#x27;m building a collaborative platform for improving sanity (efficiency) when working on
-    complex projects, and with all the AI hype I spent some time diving into LLMs, agents, etc.<p>My
-    key takeaw
-  details: >-
-    I&#x27;m building a collaborative platform for improving sanity (efficiency) when working on
-    complex projects, and with all the AI hype I spent some time diving into LLMs, agents, etc.<p>My
-    key takeaway after spending a couple months on it is that inaccuracy is really the biggest
-    killer.<p>Here are some key takeaways after talking to some people as well as doing my own
-    projects:<p>1. 1hr meeting&#x27;s AI gen minutes (zoom&#x2F;teams&#x2F;etc). It makes a dozen or
-    so points but some of them are not relevant to the meeting at all, and some folks have heavy
-    accents and their input is mostly incorrectly captured. Folks ended up just using manual minutes
-    again because these are important for their workflow.<p>2. Creating embeddings of
-    files&#x2F;documentation&#x2F;messages&#x2F;etc and then searching on them seems to work well.
-    For the most part, it seems these can be 60-80% accurate because the alternative is even worse
-    (try searching a huge slack for a file, or even software made for file management). However,
-    when it doesn&#x27;t work, it is really bad because I get wildly unrelated results.<p>3. Not
-    very accurate for anything involving calculations or open ended questions about numeric data,
-    granted this is a known limitation. Creating a graph or something like that? Sure. Asking it
-    about those figures or trying to derive some additional information seems to be hit or
-    miss.<p>So I&#x27;m a little stuck. I feel like if I stick with a SaaS platform, it won&#x27;t
-    be appealing in the current landscape where everyone is hammering AI into their products.
-    Personally I find most of the gen AI not that useful - like when I open up a project management
-    tool and the description box has an AI button.<p>NL input seems to instill a sense of false
-    confidence - I will get what I ask. But when it doesn&#x27;t work, especially after effort
-    placed into the prompt, people just revert to the vanilla experience.<p>So what am I missing? Am
-    I just thinking the wrong way? Maybe I just suck at setting vision for the future based on my
-    own experience with these tools.<p>Any thoughts would be helpful. Thanks!
-  url: https://news.ycombinator.com/item?id=42697592
-  source: hackernews
-  tags:
-    - author_babyent
-    - story_42697592
-    - ask_hn
-    - llm
-  score: 2
-  publishedAt: '2025-01-14T14:28:18Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Adebayo Ogunlesi joins OpenAI’s Board of Directors
   summary: Adebayo Ogunlesi Joins OpenAI’s Board of Directors
@@ -14643,32 +14353,6 @@
     - openai
   score: 0
   publishedAt: '2024-12-09T00:00:00.000Z'
-- id: hackernews-42347825
-  title: 'Ask HN: What will happen to social media?'
-  summary: >-
-    With the incoming AI agents, I am pretty sure social media teams will be run mostly by these LLM
-    bots. I am already observing accounts replying to every post on my feed.<p>Soon social media is
-    going t
-  details: >-
-    With the incoming AI agents, I am pretty sure social media teams will be run mostly by these LLM
-    bots. I am already observing accounts replying to every post on my feed.<p>Soon social media is
-    going to be filled with bots posting content, and other bots commenting, re-sharing, and
-    upvoting content. Quora already has an &quot;Assistant&quot; answering each and every
-    question.<p>I am sure I will not stick around to scroll through such AI generated
-    content.<p>With image generation models, even instagram is not going to be spared it seems.
-    However, I am optimistic that video still has time. Most popular video contents usually have a
-    human element with some presenter or subject doing or saying something interesting which is
-    still hard using gen AI.
-  url: https://news.ycombinator.com/item?id=42347825
-  source: hackernews
-  tags:
-    - author_ghoshbishakh
-    - story_42347825
-    - ask_hn
-    - agentic-ai
-    - llm
-  score: 5
-  publishedAt: '2024-12-07T07:02:32Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing ChatGPT Pro
   summary: Broadening usage of frontier AI
@@ -14767,118 +14451,6 @@
     - openai
   score: 0
   publishedAt: '2024-11-19T07:00:00.000Z'
-- id: hackernews-42174829
-  title: 'Show HN: FastGraphRAG – Better RAG using good old PageRank'
-  summary: >-
-    Hey there HN! We’re Antonio, Luca, and Yuhang, and we’re excited to introduce Fast GraphRAG, an
-    open-source RAG approach that leverages knowledge graphs and the 25 years old PageRank for
-    better inform
-  details: >-
-    Hey there HN! We’re Antonio, Luca, and Yuhang, and we’re excited to introduce Fast GraphRAG, an
-    open-source RAG approach that leverages knowledge graphs and the 25 years old PageRank for
-    better information retrieval and reasoning.<p>Building a good RAG pipeline these days takes a
-    lot of manual optimizations. Most engineers intuitively start from naive RAG: throw everything
-    in a vector database and hope that semantic search is powerful enough. This can work for use
-    cases where accuracy isn’t too important and hallucinations are tolerable, but it doesn’t work
-    for more difficult queries that involve multi-hop reasoning or more advanced domain
-    understanding. Also, it’s impossible to debug it.<p>To address these limitations, many engineers
-    find themselves adding extra layers like agent-based preprocessing, custom embeddings, reranking
-    mechanisms, and hybrid search strategies. Much like the early days of machine learning when we
-    manually crafted feature vectors to squeeze out marginal gains, building an effective RAG system
-    often becomes an exercise in crafting engineering “hacks.”<p>Earlier this year, Microsoft seeded
-    the idea of using Knowledge Graphs for RAG and published GraphRAG - i.e. RAG with Knowledge
-    Graphs. We believe that there is an incredible potential in this idea, but existing
-    implementations are naive in the way they create and explore the graph. That’s why we developed
-    Fast GraphRAG with a new algorithmic approach using good old PageRank.<p>There are two main
-    challenges when building a reliable RAG system:<p>(1) Data Noise: Real-world data is often
-    messy. Customer support tickets, chat logs, and other conversational data can include a lot of
-    irrelevant information. If you push noisy data into a vector database, you’re likely to get
-    noisy results.<p>(2) Domain Specialization: For complex use cases, a RAG system must understand
-    the domain-specific context. This requires creating representations that capture not just the
-    words but the deeper relationships and structures within the data.<p>Our solution builds on
-    these insights by incorporating knowledge graphs into the RAG pipeline. Knowledge graphs store
-    entities and their relationships, and can help structure data in a way that enables more
-    accurate and context-aware information retrieval. 12 years ago Google announced the knowledge
-    graph we all know about [1]. It was a pioneering move. Now we have LLMs, meaning that people can
-    finally do RAG on their own data with tools that can be as powerful as Google’s original
-    idea.<p>Before we built this, Antonio was at Amazon, while Luca and Yuhang were finishing their
-    PhDs at Oxford. We had been thinking about this problem for years and we always loved the
-    parallel between pagerank and the human memory [2]. We believe that searching for memories is
-    incredibly similar to searching the web.<p>Here’s how it works:<p>- Entity and Relationship
-    Extraction: Fast GraphRAG uses LLMs to extract entities and their relationships from your data
-    and stores them in a graph format [3].<p>- Query Processing: When you make a query, Fast
-    GraphRAG starts by finding the most relevant entities using vector search, then runs a
-    personalized PageRank algorithm to determine the most important “memories” or pieces of
-    information related to the query [4].<p>- Incremental Updates: Unlike other graph-based RAG
-    systems, Fast GraphRAG natively supports incremental data insertions. This means you can
-    continuously add new data without reprocessing the entire graph.<p>- Faster: These design
-    choices make our algorithm faster and more affordable to run than other graph-based RAG systems
-    because we eliminate the need for communities and clustering.<p>Suppose you’re analyzing a book
-    and want to focus on character interactions, locations, and significant events:<p><pre><code> 
-    from fast_graphrag import GraphRAG
-      
-      DOMAIN = &quot;Analyze this story and identify the characters. Focus on how they interact with each other, the locations they explore, and their relationships.&quot;
-      
-      EXAMPLE_QUERIES = [
-          &quot;What is the significance of Christmas Eve in A Christmas Carol?&quot;,
-          &quot;How does the setting of Victorian London contribute to the story&#x27;s themes?&quot;,
-          &quot;Describe the chain of events that leads to Scrooge&#x27;s transformation.&quot;,
-          &quot;How does Dickens use the different spirits (Past, Present, and Future) to guide Scrooge?&quot;,
-          &quot;Why does Dickens choose to divide the story into \&quot;staves\&quot; rather than chapters?&quot;
-      ]
-      
-      ENTITY_TYPES = [&quot;Character&quot;, &quot;Animal&quot;, &quot;Place&quot;, &quot;Object&quot;, &quot;Activity&quot;, &quot;Event&quot;]
-      
-      grag = GraphRAG(
-          working_dir=&quot;.&#x2F;book_example&quot;,
-          domain=DOMAIN,
-          example_queries=&quot;\n&quot;.join(EXAMPLE_QUERIES),
-          entity_types=ENTITY_TYPES
-      )
-      
-      with open(&quot;.&#x2F;book.txt&quot;) as f:
-          grag.insert(f.read())
-      
-      print(grag.query(&quot;Who is Scrooge?&quot;).response)
-    </code></pre>
-
-    This code creates a domain-specific knowledge graph based on your data, example queries, and
-    specified entity types. Then you can query it in plain English while it automatically handles
-    all the data fetching, entity extractions, co-reference resolutions, memory elections, etc. When
-    you add new data, locking and checkpointing is handled for you as well.<p>This is the kind of
-    infrastructure that GenAI apps need to handle large-scale real-world data. Our goal is to give
-    you this infrastructure so that you can focus on what’s important: building great apps for your
-    users without having to care about manually engineering a retrieval pipeline. In the managed
-    service, we also have a suite of UI tools for you to explore and debug your knowledge
-    graph.<p>We have a free hosted solution with up to 100 monthly requests. When you’re ready to
-    grow, we have paid plans that scale with you. And of course you can self host our open-source
-    engine.<p>Give us a spin today at <a
-    href="https:&#x2F;&#x2F;circlemind.co">https:&#x2F;&#x2F;circlemind.co</a> and see our code at
-    <a
-    href="https:&#x2F;&#x2F;github.com&#x2F;circlemind-ai&#x2F;fast-graphrag">https:&#x2F;&#x2F;github.com&#x2F;circlemind-ai&#x2F;fast-graphrag</a><p>We’d
-    love feedback :)<p>[1] <a
-    href="https:&#x2F;&#x2F;blog.google&#x2F;products&#x2F;search&#x2F;introducing-knowledge-graph-things-not&#x2F;"
-    rel="nofollow">https:&#x2F;&#x2F;blog.google&#x2F;products&#x2F;search&#x2F;introducing-knowledge-gr...</a><p>[2]
-    Griffiths, T. L., Steyvers, M., &amp; Firl, A. (2007). Google and the Mind: Predicting Fluency
-    with PageRank. Psychological Science, 18(12), 1069–1076. <a
-    href="http:&#x2F;&#x2F;www.jstor.org&#x2F;stable&#x2F;40064705"
-    rel="nofollow">http:&#x2F;&#x2F;www.jstor.org&#x2F;stable&#x2F;40064705</a><p>[3] Similarly to
-    Microsoft’s GraphRAG: <a
-    href="https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;graphrag">https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;graphrag</a><p>[4]
-    Similarly to OSU’s HippoRAG: <a
-    href="https:&#x2F;&#x2F;github.com&#x2F;OSU-NLP-Group&#x2F;HippoRAG">https:&#x2F;&#x2F;github.com&#x2F;OSU-NLP-Group&#x2F;HippoRAG</a><p><a
-    href="https:&#x2F;&#x2F;vhs.charm.sh&#x2F;vhs-4fCicgsbsc7UX0pemOcsMp.gif"
-    rel="nofollow">https:&#x2F;&#x2F;vhs.charm.sh&#x2F;vhs-4fCicgsbsc7UX0pemOcsMp.gif</a>
-  url: https://github.com/circlemind-ai/fast-graphrag
-  source: hackernews
-  tags:
-    - author_liukidar
-    - story_42174829
-    - show_hn
-    - llm
-    - genai
-  score: 457
-  publishedAt: '2024-11-18T17:43:13Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI en France
   summary: Our first office in continental Europe
@@ -15528,61 +15100,6 @@
     - openai
   score: 0
   publishedAt: '2024-09-05T08:00:00.000Z'
-- id: hackernews-41451698
-  title: 'Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust'
-  summary: >-
-    Hey HN, we’re Robert, Din and Temirlan from Laminar (<a
-    href="https:&#x2F;&#x2F;www.lmnr.ai">https:&#x2F;&#x2F;www.lmnr.ai</a>), an open-source
-    observability and analytics platform for complex LLM app
-  details: >-
-    Hey HN, we’re Robert, Din and Temirlan from Laminar (<a
-    href="https:&#x2F;&#x2F;www.lmnr.ai">https:&#x2F;&#x2F;www.lmnr.ai</a>), an open-source
-    observability and analytics platform for complex LLM apps. It’s designed to be fast, reliable,
-    and scalable. The stack is RabbitMQ for message queues, Postgres for storage, Clickhouse for
-    analytics, Qdrant for semantic search - all powered by Rust.<p>How is Laminar different from the
-    swarm of other “LLM observability” platforms?<p>On the observability part, we’re focused on
-    handling full execution traces, not just LLM calls. We built a Rust ingestor for OpenTelemetry
-    (Otel) spans with GenAI semantic conventions. As LLM apps get more complex (think Agents with
-    hundreds of LLM and function calls, or complex RAG pipelines), full tracing is critical. With
-    Otel spans, we can: 1. Cover the entire execution trace. 2. Keep the platform future-proof 3.
-    Leverage an amazing OpenLLMetry (<a
-    href="https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry">https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry</a>),
-    open-source package for span production.<p>The key difference is that we tie text analytics
-    directly to execution traces. Rich text data makes LLM traces unique, so we let you track
-    “semantic metrics” (like what your AI agent is actually saying) and connect those metrics to
-    where they happen in the trace. If you want to know if your AI drive-through agent made an
-    upsell, you can design an LLM extraction pipeline in our builder (more on it later), host it on
-    Laminar, and handle everything from event requests to output logging. Processing requests simply
-    come as events in the Otel span.<p>We think it’s a win to separate core app logic from LLM event
-    processing. Most devs don’t want to manage background queues for LLM analytics processing but
-    still want insights into how their Agents or RAGs are working.<p>Our Pipeline Builder uses graph
-    UI where nodes are LLM and util functions, and edges showing data flow. We built a custom task
-    execution engine with support of parallel branch executions, cycles and branches (it’s overkill
-    for simple pipelines, but it’s extremely cool and we’ve spent a lot of time designing a robust
-    engine). You can also call pipelines directly as API endpoints. We found them to be extremely
-    useful for iterating on and separating LLM logic. Laminar also traces pipeline directly, which
-    removes the overhead of sending large outputs over the network.<p>One thing missing from all LLM
-    observability platforms right now is an adequate search over traces. We’re attacking this
-    problem by indexing each span in a vector DB and performing hybrid search at query time. This
-    feature is still in beta, but we think it’s gonna be crucial part of our platform going
-    forward.<p>We also support evaluations. We loved the “run everything locally, send results to a
-    server” approach from Braintrust and Weights &amp; Biases, so we did that too: a simple SDK and
-    nice dashboards to track everything. Evals are still early, but we’re pushing hard on
-    them.<p>Our goal is to make Laminar the Supabase for LLMOps - the go-to open-source
-    comprehensive platform for all things LLMs &#x2F; GenAI. In it’s current shape, Laminar is just
-    few weeks old and developing rapidly, we’d love any feedback or for you to give Laminar a try in
-    your LLM projects!
-  url: https://github.com/lmnr-ai/lmnr
-  source: hackernews
-  tags:
-    - author_skull8888888
-    - story_41451698
-    - show_hn
-    - agentic-ai
-    - llm
-    - genai
-  score: 203
-  publishedAt: '2024-09-04T22:52:19Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Personalizing education with ChatGPT
   summary: >-
@@ -15819,57 +15336,6 @@
     - openai
   score: 0
   publishedAt: '2024-07-18T00:00:00.000Z'
-- id: hackernews-40985609
-  title: 'Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry'
-  summary: >-
-    Hey everyone, we are Nir and Gal from Traceloop (<a
-    href="https:&#x2F;&#x2F;www.traceloop.com">https:&#x2F;&#x2F;www.traceloop.com</a>). We help
-    teams understand when their LLM apps are failing or hal
-  details: >-
-    Hey everyone, we are Nir and Gal from Traceloop (<a
-    href="https:&#x2F;&#x2F;www.traceloop.com">https:&#x2F;&#x2F;www.traceloop.com</a>). We help
-    teams understand when their LLM apps are failing or hallucinating at scale. See a demo: <a
-    href="https:&#x2F;&#x2F;www.traceloop.com&#x2F;video">https:&#x2F;&#x2F;www.traceloop.com&#x2F;video</a>
-    or try it yourself at <a
-    href="https:&#x2F;&#x2F;www.traceloop.com&#x2F;docs&#x2F;demo">https:&#x2F;&#x2F;www.traceloop.com&#x2F;docs&#x2F;demo</a>.<p>When
-    moving your LLM app to production, significant scale makes it harder for engineers and data
-    scientists alike to understand when their LLM is hallucinating or returning malformed responses.
-    When you get to millions of calls to OpenAI a month, methods like “LLM as a judge” can’t work at
-    a reasonable cost or latency. So, what most people we talked to usually do is sample some
-    generations by hand, maybe for some specific important customers, and manually look for errors
-    or hallucinations.<p>Traceloop is a monitoring platform that detects when your LLM app fails.
-    Under the hood, we built real-time versions of known metrics like faithfulness, relevancy,
-    redundancy, and many others. These are loosely based on some well-known NLP metrics that work
-    well for LLM-generated texts. We correlate them with changes we detect in your system - like
-    updates to prompts or to the model you’re using - to detect regressions automatically.<p>Here
-    are some cool examples we’ve seen with our customers -<p>1. Applying our QA relevancy metric to
-    an entity extraction task, we managed to discover issues where the model was not extracting the
-    right entities (like an address instead of a person’s name); or returning random answers like
-    “I’m here! What can I help you with today?”.<p>2. Our soft-faithfulness metric was able to
-    detect cases in summarization tasks where a model was completely making up stuff that never
-    appeared in the original text.<p>One of the challenges we faced was figuring out how to collect
-    the data that we need from our customers&#x27; LLM apps. That’s where OpenTelemetry came in
-    handy. We built OpenLLMetry (<a
-    href="https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry">https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry</a>),
-    and announced it here almost a year ago. It standardized the use of OpenTelemetry to observe LLM
-    apps. We realized that the concepts of traces, spans, metrics, and logs that were standardized
-    with OpenTelemetry can easily extend to gen AI. We partnered with 20+ observability platforms to
-    make sure that OpenLLMetry becomes the standard for GenAI observability and that the data that
-    we collect can be sent to other platforms as well.<p>We plan to extend the metrics we provide to
-    support agents that use tools, vision models, and other amazing developments in our fast-paced
-    industry.<p>We invite you to give Traceloop a spin and are eager for your feedback! How do you
-    track and debug hallucinations? How much has that been an issue for you? What types of
-    hallucinations have you encountered?
-  url: https://news.ycombinator.com/item?id=40985609
-  source: hackernews
-  tags:
-    - author_GalKlm
-    - story_40985609
-    - launch_hn
-    - llm
-    - genai
-  score: 101
-  publishedAt: '2024-07-17T13:19:03Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Prover-Verifier Games improve legibility of language model outputs
   summary: >-
@@ -17379,56 +16845,6 @@
     - openai
   score: 0
   publishedAt: '2023-10-11T07:00:00.000Z'
-- id: hackernews-37753791
-  title: 'Show HN: Wild Moose – Autonomous agent for production debugging'
-  summary: >-
-    Hi Hacker News! We launched an autonomous agent that helps debug production issues, and we’re
-    curious to get your feedback.<p>Today&#x27;s GenAI devtools, such as Copilot, are limited: they
-    are great 
-  details: >-
-    Hi Hacker News! We launched an autonomous agent that helps debug production issues, and we’re
-    curious to get your feedback.<p>Today&#x27;s GenAI devtools, such as Copilot, are limited: they
-    are great for writing code, but we all know that programming is only 20% coding, and 80%
-    debugging.<p>So how can GenAI be used for debugging? As opposed to code completion or test
-    automation, production debugging is not about generating text. Debugging is mostly about
-    root-cause analysis. We realized two things:<p>1) Generative AI is drastically changing the way
-    we work with data, thanks to its ability to not only generate queries, but also run code and
-    analyze unstructured data. This enables building better data-exploration experiences with far
-    more intuitive interfaces.<p>2) RCA is all about exploring different types of data. When you
-    don’t know why a transaction was dropped or which customers are affected – you explore metrics,
-    logs, your code, other people’s code, old slack messages, and whatnot, to figure out what’s
-    broken.<p>Putting those two together, we built an autonomous agent that helps debug production
-    issues. Our LLM &quot;moose&quot; (ok, it&#x27;s corny but we like it) connects to your logs,
-    metrics, and other observability data, and lets you extract and analyze them by conversing with
-    it. Once it gets a task, it will start reasoning, invoking APIs, and running code, until it
-    comes back with an answer.<p>For example, when requested to “show me IDs of transactions that
-    took over 1 minute today”, it will fetch those transactions from Datadog for you. You might then
-    ask it if long-running transactions correlate with a metric such as DB CPU load. It will fetch
-    the metric values, visualize them on a graph alongside the long transaction frequency, and give
-    you the answer.<p>Our software both runs code and invokes API calls; the interplay between these
-    is nontrivial to design and a fertile ground for innovation. There are “textbook” solutions to
-    let agents write and run code (open sourced by, for example, Open Interpreter), and also to
-    invoke tools&#x2F;APIs (for example, Gorilla). But doing both together is harder, and yet
-    required. We welcome your thoughts on this!<p>Try our tool with your Datadog’s logs and metrics
-    &gt;&gt; <a
-    href="https:&#x2F;&#x2F;app.wildmoose.ai&#x2F;slack&#x2F;install">https:&#x2F;&#x2F;app.wildmoose.ai&#x2F;slack&#x2F;install</a><p>Setup
-    demo &gt;&gt; <a
-    href="https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;9a4adc39806742c48d14cdd39da6e560?sid=3d518e11-64b3-4139-82fd-451a3f055940"
-    rel="nofollow
-    noreferrer">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;9a4adc39806742c48d14cdd39da6e560?...</a><p>If
-    you want to see other integrations, or have ideas for features, or you’ve spotted behaviors that
-    seem off - we’d love to hear. Hit us up in the comments!
-  url: https://www.wildmoose.ai/
-  source: hackernews
-  tags:
-    - author_yasmind
-    - story_37753791
-    - show_hn
-    - agentic-ai
-    - llm
-    - genai
-  score: 55
-  publishedAt: '2023-10-03T16:08:50Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: DALL·E 3 system card
   summary: ''
