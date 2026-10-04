@@ -1,0 +1,280 @@
+- id: arxiv-2610.02199v1
+  title: 'TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02199v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T17:59:42.000Z'
+- id: arxiv-2610.02196v1
+  title: 'InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02196v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T17:59:40.000Z'
+- id: arxiv-2610.02191v1
+  title: 'The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02191v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T17:59:32.000Z'
+- id: arxiv-2610.02181v1
+  title: 'OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02181v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T17:58:16.000Z'
+- id: arxiv-2610.02150v1
+  title: 'From Knowledge Access to Source Learning: Developing Source-Specific Competence'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02150v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T17:50:16.000Z'
+- id: arxiv-2610.02117v1
+  title: 'Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02117v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T17:34:10.000Z'
+- id: arxiv-2610.02092v1
+  title: >-
+    Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the
+    Obvious Choice is Problematic)
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02092v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T17:23:29.000Z'
+- id: arxiv-2610.02070v1
+  title: 'Causal Memory Policy: Making Memory Utility Identifiable by Intervening on Retrieval'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02070v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T17:11:25.000Z'
+- id: arxiv-2610.02066v1
+  title: >-
+    External Observers May See More Clearly: Cross-Model Span-Level Hallucination Detection in Large
+    Language Models via Hidden State Probing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02066v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T17:06:53.000Z'
+- id: arxiv-2610.02048v1
+  title: >-
+    HydroJEV: A one-second, training-free screen for cyber-attack and fault attribution in water
+    distribution networks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02048v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T16:57:33.000Z'
+- id: arxiv-2610.02045v1
+  title: 'Form and Void: Entangled Composition through an Autonomous AI Agent'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02045v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-01T16:55:37.000Z'
+- id: arxiv-2610.02039v1
+  title: 'CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02039v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:51:56.000Z'
+- id: arxiv-2610.02038v1
+  title: 'Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02038v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:50:52.000Z'
+- id: arxiv-2610.02023v1
+  title: >-
+    SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and
+    Human-in-the-Loop RL
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02023v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:43:27.000Z'
+- id: arxiv-2610.02022v1
+  title: 'Old Ideas, Novel Problems: The Instability of LLM-Based Novelty Evaluation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02022v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:43:18.000Z'
+- id: arxiv-2610.02005v1
+  title: >-
+    Counting Moves, Weighing Voices: Bayesian Dialectical Argumentation for Calibrated Multi-LLM
+    Councils under Persistent Adversaries
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02005v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:34:50.000Z'
+- id: arxiv-2610.02002v1
+  title: 'Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.02002v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:32:38.000Z'
+- id: arxiv-2610.01984v1
+  title: >-
+    Universal Byte-Level Encoding: UTF-8/UTF-16 Routing to Reduce Cross-Script Token-Budget
+    Disparities
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.01984v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T16:26:10.000Z'
+- id: arxiv-2610.01967v1
+  title: 'FastCI: Efficient GPU-Intensive CI for LLM Training Frameworks'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.01967v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:18:14.000Z'
+- id: arxiv-2610.01963v1
+  title: Counterfactual Auditing of Bias in Open-Source Large Language Models for Clinical Triage
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.01963v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:17:43.000Z'
+- id: arxiv-2610.01947v1
+  title: 'Latent JEPA: Abstract Future Prediction for Latent Reasoning in Chemistry'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.01947v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T16:11:23.000Z'
+- id: arxiv-2610.01938v1
+  title: >-
+    A rubric landscape for evaluating clinical reasoning in large language models: what exists, what
+    is missing, and what needs to be combined
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.01938v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T16:07:12.000Z'
+- id: arxiv-2610.01936v1
+  title: >-
+    Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and
+    Reasoning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.01936v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T16:06:05.000Z'
+- id: arxiv-2610.01934v1
+  title: Learning to Predict Distributions over Weight Updates for Test-Time Adaptation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.01934v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-01T16:05:09.000Z'
+- id: arxiv-2610.01896v1
+  title: 'Asynchronous LLM Post-Training: Group-Mass Capping and Convergence Analysis'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.01896v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-01T15:45:08.000Z'
