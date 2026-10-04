@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 16901
+  score: 16931
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15337
+  score: 15352
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -65,7 +65,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14317
+  score: 14319
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -89,7 +89,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11587
+  score: 11592
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -155,7 +155,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8191
+  score: 8207
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -175,7 +175,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7115
+  score: 7123
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -201,7 +201,7 @@
     - endpoints_compatible
     - diffusers:StableDiffusionPipeline
     - region:us
-  score: 7106
+  score: 7107
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -227,7 +227,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 6722
+  score: 6723
 - id: huggingface-model-openai/whisper-large-v3
   title: openai/whisper-large-v3
   summary: automatic-speech-recognition
@@ -357,7 +357,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6557
+  score: 6560
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -399,7 +399,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 6198
+  score: 6280
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -467,7 +467,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6178
+  score: 6182
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -490,7 +490,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6112
+  score: 6119
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -509,7 +509,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 5873
+  score: 5894
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -539,7 +539,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 5872
+  score: 5886
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -561,7 +561,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 5619
+  score: 5622
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -610,7 +610,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5350
+  score: 5355
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -639,57 +639,7 @@
     - deploy:sagemaker
     - deploy:azure
     - azure
-  score: 5198
-- id: huggingface-model-zai-org/GLM-5.2
-  title: zai-org/GLM-5.2
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, glm_moe_dsa, text-generation, conversational, en, zh,
-    arxiv:2602.15763, arxiv:2603.12201, license:mit, eval-results, endpoints_compatible, region:us
-  url: https://huggingface.co/zai-org/GLM-5.2
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - glm_moe_dsa
-    - text-generation
-    - conversational
-    - en
-    - zh
-    - arxiv:2602.15763
-    - arxiv:2603.12201
-    - license:mit
-    - eval-results
-    - endpoints_compatible
-    - region:us
-  score: 5144
-- id: huggingface-model-openai/gpt-oss-20b
-  title: openai/gpt-oss-20b
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, gpt_oss, text-generation, vllm, conversational,
-    arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4,
-    deploy:sagemaker, deploy:azure, region:us
-  url: https://huggingface.co/openai/gpt-oss-20b
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - gpt_oss
-    - text-generation
-    - vllm
-    - conversational
-    - arxiv:2508.10925
-    - license:apache-2.0
-    - eval-results
-    - endpoints_compatible
-    - 8-bit
-    - mxfp4
-    - deploy:sagemaker
-    - deploy:azure
-    - region:us
-    - azure
-  score: 5128
+  score: 5202
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -717,7 +667,57 @@
     - license:apache-2.0
     - endpoints_compatible
     - region:us
-  score: 5114
+  score: 5153
+- id: huggingface-model-zai-org/GLM-5.2
+  title: zai-org/GLM-5.2
+  summary: text-generation
+  details: >-
+    Model · transformers, safetensors, glm_moe_dsa, text-generation, conversational, en, zh,
+    arxiv:2602.15763, arxiv:2603.12201, license:mit, eval-results, endpoints_compatible, region:us
+  url: https://huggingface.co/zai-org/GLM-5.2
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - glm_moe_dsa
+    - text-generation
+    - conversational
+    - en
+    - zh
+    - arxiv:2602.15763
+    - arxiv:2603.12201
+    - license:mit
+    - eval-results
+    - endpoints_compatible
+    - region:us
+  score: 5146
+- id: huggingface-model-openai/gpt-oss-20b
+  title: openai/gpt-oss-20b
+  summary: text-generation
+  details: >-
+    Model · transformers, safetensors, gpt_oss, text-generation, vllm, conversational,
+    arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4,
+    deploy:sagemaker, deploy:azure, region:us
+  url: https://huggingface.co/openai/gpt-oss-20b
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - gpt_oss
+    - text-generation
+    - vllm
+    - conversational
+    - arxiv:2508.10925
+    - license:apache-2.0
+    - eval-results
+    - endpoints_compatible
+    - 8-bit
+    - mxfp4
+    - deploy:sagemaker
+    - deploy:azure
+    - region:us
+    - azure
+  score: 5128
 - id: huggingface-model-bigscience/bloom
   title: bigscience/bloom
   summary: text-generation
@@ -890,7 +890,7 @@
   tags:
     - gradio
     - region:us
-  score: 10201
+  score: 10202
 - id: huggingface-space-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: gradio, region:us
@@ -996,7 +996,7 @@
   tags:
     - static
     - region:us
-  score: 4056
+  score: 4058
 - id: huggingface-space-mrfakename/Z-Image-Turbo
   title: mrfakename/Z-Image-Turbo
   summary: gradio, mcp-server, region:us
@@ -1007,7 +1007,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3889
+  score: 3888
 - id: huggingface-space-KlingTeam/LivePortrait
   title: KlingTeam/LivePortrait
   summary: gradio, Multimodal, Motion control
@@ -1037,7 +1037,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3677
+  score: 3680
 - id: huggingface-space-InstantX/InstantID
   title: InstantX/InstantID
   summary: gradio, region:us
@@ -1057,7 +1057,7 @@
   tags:
     - gradio
     - region:us
-  score: 3498
+  score: 3500
 - id: huggingface-space-tencent/Hunyuan3D-2
   title: tencent/Hunyuan3D-2
   summary: gradio, region:us
@@ -1104,7 +1104,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3197
+  score: 3198
 - id: huggingface-space-mukaist/Midjourney
   title: mukaist/Midjourney
   summary: gradio, region:us
