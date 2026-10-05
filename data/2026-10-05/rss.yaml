@@ -1,1194 +1,3 @@
-- id: huggingface-model-Qwen/Qwen3.8-27B
-  title: Qwen/Qwen3.8-27B
-  summary: image-text-to-text
-  details: >-
-    Model · transformers, safetensors, qwen3_5, image-text-to-text, conversational,
-    license:apache-2.0, eval-results, endpoints_compatible, deploy:azure, deploy:sagemaker,
-    region:us
-  url: https://huggingface.co/Qwen/Qwen3.8-27B
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - qwen3_5
-    - image-text-to-text
-    - conversational
-    - license:apache-2.0
-    - eval-results
-    - endpoints_compatible
-    - deploy:azure
-    - deploy:sagemaker
-    - region:us
-    - azure
-  score: 16949
-- id: huggingface-model-black-forest-labs/FLUX.1-dev
-  title: black-forest-labs/FLUX.1-dev
-  summary: text-to-image
-  details: >-
-    Model · diffusers, safetensors, text-to-image, image-generation, flux, en, license:other,
-    endpoints_compatible, diffusers:FluxPipeline, region:us
-  url: https://huggingface.co/black-forest-labs/FLUX.1-dev
-  source: huggingface
-  tags:
-    - diffusers
-    - safetensors
-    - text-to-image
-    - image-generation
-    - flux
-    - en
-    - license:other
-    - endpoints_compatible
-    - diffusers:FluxPipeline
-    - region:us
-  score: 15353
-- id: huggingface-model-deepseek-ai/DeepSeek-R1
-  title: deepseek-ai/DeepSeek-R1
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, deepseek_v3, text-generation, conversational, custom_code,
-    arxiv:2501.12948, license:mit, eval-results, text-generation-inference, endpoints_compatible,
-    fp8, deploy:sagemaker, region:us
-  url: https://huggingface.co/deepseek-ai/DeepSeek-R1
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - deepseek_v3
-    - text-generation
-    - conversational
-    - custom_code
-    - arxiv:2501.12948
-    - license:mit
-    - eval-results
-    - text-generation-inference
-    - endpoints_compatible
-    - fp8
-    - deploy:sagemaker
-    - region:us
-  score: 14318
-- id: huggingface-model-moonshotai/Kimi-K3
-  title: moonshotai/Kimi-K3
-  summary: image-text-to-text
-  details: >-
-    Model · transformers, safetensors, kimi_k3, feature-extraction, compressed-tensors,
-    conversational, image-text-to-text, custom_code, license:other, eval-results, 8-bit,
-    deploy:sagemaker, region:us
-  url: https://huggingface.co/moonshotai/Kimi-K3
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - kimi_k3
-    - feature-extraction
-    - compressed-tensors
-    - conversational
-    - image-text-to-text
-    - custom_code
-    - license:other
-    - eval-results
-    - 8-bit
-    - deploy:sagemaker
-    - region:us
-  score: 11595
-- id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
-  title: stabilityai/stable-diffusion-xl-base-1.0
-  summary: text-to-image
-  details: >-
-    Model · diffusers, onnx, safetensors, text-to-image, stable-diffusion, arxiv:2307.01952,
-    arxiv:2211.01324, arxiv:2108.01073, arxiv:2112.10752, license:openrail++, endpoints_compatible,
-    diffusers:StableDiffusionXLPipeline, deploy:sagemaker, deploy:azure, region:us
-  url: https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
-  source: huggingface
-  tags:
-    - diffusers
-    - onnx
-    - safetensors
-    - text-to-image
-    - stable-diffusion
-    - arxiv:2307.01952
-    - arxiv:2211.01324
-    - arxiv:2108.01073
-    - arxiv:2112.10752
-    - license:openrail++
-    - endpoints_compatible
-    - diffusers:StableDiffusionXLPipeline
-    - deploy:sagemaker
-    - deploy:azure
-    - region:us
-    - azure
-  score: 8269
-- id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
-  title: meta-llama/Llama-3.1-8B-Instruct
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3,
-    conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149,
-    base_model:meta-llama/Llama-3.1-8B, base_model:finetune:meta-llama/Llama-3.1-8B,
-    license:llama3.1, eval-results, text-generation-inference, endpoints_compatible, region:us,
-    deploy:sagemaker
-  url: https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - llama
-    - text-generation
-    - facebook
-    - meta
-    - pytorch
-    - llama-3
-    - conversational
-    - en
-    - de
-    - fr
-    - it
-    - pt
-    - hi
-    - es
-    - th
-    - arxiv:2204.05149
-    - base_model:meta-llama/Llama-3.1-8B
-    - base_model:finetune:meta-llama/Llama-3.1-8B
-    - license:llama3.1
-    - eval-results
-    - text-generation-inference
-    - endpoints_compatible
-    - region:us
-    - deploy:sagemaker
-  score: 8216
-- id: huggingface-model-hexgrad/Kokoro-82M
-  title: hexgrad/Kokoro-82M
-  summary: text-to-speech
-  details: >-
-    Model · text-to-speech, en, arxiv:2306.07691, arxiv:2203.02395,
-    base_model:yl4579/StyleTTS2-LJSpeech, base_model:finetune:yl4579/StyleTTS2-LJSpeech,
-    doi:10.57967/hf/4329, license:apache-2.0, region:us
-  url: https://huggingface.co/hexgrad/Kokoro-82M
-  source: huggingface
-  tags:
-    - text-to-speech
-    - en
-    - arxiv:2306.07691
-    - arxiv:2203.02395
-    - base_model:yl4579/StyleTTS2-LJSpeech
-    - base_model:finetune:yl4579/StyleTTS2-LJSpeech
-    - doi:10.57967/hf/4329
-    - license:apache-2.0
-    - region:us
-  score: 7126
-- id: huggingface-model-CompVis/stable-diffusion-v1-4
-  title: CompVis/stable-diffusion-v1-4
-  summary: text-to-image
-  details: >-
-    Model · diffusers, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image,
-    arxiv:2207.12598, arxiv:2112.10752, arxiv:2103.00020, arxiv:2205.11487, arxiv:1910.09700,
-    license:creativeml-openrail-m, endpoints_compatible, diffusers:StableDiffusionPipeline,
-    region:us
-  url: https://huggingface.co/CompVis/stable-diffusion-v1-4
-  source: huggingface
-  tags:
-    - diffusers
-    - safetensors
-    - stable-diffusion
-    - stable-diffusion-diffusers
-    - text-to-image
-    - arxiv:2207.12598
-    - arxiv:2112.10752
-    - arxiv:2103.00020
-    - arxiv:2205.11487
-    - arxiv:1910.09700
-    - license:creativeml-openrail-m
-    - endpoints_compatible
-    - diffusers:StableDiffusionPipeline
-    - region:us
-  score: 7107
-- id: huggingface-model-meta-llama/Meta-Llama-3-8B
-  title: meta-llama/Meta-Llama-3-8B
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3, en,
-    license:llama3, eval-results, text-generation-inference, endpoints_compatible, region:us,
-    deploy:sagemaker
-  url: https://huggingface.co/meta-llama/Meta-Llama-3-8B
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - llama
-    - text-generation
-    - facebook
-    - meta
-    - pytorch
-    - llama-3
-    - en
-    - license:llama3
-    - eval-results
-    - text-generation-inference
-    - endpoints_compatible
-    - region:us
-    - deploy:sagemaker
-  score: 6723
-- id: huggingface-model-openai/whisper-large-v3
-  title: openai/whisper-large-v3
-  summary: automatic-speech-recognition
-  details: >-
-    Model · transformers, pytorch, jax, safetensors, whisper, automatic-speech-recognition, audio,
-    hf-asr-leaderboard, en, zh, de, es, ru, ko, fr, ja, pt, tr, pl, ca, nl, ar, sv, it, id, hi, fi,
-    vi, he, uk, el, ms, cs, ro, da, hu, ta, no, th, ur, hr, bg, lt, la, mi, ml, cy, sk, te, fa, lv,
-    bn, sr, az, sl, kn, et, mk, br, eu, is, hy, ne, mn, bs, kk, sq, sw, gl, mr, pa, si, km, sn, yo,
-    so, af, oc, ka, be, tg, sd, gu, am, yi, lo, uz, fo, ht, ps, tk, nn, mt, sa, lb, my, bo, tl, mg,
-    as, tt, haw, ln, ha, ba, jw, su, arxiv:2212.04356, license:apache-2.0, eval-results,
-    endpoints_compatible, deploy:sagemaker, deploy:azure, region:us
-  url: https://huggingface.co/openai/whisper-large-v3
-  source: huggingface
-  tags:
-    - transformers
-    - pytorch
-    - jax
-    - safetensors
-    - whisper
-    - automatic-speech-recognition
-    - audio
-    - hf-asr-leaderboard
-    - en
-    - zh
-    - de
-    - es
-    - ru
-    - ko
-    - fr
-    - ja
-    - pt
-    - tr
-    - pl
-    - ca
-    - nl
-    - ar
-    - sv
-    - it
-    - id
-    - hi
-    - fi
-    - vi
-    - he
-    - uk
-    - el
-    - ms
-    - cs
-    - ro
-    - da
-    - hu
-    - ta
-    - 'no'
-    - th
-    - ur
-    - hr
-    - bg
-    - lt
-    - la
-    - mi
-    - ml
-    - cy
-    - sk
-    - te
-    - fa
-    - lv
-    - bn
-    - sr
-    - az
-    - sl
-    - kn
-    - et
-    - mk
-    - br
-    - eu
-    - is
-    - hy
-    - ne
-    - mn
-    - bs
-    - kk
-    - sq
-    - sw
-    - gl
-    - mr
-    - pa
-    - si
-    - km
-    - sn
-    - yo
-    - so
-    - af
-    - oc
-    - ka
-    - be
-    - tg
-    - sd
-    - gu
-    - am
-    - yi
-    - lo
-    - uz
-    - fo
-    - ht
-    - ps
-    - tk
-    - nn
-    - mt
-    - sa
-    - lb
-    - my
-    - bo
-    - tl
-    - mg
-    - as
-    - tt
-    - haw
-    - ln
-    - ha
-    - ba
-    - jw
-    - su
-    - arxiv:2212.04356
-    - license:apache-2.0
-    - eval-results
-    - endpoints_compatible
-    - deploy:sagemaker
-    - deploy:azure
-    - region:us
-    - azure
-  score: 6560
-- id: huggingface-model-Lightricks/LTX-2.5
-  title: Lightricks/LTX-2.5
-  summary: image-to-video
-  details: >-
-    Model · diffusion-single-file, image-to-video, text-to-video, video-to-video,
-    image-text-to-video, audio-to-video, text-to-audio, video-to-audio, audio-to-audio,
-    text-to-audio-video, image-to-audio-video, image-text-to-audio-video, ltx-video, lightricks,
-    comfyui, ltx-2.5, ltx, en, de, es, fr, ja, ko, zh, it, pt, arxiv:2601.03233, license:other,
-    region:us
-  url: https://huggingface.co/Lightricks/LTX-2.5
-  source: huggingface
-  tags:
-    - diffusion-single-file
-    - image-to-video
-    - text-to-video
-    - video-to-video
-    - image-text-to-video
-    - audio-to-video
-    - text-to-audio
-    - video-to-audio
-    - audio-to-audio
-    - text-to-audio-video
-    - image-to-audio-video
-    - image-text-to-audio-video
-    - ltx-video
-    - lightricks
-    - comfyui
-    - ltx-2.5
-    - ltx
-    - en
-    - de
-    - es
-    - fr
-    - ja
-    - ko
-    - zh
-    - it
-    - pt
-    - arxiv:2601.03233
-    - license:other
-    - region:us
-  score: 6336
-- id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
-  title: sentence-transformers/all-MiniLM-L6-v2
-  summary: sentence-similarity
-  details: >-
-    Model · sentence-transformers, pytorch, tf, rust, onnx, safetensors, openvino, bert,
-    feature-extraction, sentence-similarity, transformers, en, dataset:s2orc,
-    dataset:flax-sentence-embeddings/stackexchange_xml, dataset:ms_marco, dataset:gooaq,
-    dataset:yahoo_answers_topics, dataset:code_search_net, dataset:search_qa, dataset:eli5,
-    dataset:snli, dataset:multi_nli, dataset:wikihow, dataset:natural_questions, dataset:trivia_qa,
-    dataset:embedding-data/sentence-compression, dataset:embedding-data/flickr30k-captions,
-    dataset:embedding-data/altlex, dataset:embedding-data/simple-wiki, dataset:embedding-data/QQP,
-    dataset:embedding-data/SPECTER, dataset:embedding-data/PAQ_pairs,
-    dataset:embedding-data/WikiAnswers, arxiv:1904.06472, arxiv:2102.07033, arxiv:2104.08727,
-    arxiv:1704.05179, arxiv:1810.09305, base_model:nreimers/MiniLM-L6-H384-uncased,
-    base_model:quantized:nreimers/MiniLM-L6-H384-uncased, license:apache-2.0, eval-results,
-    text-embeddings-inference, endpoints_compatible, deploy:sagemaker, deploy:azure, region:us
-  url: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
-  source: huggingface
-  tags:
-    - sentence-transformers
-    - pytorch
-    - tf
-    - rust
-    - onnx
-    - safetensors
-    - openvino
-    - bert
-    - feature-extraction
-    - sentence-similarity
-    - transformers
-    - en
-    - dataset:s2orc
-    - dataset:flax-sentence-embeddings/stackexchange_xml
-    - dataset:ms_marco
-    - dataset:gooaq
-    - dataset:yahoo_answers_topics
-    - dataset:code_search_net
-    - dataset:search_qa
-    - dataset:eli5
-    - dataset:snli
-    - dataset:multi_nli
-    - dataset:wikihow
-    - dataset:natural_questions
-    - dataset:trivia_qa
-    - dataset:embedding-data/sentence-compression
-    - dataset:embedding-data/flickr30k-captions
-    - dataset:embedding-data/altlex
-    - dataset:embedding-data/simple-wiki
-    - dataset:embedding-data/QQP
-    - dataset:embedding-data/SPECTER
-    - dataset:embedding-data/PAQ_pairs
-    - dataset:embedding-data/WikiAnswers
-    - arxiv:1904.06472
-    - arxiv:2102.07033
-    - arxiv:2104.08727
-    - arxiv:1704.05179
-    - arxiv:1810.09305
-    - base_model:nreimers/MiniLM-L6-H384-uncased
-    - base_model:quantized:nreimers/MiniLM-L6-H384-uncased
-    - license:apache-2.0
-    - eval-results
-    - text-embeddings-inference
-    - endpoints_compatible
-    - deploy:sagemaker
-    - deploy:azure
-    - region:us
-    - azure
-  score: 6185
-- id: huggingface-model-black-forest-labs/FLUX.1-schnell
-  title: black-forest-labs/FLUX.1-schnell
-  summary: text-to-image
-  details: >-
-    Model · diffusers, safetensors, text-to-image, image-generation, flux, en, license:apache-2.0,
-    endpoints_compatible, diffusers:FluxPipeline, deploy:sagemaker, deploy:azure, region:us
-  url: https://huggingface.co/black-forest-labs/FLUX.1-schnell
-  source: huggingface
-  tags:
-    - diffusers
-    - safetensors
-    - text-to-image
-    - image-generation
-    - flux
-    - en
-    - license:apache-2.0
-    - endpoints_compatible
-    - diffusers:FluxPipeline
-    - deploy:sagemaker
-    - deploy:azure
-    - region:us
-    - azure
-  score: 6120
-- id: huggingface-model-Qwen/Qwen3.8-Flash-Next
-  title: Qwen/Qwen3.8-Flash-Next
-  summary: image-text-to-text
-  details: >-
-    Model · transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other,
-    eval-results, endpoints_compatible, region:us
-  url: https://huggingface.co/Qwen/Qwen3.8-Flash-Next
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - qwen4_exp
-    - image-text-to-text
-    - conversational
-    - license:other
-    - eval-results
-    - endpoints_compatible
-    - region:us
-  score: 5901
-- id: huggingface-model-MiniMaxAI/MiniMax-H3
-  title: MiniMaxAI/MiniMax-H3
-  summary: image-text-to-video
-  details: >-
-    Model · minimax-h3, diffusers, safetensors, text-to-video, image-to-video, image-text-to-video,
-    video-to-video, text-to-audio-video, image-to-audio-video, image-text-to-audio-video,
-    video-to-audio-video, audio-to-audio-video, audio-video-generation, multimodal,
-    synchronized-audio-video, reference-to-audio-video, license:other, region:us
-  url: https://huggingface.co/MiniMaxAI/MiniMax-H3
-  source: huggingface
-  tags:
-    - minimax-h3
-    - diffusers
-    - safetensors
-    - text-to-video
-    - image-to-video
-    - image-text-to-video
-    - video-to-video
-    - text-to-audio-video
-    - image-to-audio-video
-    - image-text-to-audio-video
-    - video-to-audio-video
-    - audio-to-audio-video
-    - audio-video-generation
-    - multimodal
-    - synchronized-audio-video
-    - reference-to-audio-video
-    - license:other
-    - region:us
-  score: 5896
-- id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
-  title: deepseek-ai/DeepSeek-V4-Pro
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, deepseek_v4, text-generation, arxiv:2606.19348, license:mit,
-    eval-results, endpoints_compatible, 8-bit, fp8, deploy:sagemaker, region:us
-  url: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - deepseek_v4
-    - text-generation
-    - arxiv:2606.19348
-    - license:mit
-    - eval-results
-    - endpoints_compatible
-    - 8-bit
-    - fp8
-    - deploy:sagemaker
-    - region:us
-  score: 5624
-- id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
-  title: Tongyi-MAI/Z-Image-Turbo
-  summary: text-to-image
-  details: >-
-    Model · diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677,
-    arxiv:2511.13649, license:apache-2.0, diffusers:ZImagePipeline, deploy:azure, region:us
-  url: https://huggingface.co/Tongyi-MAI/Z-Image-Turbo
-  source: huggingface
-  tags:
-    - diffusers
-    - safetensors
-    - text-to-image
-    - en
-    - arxiv:2511.22699
-    - arxiv:2511.22677
-    - arxiv:2511.13649
-    - license:apache-2.0
-    - diffusers:ZImagePipeline
-    - deploy:azure
-    - region:us
-    - azure
-  score: 5403
-- id: huggingface-model-openai/gpt-oss-120b
-  title: openai/gpt-oss-120b
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, gpt_oss, text-generation, vllm, conversational,
-    arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4,
-    deploy:sagemaker, deploy:azure, region:us
-  url: https://huggingface.co/openai/gpt-oss-120b
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - gpt_oss
-    - text-generation
-    - vllm
-    - conversational
-    - arxiv:2508.10925
-    - license:apache-2.0
-    - eval-results
-    - endpoints_compatible
-    - 8-bit
-    - mxfp4
-    - deploy:sagemaker
-    - deploy:azure
-    - region:us
-    - azure
-  score: 5356
-- id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
-  title: meta-llama/Meta-Llama-3-8B-Instruct
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3,
-    conversational, en, license:llama3, eval-results, text-generation-inference,
-    endpoints_compatible, region:us, deploy:sagemaker, deploy:azure
-  url: https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - llama
-    - text-generation
-    - facebook
-    - meta
-    - pytorch
-    - llama-3
-    - conversational
-    - en
-    - license:llama3
-    - eval-results
-    - text-generation-inference
-    - endpoints_compatible
-    - region:us
-    - deploy:sagemaker
-    - deploy:azure
-    - azure
-  score: 5204
-- id: huggingface-model-convaiinnovations/laya
-  title: convaiinnovations/laya
-  summary: text-classification
-  details: >-
-    Model · transformers, safetensors, laya, system-one, calibrated-decisions, rlcd, classification,
-    routing, scoring, guardrails, moderation, reinforcement-learning, commercial-use,
-    text-classification, license:apache-2.0, endpoints_compatible, region:us
-  url: https://huggingface.co/convaiinnovations/laya
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - laya
-    - system-one
-    - calibrated-decisions
-    - rlcd
-    - classification
-    - routing
-    - scoring
-    - guardrails
-    - moderation
-    - reinforcement-learning
-    - commercial-use
-    - text-classification
-    - license:apache-2.0
-    - endpoints_compatible
-    - region:us
-  score: 5169
-- id: huggingface-model-zai-org/GLM-5.2
-  title: zai-org/GLM-5.2
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, glm_moe_dsa, text-generation, conversational, en, zh,
-    arxiv:2602.15763, arxiv:2603.12201, license:mit, eval-results, endpoints_compatible, region:us
-  url: https://huggingface.co/zai-org/GLM-5.2
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - glm_moe_dsa
-    - text-generation
-    - conversational
-    - en
-    - zh
-    - arxiv:2602.15763
-    - arxiv:2603.12201
-    - license:mit
-    - eval-results
-    - endpoints_compatible
-    - region:us
-  score: 5146
-- id: huggingface-model-openai/gpt-oss-20b
-  title: openai/gpt-oss-20b
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, gpt_oss, text-generation, vllm, conversational,
-    arxiv:2508.10925, license:apache-2.0, eval-results, endpoints_compatible, 8-bit, mxfp4,
-    deploy:sagemaker, deploy:azure, region:us
-  url: https://huggingface.co/openai/gpt-oss-20b
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - gpt_oss
-    - text-generation
-    - vllm
-    - conversational
-    - arxiv:2508.10925
-    - license:apache-2.0
-    - eval-results
-    - endpoints_compatible
-    - 8-bit
-    - mxfp4
-    - deploy:sagemaker
-    - deploy:azure
-    - region:us
-    - azure
-  score: 5130
-- id: huggingface-model-bigscience/bloom
-  title: bigscience/bloom
-  summary: text-generation
-  details: >-
-    Model · transformers, pytorch, tensorboard, safetensors, bloom, text-generation, ak, ar, as, bm,
-    bn, ca, code, en, es, eu, fon, fr, gu, hi, id, ig, ki, kn, lg, ln, ml, mr, ne, nso, ny, or, pa,
-    pt, rn, rw, sn, st, sw, ta, te, tn, ts, tum, tw, ur, vi, wo, xh, yo, zh, zu, arxiv:2211.05100,
-    arxiv:1909.08053, arxiv:2110.02861, arxiv:2108.12409, doi:10.57967/hf/0003,
-    license:bigscience-bloom-rail-1.0, model-index, co2_eq_emissions, text-generation-inference,
-    endpoints_compatible, region:us, deploy:azure
-  url: https://huggingface.co/bigscience/bloom
-  source: huggingface
-  tags:
-    - transformers
-    - pytorch
-    - tensorboard
-    - safetensors
-    - bloom
-    - text-generation
-    - ak
-    - ar
-    - as
-    - bm
-    - bn
-    - ca
-    - code
-    - en
-    - es
-    - eu
-    - fon
-    - fr
-    - gu
-    - hi
-    - id
-    - ig
-    - ki
-    - kn
-    - lg
-    - ln
-    - ml
-    - mr
-    - ne
-    - nso
-    - ny
-    - or
-    - pa
-    - pt
-    - rn
-    - rw
-    - sn
-    - st
-    - sw
-    - ta
-    - te
-    - tn
-    - ts
-    - tum
-    - tw
-    - ur
-    - vi
-    - wo
-    - xh
-    - yo
-    - zh
-    - zu
-    - arxiv:2211.05100
-    - arxiv:1909.08053
-    - arxiv:2110.02861
-    - arxiv:2108.12409
-    - doi:10.57967/hf/0003
-    - license:bigscience-bloom-rail-1.0
-    - model-index
-    - co2_eq_emissions
-    - text-generation-inference
-    - endpoints_compatible
-    - region:us
-    - deploy:azure
-    - azure
-  score: 5071
-- id: huggingface-model-stabilityai/stable-diffusion-3-medium
-  title: stabilityai/stable-diffusion-3-medium
-  summary: text-to-image
-  details: >-
-    Model · diffusion-single-file, text-to-image, stable-diffusion, en, arxiv:2403.03206,
-    license:other, region:us
-  url: https://huggingface.co/stabilityai/stable-diffusion-3-medium
-  source: huggingface
-  tags:
-    - diffusion-single-file
-    - text-to-image
-    - stable-diffusion
-    - en
-    - arxiv:2403.03206
-    - license:other
-    - region:us
-  score: 5059
-- id: huggingface-model-meta-llama/Llama-2-7b-chat-hf
-  title: meta-llama/Llama-2-7b-chat-hf
-  summary: text-generation
-  details: >-
-    Model · transformers, pytorch, safetensors, llama, text-generation, facebook, meta, llama-2,
-    conversational, en, arxiv:2307.09288, license:llama2, text-generation-inference,
-    endpoints_compatible, region:us, deploy:sagemaker
-  url: https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
-  source: huggingface
-  tags:
-    - transformers
-    - pytorch
-    - safetensors
-    - llama
-    - text-generation
-    - facebook
-    - meta
-    - llama-2
-    - conversational
-    - en
-    - arxiv:2307.09288
-    - license:llama2
-    - text-generation-inference
-    - endpoints_compatible
-    - region:us
-    - deploy:sagemaker
-  score: 4882
-- id: huggingface-space-enzostvs/deepsite
-  title: enzostvs/deepsite
-  summary: docker, region:us
-  details: Space · docker, region:us
-  url: https://huggingface.co/spaces/enzostvs/deepsite
-  source: huggingface
-  tags:
-    - docker
-    - region:us
-  score: 16610
-- id: huggingface-space-open-llm-leaderboard/open_llm_leaderboard
-  title: open-llm-leaderboard/open_llm_leaderboard
-  summary: docker, leaderboard, modality:text
-  details: >-
-    Space · docker, leaderboard, modality:text, submission:automatic, test:public, language:english,
-    eval:code, eval:math, region:us
-  url: https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
-  source: huggingface
-  tags:
-    - docker
-    - leaderboard
-    - modality:text
-    - submission:automatic
-    - test:public
-    - language:english
-    - eval:code
-    - eval:math
-    - region:us
-    - llm
-  score: 14132
-- id: huggingface-space-jbilcke-hf/ai-comic-factory
-  title: jbilcke-hf/ai-comic-factory
-  summary: docker, region:us
-  details: Space · docker, region:us
-  url: https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory
-  source: huggingface
-  tags:
-    - docker
-    - region:us
-  score: 11293
-- id: huggingface-space-Kwai-Kolors/Kolors-Virtual-Try-On
-  title: Kwai-Kolors/Kolors-Virtual-Try-On
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 10203
-- id: huggingface-space-black-forest-labs/FLUX.1-dev
-  title: black-forest-labs/FLUX.1-dev
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 9568
-- id: huggingface-space-mteb/leaderboard
-  title: mteb/leaderboard
-  summary: docker, leaderboard, region:us
-  details: Space · docker, leaderboard, region:us
-  url: https://huggingface.co/spaces/mteb/leaderboard
-  source: huggingface
-  tags:
-    - docker
-    - leaderboard
-    - region:us
-  score: 7703
-- id: huggingface-space-dalle-mini/dalle-mini
-  title: dalle-mini/dalle-mini
-  summary: static, region:us
-  details: Space · static, region:us
-  url: https://huggingface.co/spaces/dalle-mini/dalle-mini
-  source: huggingface
-  tags:
-    - static
-    - region:us
-  score: 5741
-- id: huggingface-space-AP123/IllusionDiffusion
-  title: AP123/IllusionDiffusion
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/AP123/IllusionDiffusion
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 5472
-- id: huggingface-space-black-forest-labs/FLUX.1-schnell
-  title: black-forest-labs/FLUX.1-schnell
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 5146
-- id: huggingface-space-facebook/MusicGen
-  title: facebook/MusicGen
-  summary: gradio, music generation, language models
-  details: Space · gradio, music generation, language models, LLMs, region:us
-  url: https://huggingface.co/spaces/facebook/MusicGen
-  source: huggingface
-  tags:
-    - gradio
-    - music generation
-    - language models
-    - LLMs
-    - region:us
-    - llm
-  score: 5099
-- id: huggingface-space-lmarena-ai/arena-leaderboard
-  title: lmarena-ai/arena-leaderboard
-  summary: static, leaderboard, region:us
-  details: Space · static, leaderboard, region:us
-  url: https://huggingface.co/spaces/lmarena-ai/arena-leaderboard
-  source: huggingface
-  tags:
-    - static
-    - leaderboard
-    - region:us
-  score: 5011
-- id: huggingface-space-microsoft/TRELLIS
-  title: microsoft/TRELLIS
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/microsoft/TRELLIS
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 4775
-- id: huggingface-space-KingNish/OpenGPT-4o
-  title: KingNish/OpenGPT-4o
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/KingNish/OpenGPT-4o
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 4307
-- id: huggingface-space-nanotron/ultrascale-playbook
-  title: nanotron/ultrascale-playbook
-  summary: static, region:us
-  details: Space · static, region:us
-  url: https://huggingface.co/spaces/nanotron/ultrascale-playbook
-  source: huggingface
-  tags:
-    - static
-    - region:us
-  score: 4059
-- id: huggingface-space-mrfakename/Z-Image-Turbo
-  title: mrfakename/Z-Image-Turbo
-  summary: gradio, mcp-server, region:us
-  details: Space · gradio, mcp-server, region:us
-  url: https://huggingface.co/spaces/mrfakename/Z-Image-Turbo
-  source: huggingface
-  tags:
-    - gradio
-    - mcp-server
-    - region:us
-  score: 3888
-- id: huggingface-space-KlingTeam/LivePortrait
-  title: KlingTeam/LivePortrait
-  summary: gradio, Multimodal, Motion control
-  details: >-
-    Space · gradio, Multimodal, Motion control, Image-to-Video, Video-to-Video, language models,
-    LLMs, region:us
-  url: https://huggingface.co/spaces/KlingTeam/LivePortrait
-  source: huggingface
-  tags:
-    - gradio
-    - Multimodal
-    - Motion control
-    - Image-to-Video
-    - Video-to-Video
-    - language models
-    - LLMs
-    - region:us
-    - llm
-  score: 3804
-- id: huggingface-space-zerogpu-aoti/wan2-2-fp8da-aoti-faster
-  title: zerogpu-aoti/wan2-2-fp8da-aoti-faster
-  summary: gradio, mcp-server, region:us
-  details: Space · gradio, mcp-server, region:us
-  url: https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster
-  source: huggingface
-  tags:
-    - gradio
-    - mcp-server
-    - region:us
-  score: 3682
-- id: huggingface-space-InstantX/InstantID
-  title: InstantX/InstantID
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/InstantX/InstantID
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 3651
-- id: huggingface-space-hexgrad/Kokoro-TTS
-  title: hexgrad/Kokoro-TTS
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/hexgrad/Kokoro-TTS
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 3501
-- id: huggingface-space-tencent/Hunyuan3D-2
-  title: tencent/Hunyuan3D-2
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/tencent/Hunyuan3D-2
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 3394
-- id: huggingface-space-HuggingFaceTB/smol-training-playbook
-  title: HuggingFaceTB/smol-training-playbook
-  summary: docker, research-article-template, research paper
-  details: >-
-    Space · docker, research-article-template, research paper, scientific paper, data visualization,
-    region:us
-  url: https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook
-  source: huggingface
-  tags:
-    - docker
-    - research-article-template
-    - research paper
-    - scientific paper
-    - data visualization
-    - region:us
-  score: 3318
-- id: huggingface-space-akhaliq/anycoder
-  title: akhaliq/anycoder
-  summary: docker, region:us
-  details: Space · docker, region:us
-  url: https://huggingface.co/spaces/akhaliq/anycoder
-  source: huggingface
-  tags:
-    - docker
-    - region:us
-  score: 3312
-- id: huggingface-space-r3gm/wan2-2-fp8da-aoti-preview
-  title: r3gm/wan2-2-fp8da-aoti-preview
-  summary: gradio, mcp-server, region:us
-  details: Space · gradio, mcp-server, region:us
-  url: https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview
-  source: huggingface
-  tags:
-    - gradio
-    - mcp-server
-    - region:us
-  score: 3198
-- id: huggingface-space-mukaist/Midjourney
-  title: mukaist/Midjourney
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/mukaist/Midjourney
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 2997
-- id: huggingface-space-pharmapsychotic/CLIP-Interrogator
-  title: pharmapsychotic/CLIP-Interrogator
-  summary: gradio, region:us
-  details: Space · gradio, region:us
-  url: https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator
-  source: huggingface
-  tags:
-    - gradio
-    - region:us
-  score: 2982
-- id: arxiv-2610.03702v1
-  title: 'LESSER: Post-Training Data Selection with Output-Layer Gradients'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03702v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T17:55:42.000Z'
-- id: arxiv-2610.03639v1
-  title: >-
-    Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal
-    System
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03639v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-02T17:27:41.000Z'
-- id: arxiv-2610.03591v1
-  title: 'HazardWeaver: Scientific Route Selection for Hazard Analysis Agents'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03591v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T16:59:19.000Z'
-- id: arxiv-2610.03565v1
-  title: 'Writerslogic at PAN 2026: Process over Content for Robust Detection under Domain Shift'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03565v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T16:44:14.000Z'
-- id: arxiv-2610.03551v1
-  title: 'Objects Without Morphisms: What LLMs for Mathematics Do Not Represent'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03551v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-02T16:33:32.000Z'
-- id: arxiv-2610.03529v1
-  title: Divergence controls entropy in distillation
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03529v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T16:15:53.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: A model guide for the GPT-6 family
   summary: >-
@@ -1205,210 +14,6 @@
     - openai
   score: 0
   publishedAt: '2026-10-02T16:15:00.000Z'
-- id: arxiv-2610.03525v1
-  title: Structured Composition of Verifiable Atomic Insights for Table-to-Report Generation
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03525v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T16:14:18.000Z'
-- id: arxiv-2610.03518v1
-  title: 'PrivDev: Mapping Static-Analysis Data Types to DPV'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03518v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T16:11:45.000Z'
-- id: arxiv-2610.03509v1
-  title: Efficient Reasoning Training Does Not Always Harm CoT Faithfulness and Monitorability
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03509v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T16:04:08.000Z'
-- id: arxiv-2610.03480v1
-  title: Metropolis-Hastings Dominates Importance Resampling for Policy Composition
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03480v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T15:49:38.000Z'
-- id: arxiv-2610.03434v1
-  title: 'Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03434v1
-  source: arxiv
-  tags:
-    - arxiv
-    - agentic-ai
-  score: 0
-  publishedAt: '2026-10-02T15:13:38.000Z'
-- id: arxiv-2610.03430v1
-  title: 'Jumping the Line: Exploiting Length Predictions in LLM Scheduling'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03430v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-02T15:12:43.000Z'
-- id: arxiv-2610.03421v1
-  title: 'CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03421v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T15:09:06.000Z'
-- id: arxiv-2610.03383v1
-  title: 'CVE2AP: Automated Generation of PDDL-Encoded Attack Paths via Large Language Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03383v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-02T14:35:44.000Z'
-- id: arxiv-2610.03361v1
-  title: >-
-    Follow the Winners: Conservative Policy Improvement with the Cross-Entropy Method for
-    Critic-Free RFT
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03361v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T14:24:06.000Z'
-- id: arxiv-2610.03356v1
-  title: 'ReFract: Benchmarking Perspective Awareness in Language Model Agents with Text World Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03356v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T14:21:26.000Z'
-- id: arxiv-2610.03339v1
-  title: Track fitting as a language translation problem
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03339v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T14:08:04.000Z'
-- id: arxiv-2610.03329v1
-  title: >-
-    SyntaxBench: A Statistical Diagnostic Framework for Character-Level Reasoning in Large Language
-    Models
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03329v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-02T14:02:56.000Z'
-- id: arxiv-2610.03324v1
-  title: >-
-    To Jev or Not? Evaluating the Accuracy and Efficiency of Structured Decision Models for
-    Hate-Speech Moderation
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03324v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T13:59:21.000Z'
-- id: arxiv-2610.03319v1
-  title: Defense-in-Depth at the Perception-Reasoning Interface of LLM-Centric Agentic UAV Swarms
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03319v1
-  source: arxiv
-  tags:
-    - arxiv
-    - agentic-ai
-    - llm
-  score: 0
-  publishedAt: '2026-10-02T13:54:35.000Z'
-- id: arxiv-2610.03316v1
-  title: Multi-Task Evolution for Zero-Shot Cross-Problem Generalization using LLMs
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03316v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-02T13:53:34.000Z'
-- id: arxiv-2610.03289v1
-  title: Architecture-Dependent Fusion Pathways in MLLMs
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03289v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T13:32:45.000Z'
-- id: arxiv-2610.03268v1
-  title: 'Shrome at Touché: Soft-Vote Ensembling and Counter-Causal Augmentation for Causality Extraction'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03268v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T13:11:27.000Z'
-- id: arxiv-2610.03253v1
-  title: Prompt framing governs LLM default following in collective-action
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03253v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-02T13:00:19.000Z'
-- id: arxiv-2610.03240v1
-  title: Collective Bias Mitigation via Model Routing and Collaboration
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.03240v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-02T12:49:44.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Chatham scales its capital markets expertise with OpenAI
   summary: >-
@@ -2001,22 +606,6 @@
   score: 0
   publishedAt: '2026-09-17T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Our framework for reporting model misalignment
-  summary: >-
-    OpenAI shares a framework for tracking, investigating, and disclosing model misalignment,
-    alongside six reports of unexpected or concerning model behavior.
-  details: >-
-    OpenAI shares a framework for tracking, investigating, and disclosing model misalignment,
-    alongside six reports of unexpected or concerning model behavior.
-  url: https://openai.com/index/model-misalignment-reporting-framework
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-16T17:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Helping older adults use AI in everyday life
   summary: >-
     OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10
@@ -2081,6 +670,22 @@
   score: 0
   publishedAt: '2026-09-16T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Our framework for reporting model misalignment
+  summary: >-
+    OpenAI shares a framework for tracking, investigating, and disclosing model misalignment,
+    alongside six reports of unexpected or concerning model behavior.
+  details: >-
+    OpenAI shares a framework for tracking, investigating, and disclosing model misalignment,
+    alongside six reports of unexpected or concerning model behavior.
+  url: https://openai.com/index/model-misalignment-reporting-framework
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-16T17:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How workers are unlocking new ways of working
   summary: >-
     New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new
@@ -2129,22 +734,6 @@
   score: 0
   publishedAt: '2026-09-14T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Cognition helps Devin test its own work with GPT‑6 Astra
-  summary: >-
-    GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of
-    helping engineers review less code and ship more.
-  details: >-
-    GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of
-    helping engineers review less code and ship more.
-  url: https://openai.com/index/cognition-devin-testing-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-11T16:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Rapidly scaling online storage to serve over 1 billion ChatGPT users
   summary: >-
     Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage
@@ -2160,6 +749,22 @@
     - openai
   score: 0
   publishedAt: '2026-09-11T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Cognition helps Devin test its own work with GPT‑6 Astra
+  summary: >-
+    GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of
+    helping engineers review less code and ship more.
+  details: >-
+    GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of
+    helping engineers review less code and ship more.
+  url: https://openai.com/index/cognition-devin-testing-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-11T16:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
   summary: >-
@@ -2257,22 +862,6 @@
   score: 0
   publishedAt: '2026-09-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Paul Christiano joins OpenAI Foundation Board
-  summary: >-
-    Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee,
-    bringing experience in AI alignment, safety, and standards.
-  details: >-
-    Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee,
-    bringing experience in AI alignment, safety, and standards.
-  url: https://openai.com/index/paul-christiano-joins-openai-foundation-board
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-09T17:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: The AI policy window is open. We need to act.
   summary: >-
     Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared
@@ -2304,6 +893,22 @@
     - openai
   score: 0
   publishedAt: '2026-09-09T11:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Paul Christiano joins OpenAI Foundation Board
+  summary: >-
+    Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee,
+    bringing experience in AI alignment, safety, and standards.
+  details: >-
+    Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee,
+    bringing experience in AI alignment, safety, and standards.
+  url: https://openai.com/index/paul-christiano-joins-openai-foundation-board
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-09T17:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How GPT-5.6 Sol helps run quantum computing experiments
   summary: >-
@@ -3026,22 +1631,6 @@
   score: 0
   publishedAt: '2026-08-18T11:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Asana completed a years-long code migration in 2 weeks with Codex
-  summary: >-
-    Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in
-    model and infrastructure costs.
-  details: >-
-    Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in
-    model and infrastructure costs.
-  url: https://openai.com/index/asana
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-08-18T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How NVIDIA scales expertise with ChatGPT Work
   summary: >-
     NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale
@@ -3057,6 +1646,22 @@
     - openai
   score: 0
   publishedAt: '2026-08-18T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Asana completed a years-long code migration in 2 weeks with Codex
+  summary: >-
+    Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in
+    model and infrastructure costs.
+  details: >-
+    Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in
+    model and infrastructure costs.
+  url: https://openai.com/index/asana
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-08-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: The Defender’s Window
   summary: >-
@@ -3220,22 +1825,6 @@
   score: 0
   publishedAt: '2026-08-11T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: What building an AI-native finance function taught me
-  summary: >-
-    OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from
-    automated forecasting to stronger controls and AI ROI.
-  details: >-
-    OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from
-    automated forecasting to stronger controls and AI ROI.
-  url: https://openai.com/index/building-an-ai-native-finance-function
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-08-10T17:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
   summary: >-
     OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI
@@ -3267,6 +1856,22 @@
     - openai
   score: 0
   publishedAt: '2026-08-10T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: What building an AI-native finance function taught me
+  summary: >-
+    OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from
+    automated forecasting to stronger controls and AI ROI.
+  details: >-
+    OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from
+    automated forecasting to stronger controls and AI ROI.
+  url: https://openai.com/index/building-an-ai-native-finance-function
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-08-10T17:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Putting frontier cyber models in more trusted hands
   summary: >-
@@ -4334,22 +2939,6 @@
   score: 0
   publishedAt: '2026-06-24T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
-  summary: >-
-    GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.
-    The breakthrough could support cancer and autoimmune research.
-  details: >-
-    GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.
-    The breakthrough could support cancer and autoimmune research.
-  url: https://openai.com/index/gpt-5-immunology-mystery
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-06-23T17:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Helping build shared standards for advanced AI
   summary: >-
     OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety
@@ -4365,6 +2954,22 @@
     - openai
   score: 0
   publishedAt: '2026-06-23T13:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
+  summary: >-
+    GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.
+    The breakthrough could support cancer and autoimmune research.
+  details: >-
+    GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.
+    The breakthrough could support cancer and autoimmune research.
+  url: https://openai.com/index/gpt-5-immunology-mystery
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-06-23T17:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How Omio is building the future of conversational travel
   summary: >-
@@ -12983,52 +11588,6 @@
     - openai
   score: 0
   publishedAt: '2025-04-29T18:00:00.000Z'
-- id: hackernews-43782869
-  title: 'Show HN: High-performance GenAI engine now open source'
-  summary: >-
-    Hey HN<p>After one too many customer firedrills regarding hallucinating or insecure AI models,
-    we built a system to catch these issues before they reached production. The Arthur Engine has
-    been runnin
-  details: >-
-    Hey HN<p>After one too many customer firedrills regarding hallucinating or insecure AI models,
-    we built a system to catch these issues before they reached production. The Arthur Engine has
-    been running in Fortune 100 to AI Native Start-Ups over the past two years, putting security
-    controls around more than 10 billion tokens in production every month. We&#x27;re now opening up
-    this service to developers, enabling you to leverage enterprise-grade solutions to provide
-    guardrails and evals as a service, all for free.<p>Get it on Github (<a
-    href="https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;arthur-engine">https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;arthur-engine</a>)
-    to start evaluating your models today<p>Highlights of Arthur&#x27;s Engine include:<p>* Built
-    for speed and scale: It performs well with p90 latencies of sub-second well over 100+ RPS<p>*
-    Made for full lifecycle support: Ideal for pre-production validation, real-time guardrails, and
-    post-production monitoring.<p>* Ease of use: It is designed to be easy for anyone to run and
-    deploy whether you&#x27;re working on it locally during development, or you&#x27;re deploying it
-    within a horizontally-scaling architecture for large-scale workloads.<p>* Unification of
-    generative and traditional AI: The Arthur AI Engine can be used to evaluate a diverse range of
-    models from LLMs and Agentic AI systems to binary classifiers, regression models, recommender
-    systems, forecasting models, and more.<p>* Content-specific guardrail and detection features:
-    Ranging from toxicity and hallucination detection to sensitive data (like PII,
-    keyword&#x2F;regex and custom rules) and prompt injection.<p>* Customizability: Plug in your own
-    models or integrate with other model or guardrail providers with ease, and tailor the system to
-    match your specific needs.<p>Having been first-hand witnesses to the lack of adequate AI
-    monitoring tools and the general under delivery of Gen AI systems in production, we believe that
-    such a capability shouldn&#x27;t be exclusive to big-budget organizations. Our mission is to
-    make AI better, for everyone, and we believe by opening up this tool we can help more people get
-    to that goal.<p>Check out our GitHub repo for examples and directions on how to use the Arthur
-    AI Engine for various purposes such as validation during development, real-time guardrails or
-    performance troubleshooting using enriched logging data. (<a
-    href="https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;engine-examples">https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;engine-examples</a>)<p>We
-    can’t wait to see what you build<p>— Zach and Team Arthur
-  url: https://github.com/arthur-ai/arthur-engine
-  source: hackernews
-  tags:
-    - author_fryz
-    - story_43782869
-    - show_hn
-    - agentic-ai
-    - llm
-    - genai
-  score: 22
-  publishedAt: '2025-04-24T13:55:19Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'New in ChatGPT for Business: April 2025'
   summary: >-
