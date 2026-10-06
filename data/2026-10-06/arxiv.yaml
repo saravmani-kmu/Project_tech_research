@@ -1,0 +1,271 @@
+- id: arxiv-2610.06848v1
+  title: >-
+    TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and
+    Accelerators Magnify
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06848v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T17:59:42.000Z'
+- id: arxiv-2610.06844v1
+  title: Learning to Read the Contextual Tokens in Diffusion Transformers
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06844v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T17:59:17.000Z'
+- id: arxiv-2610.06790v1
+  title: >-
+    Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design
+    Verification
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06790v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-05T17:48:14.000Z'
+- id: arxiv-2610.06748v1
+  title: 'BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06748v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T17:26:17.000Z'
+- id: arxiv-2610.06729v1
+  title: Improving Diversity in LLM Short Story Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06729v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T17:16:29.000Z'
+- id: arxiv-2610.06703v1
+  title: 'Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06703v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T17:01:18.000Z'
+- id: arxiv-2610.06695v1
+  title: >-
+    MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA
+    Tasks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06695v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-05T16:55:58.000Z'
+- id: arxiv-2610.06686v1
+  title: 'OVAL: Output-Aware Local Page Bases for KV Cache Retrieval'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06686v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T16:51:21.000Z'
+- id: arxiv-2610.06685v1
+  title: Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06685v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T16:51:11.000Z'
+- id: arxiv-2610.06670v1
+  title: Reward Stealing Attack on Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06670v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T16:44:00.000Z'
+- id: arxiv-2610.06666v1
+  title: What Matters for Latent Reasoning with Flow Matching
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06666v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T16:42:40.000Z'
+- id: arxiv-2610.06647v1
+  title: 'LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06647v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T16:28:11.000Z'
+- id: arxiv-2610.06646v1
+  title: 'OrigaMIG: MIG-Aware VM Placement with a Neighborhood-Restricted BILP and Live Migration'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06646v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T16:28:07.000Z'
+- id: arxiv-2610.06625v1
+  title: 'JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06625v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T16:22:03.000Z'
+- id: arxiv-2610.06623v1
+  title: Large Language Model-Guided Discovery of Weight-Five Bivariate Bicycle Codes
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06623v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T16:21:27.000Z'
+- id: arxiv-2610.06619v1
+  title: 'If My Toy Could Talk: How Young Children Imagine, Design, and Test AI-Enabled Toys'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06619v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T16:18:47.000Z'
+- id: arxiv-2610.06614v1
+  title: 'FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06614v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T16:17:37.000Z'
+- id: arxiv-2610.06611v1
+  title: 'Lens3D: Target-Conditioned Visual Foveation for Fine-Grained 3D Understanding'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06611v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T16:16:49.000Z'
+- id: arxiv-2610.06576v1
+  title: 'Before Agent Tells The Lie: Has Deception Already Been Represented?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06576v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T15:54:02.000Z'
+- id: arxiv-2610.06563v1
+  title: 'HERA: Harness-Environment Co-Evolution for Reliable Agentic Abstention'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06563v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-05T15:49:12.000Z'
+- id: arxiv-2610.06516v1
+  title: Test-Time Adaptation of Reasoning Strategies with Bayesian Nonparametric Memory
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06516v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T15:30:58.000Z'
+- id: arxiv-2610.06514v1
+  title: 'ANT: A Multi-Granularity Network Traffic Dataset and Benchmark for Agents Behavior Auditing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06514v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T15:30:02.000Z'
+- id: arxiv-2610.06507v1
+  title: >-
+    An Evaluation of the Semantic Understanding Capabilities of Large Language Models for Web Attack
+    Payloads
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06507v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-05T15:25:41.000Z'
+- id: arxiv-2610.06506v1
+  title: 'AISSA Demo: AI-based Student Slides Analysis Tool for Automated Grading and Feedback'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06506v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T15:25:06.000Z'
+- id: arxiv-2610.06496v1
+  title: 'You Changed Your Mind, The Model Didn''t: Demystifying Intent in Multi-Turn Dialogue'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.06496v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-05T15:16:03.000Z'
