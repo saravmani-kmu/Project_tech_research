@@ -1,0 +1,280 @@
+- id: arxiv-2610.08778v1
+  title: 'Sherpa: Teaching LLMs to Teach Adaptively'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08778v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T17:58:18.000Z'
+- id: arxiv-2610.08775v1
+  title: 'Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08775v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T17:57:19.000Z'
+- id: arxiv-2610.08747v1
+  title: 'The Missing Minimal Pair: Stereotype Evaluation in LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08747v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T17:41:44.000Z'
+- id: arxiv-2610.08739v1
+  title: 'BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08739v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T17:38:24.000Z'
+- id: arxiv-2610.08703v1
+  title: >-
+    Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12
+    Math Tutoring Dialogue
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08703v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T17:16:03.000Z'
+- id: arxiv-2610.08698v1
+  title: >-
+    PrimitiveCAD: An LLM-Based Point-to-CAD Reconstruction with Primitive-Aware Tokenization and
+    Operation Alignment
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08698v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T17:13:46.000Z'
+- id: arxiv-2610.08691v1
+  title: >-
+    ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural
+    and Social Sciences
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08691v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T17:08:03.000Z'
+- id: arxiv-2610.08678v1
+  title: Secure Speculative Decoding for Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08678v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T16:59:37.000Z'
+- id: arxiv-2610.08630v1
+  title: Towards In-Parameter Memory Augmentation for Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08630v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T16:27:47.000Z'
+- id: arxiv-2610.08601v1
+  title: Generative AI translations in high-stakes emergency messaging
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08601v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-10-06T16:06:22.000Z'
+- id: arxiv-2610.08586v1
+  title: 'MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08586v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T15:55:42.000Z'
+- id: arxiv-2610.08585v1
+  title: >-
+    Incidental information contaminates patient notes and disrupts clinical reasoning in large
+    language models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08585v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T15:55:29.000Z'
+- id: arxiv-2610.08563v1
+  title: Adaptive Power Sampling for LLM Reasoning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08563v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T15:43:35.000Z'
+- id: arxiv-2610.08559v1
+  title: Latent space bias directions in LLMs capture confidence, not fairness
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08559v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T15:42:35.000Z'
+- id: arxiv-2610.08539v1
+  title: 'RSJEV: Discriminative Remote Sensing Scene Classification with Multimodal Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08539v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T15:28:36.000Z'
+- id: arxiv-2610.08452v1
+  title: 'Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08452v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-06T14:38:15.000Z'
+- id: arxiv-2610.08446v1
+  title: 'AssemState: Manual and Physical-State-Guided Reasoning for Zero-shot Furniture Assembly'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08446v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T14:35:49.000Z'
+- id: arxiv-2610.08413v1
+  title: >-
+    Knowing When Not to Answer: Cross-Domain and Multi-Turn Generalization of Latent
+    Underspecification Signals
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08413v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T14:18:13.000Z'
+- id: arxiv-2610.08406v1
+  title: >-
+    Case-Level Verification in Scanner-LLM Cascades: Overcoming the Alert Aggregation Bottleneck to
+    Expand the FRR-TPR Trade-off Space
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08406v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T14:15:45.000Z'
+- id: arxiv-2610.08405v1
+  title: 'Learning from Failures: A Failure-Driven Prompt Refinement for LLM-Based Vulnerability Analysis'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08405v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T14:15:44.000Z'
+- id: arxiv-2610.08403v1
+  title: 'SSR: Sparse Segment Reduction for Ternary GEMM Acceleration'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08403v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T14:15:12.000Z'
+- id: arxiv-2610.08388v1
+  title: 'Foresight-over-Graph: Reasoning Beyond Local Horizons for Knowledge Base Question Answering'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08388v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T14:07:43.000Z'
+- id: arxiv-2610.08378v1
+  title: >-
+    Lachesis: Lifetime-Aware KV Cache Placement for Agent Serving across HBM and High-Bandwidth
+    Flash
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08378v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T14:02:19.000Z'
+- id: arxiv-2610.08341v1
+  title: 'DIPrune: Task-Aware Token Pruning with Dual Importance for Efficient Multimodal Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08341v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-06T13:38:27.000Z'
+- id: arxiv-2610.08330v1
+  title: 'MoF: Preference-Aware Mixture Modeling for Black-Box LLM Personalization'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.08330v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-06T13:29:26.000Z'
