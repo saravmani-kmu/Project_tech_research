@@ -1,0 +1,273 @@
+- id: arxiv-2610.10533v1
+  title: 'EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10533v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T17:58:52.000Z'
+- id: arxiv-2610.10526v1
+  title: >-
+    Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in
+    Vision-Language-Action Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10526v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T17:57:38.000Z'
+- id: arxiv-2610.10507v1
+  title: 'RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10507v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T17:51:08.000Z'
+- id: arxiv-2610.10506v1
+  title: >-
+    Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of
+    Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10506v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T17:51:07.000Z'
+- id: arxiv-2610.10487v1
+  title: 'LOCAA: An Agentic System for Automated Lossy Compressor Tuning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10487v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-07T17:44:31.000Z'
+- id: arxiv-2610.10455v1
+  title: 'PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10455v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T17:25:23.000Z'
+- id: arxiv-2610.10430v1
+  title: >-
+    Conditional Flow Matching for Generation of 3D Multi-variable Instantaneous Urban Microclimate
+    Fields
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10430v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T17:09:48.000Z'
+- id: arxiv-2610.10411v1
+  title: Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10411v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T16:56:29.000Z'
+- id: arxiv-2610.10405v1
+  title: Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10405v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T16:53:11.000Z'
+- id: arxiv-2610.10400v1
+  title: Self-correction Optimization for Interleaved Multimodal Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10400v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T16:51:02.000Z'
+- id: arxiv-2610.10378v1
+  title: Document-Level Text Simplification in Estonian Using Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10378v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T16:38:26.000Z'
+- id: arxiv-2610.10374v1
+  title: 'TaoD2C-Bench: Benchmarking MLLMs for Industrial UI Code Generation Beyond Visual Fidelity'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10374v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T16:38:10.000Z'
+- id: arxiv-2610.10358v1
+  title: 'Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10358v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T16:30:59.000Z'
+- id: arxiv-2610.10345v1
+  title: 'SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10345v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T16:23:45.000Z'
+- id: arxiv-2610.10320v1
+  title: >-
+    LLM-Assisted Generation of Transparent, Open-Source Multiphysics Models of Electrochemical
+    Devices
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10320v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T16:11:56.000Z'
+- id: arxiv-2610.10318v1
+  title: >-
+    Nobody Truly Agrees on Sentiment: Humans, Bespoke Tools, and LLMs Struggle with Social Media
+    Texts
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10318v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T16:11:12.000Z'
+- id: arxiv-2610.10311v1
+  title: Fault-tolerant foundation models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10311v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T16:05:48.000Z'
+- id: arxiv-2610.10304v1
+  title: >-
+    SemanticFold: Latent Sequence Compression SeparatesLanguage Modeling, Decodability, and
+    Reasoning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10304v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T16:00:59.000Z'
+- id: arxiv-2610.10249v1
+  title: 'DuoSketch: How Pairs Navigate Challenges in AI-Supported Collaborative Design Ideation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10249v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T15:30:58.000Z'
+- id: arxiv-2610.10235v1
+  title: 'Beyond LLM-GA: Secure Fluid Antenna Systems with ReEvo-Designed Memetic Algorithm'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10235v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T15:20:52.000Z'
+- id: arxiv-2610.10232v1
+  title: LLM Persuasion Is in the Eye of the Evaluation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10232v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T15:19:54.000Z'
+- id: arxiv-2610.10227v1
+  title: 'From Prompts to Trees: Effective LLM-Guided Tree Generation for Few-Shot Tabular Classification'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10227v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-07T15:18:11.000Z'
+- id: arxiv-2610.10226v1
+  title: Why Software Engineering Is Indispensable in the Age of Coding Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10226v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T15:17:37.000Z'
+- id: arxiv-2610.10224v1
+  title: 'Generative AI in Publishing: An Editors'' Panel on Ethics and Policies'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10224v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-10-07T15:16:34.000Z'
+- id: arxiv-2610.10199v1
+  title: Robust Decentralized Fairness Auditing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.10199v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-07T15:00:14.000Z'
