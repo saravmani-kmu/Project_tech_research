@@ -1,0 +1,272 @@
+- id: arxiv-2610.12458v1
+  title: 'OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12458v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T17:59:21.000Z'
+- id: arxiv-2610.12427v1
+  title: 'FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12427v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T17:55:20.000Z'
+- id: arxiv-2610.12417v1
+  title: 'WOVEN: Weaving Visual World Modeling into Multimodal LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12417v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T17:52:03.000Z'
+- id: arxiv-2610.12415v1
+  title: 'ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12415v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-10-08T17:51:11.000Z'
+- id: arxiv-2610.12391v1
+  title: 'GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12391v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T17:39:12.000Z'
+- id: arxiv-2610.12390v1
+  title: >-
+    Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable
+    Program Search
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12390v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T17:39:11.000Z'
+- id: arxiv-2610.12361v1
+  title: 'Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12361v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T17:26:17.000Z'
+- id: arxiv-2610.12345v1
+  title: 'Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12345v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T17:16:45.000Z'
+- id: arxiv-2610.12338v1
+  title: 'VFold: Symmetry-Aware Cross-Layer Value Cache Compression'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12338v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T17:14:28.000Z'
+- id: arxiv-2610.12327v1
+  title: 'SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12327v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T17:06:32.000Z'
+- id: arxiv-2610.12325v1
+  title: Prior or Feedback? What an LLM Uses When Adapting Neural Operators
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12325v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T17:06:23.000Z'
+- id: arxiv-2610.12313v1
+  title: >-
+    Verdict Without the Rule: Diagnosing and Auditing Regulatory Rule Sensitivity in LLM Compliance
+    Systems
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12313v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T16:59:40.000Z'
+- id: arxiv-2610.12310v1
+  title: Is In-Domain Training Enough for Fine-Grained Industrial Anomaly Understanding?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12310v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T16:59:29.000Z'
+- id: arxiv-2610.12305v1
+  title: 'From What to Which: Decoding Modifier Grounding in Frozen MLLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12305v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T16:53:59.000Z'
+- id: arxiv-2610.12304v1
+  title: 'Looking Inside LLMs: Small-World Connectivity as a Signature of Reasoning Performance'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12304v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T16:53:45.000Z'
+- id: arxiv-2610.12289v1
+  title: 'TestPrism: Rethinking Test Evaluation Beyond a Single Reference'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12289v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T16:44:39.000Z'
+- id: arxiv-2610.12281v1
+  title: >-
+    Unlocking the Regulatory Genome by ARGUS: An Evidence-Constrained Agentic Framework for
+    Interpreting Single Nucleotide Variants
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12281v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-08T16:38:32.000Z'
+- id: arxiv-2610.12266v1
+  title: 'DVD: Dynamic Vector Decoding for Efficient MLLM-based Perception'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12266v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T16:32:28.000Z'
+- id: arxiv-2610.12242v1
+  title: 'TokenRouter: Efficient Serving System for Token-Level LLM Routing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12242v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T16:21:50.000Z'
+- id: arxiv-2610.12187v1
+  title: 'Autonomous Code Migration for Quantum Programming Languages: A Case Study with QED-C Benchmarks'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12187v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T15:50:27.000Z'
+- id: arxiv-2610.12183v1
+  title: 'A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12183v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T15:48:07.000Z'
+- id: arxiv-2610.12142v1
+  title: >-
+    Instruction-Conditioned Electromagnetic Spectrum Understanding via Budget-Adaptive Signal
+    Tokenization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12142v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-08T15:28:37.000Z'
+- id: arxiv-2610.12137v1
+  title: 'Poster: A Preliminary Study of LLM Distillation Inference'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12137v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T15:24:29.000Z'
+- id: arxiv-2610.12126v1
+  title: 'SuperNav: An Agentic Navigation System for Any Task in Any Scene'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12126v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-08T15:19:40.000Z'
+- id: arxiv-2610.12125v1
+  title: 'The learner who does not learn: when optimizing a pedagogical metric degrades LLM tutoring'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.12125v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-08T15:18:26.000Z'
