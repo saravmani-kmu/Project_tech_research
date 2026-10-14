@@ -1,280 +1,278 @@
-- id: arxiv-2610.18515v1
-  title: A Global View of How LLMs Value Human Time
+- id: arxiv-2610.18874v1
+  title: 'ChunkAct: Action Chunking for Agentic Robotics'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.18515v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T15:08:38.000Z'
-- id: arxiv-2610.18504v1
-  title: 'How Low Can You Go: Fine-Tuning LLMs with Bayesian Optimization (LlMBO)'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18504v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T14:58:27.000Z'
-- id: arxiv-2610.18499v1
-  title: 'EgoOmniWorld: Unifying Egocentric Understanding via Ego-Action-World Interactions'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18499v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T14:53:16.000Z'
-- id: arxiv-2610.18457v1
-  title: 'Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18457v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T14:24:26.000Z'
-- id: arxiv-2610.18455v1
-  title: 'EmoGenie: Benchmarking and Evaluating Expressed and Evoked Emotion in T2I Generation with MLLMs'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18455v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T14:23:07.000Z'
-- id: arxiv-2610.18435v1
-  title: How Well Do LLMs Perform in Peer Review? Evidence from Finance and Accounting
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18435v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T14:11:35.000Z'
-- id: arxiv-2610.18430v1
-  title: >-
-    FedGraph: Defending Federated Large Language Model Fine-Tuning Against Backdoor Attacks via
-    Graph-Based Aggregation
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18430v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T14:08:49.000Z'
-- id: arxiv-2610.18415v1
-  title: Do Factuality Methods Make LLMs More Factual? Reproducibility and Fair Comparison
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18415v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T13:54:51.000Z'
-- id: arxiv-2610.18399v1
-  title: 'Bifocal: Training-Free Mixed Granularity Visual Token Pruning for Multimodal LLMs'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18399v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T13:46:32.000Z'
-- id: arxiv-2610.18389v1
-  title: 'PRISM: Calibrating Black-Box Judges with Counterfactual Probes'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18389v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T13:39:50.000Z'
-- id: arxiv-2610.18388v1
-  title: 'ReDiS: Reasoning-Diagnosis Self-Evolution for Multimodal Reasoning in Remote Sensing'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18388v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T13:38:02.000Z'
-- id: arxiv-2610.18369v1
-  title: Hallucination-aware Faithful Reasoning in Remote Sensing
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18369v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T13:28:00.000Z'
-- id: arxiv-2610.18354v1
-  title: Choosing LLMs for Strategic Agent Interactions
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18354v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T13:21:27.000Z'
-- id: arxiv-2610.18343v1
-  title: >-
-    Lightweight but Linguistically Fair? Quantisation Robustness across Bavarian, German, and
-    English
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18343v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T13:15:59.000Z'
-- id: arxiv-2610.18323v1
-  title: 'Omni-RS: Unifying Multi-Task Understanding and Generation in Remote Sensing'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18323v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T13:02:27.000Z'
-- id: arxiv-2610.18304v1
-  title: >-
-    Efficient Safety Guardrails through Latent Dual-Hypothesis Reasoning with On-Demand Trace
-    Reconstruction
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18304v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T12:49:47.000Z'
-- id: arxiv-2610.18298v1
-  title: >-
-    Output Discipline Sets the Floor: A Falsification-Guided, Model-Agnostic Agent Protocol for
-    Auditable Hypothesis-Driven Decision Making
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18298v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T12:46:44.000Z'
-- id: arxiv-2610.18269v1
-  title: >-
-    PAINT: A Framework for Multilingual Pain Representation from Medical Licensing Exams to
-    Real-World Clinical Texts
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18269v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T12:28:53.000Z'
-- id: arxiv-2610.18248v1
-  title: >-
-    Are We Testing Too Much? A Survey of Benchmark Compression for Efficient Evaluation of Large
-    Language Models
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18248v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-13T12:15:07.000Z'
-- id: arxiv-2610.18240v1
-  title: 'Beyond Answer Sharing: TrueMAD for Targeted Peer Engagement in Multi-Agent Debate'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18240v1
+  url: http://arxiv.org/abs/2610.18874v1
   source: arxiv
   tags:
     - arxiv
     - agentic-ai
   score: 0
-  publishedAt: '2026-10-13T12:08:38.000Z'
-- id: arxiv-2610.18201v1
+  publishedAt: '2026-10-13T17:59:57.000Z'
+- id: arxiv-2610.18858v1
   title: >-
-    How Reliable Are Large Language Models for Soil Organic Carbon Assessment? An Australian
-    Benchmark
+    Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in
+    Multimodal LLMs
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.18201v1
+  url: http://arxiv.org/abs/2610.18858v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-13T11:37:20.000Z'
-- id: arxiv-2610.18200v1
-  title: 'A Few More Tokens Ahead: Reinforcing Parallelism in Diffusion LLMs'
+  publishedAt: '2026-10-13T17:59:24.000Z'
+- id: arxiv-2610.18851v1
+  title: 'MFG: Multi-turn Feedback Guided Molecular Optimization'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.18200v1
+  url: http://arxiv.org/abs/2610.18851v1
   source: arxiv
   tags:
     - arxiv
-    - llm
   score: 0
-  publishedAt: '2026-10-13T11:37:04.000Z'
-- id: arxiv-2610.18173v1
+  publishedAt: '2026-10-13T17:58:41.000Z'
+- id: arxiv-2610.18829v1
+  title: 'OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18829v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T17:54:22.000Z'
+- id: arxiv-2610.18820v1
+  title: Read the Room Before Your Model Generates
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18820v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T17:51:18.000Z'
+- id: arxiv-2610.18818v1
   title: >-
-    TRACESTEER: Trace Driven Activation Steering for Hallucination Mitigation in Diffusion Language
-    Models
+    Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation
+    with LLMs
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.18173v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-13T11:18:14.000Z'
-- id: arxiv-2610.18161v1
-  title: Benchmarking Multimodal Large Language Models for Zero-Shot Human-Object Interaction
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.18161v1
+  url: http://arxiv.org/abs/2610.18818v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-13T11:05:05.000Z'
-- id: arxiv-2610.18159v1
-  title: Claim Framing as a Driver of LLM Sycophancy
+  publishedAt: '2026-10-13T17:50:18.000Z'
+- id: arxiv-2610.18807v1
+  title: >-
+    SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit
+    Assignment and Selective Injection
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.18159v1
+  url: http://arxiv.org/abs/2610.18807v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-13T17:46:25.000Z'
+- id: arxiv-2610.18780v1
+  title: 'BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18780v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T17:34:34.000Z'
+- id: arxiv-2610.18765v1
+  title: >-
+    What Human-AI Interaction Leaves Behind: Residual Human States -- A Trajectory-Based Framework
+    and Multi-Study Analysis
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18765v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T17:26:47.000Z'
+- id: arxiv-2610.18760v1
+  title: 'Beyond the Verdict: Agentic Code Judging with Verifiable Feedback'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18760v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-13T17:22:58.000Z'
+- id: arxiv-2610.18745v1
+  title: 'SolBehave: Evaluating the Behavioural Correctness of LLM-Generated Smart Contracts'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18745v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-13T11:02:55.000Z'
+  publishedAt: '2026-10-13T17:12:59.000Z'
+- id: arxiv-2610.18735v1
+  title: 'SP$^2$ec: Adaptive Self-Speculative Decoding for Vision-Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18735v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T17:08:28.000Z'
+- id: arxiv-2610.18724v1
+  title: 'AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18724v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T17:04:33.000Z'
+- id: arxiv-2610.18683v1
+  title: >-
+    ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement
+    Learning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18683v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-13T16:39:38.000Z'
+- id: arxiv-2610.18674v1
+  title: 'From Relation-Specific Heads to Shared Interventions: Contextual Entrainment in Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18674v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T16:33:02.000Z'
+- id: arxiv-2610.18642v1
+  title: 'MultiAlloc: Budget-Aware Precision Allocation for KV Cache Quantization'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18642v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T16:10:45.000Z'
+- id: arxiv-2610.18635v1
+  title: 'DTScribe: Generating Models for Digital Twin Reporting using Local Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18635v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T16:07:43.000Z'
+- id: arxiv-2610.18615v1
+  title: 'VideoJev: System One Model for Video Understanding and Interaction'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18615v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T16:00:41.000Z'
+- id: arxiv-2610.18610v1
+  title: 'Jev-ToM: Evaluating Theory of Mind in Typed Decision Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18610v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T15:59:00.000Z'
+- id: arxiv-2610.18606v1
+  title: >-
+    Beyond Answer Voting: Fine-Grained Correction of LLM Reasoning through Graph Alignment across
+    Sampled Traces
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18606v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T15:58:02.000Z'
+- id: arxiv-2610.18605v1
+  title: 'From Hindsight to Foresight: Dissecting Clinical Evidence Acquisition in Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18605v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T15:57:56.000Z'
+- id: arxiv-2610.18604v1
+  title: 'LLM2R: From Large Language Models to 3D Reassemblers'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18604v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T15:57:41.000Z'
+- id: arxiv-2610.18573v1
+  title: >-
+    The Many Morals of AI: The cautionary bias of North American news narratives in global
+    perspective
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18573v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T15:40:19.000Z'
+- id: arxiv-2610.18572v1
+  title: LLM Agents for Automated Post-Training via Structured Recipe Optimization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18572v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T15:39:34.000Z'
+- id: arxiv-2610.18567v1
+  title: 'Configuring RAG Systems: What Breaks, Where Originates, and How to Fix'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18567v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T15:37:27.000Z'
