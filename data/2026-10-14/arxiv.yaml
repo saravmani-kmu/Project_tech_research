@@ -1,0 +1,280 @@
+- id: arxiv-2610.18515v1
+  title: A Global View of How LLMs Value Human Time
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18515v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T15:08:38.000Z'
+- id: arxiv-2610.18504v1
+  title: 'How Low Can You Go: Fine-Tuning LLMs with Bayesian Optimization (LlMBO)'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18504v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T14:58:27.000Z'
+- id: arxiv-2610.18499v1
+  title: 'EgoOmniWorld: Unifying Egocentric Understanding via Ego-Action-World Interactions'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18499v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T14:53:16.000Z'
+- id: arxiv-2610.18457v1
+  title: 'Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18457v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T14:24:26.000Z'
+- id: arxiv-2610.18455v1
+  title: 'EmoGenie: Benchmarking and Evaluating Expressed and Evoked Emotion in T2I Generation with MLLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18455v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T14:23:07.000Z'
+- id: arxiv-2610.18435v1
+  title: How Well Do LLMs Perform in Peer Review? Evidence from Finance and Accounting
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18435v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T14:11:35.000Z'
+- id: arxiv-2610.18430v1
+  title: >-
+    FedGraph: Defending Federated Large Language Model Fine-Tuning Against Backdoor Attacks via
+    Graph-Based Aggregation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18430v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T14:08:49.000Z'
+- id: arxiv-2610.18415v1
+  title: Do Factuality Methods Make LLMs More Factual? Reproducibility and Fair Comparison
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18415v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T13:54:51.000Z'
+- id: arxiv-2610.18399v1
+  title: 'Bifocal: Training-Free Mixed Granularity Visual Token Pruning for Multimodal LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18399v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T13:46:32.000Z'
+- id: arxiv-2610.18389v1
+  title: 'PRISM: Calibrating Black-Box Judges with Counterfactual Probes'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18389v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T13:39:50.000Z'
+- id: arxiv-2610.18388v1
+  title: 'ReDiS: Reasoning-Diagnosis Self-Evolution for Multimodal Reasoning in Remote Sensing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18388v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T13:38:02.000Z'
+- id: arxiv-2610.18369v1
+  title: Hallucination-aware Faithful Reasoning in Remote Sensing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18369v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T13:28:00.000Z'
+- id: arxiv-2610.18354v1
+  title: Choosing LLMs for Strategic Agent Interactions
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18354v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T13:21:27.000Z'
+- id: arxiv-2610.18343v1
+  title: >-
+    Lightweight but Linguistically Fair? Quantisation Robustness across Bavarian, German, and
+    English
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18343v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T13:15:59.000Z'
+- id: arxiv-2610.18323v1
+  title: 'Omni-RS: Unifying Multi-Task Understanding and Generation in Remote Sensing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18323v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T13:02:27.000Z'
+- id: arxiv-2610.18304v1
+  title: >-
+    Efficient Safety Guardrails through Latent Dual-Hypothesis Reasoning with On-Demand Trace
+    Reconstruction
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18304v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T12:49:47.000Z'
+- id: arxiv-2610.18298v1
+  title: >-
+    Output Discipline Sets the Floor: A Falsification-Guided, Model-Agnostic Agent Protocol for
+    Auditable Hypothesis-Driven Decision Making
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18298v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T12:46:44.000Z'
+- id: arxiv-2610.18269v1
+  title: >-
+    PAINT: A Framework for Multilingual Pain Representation from Medical Licensing Exams to
+    Real-World Clinical Texts
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18269v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T12:28:53.000Z'
+- id: arxiv-2610.18248v1
+  title: >-
+    Are We Testing Too Much? A Survey of Benchmark Compression for Efficient Evaluation of Large
+    Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18248v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T12:15:07.000Z'
+- id: arxiv-2610.18240v1
+  title: 'Beyond Answer Sharing: TrueMAD for Targeted Peer Engagement in Multi-Agent Debate'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18240v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-13T12:08:38.000Z'
+- id: arxiv-2610.18201v1
+  title: >-
+    How Reliable Are Large Language Models for Soil Organic Carbon Assessment? An Australian
+    Benchmark
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18201v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T11:37:20.000Z'
+- id: arxiv-2610.18200v1
+  title: 'A Few More Tokens Ahead: Reinforcing Parallelism in Diffusion LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18200v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T11:37:04.000Z'
+- id: arxiv-2610.18173v1
+  title: >-
+    TRACESTEER: Trace Driven Activation Steering for Hallucination Mitigation in Diffusion Language
+    Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18173v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-13T11:18:14.000Z'
+- id: arxiv-2610.18161v1
+  title: Benchmarking Multimodal Large Language Models for Zero-Shot Human-Object Interaction
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18161v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T11:05:05.000Z'
+- id: arxiv-2610.18159v1
+  title: Claim Framing as a Driver of LLM Sycophancy
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.18159v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-13T11:02:55.000Z'
