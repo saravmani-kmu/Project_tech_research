@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 17795
+  score: 17814
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15587
+  score: 15588
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -89,7 +89,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11739
+  score: 11742
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -128,7 +128,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8444
+  score: 8449
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -155,7 +155,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8344
+  score: 8345
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -197,7 +197,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 7970
+  score: 7995
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -217,7 +217,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7258
+  score: 7259
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -399,7 +399,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6650
+  score: 6653
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -467,7 +467,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6342
+  score: 6343
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -490,7 +490,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6287
+  score: 6289
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -509,7 +509,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6256
+  score: 6260
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -539,7 +539,48 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6163
+  score: 6168
+- id: huggingface-model-autotrust/JEV-27B-VL
+  title: autotrust/JEV-27B-VL
+  summary: image-text-to-text
+  details: >-
+    Model · transformers, safetensors, qwen3_5, image-text-to-text, jev, system-one, system-two,
+    typed-decisions, decision-model, calibrated-probabilities, multimodal, vision, zero-shot,
+    decision-index, recommendation, lora, vllm, conversational, en,
+    dataset:SargeDev/jev-distill-corpus-v3, arxiv:2609.14973, arxiv:2512.16899,
+    base_model:Qwen/Qwen3.8-27B, base_model:adapter:Qwen/Qwen3.8-27B, license:apache-2.0,
+    endpoints_compatible, region:us
+  url: https://huggingface.co/autotrust/JEV-27B-VL
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - qwen3_5
+    - image-text-to-text
+    - jev
+    - system-one
+    - system-two
+    - typed-decisions
+    - decision-model
+    - calibrated-probabilities
+    - multimodal
+    - vision
+    - zero-shot
+    - decision-index
+    - recommendation
+    - lora
+    - vllm
+    - conversational
+    - en
+    - dataset:SargeDev/jev-distill-corpus-v3
+    - arxiv:2609.14973
+    - arxiv:2512.16899
+    - base_model:Qwen/Qwen3.8-27B
+    - base_model:adapter:Qwen/Qwen3.8-27B
+    - license:apache-2.0
+    - endpoints_compatible
+    - region:us
+  score: 5707
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -591,48 +632,7 @@
     - region:us
     - deploy:azure
     - azure
-  score: 5632
-- id: huggingface-model-autotrust/JEV-27B-VL
-  title: autotrust/JEV-27B-VL
-  summary: image-text-to-text
-  details: >-
-    Model · transformers, safetensors, qwen3_5, image-text-to-text, jev, system-one, system-two,
-    typed-decisions, decision-model, calibrated-probabilities, multimodal, vision, zero-shot,
-    decision-index, recommendation, lora, vllm, conversational, en,
-    dataset:SargeDev/jev-distill-corpus-v3, arxiv:2609.14973, arxiv:2512.16899,
-    base_model:Qwen/Qwen3.8-27B, base_model:adapter:Qwen/Qwen3.8-27B, license:apache-2.0,
-    endpoints_compatible, region:us
-  url: https://huggingface.co/autotrust/JEV-27B-VL
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - qwen3_5
-    - image-text-to-text
-    - jev
-    - system-one
-    - system-two
-    - typed-decisions
-    - decision-model
-    - calibrated-probabilities
-    - multimodal
-    - vision
-    - zero-shot
-    - decision-index
-    - recommendation
-    - lora
-    - vllm
-    - conversational
-    - en
-    - dataset:SargeDev/jev-distill-corpus-v3
-    - arxiv:2609.14973
-    - arxiv:2512.16899
-    - base_model:Qwen/Qwen3.8-27B
-    - base_model:adapter:Qwen/Qwen3.8-27B
-    - license:apache-2.0
-    - endpoints_compatible
-    - region:us
-  score: 5630
+  score: 5642
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -654,7 +654,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5477
+  score: 5478
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
   summary: text-generation
@@ -681,7 +681,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5408
+  score: 5410
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -710,7 +710,7 @@
     - deploy:sagemaker
     - deploy:azure
     - azure
-  score: 5365
+  score: 5374
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -760,7 +760,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 5181
+  score: 5182
 - id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
   title: unsloth/Qwen3.8-27B-GGUF
   summary: gguf, qwen3_5, unsloth
@@ -781,7 +781,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5123
+  score: 5128
 - id: huggingface-model-bigscience/bloom
   title: bigscience/bloom
   summary: text-generation
@@ -931,7 +931,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7736
+  score: 7737
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -1057,7 +1057,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3747
+  score: 3748
 - id: huggingface-space-InstantX/InstantID
   title: InstantX/InstantID
   summary: gradio, region:us
