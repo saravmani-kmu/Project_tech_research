@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 17917
+  score: 17925
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15612
+  score: 15616
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -89,7 +89,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11754
+  score: 11755
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -128,7 +128,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8481
+  score: 8484
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -155,7 +155,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8355
+  score: 8357
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -197,7 +197,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 8242
+  score: 8277
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -217,7 +217,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7272
+  score: 7275
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -285,7 +285,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6829
+  score: 7095
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -311,7 +311,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 6755
+  score: 6756
 - id: huggingface-model-openai/whisper-large-v3
   title: openai/whisper-large-v3
   summary: automatic-speech-recognition
@@ -441,7 +441,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6660
+  score: 6662
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -509,7 +509,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6353
+  score: 6354
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -532,7 +532,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6319
+  score: 6323
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -551,7 +551,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6310
+  score: 6314
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -581,7 +581,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6193
+  score: 6196
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -611,7 +611,7 @@
     - region:us
     - deploy:azure
     - azure
-  score: 5679
+  score: 5683
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -633,7 +633,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 5677
+  score: 5676
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -711,7 +711,7 @@
     - deploy:sagemaker
     - deploy:azure
     - azure
-  score: 5393
+  score: 5394
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -782,7 +782,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5159
+  score: 5167
 - id: huggingface-model-bigscience/bloom
   title: bigscience/bloom
   summary: text-generation
@@ -891,7 +891,7 @@
     - eval:math
     - region:us
     - llm
-  score: 14149
+  score: 14150
 - id: huggingface-space-jbilcke-hf/ai-comic-factory
   title: jbilcke-hf/ai-comic-factory
   summary: docker, region:us
@@ -901,7 +901,7 @@
   tags:
     - docker
     - region:us
-  score: 11321
+  score: 11322
 - id: huggingface-space-Kwai-Kolors/Kolors-Virtual-Try-On
   title: Kwai-Kolors/Kolors-Virtual-Try-On
   summary: gradio, region:us
@@ -911,7 +911,7 @@
   tags:
     - gradio
     - region:us
-  score: 10209
+  score: 10210
 - id: huggingface-space-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: gradio, region:us
@@ -921,7 +921,7 @@
   tags:
     - gradio
     - region:us
-  score: 9583
+  score: 9584
 - id: huggingface-space-mteb/leaderboard
   title: mteb/leaderboard
   summary: docker, leaderboard, region:us
@@ -932,7 +932,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7740
+  score: 7742
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -976,7 +976,7 @@
     - LLMs
     - region:us
     - llm
-  score: 5107
+  score: 5108
 - id: huggingface-space-lmarena-ai/arena-leaderboard
   title: lmarena-ai/arena-leaderboard
   summary: static, leaderboard, region:us
@@ -1028,7 +1028,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3907
+  score: 3908
 - id: huggingface-space-KlingTeam/LivePortrait
   title: KlingTeam/LivePortrait
   summary: gradio, Multimodal, Motion control
@@ -1088,7 +1088,7 @@
   tags:
     - gradio
     - region:us
-  score: 3407
+  score: 3408
 - id: huggingface-space-HuggingFaceTB/smol-training-playbook
   title: HuggingFaceTB/smol-training-playbook
   summary: docker, research-article-template, research paper
@@ -1104,7 +1104,7 @@
     - scientific paper
     - data visualization
     - region:us
-  score: 3333
+  score: 3334
 - id: huggingface-space-akhaliq/anycoder
   title: akhaliq/anycoder
   summary: docker, region:us
@@ -1145,4 +1145,4 @@
   tags:
     - gradio
     - region:us
-  score: 2983
+  score: 2984
