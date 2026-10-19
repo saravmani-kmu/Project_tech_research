@@ -193,22 +193,6 @@
   score: 0
   publishedAt: '2026-10-13T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Asana cuts model costs 76x in browser tests with GPT-6.1 Sol
-  summary: >-
-    Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to
-    offer customers more capable models.
-  details: >-
-    Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to
-    offer customers more capable models.
-  url: https://openai.com/index/asana-browser-agent
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-10-09T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Sophos cuts threat investigation time by 96% with OpenAI Daybreak
   summary: >-
     Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and
@@ -217,6 +201,22 @@
     Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and
     automate 52% of MDR cases while preserving human oversight.
   url: https://openai.com/index/sophos
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-10-09T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Asana cuts model costs 76x in browser tests with GPT-6.1 Sol
+  summary: >-
+    Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to
+    offer customers more capable models.
+  details: >-
+    Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to
+    offer customers more capable models.
+  url: https://openai.com/index/asana-browser-agent
   source: rss
   tags:
     - genai
@@ -594,22 +594,6 @@
   score: 0
   publishedAt: '2026-09-29T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Towards safety cases for frontier AI training
-  summary: >-
-    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
-    operational practices, and investigating misalignment incidents
-  details: >-
-    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
-    operational practices, and investigating misalignment incidents
-  url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-28T19:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How we will do better for Australia
   summary: >-
     OpenAI apologises for incidents involving Australian government websites and outlines stronger
@@ -618,6 +602,22 @@
     OpenAI apologises for incidents involving Australian government websites and outlines stronger
     safeguards and support to strengthen Australia’s cyber defences.
   url: https://openai.com/index/how-we-will-do-better-for-australia
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-28T19:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Towards safety cases for frontier AI training
+  summary: >-
+    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
+    operational practices, and investigating misalignment incidents
+  details: >-
+    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
+    operational practices, and investigating misalignment incidents
+  url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
   source: rss
   tags:
     - genai
@@ -642,6 +642,22 @@
   score: 0
   publishedAt: '2026-09-28T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
+  summary: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  details: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  url: https://openai.com/index/basis-tax-workbook-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-28T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Are you a Codex Original?
   summary: >-
     We’re collecting real stories of builders, tinkerers, researchers, and creators who are using
@@ -652,22 +668,6 @@
     Codex to do incredible things. If you want to be a part of the next chapter of the Codex
     Originals program, tell us more about your story and project below.
   url: https://openai.com/form/codex-originals
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-28T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
-  summary: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  details: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  url: https://openai.com/index/basis-tax-workbook-with-astra
   source: rss
   tags:
     - genai
@@ -752,23 +752,6 @@
   score: 0
   publishedAt: '2026-09-23T13:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
-  summary: >-
-    Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90%
-    less cost vs. GPT-4.1.
-  details: >-
-    Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90%
-    less cost vs. GPT-4.1.
-  url: https://openai.com/index/ringg
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-    - agentic-ai
-  score: 0
-  publishedAt: '2026-09-23T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Harvey turns legal context into stronger drafts with GPT-6 Astra
   summary: >-
     GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
@@ -798,6 +781,23 @@
     - genai
     - llm
     - openai
+  score: 0
+  publishedAt: '2026-09-23T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+  summary: >-
+    Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90%
+    less cost vs. GPT-4.1.
+  details: >-
+    Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90%
+    less cost vs. GPT-4.1.
+  url: https://openai.com/index/ringg
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-09-23T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -1553,22 +1553,6 @@
   score: 0
   publishedAt: '2026-09-03T13:15:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Legora reviewed 41 documents in minutes with GPT-6 Astra
-  summary: >-
-    Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
-    improve performance by nearly 40% in this financial-review workflow.
-  details: >-
-    Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
-    improve performance by nearly 40% in this financial-review workflow.
-  url: https://openai.com/index/legora-financial-statement-review-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-03T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Playco cut manual fixes 50% prototyping games with GPT-6 Astra
   summary: >-
     Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
@@ -1577,6 +1561,22 @@
     Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
     reported 50% fewer manual fixes than with the previous model.
   url: https://openai.com/index/playco-game-prototyping-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-03T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Legora reviewed 41 documents in minutes with GPT-6 Astra
+  summary: >-
+    Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
+    improve performance by nearly 40% in this financial-review workflow.
+  details: >-
+    Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
+    improve performance by nearly 40% in this financial-review workflow.
+  url: https://openai.com/index/legora-financial-statement-review-with-astra
   source: rss
   tags:
     - genai
@@ -3049,22 +3049,6 @@
   score: 0
   publishedAt: '2026-07-14T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sales workflows with ChatGPT Work
-  summary: >-
-    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
-    forecast reviews, and deal diagnosis.
-  details: >-
-    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
-    forecast reviews, and deal diagnosis.
-  url: https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-07-14T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Data science workflows with ChatGPT Work
   summary: >-
     Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and
@@ -3073,6 +3057,22 @@
     Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and
     dashboard specifications.
   url: https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-07-14T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Sales workflows with ChatGPT Work
+  summary: >-
+    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
+    forecast reviews, and deal diagnosis.
+  details: >-
+    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
+    forecast reviews, and deal diagnosis.
+  url: https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
   source: rss
   tags:
     - genai
@@ -3129,6 +3129,22 @@
   score: 0
   publishedAt: '2026-07-09T13:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: ChatGPT is now a partner for your most ambitious work
+  summary: >-
+    ChatGPT Work is an agent that can take action across your apps and files, stay with a project
+    for hours if needed, and turn a goal into finished work.
+  details: >-
+    ChatGPT Work is an agent that can take action across your apps and files, stay with a project
+    for hours if needed, and turn a goal into finished work.
+  url: https://openai.com/index/chatgpt-for-your-most-ambitious-work
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-07-09T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: GPT-5.5 Bio Bug Bounty
   summary: Details about the OpenAI Bio Bounty program
   details: Details about the OpenAI Bio Bounty program
@@ -3149,22 +3165,6 @@
     More intelligence from every token, stronger performance per dollar, and more capability on
     demand for your hardest work.
   url: https://openai.com/index/gpt-5-6
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-07-09T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: ChatGPT is now a partner for your most ambitious work
-  summary: >-
-    ChatGPT Work is an agent that can take action across your apps and files, stay with a project
-    for hours if needed, and turn a goal into finished work.
-  details: >-
-    ChatGPT Work is an agent that can take action across your apps and files, stay with a project
-    for hours if needed, and turn a goal into finished work.
-  url: https://openai.com/index/chatgpt-for-your-most-ambitious-work
   source: rss
   tags:
     - genai
@@ -3233,22 +3233,6 @@
   score: 0
   publishedAt: '2026-07-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Australian Payments Plus moves faster with ChatGPT and Codex
-  summary: >-
-    See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through
-    payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
-  details: >-
-    See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through
-    payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
-  url: https://openai.com/index/australian-payments-plus
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-07-07T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: MUFG aims to become AI-native with OpenAI
   summary: >-
     MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver
@@ -3257,6 +3241,22 @@
     MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver
     new AI-powered financial services at scale.
   url: https://openai.com/index/mufg
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-07-07T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Australian Payments Plus moves faster with ChatGPT and Codex
+  summary: >-
+    See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through
+    payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
+  details: >-
+    See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through
+    payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
+  url: https://openai.com/index/australian-payments-plus
   source: rss
   tags:
     - genai
@@ -3281,14 +3281,10 @@
   score: 0
   publishedAt: '2026-06-30T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Core dump epidemiology: fixing an 18-year-old bug'
-  summary: >-
-    OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes,
-    uncovering both a hardware fault and a long-standing software bug.
-  details: >-
-    OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes,
-    uncovering both a hardware fault and a long-standing software bug.
-  url: https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
+  title: Inside Genebench-Pro
+  summary: ''
+  details: ''
+  url: https://openai.com/index/genebench-pro/case-studies
   source: rss
   tags:
     - genai
@@ -3313,10 +3309,14 @@
   score: 0
   publishedAt: '2026-06-30T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Inside Genebench-Pro
-  summary: ''
-  details: ''
-  url: https://openai.com/index/genebench-pro/case-studies
+  title: 'Core dump epidemiology: fixing an 18-year-old bug'
+  summary: >-
+    OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes,
+    uncovering both a hardware fault and a long-standing software bug.
+  details: >-
+    OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes,
+    uncovering both a hardware fault and a long-standing software bug.
+  url: https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
   source: rss
   tags:
     - genai
@@ -3454,22 +3454,6 @@
   score: 0
   publishedAt: '2026-06-23T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Daybreak: Tools for securing every organization in the world'
-  summary: >-
-    OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help
-    organizations find, validate, and patch vulnerabilities at scale.
-  details: >-
-    OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help
-    organizations find, validate, and patch vulnerabilities at scale.
-  url: https://openai.com/index/daybreak-securing-the-world
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-06-22T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Patch the Planet: a Daybreak initiative to support open source maintainers'
   summary: >-
     OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find,
@@ -3478,6 +3462,22 @@
     OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find,
     validate, and fix vulnerabilities with AI and expert review.
   url: https://openai.com/index/patch-the-planet
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-06-22T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Daybreak: Tools for securing every organization in the world'
+  summary: >-
+    OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help
+    organizations find, validate, and patch vulnerabilities at scale.
+  details: >-
+    OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help
+    organizations find, validate, and patch vulnerabilities at scale.
+  url: https://openai.com/index/daybreak-securing-the-world
   source: rss
   tags:
     - genai
@@ -3662,22 +3662,6 @@
   score: 0
   publishedAt: '2026-06-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Supporting Europe’s work in ensuring a trustworthy AI ecosystem
-  summary: >-
-    OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance
-    standards and tools to help people understand AI-generated content.
-  details: >-
-    OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance
-    standards and tools to help people understand AI-generated content.
-  url: https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-06-11T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How an astrophysicist uses Codex to help simulate black holes
   summary: >-
     Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping
@@ -3686,6 +3670,38 @@
     Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping
     scientists study extreme physics and test Einstein’s theory of general relativity.
   url: https://openai.com/index/using-codex-to-simulate-black-holes
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-06-11T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: BBVA puts AI at the core of banking with OpenAI
+  summary: >-
+    Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to
+    accelerate AI-powered banking transformation worldwide.
+  details: >-
+    Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to
+    accelerate AI-powered banking transformation worldwide.
+  url: https://openai.com/index/bbva
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-06-11T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Supporting Europe’s work in ensuring a trustworthy AI ecosystem
+  summary: >-
+    OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance
+    standards and tools to help people understand AI-generated content.
+  details: >-
+    OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance
+    standards and tools to help people understand AI-generated content.
+  url: https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem
   source: rss
   tags:
     - genai
@@ -3708,22 +3724,6 @@
     - llm
     - openai
     - agentic-ai
-  score: 0
-  publishedAt: '2026-06-11T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: BBVA puts AI at the core of banking with OpenAI
-  summary: >-
-    Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to
-    accelerate AI-powered banking transformation worldwide.
-  details: >-
-    Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to
-    accelerate AI-powered banking transformation worldwide.
-  url: https://openai.com/index/bbva
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
   score: 0
   publishedAt: '2026-06-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -3950,22 +3950,6 @@
   score: 0
   publishedAt: '2026-06-03T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: A blueprint for democratic governance of frontier AI
-  summary: >-
-    OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework
-    for safety, resilience, and national security.
-  details: >-
-    OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework
-    for safety, resilience, and national security.
-  url: https://openai.com/index/frontier-safety-blueprint
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-06-03T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI public policy agenda
   summary: >-
     OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce
@@ -3974,6 +3958,22 @@
     OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce
     transition, and global standards to ensure AI benefits society.
   url: https://openai.com/index/public-policy-agenda
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-06-03T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: A blueprint for democratic governance of frontier AI
+  summary: >-
+    OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework
+    for safety, resilience, and national security.
+  details: >-
+    OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework
+    for safety, resilience, and national security.
+  url: https://openai.com/index/frontier-safety-blueprint
   source: rss
   tags:
     - genai
@@ -15583,10 +15583,10 @@
   score: 0
   publishedAt: '2024-04-02T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Reducing health insurance costs and improving care
-  summary: Oscar brings AI to health insurance, reducing costs and improving patient care.
-  details: Oscar brings AI to health insurance, reducing costs and improving patient care.
-  url: https://openai.com/index/oscar
+  title: Start using ChatGPT instantly
+  summary: We’re making it easier for people to experience the benefits of AI without needing to sign up
+  details: We’re making it easier for people to experience the benefits of AI without needing to sign up
+  url: https://openai.com/index/start-using-chatgpt-instantly
   source: rss
   tags:
     - genai
@@ -15595,10 +15595,10 @@
   score: 0
   publishedAt: '2024-04-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Start using ChatGPT instantly
-  summary: We’re making it easier for people to experience the benefits of AI without needing to sign up
-  details: We’re making it easier for people to experience the benefits of AI without needing to sign up
-  url: https://openai.com/index/start-using-chatgpt-instantly
+  title: Reducing health insurance costs and improving care
+  summary: Oscar brings AI to health insurance, reducing costs and improving patient care.
+  details: Oscar brings AI to health insurance, reducing costs and improving patient care.
+  url: https://openai.com/index/oscar
   source: rss
   tags:
     - genai
@@ -15663,6 +15663,18 @@
   score: 0
   publishedAt: '2024-03-21T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Enterprise-ready trust and safety
+  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  url: https://openai.com/index/salesforce
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-03-18T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Reimagining the email experience with AI
   summary: Superhuman introduces a new era of email with OpenAI.
   details: Superhuman introduces a new era of email with OpenAI.
@@ -15691,17 +15703,17 @@
   score: 0
   publishedAt: '2024-03-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Enterprise-ready trust and safety
-  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  url: https://openai.com/index/salesforce
+  title: Saving lives with AI health coaching
+  summary: Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.
+  details: Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.
+  url: https://openai.com/index/healthify
   source: rss
   tags:
     - genai
     - llm
     - openai
   score: 0
-  publishedAt: '2024-03-18T07:00:00.000Z'
+  publishedAt: '2024-03-13T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Global news partnerships: Le Monde and Prisa Media'
   summary: >-
@@ -15711,18 +15723,6 @@
     We have partnered with international news organizations Le Monde and Prisa Media to bring French
     and Spanish news content to ChatGPT.
   url: https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-03-13T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Saving lives with AI health coaching
-  summary: Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.
-  details: Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.
-  url: https://openai.com/index/healthify
   source: rss
   tags:
     - genai
@@ -15924,14 +15924,10 @@
   score: 0
   publishedAt: '2024-01-12T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing ChatGPT Team
-  summary: >-
-    We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
-    collaborative workspace to get the most out of ChatGPT at work.
-  details: >-
-    We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
-    collaborative workspace to get the most out of ChatGPT at work.
-  url: https://openai.com/index/introducing-chatgpt-team
+  title: Introducing the GPT Store
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-the-gpt-store
   source: rss
   tags:
     - genai
@@ -15940,10 +15936,14 @@
   score: 0
   publishedAt: '2024-01-10T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing the GPT Store
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-the-gpt-store
+  title: Introducing ChatGPT Team
+  summary: >-
+    We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
+    collaborative workspace to get the most out of ChatGPT at work.
+  details: >-
+    We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
+    collaborative workspace to get the most out of ChatGPT at work.
+  url: https://openai.com/index/introducing-chatgpt-team
   source: rss
   tags:
     - genai
@@ -16179,6 +16179,18 @@
   score: 0
   publishedAt: '2023-10-19T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Building AI-powered apps for business
+  summary: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
+  details: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
+  url: https://openai.com/index/retool
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2023-10-11T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Simplifying contract reviews with AI
   summary: Ironclad uses GPT-4 to simplify the contract review process.
   details: Ironclad uses GPT-4 to simplify the contract review process.
@@ -16199,18 +16211,6 @@
     Typeform evolves online forms into dynamic and conversational data collection experiences with
     GPT-3.5 and GPT-4.
   url: https://openai.com/index/typeform
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2023-10-11T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Building AI-powered apps for business
-  summary: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
-  details: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
-  url: https://openai.com/index/retool
   source: rss
   tags:
     - genai
@@ -16730,10 +16730,10 @@
   score: 0
   publishedAt: '2023-03-17T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Stripe
-  summary: Stripe leverages GPT-4 to streamline user experience and combat fraud.
-  details: Stripe leverages GPT-4 to streamline user experience and combat fraud.
-  url: https://openai.com/index/stripe
+  title: Powering virtual education for the classroom
+  summary: Khan Academy explores the potential for GPT-4 in a limited pilot program.
+  details: Khan Academy explores the potential for GPT-4 in a limited pilot program.
+  url: https://openai.com/index/khan-academy
   source: rss
   tags:
     - genai
@@ -16785,10 +16785,10 @@
   score: 0
   publishedAt: '2023-03-14T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Filling crucial language learning gaps
-  summary: GPT-4 deepens the conversation on Duolingo.
-  details: GPT-4 deepens the conversation on Duolingo.
-  url: https://openai.com/index/duolingo
+  title: Stripe
+  summary: Stripe leverages GPT-4 to streamline user experience and combat fraud.
+  details: Stripe leverages GPT-4 to streamline user experience and combat fraud.
+  url: https://openai.com/index/stripe
   source: rss
   tags:
     - genai
@@ -16797,10 +16797,10 @@
   score: 0
   publishedAt: '2023-03-14T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Powering virtual education for the classroom
-  summary: Khan Academy explores the potential for GPT-4 in a limited pilot program.
-  details: Khan Academy explores the potential for GPT-4 in a limited pilot program.
-  url: https://openai.com/index/khan-academy
+  title: Filling crucial language learning gaps
+  summary: GPT-4 deepens the conversation on Duolingo.
+  details: GPT-4 deepens the conversation on Duolingo.
+  url: https://openai.com/index/duolingo
   source: rss
   tags:
     - genai
