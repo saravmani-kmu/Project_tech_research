@@ -18901,18 +18901,6 @@
   score: 0
   publishedAt: '2018-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/multi-goal-reinforcement-learning
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2018-02-26T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Ingredients for robotics research
   summary: >-
     We’re releasing eight simulated robotics environments and a Baselines implementation of
@@ -18924,6 +18912,18 @@
     environments to train models which work on physical robots. We’re also releasing a set of
     requests for robotics research.
   url: https://openai.com/index/ingredients-for-robotics-research
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2018-02-26T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/multi-goal-reinforcement-learning
   source: rss
   tags:
     - genai
@@ -18948,18 +18948,6 @@
   score: 0
   publishedAt: '2018-02-22T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: OpenAI supporters
-  summary: We’re excited to welcome new donors to OpenAI.
-  details: We’re excited to welcome new donors to OpenAI.
-  url: https://openai.com/index/openai-supporters
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2018-02-20T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Preparing for malicious uses of AI
   summary: >-
     We’ve co-authored a paper that forecasts how malicious actors could misuse AI technology, and
@@ -18972,6 +18960,18 @@
     the Study of Existential Risk, the Center for a New American Security, the Electronic Frontier
     Foundation, and others.
   url: https://openai.com/index/preparing-for-malicious-uses-of-ai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2018-02-20T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: OpenAI supporters
+  summary: We’re excited to welcome new donors to OpenAI.
+  details: We’re excited to welcome new donors to OpenAI.
+  url: https://openai.com/index/openai-supporters
   source: rss
   tags:
     - genai
@@ -19125,10 +19125,10 @@
   score: 0
   publishedAt: '2017-10-19T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sim-to-real transfer of robotic control with dynamics randomization
+  title: Asymmetric actor critic for image-based robot learning
   summary: ''
   details: ''
-  url: https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization
+  url: https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning
   source: rss
   tags:
     - genai
@@ -19137,10 +19137,10 @@
   score: 0
   publishedAt: '2017-10-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Asymmetric actor critic for image-based robot learning
+  title: Sim-to-real transfer of robotic control with dynamics randomization
   summary: ''
   details: ''
-  url: https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning
+  url: https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization
   source: rss
   tags:
     - genai
@@ -19161,24 +19161,6 @@
   score: 0
   publishedAt: '2017-10-17T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Meta-learning for wrestling
-  summary: >-
-    We show that for the task of simulated robot wrestling, a meta-learning agent can learn to
-    quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent
-    can adapt to physical malfunction.
-  details: >-
-    We show that for the task of simulated robot wrestling, a meta-learning agent can learn to
-    quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent
-    can adapt to physical malfunction.
-  url: https://openai.com/index/meta-learning-for-wrestling
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2017-10-11T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Competitive self-play
   summary: >-
     We’ve found that self-play allows simulated AIs to discover physical skills like tackling,
@@ -19192,6 +19174,24 @@
     right difficulty for an AI to improve. Taken alongside our Dota 2 self-play results, we have
     increasing confidence that self-play will be a core part of powerful AI systems in the future.
   url: https://openai.com/index/competitive-self-play
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2017-10-11T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Meta-learning for wrestling
+  summary: >-
+    We show that for the task of simulated robot wrestling, a meta-learning agent can learn to
+    quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent
+    can adapt to physical malfunction.
+  details: >-
+    We show that for the task of simulated robot wrestling, a meta-learning agent can learn to
+    quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent
+    can adapt to physical malfunction.
+  url: https://openai.com/index/meta-learning-for-wrestling
   source: rss
   tags:
     - genai
@@ -19769,6 +19769,18 @@
   score: 0
   publishedAt: '2016-12-05T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: '#Exploration: A study of count-based exploration for deep reinforcement learning'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/exploration
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2016-11-15T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI and Microsoft
   summary: We’re working with Microsoft to start running most of our large-scale experiments on Azure.
   details: We’re working with Microsoft to start running most of our large-scale experiments on Azure.
@@ -19779,18 +19791,6 @@
     - llm
     - openai
     - azure
-  score: 0
-  publishedAt: '2016-11-15T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: '#Exploration: A study of count-based exploration for deep reinforcement learning'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/exploration
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
   score: 0
   publishedAt: '2016-11-15T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -20009,10 +20009,10 @@
   score: 0
   publishedAt: '2016-06-16T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Adversarial training methods for semi-supervised text classification
-  summary: ''
-  details: ''
-  url: https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification
+  title: Team update
+  summary: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
+  details: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
+  url: https://openai.com/index/team-update
   source: rss
   tags:
     - genai
@@ -20021,10 +20021,10 @@
   score: 0
   publishedAt: '2016-05-25T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Team update
-  summary: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
-  details: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
-  url: https://openai.com/index/team-update
+  title: Adversarial training methods for semi-supervised text classification
+  summary: ''
+  details: ''
+  url: https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification
   source: rss
   tags:
     - genai

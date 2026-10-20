@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 18016
+  score: 18030
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15649
+  score: 15655
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -65,7 +65,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14394
+  score: 14395
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -89,46 +89,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11775
-- id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
-  title: meta-llama/Llama-3.1-8B-Instruct
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3,
-    conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149,
-    base_model:meta-llama/Llama-3.1-8B, base_model:finetune:meta-llama/Llama-3.1-8B,
-    license:llama3.1, eval-results, text-generation-inference, endpoints_compatible, region:us,
-    deploy:sagemaker
-  url: https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - llama
-    - text-generation
-    - facebook
-    - meta
-    - pytorch
-    - llama-3
-    - conversational
-    - en
-    - de
-    - fr
-    - it
-    - pt
-    - hi
-    - es
-    - th
-    - arxiv:2204.05149
-    - base_model:meta-llama/Llama-3.1-8B
-    - base_model:finetune:meta-llama/Llama-3.1-8B
-    - license:llama3.1
-    - eval-results
-    - text-generation-inference
-    - endpoints_compatible
-    - region:us
-    - deploy:sagemaker
-  score: 8514
+  score: 11777
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -170,7 +131,46 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 8500
+  score: 8532
+- id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
+  title: meta-llama/Llama-3.1-8B-Instruct
+  summary: text-generation
+  details: >-
+    Model · transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3,
+    conversational, en, de, fr, it, pt, hi, es, th, arxiv:2204.05149,
+    base_model:meta-llama/Llama-3.1-8B, base_model:finetune:meta-llama/Llama-3.1-8B,
+    license:llama3.1, eval-results, text-generation-inference, endpoints_compatible, region:us,
+    deploy:sagemaker
+  url: https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - llama
+    - text-generation
+    - facebook
+    - meta
+    - pytorch
+    - llama-3
+    - conversational
+    - en
+    - de
+    - fr
+    - it
+    - pt
+    - hi
+    - es
+    - th
+    - arxiv:2204.05149
+    - base_model:meta-llama/Llama-3.1-8B
+    - base_model:finetune:meta-llama/Llama-3.1-8B
+    - license:llama3.1
+    - eval-results
+    - text-generation-inference
+    - endpoints_compatible
+    - region:us
+    - deploy:sagemaker
+  score: 8519
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -217,7 +217,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7231
+  score: 7232
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -399,7 +399,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6667
+  score: 6668
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -422,7 +422,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6353
+  score: 6360
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -441,7 +441,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6336
+  score: 6342
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -471,7 +471,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6225
+  score: 6236
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -539,14 +539,14 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5974
+  score: 5975
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
   details: >-
     Model · transformers, safetensors, laya, system-one, calibrated-decisions, rlcd, classification,
     routing, scoring, guardrails, moderation, reinforcement-learning, commercial-use,
-    text-classification, license:apache-2.0, endpoints_compatible, region:us, deploy:azure
+    text-classification, license:apache-2.0, endpoints_compatible, deploy:azure, region:us
   url: https://huggingface.co/convaiinnovations/laya
   source: huggingface
   tags:
@@ -566,10 +566,10 @@
     - text-classification
     - license:apache-2.0
     - endpoints_compatible
-    - region:us
     - deploy:azure
+    - region:us
     - azure
-  score: 5719
+  score: 5725
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -614,6 +614,35 @@
     - region:us
     - azure
   score: 5489
+- id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
+  title: meta-llama/Meta-Llama-3-8B-Instruct
+  summary: text-generation
+  details: >-
+    Model · transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3,
+    conversational, en, license:llama3, eval-results, text-generation-inference,
+    endpoints_compatible, deploy:sagemaker, deploy:azure, region:us
+  url: https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - llama
+    - text-generation
+    - facebook
+    - meta
+    - pytorch
+    - llama-3
+    - conversational
+    - en
+    - license:llama3
+    - eval-results
+    - text-generation-inference
+    - endpoints_compatible
+    - deploy:sagemaker
+    - deploy:azure
+    - region:us
+    - azure
+  score: 5427
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
   summary: text-generation
@@ -641,35 +670,6 @@
     - region:us
     - azure
   score: 5426
-- id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
-  title: meta-llama/Meta-Llama-3-8B-Instruct
-  summary: text-generation
-  details: >-
-    Model · transformers, safetensors, llama, text-generation, facebook, meta, pytorch, llama-3,
-    conversational, en, license:llama3, eval-results, text-generation-inference,
-    endpoints_compatible, region:us, deploy:sagemaker, deploy:azure
-  url: https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - llama
-    - text-generation
-    - facebook
-    - meta
-    - pytorch
-    - llama-3
-    - conversational
-    - en
-    - license:llama3
-    - eval-results
-    - text-generation-inference
-    - endpoints_compatible
-    - region:us
-    - deploy:sagemaker
-    - deploy:azure
-    - azure
-  score: 5419
 - id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
   title: unsloth/Qwen3.8-27B-GGUF
   summary: gguf, qwen3_5, unsloth
@@ -690,7 +690,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5209
+  score: 5216
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -717,7 +717,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5192
+  score: 5193
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
   summary: text-generation
@@ -846,7 +846,7 @@
   tags:
     - docker
     - region:us
-  score: 16610
+  score: 16604
 - id: huggingface-space-open-llm-leaderboard/open_llm_leaderboard
   title: open-llm-leaderboard/open_llm_leaderboard
   summary: docker, leaderboard, modality:text
@@ -866,7 +866,7 @@
     - eval:math
     - region:us
     - llm
-  score: 14139
+  score: 14138
 - id: huggingface-space-jbilcke-hf/ai-comic-factory
   title: jbilcke-hf/ai-comic-factory
   summary: docker, region:us
@@ -907,7 +907,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7739
+  score: 7740
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -951,7 +951,7 @@
     - LLMs
     - region:us
     - llm
-  score: 5109
+  score: 5110
 - id: huggingface-space-lmarena-ai/arena-leaderboard
   title: lmarena-ai/arena-leaderboard
   summary: static, leaderboard, region:us
@@ -972,7 +972,7 @@
   tags:
     - gradio
     - region:us
-  score: 4775
+  score: 4771
 - id: huggingface-space-KingNish/OpenGPT-4o
   title: KingNish/OpenGPT-4o
   summary: gradio, region:us
@@ -992,7 +992,7 @@
   tags:
     - static
     - region:us
-  score: 4087
+  score: 4088
 - id: huggingface-space-mrfakename/Z-Image-Turbo
   title: mrfakename/Z-Image-Turbo
   summary: gradio, mcp-server, region:us
@@ -1033,7 +1033,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3755
+  score: 3757
 - id: huggingface-space-InstantX/InstantID
   title: InstantX/InstantID
   summary: gradio, region:us
@@ -1053,7 +1053,7 @@
   tags:
     - gradio
     - region:us
-  score: 3523
+  score: 3524
 - id: huggingface-space-tencent/Hunyuan3D-2
   title: tencent/Hunyuan3D-2
   summary: gradio, region:us
@@ -1063,7 +1063,7 @@
   tags:
     - gradio
     - region:us
-  score: 3412
+  score: 3414
 - id: huggingface-space-HuggingFaceTB/smol-training-playbook
   title: HuggingFaceTB/smol-training-playbook
   summary: docker, research-article-template, research paper
@@ -1079,7 +1079,7 @@
     - scientific paper
     - data visualization
     - region:us
-  score: 3337
+  score: 3338
 - id: huggingface-space-akhaliq/anycoder
   title: akhaliq/anycoder
   summary: docker, region:us
@@ -1100,7 +1100,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3237
+  score: 3238
 - id: huggingface-space-mukaist/Midjourney
   title: mukaist/Midjourney
   summary: gradio, region:us
