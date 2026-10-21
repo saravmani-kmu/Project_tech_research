@@ -1,0 +1,46 @@
+- id: hackernews-43782869
+  title: 'Show HN: High-performance GenAI engine now open source'
+  summary: >-
+    Hey HN<p>After one too many customer firedrills regarding hallucinating or insecure AI models,
+    we built a system to catch these issues before they reached production. The Arthur Engine has
+    been runnin
+  details: >-
+    Hey HN<p>After one too many customer firedrills regarding hallucinating or insecure AI models,
+    we built a system to catch these issues before they reached production. The Arthur Engine has
+    been running in Fortune 100 to AI Native Start-Ups over the past two years, putting security
+    controls around more than 10 billion tokens in production every month. We&#x27;re now opening up
+    this service to developers, enabling you to leverage enterprise-grade solutions to provide
+    guardrails and evals as a service, all for free.<p>Get it on Github (<a
+    href="https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;arthur-engine">https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;arthur-engine</a>)
+    to start evaluating your models today<p>Highlights of Arthur&#x27;s Engine include:<p>* Built
+    for speed and scale: It performs well with p90 latencies of sub-second well over 100+ RPS<p>*
+    Made for full lifecycle support: Ideal for pre-production validation, real-time guardrails, and
+    post-production monitoring.<p>* Ease of use: It is designed to be easy for anyone to run and
+    deploy whether you&#x27;re working on it locally during development, or you&#x27;re deploying it
+    within a horizontally-scaling architecture for large-scale workloads.<p>* Unification of
+    generative and traditional AI: The Arthur AI Engine can be used to evaluate a diverse range of
+    models from LLMs and Agentic AI systems to binary classifiers, regression models, recommender
+    systems, forecasting models, and more.<p>* Content-specific guardrail and detection features:
+    Ranging from toxicity and hallucination detection to sensitive data (like PII,
+    keyword&#x2F;regex and custom rules) and prompt injection.<p>* Customizability: Plug in your own
+    models or integrate with other model or guardrail providers with ease, and tailor the system to
+    match your specific needs.<p>Having been first-hand witnesses to the lack of adequate AI
+    monitoring tools and the general under delivery of Gen AI systems in production, we believe that
+    such a capability shouldn&#x27;t be exclusive to big-budget organizations. Our mission is to
+    make AI better, for everyone, and we believe by opening up this tool we can help more people get
+    to that goal.<p>Check out our GitHub repo for examples and directions on how to use the Arthur
+    AI Engine for various purposes such as validation during development, real-time guardrails or
+    performance troubleshooting using enriched logging data. (<a
+    href="https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;engine-examples">https:&#x2F;&#x2F;github.com&#x2F;arthur-ai&#x2F;engine-examples</a>)<p>We
+    can’t wait to see what you build<p>— Zach and Team Arthur
+  url: https://github.com/arthur-ai/arthur-engine
+  source: hackernews
+  tags:
+    - author_fryz
+    - story_43782869
+    - show_hn
+    - agentic-ai
+    - llm
+    - genai
+  score: 22
+  publishedAt: '2025-04-24T13:55:19Z'
