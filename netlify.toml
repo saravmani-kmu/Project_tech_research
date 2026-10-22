@@ -1,0 +1,17 @@
+# Netlify build for the Angular frontend.
+# The GitHub Pages build (npm run build:pages) hardcodes the /Project_tech_research/ base href,
+# which would break on a Netlify root domain, so this runs the same steps with base href "/".
+# Uses `npm install` (not `npm ci`) to match the CI workaround documented in CLAUDE.md.
+
+[build]
+  command = "cd frontend && npm install && npx ng build --base-href / && node scripts/copy-data.js dist/frontend/browser"
+  publish = "frontend/dist/frontend/browser"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Client-side routing: serve index.html for unknown paths (e.g. /item/:id).
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
