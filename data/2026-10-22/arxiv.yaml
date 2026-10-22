@@ -1,270 +1,283 @@
-- id: arxiv-2610.29588v1
-  title: 'SatCraft: Agentic Optimization of Scheduling Policies for Satellite-Cellular Edge Services'
+- id: arxiv-2610.30132v1
+  title: 'LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.29588v1
+  url: http://arxiv.org/abs/2610.30132v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T17:59:14.000Z'
+- id: arxiv-2610.30113v1
+  title: 'Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30113v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T17:54:01.000Z'
+- id: arxiv-2610.30099v1
+  title: Differentially Private Sparse Reward Estimation with Preference Feedback
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30099v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T17:45:42.000Z'
+- id: arxiv-2610.30043v1
+  title: >-
+    TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving
+    Physical and Social Environments
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30043v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T17:02:52.000Z'
+- id: arxiv-2610.30016v1
+  title: 'Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30016v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T16:45:43.000Z'
+- id: arxiv-2610.29999v1
+  title: >-
+    EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix
+    Importance-Ratio Clipping
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29999v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T16:37:09.000Z'
+- id: arxiv-2610.29985v1
+  title: 'TIDE: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29985v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T16:27:48.000Z'
+- id: arxiv-2610.29961v1
+  title: Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29961v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T16:17:49.000Z'
+- id: arxiv-2610.29934v1
+  title: 'ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29934v1
   source: arxiv
   tags:
     - arxiv
     - agentic-ai
   score: 0
-  publishedAt: '2026-10-21T11:29:37.000Z'
-- id: arxiv-2610.29555v1
-  title: 'WRDO: Weighted Refusal Direction Optimization in Aligned Language Models'
+  publishedAt: '2026-10-21T16:05:54.000Z'
+- id: arxiv-2610.29925v1
+  title: Privacy in Context Is Being Overlooked in the Age of General-Purpose LLMs
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.29555v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T10:42:25.000Z'
-- id: arxiv-2610.29552v1
-  title: Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29552v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T10:39:56.000Z'
-- id: arxiv-2610.29544v1
-  title: 'RISK-KV: Quality-Aware Selective KV Cache Reconstruction for Distributed LLM Inference'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29544v1
+  url: http://arxiv.org/abs/2610.29925v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-21T10:30:46.000Z'
-- id: arxiv-2610.29537v1
-  title: 'Melange: A Synthetic Visual Bias Benchmark for Multi-modal Large Language Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29537v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T10:25:06.000Z'
-- id: arxiv-2610.29527v1
-  title: 'RCSD: Reinforcement and Continual Learning for Domain-Specific Speculative Decoding'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29527v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T10:16:23.000Z'
-- id: arxiv-2610.29520v1
-  title: 'Beyond the Vote: When Do LLMs Add Value to Retrieval-Based Tabular Classification?'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29520v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T10:06:29.000Z'
-- id: arxiv-2610.29518v1
-  title: Mitigating Query Shortcuts in Chain-of-Thought with Context-Aware Decoding
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29518v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T10:05:25.000Z'
-- id: arxiv-2610.29501v1
-  title: Parallel Thinking for Large Language Model with Path Diversity
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29501v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T09:51:42.000Z'
-- id: arxiv-2610.29495v1
-  title: Balancing Foundation Models and Trait-Specific Learning for Forehead-Crease Recognition
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29495v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T09:50:08.000Z'
-- id: arxiv-2610.29477v1
+  publishedAt: '2026-10-21T16:01:42.000Z'
+- id: arxiv-2610.29913v1
   title: >-
-    TenetBench: A Clause-Anchored Russian Corpus for Evaluating Language Models against Professional
-    Codes of Ethics
+    Asking a Multimodal LLM Whether Someone Fell: Zero-Shot Screening of Low-Resolution Thermal
+    Video in a Laboratory and an Occupied Home
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.29477v1
+  url: http://arxiv.org/abs/2610.29913v1
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
-  publishedAt: '2026-10-21T09:32:23.000Z'
-- id: arxiv-2610.29472v1
-  title: 'OmniSimulator: Aligning Small Language Models for Authentic Heterogeneous Behavior Modeling'
+  publishedAt: '2026-10-21T15:53:17.000Z'
+- id: arxiv-2610.29907v1
+  title: Benchmarking Large Language Models for Detecting Satirical Code-Mixed Sentences
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.29472v1
+  url: http://arxiv.org/abs/2610.29907v1
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
-  publishedAt: '2026-10-21T09:30:12.000Z'
-- id: arxiv-2610.29455v1
+  publishedAt: '2026-10-21T15:48:28.000Z'
+- id: arxiv-2610.29896v1
+  title: Investigating the Impact of Learner Errors on Social Bias in Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29896v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T15:38:13.000Z'
+- id: arxiv-2610.29895v1
   title: >-
-    Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni
-    Large Language Models
+    Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language
+    Models
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.29455v1
+  url: http://arxiv.org/abs/2610.29895v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-21T09:11:30.000Z'
-- id: arxiv-2610.29443v1
-  title: 'DynaWeave: Learning to Adapt through Dynamic Scenario Synthesis'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29443v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T09:03:10.000Z'
-- id: arxiv-2610.29409v1
-  title: 'LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29409v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T08:35:16.000Z'
-- id: arxiv-2610.29395v1
-  title: 'CertMoE: Robustness Certification for Mixture-of-Experts LLMs via Routing-Aware Smoothing'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29395v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T08:25:15.000Z'
-- id: arxiv-2610.29378v1
-  title: 'Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29378v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T08:03:24.000Z'
-- id: arxiv-2610.29358v1
-  title: 'Reading the Mask: Descriptor-Grounded BI-RADS Rationale Generation for Breast MRI Segmentation'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29358v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T07:50:20.000Z'
-- id: arxiv-2610.29346v1
-  title: Benchmarking and Error Analysis of Deep Search and Deep Research LLM Agents
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29346v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T07:38:29.000Z'
-- id: arxiv-2610.29331v1
-  title: 'From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29331v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T07:29:24.000Z'
-- id: arxiv-2610.29312v1
+  publishedAt: '2026-10-21T15:38:05.000Z'
+- id: arxiv-2610.29873v1
   title: >-
-    A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed
-    Data-Generation Platform
+    HAWK: Heterogeneity-Aware KV Cache Transfer for Efficient GPU-NPU Phase-Disaggregated LLM
+    Inference
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.29312v1
+  url: http://arxiv.org/abs/2610.29873v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-21T07:08:59.000Z'
-- id: arxiv-2610.29308v1
-  title: LLM-Based Exogenous World Modeling for Dynamic Scheduling
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29308v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T07:01:25.000Z'
-- id: arxiv-2610.29304v1
-  title: 'Situating Vulnerability: An Ethical Governance Framework for Anthropomorphic AI Interaction'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29304v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T07:00:26.000Z'
-- id: arxiv-2610.29303v1
-  title: 'ExpEvolve: Structuring and Reusing Experience for Open-Ended Discovery'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29303v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T07:00:23.000Z'
-- id: arxiv-2610.29294v1
+  publishedAt: '2026-10-21T15:25:35.000Z'
+- id: arxiv-2610.29850v1
   title: >-
-    Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision
-    Support
+    Automated Discovery of Physically Interpretable Subgrid Length Scales for Detached Eddy
+    Simulation via Agentic AI
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.29294v1
+  url: http://arxiv.org/abs/2610.29850v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-21T15:09:33.000Z'
+- id: arxiv-2610.29843v1
+  title: 'Every Part Has Its Role: Part-of-Speech Effects in LLM Post-Training'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29843v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-21T06:46:33.000Z'
+  publishedAt: '2026-10-21T15:05:51.000Z'
+- id: arxiv-2610.29836v1
+  title: 'AT-Differ: Dataset for Audio-Text Difference Captioning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29836v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T14:59:17.000Z'
+- id: arxiv-2610.29832v1
+  title: 'S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29832v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T14:55:58.000Z'
+- id: arxiv-2610.29820v1
+  title: 'UlaCache: Unified Logical Addressing for Sparse LLM Serving'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29820v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T14:46:11.000Z'
+- id: arxiv-2610.29812v1
+  title: 'Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29812v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T14:35:56.000Z'
+- id: arxiv-2610.29792v1
+  title: >-
+    MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented
+    Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29792v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T14:19:17.000Z'
+- id: arxiv-2610.29785v1
+  title: Where Do LLMs Learn to Recommend AI?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29785v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T14:13:52.000Z'
+- id: arxiv-2610.29767v1
+  title: 'ALIAS: Evaluating Performance and Memorization in LLM-Written TLA+ Specifications'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29767v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T14:02:02.000Z'
+- id: arxiv-2610.29751v1
+  title: Bridging Foundational and Agentic Capabilities of LLMs
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29751v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T13:50:43.000Z'

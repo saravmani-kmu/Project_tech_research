@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 18138
+  score: 18151
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15692
+  score: 15693
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -89,7 +89,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11787
+  score: 11791
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -131,7 +131,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 8760
+  score: 8774
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -170,7 +170,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8539
+  score: 8541
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -197,7 +197,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8370
+  score: 8371
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -217,7 +217,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7248
+  score: 7252
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -243,7 +243,7 @@
     - endpoints_compatible
     - diffusers:StableDiffusionPipeline
     - region:us
-  score: 7134
+  score: 7137
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -399,7 +399,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6676
+  score: 6677
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -418,7 +418,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6391
+  score: 6392
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -441,7 +441,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6386
+  score: 6387
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -471,7 +471,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6269
+  score: 6273
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -539,7 +539,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5981
+  score: 5987
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -569,7 +569,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5761
+  score: 5763
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -591,7 +591,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 5669
+  score: 5670
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -613,7 +613,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5496
+  score: 5498
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -642,7 +642,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5478
+  score: 5479
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
   summary: text-generation
@@ -669,7 +669,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5427
+  score: 5428
 - id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
   title: unsloth/Qwen3.8-27B-GGUF
   summary: gguf, qwen3_5, unsloth
@@ -690,7 +690,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5254
+  score: 5257
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -717,7 +717,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5198
+  score: 5199
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
   summary: text-generation
@@ -740,7 +740,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 5180
+  score: 5181
 - id: huggingface-model-bigscience/bloom
   title: bigscience/bloom
   summary: text-generation
@@ -819,7 +819,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5087
+  score: 5088
 - id: huggingface-model-stabilityai/stable-diffusion-3-medium
   title: stabilityai/stable-diffusion-3-medium
   summary: text-to-image
@@ -836,7 +836,7 @@
     - arxiv:2403.03206
     - license:other
     - region:us
-  score: 5060
+  score: 5062
 - id: huggingface-space-enzostvs/deepsite
   title: enzostvs/deepsite
   summary: docker, region:us
@@ -866,7 +866,7 @@
     - eval:math
     - region:us
     - llm
-  score: 14139
+  score: 14140
 - id: huggingface-space-jbilcke-hf/ai-comic-factory
   title: jbilcke-hf/ai-comic-factory
   summary: docker, region:us
@@ -1003,7 +1003,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3912
+  score: 3913
 - id: huggingface-space-KlingTeam/LivePortrait
   title: KlingTeam/LivePortrait
   summary: gradio, Multimodal, Motion control
@@ -1100,7 +1100,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3244
+  score: 3243
 - id: huggingface-space-mukaist/Midjourney
   title: mukaist/Midjourney
   summary: gradio, region:us
@@ -1137,6 +1137,50 @@
     - openai
   score: 0
   publishedAt: '2026-10-21T21:00:00.000Z'
+- id: arxiv-2610.30132v1
+  title: 'LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30132v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T17:59:14.000Z'
+- id: arxiv-2610.30113v1
+  title: 'Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30113v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T17:54:01.000Z'
+- id: arxiv-2610.30099v1
+  title: Differentially Private Sparse Reward Estimation with Preference Feedback
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30099v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T17:45:42.000Z'
+- id: arxiv-2610.30043v1
+  title: >-
+    TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving
+    Physical and Social Environments
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30043v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T17:02:52.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How AT&T is rethinking in-house legal work with OpenAI
   summary: >-
@@ -1153,6 +1197,245 @@
     - openai
   score: 0
   publishedAt: '2026-10-21T17:00:00.000Z'
+- id: arxiv-2610.30016v1
+  title: 'Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.30016v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T16:45:43.000Z'
+- id: arxiv-2610.29999v1
+  title: >-
+    EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix
+    Importance-Ratio Clipping
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29999v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T16:37:09.000Z'
+- id: arxiv-2610.29985v1
+  title: 'TIDE: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29985v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T16:27:48.000Z'
+- id: arxiv-2610.29961v1
+  title: Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29961v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T16:17:49.000Z'
+- id: arxiv-2610.29934v1
+  title: 'ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29934v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-21T16:05:54.000Z'
+- id: arxiv-2610.29925v1
+  title: Privacy in Context Is Being Overlooked in the Age of General-Purpose LLMs
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29925v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T16:01:42.000Z'
+- id: arxiv-2610.29913v1
+  title: >-
+    Asking a Multimodal LLM Whether Someone Fell: Zero-Shot Screening of Low-Resolution Thermal
+    Video in a Laboratory and an Occupied Home
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29913v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T15:53:17.000Z'
+- id: arxiv-2610.29907v1
+  title: Benchmarking Large Language Models for Detecting Satirical Code-Mixed Sentences
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29907v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T15:48:28.000Z'
+- id: arxiv-2610.29896v1
+  title: Investigating the Impact of Learner Errors on Social Bias in Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29896v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T15:38:13.000Z'
+- id: arxiv-2610.29895v1
+  title: >-
+    Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language
+    Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29895v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T15:38:05.000Z'
+- id: arxiv-2610.29873v1
+  title: >-
+    HAWK: Heterogeneity-Aware KV Cache Transfer for Efficient GPU-NPU Phase-Disaggregated LLM
+    Inference
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29873v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T15:25:35.000Z'
+- id: arxiv-2610.29850v1
+  title: >-
+    Automated Discovery of Physically Interpretable Subgrid Length Scales for Detached Eddy
+    Simulation via Agentic AI
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29850v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-21T15:09:33.000Z'
+- id: arxiv-2610.29843v1
+  title: 'Every Part Has Its Role: Part-of-Speech Effects in LLM Post-Training'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29843v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T15:05:51.000Z'
+- id: arxiv-2610.29836v1
+  title: 'AT-Differ: Dataset for Audio-Text Difference Captioning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29836v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T14:59:17.000Z'
+- id: arxiv-2610.29832v1
+  title: 'S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29832v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T14:55:58.000Z'
+- id: arxiv-2610.29820v1
+  title: 'UlaCache: Unified Logical Addressing for Sparse LLM Serving'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29820v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T14:46:11.000Z'
+- id: arxiv-2610.29812v1
+  title: 'Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29812v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T14:35:56.000Z'
+- id: arxiv-2610.29792v1
+  title: >-
+    MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented
+    Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29792v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-21T14:19:17.000Z'
+- id: arxiv-2610.29785v1
+  title: Where Do LLMs Learn to Recommend AI?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29785v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T14:13:52.000Z'
+- id: arxiv-2610.29767v1
+  title: 'ALIAS: Evaluating Performance and Memorization in LLM-Written TLA+ Specifications'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29767v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T14:02:02.000Z'
+- id: arxiv-2610.29751v1
+  title: Bridging Foundational and Agentic Capabilities of LLMs
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.29751v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-10-21T13:50:43.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
   summary: >-
@@ -1185,263 +1468,6 @@
     - openai
   score: 0
   publishedAt: '2026-10-21T12:00:00.000Z'
-- id: arxiv-2610.29588v1
-  title: 'SatCraft: Agentic Optimization of Scheduling Policies for Satellite-Cellular Edge Services'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29588v1
-  source: arxiv
-  tags:
-    - arxiv
-    - agentic-ai
-  score: 0
-  publishedAt: '2026-10-21T11:29:37.000Z'
-- id: arxiv-2610.29555v1
-  title: 'WRDO: Weighted Refusal Direction Optimization in Aligned Language Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29555v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T10:42:25.000Z'
-- id: arxiv-2610.29552v1
-  title: Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29552v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T10:39:56.000Z'
-- id: arxiv-2610.29544v1
-  title: 'RISK-KV: Quality-Aware Selective KV Cache Reconstruction for Distributed LLM Inference'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29544v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T10:30:46.000Z'
-- id: arxiv-2610.29537v1
-  title: 'Melange: A Synthetic Visual Bias Benchmark for Multi-modal Large Language Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29537v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T10:25:06.000Z'
-- id: arxiv-2610.29527v1
-  title: 'RCSD: Reinforcement and Continual Learning for Domain-Specific Speculative Decoding'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29527v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T10:16:23.000Z'
-- id: arxiv-2610.29520v1
-  title: 'Beyond the Vote: When Do LLMs Add Value to Retrieval-Based Tabular Classification?'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29520v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T10:06:29.000Z'
-- id: arxiv-2610.29518v1
-  title: Mitigating Query Shortcuts in Chain-of-Thought with Context-Aware Decoding
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29518v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T10:05:25.000Z'
-- id: arxiv-2610.29501v1
-  title: Parallel Thinking for Large Language Model with Path Diversity
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29501v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T09:51:42.000Z'
-- id: arxiv-2610.29495v1
-  title: Balancing Foundation Models and Trait-Specific Learning for Forehead-Crease Recognition
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29495v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T09:50:08.000Z'
-- id: arxiv-2610.29477v1
-  title: >-
-    TenetBench: A Clause-Anchored Russian Corpus for Evaluating Language Models against Professional
-    Codes of Ethics
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29477v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T09:32:23.000Z'
-- id: arxiv-2610.29472v1
-  title: 'OmniSimulator: Aligning Small Language Models for Authentic Heterogeneous Behavior Modeling'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29472v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T09:30:12.000Z'
-- id: arxiv-2610.29455v1
-  title: >-
-    Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni
-    Large Language Models
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29455v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T09:11:30.000Z'
-- id: arxiv-2610.29443v1
-  title: 'DynaWeave: Learning to Adapt through Dynamic Scenario Synthesis'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29443v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T09:03:10.000Z'
-- id: arxiv-2610.29409v1
-  title: 'LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29409v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T08:35:16.000Z'
-- id: arxiv-2610.29395v1
-  title: 'CertMoE: Robustness Certification for Mixture-of-Experts LLMs via Routing-Aware Smoothing'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29395v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T08:25:15.000Z'
-- id: arxiv-2610.29378v1
-  title: 'Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29378v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T08:03:24.000Z'
-- id: arxiv-2610.29358v1
-  title: 'Reading the Mask: Descriptor-Grounded BI-RADS Rationale Generation for Breast MRI Segmentation'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29358v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T07:50:20.000Z'
-- id: arxiv-2610.29346v1
-  title: Benchmarking and Error Analysis of Deep Search and Deep Research LLM Agents
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29346v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T07:38:29.000Z'
-- id: arxiv-2610.29331v1
-  title: 'From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29331v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T07:29:24.000Z'
-- id: arxiv-2610.29312v1
-  title: >-
-    A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed
-    Data-Generation Platform
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29312v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T07:08:59.000Z'
-- id: arxiv-2610.29308v1
-  title: LLM-Based Exogenous World Modeling for Dynamic Scheduling
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29308v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T07:01:25.000Z'
-- id: arxiv-2610.29304v1
-  title: 'Situating Vulnerability: An Ethical Governance Framework for Anthropomorphic AI Interaction'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29304v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T07:00:26.000Z'
-- id: arxiv-2610.29303v1
-  title: 'ExpEvolve: Structuring and Reusing Experience for Open-Ended Discovery'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29303v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-21T07:00:23.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Patch the Planet: global response coordination as agents uncover critical vulnerabilities'
   summary: >-
@@ -1474,19 +1500,6 @@
     - openai
   score: 0
   publishedAt: '2026-10-21T07:00:00.000Z'
-- id: arxiv-2610.29294v1
-  title: >-
-    Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision
-    Support
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.29294v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-21T06:46:33.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Using thousands of AI agents to uncover new leads in biological data
   summary: >-
@@ -2244,22 +2257,6 @@
   score: 0
   publishedAt: '2026-09-28T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
-  summary: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  details: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  url: https://openai.com/index/basis-tax-workbook-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-28T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Are you a Codex Original?
   summary: >-
     We’re collecting real stories of builders, tinkerers, researchers, and creators who are using
@@ -2270,6 +2267,22 @@
     Codex to do incredible things. If you want to be a part of the next chapter of the Codex
     Originals program, tell us more about your story and project below.
   url: https://openai.com/form/codex-originals
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-28T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
+  summary: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  details: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  url: https://openai.com/index/basis-tax-workbook-with-astra
   source: rss
   tags:
     - genai
@@ -2371,6 +2384,22 @@
   score: 0
   publishedAt: '2026-09-23T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
+  summary: >-
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
+  details: >-
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
+  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-23T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Sam Altman’s remarks at the United Nations Security Council
   summary: >-
     OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
@@ -2395,22 +2424,6 @@
     With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
     grading threefold, and produces 50 custom effects in one day.
   url: https://openai.com/index/invideo-builds-with-gpt-6-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-23T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
-  summary: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
-  details: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
-  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
   source: rss
   tags:
     - genai
@@ -2547,22 +2560,6 @@
   score: 0
   publishedAt: '2026-09-22T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Higgsfield AI ships new video features in a day with GPT-6 Astra
-  summary: >-
-    With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
-    new creative tools to market faster.
-  details: >-
-    With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
-    new creative tools to market faster.
-  url: https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-21T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Advisory Group on Mathematics and Artificial Intelligence
   summary: >-
     OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence
@@ -2571,6 +2568,22 @@
     OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence
     to guide the review and communication of emerging AI results.
   url: https://openai.com/index/advisory-group-on-mathematics-and-ai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-21T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Higgsfield AI ships new video features in a day with GPT-6 Astra
+  summary: >-
+    With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
+    new creative tools to market faster.
+  details: >-
+    With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
+    new creative tools to market faster.
+  url: https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
   source: rss
   tags:
     - genai
@@ -2899,22 +2912,6 @@
   score: 0
   publishedAt: '2026-09-10T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Build more natural voice experiences with GPT‑Live‑1 in the API
-  summary: >-
-    GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
-    following, custom voices, and telephony support.
-  details: >-
-    GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
-    following, custom voices, and telephony support.
-  url: https://openai.com/index/introducing-gpt-live-1-in-the-api
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing the Agents API
   summary: >-
     Build and launch cloud agents with the Agents API, a managed service powered by the Codex
@@ -2923,6 +2920,22 @@
     Build and launch cloud agents with the Agents API, a managed service powered by the Codex
     harness for orchestration, long-running sessions, and tool use.
   url: https://openai.com/index/introducing-the-agents-api
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Build more natural voice experiences with GPT‑Live‑1 in the API
+  summary: >-
+    GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
+    following, custom voices, and telephony support.
+  details: >-
+    GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
+    following, custom voices, and telephony support.
+  url: https://openai.com/index/introducing-gpt-live-1-in-the-api
   source: rss
   tags:
     - genai
@@ -3155,22 +3168,6 @@
   score: 0
   publishedAt: '2026-09-03T13:15:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Playco cut manual fixes 50% prototyping games with GPT-6 Astra
-  summary: >-
-    Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
-    reported 50% fewer manual fixes than with the previous model.
-  details: >-
-    Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
-    reported 50% fewer manual fixes than with the previous model.
-  url: https://openai.com/index/playco-game-prototyping-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-03T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Legora reviewed 41 documents in minutes with GPT-6 Astra
   summary: >-
     Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
@@ -3179,6 +3176,22 @@
     Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
     improve performance by nearly 40% in this financial-review workflow.
   url: https://openai.com/index/legora-financial-statement-review-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-03T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+  summary: >-
+    Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
+    reported 50% fewer manual fixes than with the previous model.
+  details: >-
+    Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
+    reported 50% fewer manual fixes than with the previous model.
+  url: https://openai.com/index/playco-game-prototyping-with-astra
   source: rss
   tags:
     - genai
@@ -3412,22 +3425,6 @@
   score: 0
   publishedAt: '2026-08-27T03:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Bringing ChatGPT for Teachers to more U.S. school districts
-  summary: >-
-    ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
-    and support to over 100,000 more educators and staff.
-  details: >-
-    ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
-    and support to over 100,000 more educators and staff.
-  url: https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-08-26T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Learning never stops: How AI makes learning continuous'
   summary: >-
     OpenAI’s new report explores how students and educators use ChatGPT to make learning more
@@ -3436,6 +3433,22 @@
     OpenAI’s new report explores how students and educators use ChatGPT to make learning more
     continuous, with support that extends beyond the classroom.
   url: https://openai.com/index/learning-never-stops
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-08-26T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Bringing ChatGPT for Teachers to more U.S. school districts
+  summary: >-
+    ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
+    and support to over 100,000 more educators and staff.
+  details: >-
+    ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
+    and support to over 100,000 more educators and staff.
+  url: https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
   source: rss
   tags:
     - genai
@@ -4391,6 +4404,40 @@
     - openai
   score: 0
   publishedAt: '2026-07-23T00:00:00.000Z'
+- id: hackernews-49011806
+  title: 'Show HN: Millwright – Rust-based, self-hosted LLM router'
+  summary: >-
+    Hey HN,<p>With the news of OpenRouter possibly being acquired and proliferation of hosted LLM
+    routers (i.e. Ramp Router, Vercel’s AI Gateway), I saw the need for a self hosted solution
+    focused on cost
+  details: >-
+    Hey HN,<p>With the news of OpenRouter possibly being acquired and proliferation of hosted LLM
+    routers (i.e. Ramp Router, Vercel’s AI Gateway), I saw the need for a self hosted solution
+    focused on cost savings, transparency, and performance. So, I built an open sourced router with
+    a simple CLI interface that can easily sit between coding agents and GenAI workloads.<p>For the
+    curious and lazy, at the moment, Millwright has the tools for,<p>- Providers: OpenAI-compatible
+    APIs, Anthropic, Amazon Bedrock<p>- Routing: policy-controlled model roles (cheap, mid,
+    frontier), cheapest healthy route selection<p>- Protocols: OpenAI Chat Completions, Anthropic
+    Messages, text and tool translation<p>- Cache Affinity: role-scoped session lanes without
+    serializing concurrent agent traffic<p>- Spend Tracking: per-team costs, cache usage,
+    model&#x2F;provider mix, request traces<p>- Cost Analysis: measured usage and modeled candidate
+    economics (HTML, Markdown, JSON)<p>- Reliability: bounded failover, circuit breakers, timeouts,
+    concurrency limits<p>- Setup: interactive provider, model, and pricing configuration without
+    storing provider secrets<p>- Deployment: one Rust binary, Docker, SQLite or PostgreSQL<p>Full
+    disclosure: parts of the codebase were built with AI coding agents. All feedback is welcome, I’d
+    especially value feedback on the routing policy, provider coverage, and anything that would
+    block you from self-hosting it. Feel free to open feature&#x2F;request and&#x2F;or contribute as
+    well.
+  url: https://github.com/Northwood-Systems/millwright
+  source: hackernews
+  tags:
+    - author_AndrewLiu96
+    - story_49011806
+    - show_hn
+    - llm
+    - genai
+  score: 10
+  publishedAt: '2026-07-22T19:03:50Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Building AI infrastructure with the Effingham County community
   summary: >-
@@ -13704,14 +13751,14 @@
   score: 0
   publishedAt: '2025-05-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Create on-brand visuals with image generation
+  title: Collaborate and write with GPT-4o
   summary: >-
-    See how ChatGPT image generation helps create branded visuals and product mockups from prompts,
-    sketches, or uploaded images.
+    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
+    and adjust tone faster.
   details: >-
-    See how ChatGPT image generation helps create branded visuals and product mockups from prompts,
-    sketches, or uploaded images.
-  url: https://openai.com/business/learn/create-on-brand-visuals-with-image-generation
+    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
+    and adjust tone faster.
+  url: https://openai.com/business/learn/collaborate-and-write-with-gpt-4o
   source: rss
   tags:
     - genai
@@ -13748,14 +13795,14 @@
   score: 0
   publishedAt: '2025-05-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Collaborate and write with GPT-4o
+  title: Create on-brand visuals with image generation
   summary: >-
-    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
-    and adjust tone faster.
+    See how ChatGPT image generation helps create branded visuals and product mockups from prompts,
+    sketches, or uploaded images.
   details: >-
-    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
-    and adjust tone faster.
-  url: https://openai.com/business/learn/collaborate-and-write-with-gpt-4o
+    See how ChatGPT image generation helps create branded visuals and product mockups from prompts,
+    sketches, or uploaded images.
+  url: https://openai.com/business/learn/create-on-brand-visuals-with-image-generation
   source: rss
   tags:
     - genai
@@ -13930,6 +13977,81 @@
     - openai
   score: 0
   publishedAt: '2025-04-29T18:00:00.000Z'
+- id: hackernews-43812336
+  title: 'Show HN: Mirror AI – LLM agent that takes action, not just chat'
+  summary: >-
+    Hi HN,<p>TL;DR  Mirror AI is a cross-platform desktop <i>action oriented LLM</i>.  
+
+    Instead of just replying with text, it can run terminal commands, move files, hit APIs, send
+    email&#x2F;messages, sc
+  details: >-
+    Hi HN,<p>TL;DR  Mirror AI is a cross-platform desktop <i>action oriented LLM</i>.  
+
+    Instead of just replying with text, it can run terminal commands, move files, hit APIs, send
+    email&#x2F;messages, schedule calendar events, query databases etc. - and chain those steps in
+    one request.<p>Why I built it  
+
+    Chatbots are great for answers but stop at the “OK, now go do it” moment.  
+
+    I was copy-pasting between ChatGPT and my shell&#x2F;IDE&#x2F;Gmail far too often, so on red-eye
+    flights I hacked a bridge that lets an LLM execute tasks under a permission layer. Friends asked
+    for it, feature-creep happened, and here we are.<p>What it can do today  
+
+    - Files &amp; Shell – read&#x2F;write&#x2F;rename&#x2F;compress&#x2F;execute files, run shell
+    commands  
+
+    - Productivity – draft + send Gmail, create Google Calendar events, read&#x2F;write Notion, post
+    to Slack&#x2F;Discord&#x2F;WhatsApp (via Beeper)  
+
+    - Dev&#x2F;Ops – query Postgres&#x2F;Mongo, interact with GitHub, call AWS, curl any REST
+    endpoint  
+
+    - Search&#x2F;GenAI – web search (Perplexity), summarise PDFs, generate images&#x2F;video, keep
+    long-term memory
+
+    - Extensible via MCP (Modular Command Protocol) to add your own skills
+
+    - And a lot more<p>Example prompt after you have added a few integrations
+    (copy-paste):<p><pre><code>  Search Reddit for discussion on LangChain streaming, summarise it,
+    email me the summary, and block 30 min in Calendar tomorrow.
+      
+      OR
+
+      Investigate my AWS account and tell me how to easily save money. Also check my MongoDB and make some proposition to optimize it.
+
+    </code></pre>
+
+    How it works  
+
+    - Desktop app (macOS, Windows, Linux) written in TS  
+
+    - No SaaS backend: everything runs locally; outbound calls only hit the model provider you
+    configure (OpenAI, Claude, local Ollama, etc.)  
+
+    - Safety: every risky actions require approval from the user<p>Status &amp; roadmap  
+
+    - Free alpha download: <a href="https:&#x2F;&#x2F;themirrorai.com"
+    rel="nofollow">https:&#x2F;&#x2F;themirrorai.com</a>  (bring your own API keys)  
+
+    - Planning to open-source core in the coming months after tidying up if there is enough interest
+
+    - Up next: improved working memory, event-driven triggers for autonomous responses, and expanded
+    integrations.<p>Ask  
+
+    Kick the tires, try weird edge-cases, look for security holes, and tell me what hurts or what
+    you wish it did. I will be in the thread checking the comments.<p>Thanks!  
+
+    Sat
+  url: https://themirrorai.com
+  source: hackernews
+  tags:
+    - author_sat13
+    - story_43812336
+    - show_hn
+    - llm
+    - genai
+  score: 5
+  publishedAt: '2025-04-27T14:47:49Z'
 - id: hackernews-43782869
   title: 'Show HN: High-performance GenAI engine now open source'
   summary: >-
@@ -14039,6 +14161,24 @@
   score: 0
   publishedAt: '2025-04-22T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: OpenAI o3 and o4-mini System Card
+  summary: >-
+    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
+    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
+    and memory.
+  details: >-
+    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
+    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
+    and memory.
+  url: https://openai.com/index/o3-o4-mini-system-card
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-04-16T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Thinking with images
   summary: ''
   details: ''
@@ -14055,24 +14195,6 @@
   summary: Our smartest and most capable models to date with full tool access
   details: Our smartest and most capable models to date with full tool access
   url: https://openai.com/index/introducing-o3-and-o4-mini
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-04-16T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: OpenAI o3 and o4-mini System Card
-  summary: >-
-    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
-    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
-    and memory.
-  details: >-
-    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
-    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
-    and memory.
-  url: https://openai.com/index/o3-o4-mini-system-card
   source: rss
   tags:
     - genai
@@ -14243,10 +14365,14 @@
   score: 2
   publishedAt: '2025-04-08T23:04:16Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Shipping code to your IDE with ChatGPT
-  summary: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
-  details: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
-  url: https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt
+  title: Vision and voice in ChatGPT
+  summary: >-
+    See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more
+    naturally.
+  details: >-
+    See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more
+    naturally.
+  url: https://openai.com/business/learn/vision-and-voice-in-chatgpt
   source: rss
   tags:
     - genai
@@ -14267,14 +14393,10 @@
   score: 0
   publishedAt: '2025-04-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Vision and voice in ChatGPT
-  summary: >-
-    See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more
-    naturally.
-  details: >-
-    See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more
-    naturally.
-  url: https://openai.com/business/learn/vision-and-voice-in-chatgpt
+  title: Shipping code to your IDE with ChatGPT
+  summary: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
+  details: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
+  url: https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt
   source: rss
   tags:
     - genai
@@ -14917,6 +15039,18 @@
   score: 0
   publishedAt: '2025-02-04T11:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Catching halibut with ChatGPT
+  summary: Using ChatGPT to catch halibut
+  details: Using ChatGPT to catch halibut
+  url: https://openai.com/index/fishing-for-first-timers
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-02-04T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Building a custom math tutor powered by ChatGPT
   summary: ChatGPT and personal tutoring
   details: ChatGPT and personal tutoring
@@ -14941,17 +15075,17 @@
   score: 0
   publishedAt: '2025-02-04T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Catching halibut with ChatGPT
-  summary: Using ChatGPT to catch halibut
-  details: Using ChatGPT to catch halibut
-  url: https://openai.com/index/fishing-for-first-timers
+  title: Understanding complex trends with deep research
+  summary: How OpenAI deep research helps Bain & Company understand complex industry trends.
+  details: How OpenAI deep research helps Bain & Company understand complex industry trends.
+  url: https://openai.com/index/deep-research
   source: rss
   tags:
     - genai
     - llm
     - openai
   score: 0
-  publishedAt: '2025-02-04T00:00:00.000Z'
+  publishedAt: '2025-02-02T16:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing deep research
   summary: >-
@@ -14961,18 +15095,6 @@
     An agent that uses reasoning to synthesize large amounts of online information and complete
     multi-step research tasks for you. Available to Pro users today, Plus and Team next.
   url: https://openai.com/index/introducing-deep-research
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-02-02T16:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Understanding complex trends with deep research
-  summary: How OpenAI deep research helps Bain & Company understand complex industry trends.
-  details: How OpenAI deep research helps Bain & Company understand complex industry trends.
-  url: https://openai.com/index/deep-research
   source: rss
   tags:
     - genai
@@ -15599,6 +15721,118 @@
     - openai
   score: 0
   publishedAt: '2024-11-19T07:00:00.000Z'
+- id: hackernews-42174829
+  title: 'Show HN: FastGraphRAG – Better RAG using good old PageRank'
+  summary: >-
+    Hey there HN! We’re Antonio, Luca, and Yuhang, and we’re excited to introduce Fast GraphRAG, an
+    open-source RAG approach that leverages knowledge graphs and the 25 years old PageRank for
+    better inform
+  details: >-
+    Hey there HN! We’re Antonio, Luca, and Yuhang, and we’re excited to introduce Fast GraphRAG, an
+    open-source RAG approach that leverages knowledge graphs and the 25 years old PageRank for
+    better information retrieval and reasoning.<p>Building a good RAG pipeline these days takes a
+    lot of manual optimizations. Most engineers intuitively start from naive RAG: throw everything
+    in a vector database and hope that semantic search is powerful enough. This can work for use
+    cases where accuracy isn’t too important and hallucinations are tolerable, but it doesn’t work
+    for more difficult queries that involve multi-hop reasoning or more advanced domain
+    understanding. Also, it’s impossible to debug it.<p>To address these limitations, many engineers
+    find themselves adding extra layers like agent-based preprocessing, custom embeddings, reranking
+    mechanisms, and hybrid search strategies. Much like the early days of machine learning when we
+    manually crafted feature vectors to squeeze out marginal gains, building an effective RAG system
+    often becomes an exercise in crafting engineering “hacks.”<p>Earlier this year, Microsoft seeded
+    the idea of using Knowledge Graphs for RAG and published GraphRAG - i.e. RAG with Knowledge
+    Graphs. We believe that there is an incredible potential in this idea, but existing
+    implementations are naive in the way they create and explore the graph. That’s why we developed
+    Fast GraphRAG with a new algorithmic approach using good old PageRank.<p>There are two main
+    challenges when building a reliable RAG system:<p>(1) Data Noise: Real-world data is often
+    messy. Customer support tickets, chat logs, and other conversational data can include a lot of
+    irrelevant information. If you push noisy data into a vector database, you’re likely to get
+    noisy results.<p>(2) Domain Specialization: For complex use cases, a RAG system must understand
+    the domain-specific context. This requires creating representations that capture not just the
+    words but the deeper relationships and structures within the data.<p>Our solution builds on
+    these insights by incorporating knowledge graphs into the RAG pipeline. Knowledge graphs store
+    entities and their relationships, and can help structure data in a way that enables more
+    accurate and context-aware information retrieval. 12 years ago Google announced the knowledge
+    graph we all know about [1]. It was a pioneering move. Now we have LLMs, meaning that people can
+    finally do RAG on their own data with tools that can be as powerful as Google’s original
+    idea.<p>Before we built this, Antonio was at Amazon, while Luca and Yuhang were finishing their
+    PhDs at Oxford. We had been thinking about this problem for years and we always loved the
+    parallel between pagerank and the human memory [2]. We believe that searching for memories is
+    incredibly similar to searching the web.<p>Here’s how it works:<p>- Entity and Relationship
+    Extraction: Fast GraphRAG uses LLMs to extract entities and their relationships from your data
+    and stores them in a graph format [3].<p>- Query Processing: When you make a query, Fast
+    GraphRAG starts by finding the most relevant entities using vector search, then runs a
+    personalized PageRank algorithm to determine the most important “memories” or pieces of
+    information related to the query [4].<p>- Incremental Updates: Unlike other graph-based RAG
+    systems, Fast GraphRAG natively supports incremental data insertions. This means you can
+    continuously add new data without reprocessing the entire graph.<p>- Faster: These design
+    choices make our algorithm faster and more affordable to run than other graph-based RAG systems
+    because we eliminate the need for communities and clustering.<p>Suppose you’re analyzing a book
+    and want to focus on character interactions, locations, and significant events:<p><pre><code> 
+    from fast_graphrag import GraphRAG
+      
+      DOMAIN = &quot;Analyze this story and identify the characters. Focus on how they interact with each other, the locations they explore, and their relationships.&quot;
+      
+      EXAMPLE_QUERIES = [
+          &quot;What is the significance of Christmas Eve in A Christmas Carol?&quot;,
+          &quot;How does the setting of Victorian London contribute to the story&#x27;s themes?&quot;,
+          &quot;Describe the chain of events that leads to Scrooge&#x27;s transformation.&quot;,
+          &quot;How does Dickens use the different spirits (Past, Present, and Future) to guide Scrooge?&quot;,
+          &quot;Why does Dickens choose to divide the story into \&quot;staves\&quot; rather than chapters?&quot;
+      ]
+      
+      ENTITY_TYPES = [&quot;Character&quot;, &quot;Animal&quot;, &quot;Place&quot;, &quot;Object&quot;, &quot;Activity&quot;, &quot;Event&quot;]
+      
+      grag = GraphRAG(
+          working_dir=&quot;.&#x2F;book_example&quot;,
+          domain=DOMAIN,
+          example_queries=&quot;\n&quot;.join(EXAMPLE_QUERIES),
+          entity_types=ENTITY_TYPES
+      )
+      
+      with open(&quot;.&#x2F;book.txt&quot;) as f:
+          grag.insert(f.read())
+      
+      print(grag.query(&quot;Who is Scrooge?&quot;).response)
+    </code></pre>
+
+    This code creates a domain-specific knowledge graph based on your data, example queries, and
+    specified entity types. Then you can query it in plain English while it automatically handles
+    all the data fetching, entity extractions, co-reference resolutions, memory elections, etc. When
+    you add new data, locking and checkpointing is handled for you as well.<p>This is the kind of
+    infrastructure that GenAI apps need to handle large-scale real-world data. Our goal is to give
+    you this infrastructure so that you can focus on what’s important: building great apps for your
+    users without having to care about manually engineering a retrieval pipeline. In the managed
+    service, we also have a suite of UI tools for you to explore and debug your knowledge
+    graph.<p>We have a free hosted solution with up to 100 monthly requests. When you’re ready to
+    grow, we have paid plans that scale with you. And of course you can self host our open-source
+    engine.<p>Give us a spin today at <a
+    href="https:&#x2F;&#x2F;circlemind.co">https:&#x2F;&#x2F;circlemind.co</a> and see our code at
+    <a
+    href="https:&#x2F;&#x2F;github.com&#x2F;circlemind-ai&#x2F;fast-graphrag">https:&#x2F;&#x2F;github.com&#x2F;circlemind-ai&#x2F;fast-graphrag</a><p>We’d
+    love feedback :)<p>[1] <a
+    href="https:&#x2F;&#x2F;blog.google&#x2F;products&#x2F;search&#x2F;introducing-knowledge-graph-things-not&#x2F;"
+    rel="nofollow">https:&#x2F;&#x2F;blog.google&#x2F;products&#x2F;search&#x2F;introducing-knowledge-gr...</a><p>[2]
+    Griffiths, T. L., Steyvers, M., &amp; Firl, A. (2007). Google and the Mind: Predicting Fluency
+    with PageRank. Psychological Science, 18(12), 1069–1076. <a
+    href="http:&#x2F;&#x2F;www.jstor.org&#x2F;stable&#x2F;40064705"
+    rel="nofollow">http:&#x2F;&#x2F;www.jstor.org&#x2F;stable&#x2F;40064705</a><p>[3] Similarly to
+    Microsoft’s GraphRAG: <a
+    href="https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;graphrag">https:&#x2F;&#x2F;github.com&#x2F;microsoft&#x2F;graphrag</a><p>[4]
+    Similarly to OSU’s HippoRAG: <a
+    href="https:&#x2F;&#x2F;github.com&#x2F;OSU-NLP-Group&#x2F;HippoRAG">https:&#x2F;&#x2F;github.com&#x2F;OSU-NLP-Group&#x2F;HippoRAG</a><p><a
+    href="https:&#x2F;&#x2F;vhs.charm.sh&#x2F;vhs-4fCicgsbsc7UX0pemOcsMp.gif"
+    rel="nofollow">https:&#x2F;&#x2F;vhs.charm.sh&#x2F;vhs-4fCicgsbsc7UX0pemOcsMp.gif</a>
+  url: https://github.com/circlemind-ai/fast-graphrag
+  source: hackernews
+  tags:
+    - author_liukidar
+    - story_42174829
+    - show_hn
+    - llm
+    - genai
+  score: 457
+  publishedAt: '2024-11-18T17:43:13Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI en France
   summary: Our first office in continental Europe
@@ -16221,6 +16455,18 @@
   score: 0
   publishedAt: '2024-09-12T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Economics and reasoning with OpenAI o1
+  summary: Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
+  details: Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
+  url: https://openai.com/index/o1-economics
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-09-12T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Decoding genetics with OpenAI o1
   summary: >-
     Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of
@@ -16237,30 +16483,6 @@
   score: 0
   publishedAt: '2024-09-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Answering quantum physics questions with OpenAI o1
-  summary: Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
-  details: Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
-  url: https://openai.com/index/o1-quantum-physics
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-09-12T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Economics and reasoning with OpenAI o1
-  summary: Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
-  details: Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
-  url: https://openai.com/index/o1-economics
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-09-12T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Coding with OpenAI o1
   summary: >-
     Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a
@@ -16269,6 +16491,18 @@
     Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a
     more human-like way.
   url: https://openai.com/index/o1-coding
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-09-12T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Answering quantum physics questions with OpenAI o1
+  summary: Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
+  details: Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
+  url: https://openai.com/index/o1-quantum-physics
   source: rss
   tags:
     - genai
@@ -16619,6 +16853,57 @@
     - openai
   score: 0
   publishedAt: '2024-07-18T00:00:00.000Z'
+- id: hackernews-40985609
+  title: 'Launch HN: Traceloop (YC W23) – Detecting LLM Hallucinations with OpenTelemetry'
+  summary: >-
+    Hey everyone, we are Nir and Gal from Traceloop (<a
+    href="https:&#x2F;&#x2F;www.traceloop.com">https:&#x2F;&#x2F;www.traceloop.com</a>). We help
+    teams understand when their LLM apps are failing or hal
+  details: >-
+    Hey everyone, we are Nir and Gal from Traceloop (<a
+    href="https:&#x2F;&#x2F;www.traceloop.com">https:&#x2F;&#x2F;www.traceloop.com</a>). We help
+    teams understand when their LLM apps are failing or hallucinating at scale. See a demo: <a
+    href="https:&#x2F;&#x2F;www.traceloop.com&#x2F;video">https:&#x2F;&#x2F;www.traceloop.com&#x2F;video</a>
+    or try it yourself at <a
+    href="https:&#x2F;&#x2F;www.traceloop.com&#x2F;docs&#x2F;demo">https:&#x2F;&#x2F;www.traceloop.com&#x2F;docs&#x2F;demo</a>.<p>When
+    moving your LLM app to production, significant scale makes it harder for engineers and data
+    scientists alike to understand when their LLM is hallucinating or returning malformed responses.
+    When you get to millions of calls to OpenAI a month, methods like “LLM as a judge” can’t work at
+    a reasonable cost or latency. So, what most people we talked to usually do is sample some
+    generations by hand, maybe for some specific important customers, and manually look for errors
+    or hallucinations.<p>Traceloop is a monitoring platform that detects when your LLM app fails.
+    Under the hood, we built real-time versions of known metrics like faithfulness, relevancy,
+    redundancy, and many others. These are loosely based on some well-known NLP metrics that work
+    well for LLM-generated texts. We correlate them with changes we detect in your system - like
+    updates to prompts or to the model you’re using - to detect regressions automatically.<p>Here
+    are some cool examples we’ve seen with our customers -<p>1. Applying our QA relevancy metric to
+    an entity extraction task, we managed to discover issues where the model was not extracting the
+    right entities (like an address instead of a person’s name); or returning random answers like
+    “I’m here! What can I help you with today?”.<p>2. Our soft-faithfulness metric was able to
+    detect cases in summarization tasks where a model was completely making up stuff that never
+    appeared in the original text.<p>One of the challenges we faced was figuring out how to collect
+    the data that we need from our customers&#x27; LLM apps. That’s where OpenTelemetry came in
+    handy. We built OpenLLMetry (<a
+    href="https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry">https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry</a>),
+    and announced it here almost a year ago. It standardized the use of OpenTelemetry to observe LLM
+    apps. We realized that the concepts of traces, spans, metrics, and logs that were standardized
+    with OpenTelemetry can easily extend to gen AI. We partnered with 20+ observability platforms to
+    make sure that OpenLLMetry becomes the standard for GenAI observability and that the data that
+    we collect can be sent to other platforms as well.<p>We plan to extend the metrics we provide to
+    support agents that use tools, vision models, and other amazing developments in our fast-paced
+    industry.<p>We invite you to give Traceloop a spin and are eager for your feedback! How do you
+    track and debug hallucinations? How much has that been an issue for you? What types of
+    hallucinations have you encountered?
+  url: https://news.ycombinator.com/item?id=40985609
+  source: hackernews
+  tags:
+    - author_GalKlm
+    - story_40985609
+    - launch_hn
+    - llm
+    - genai
+  score: 101
+  publishedAt: '2024-07-17T13:19:03Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Prover-Verifier Games improve legibility of language model outputs
   summary: >-
@@ -16724,22 +17009,6 @@
   score: 0
   publishedAt: '2024-06-20T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Improved Techniques for Training Consistency Models
-  summary: >-
-    Consistency models are a nascent family of generative models that can sample high quality data
-    in one step without the need for adversarial training.
-  details: >-
-    Consistency models are a nascent family of generative models that can sample high quality data
-    in one step without the need for adversarial training.
-  url: https://openai.com/index/improved-techniques-for-training-consistency-models
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-06-20T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Consistency Models
   summary: >-
     Diffusion models have significantly advanced the fields of image, audio, and video generation,
@@ -16748,6 +17017,22 @@
     Diffusion models have significantly advanced the fields of image, audio, and video generation,
     but they depend on an iterative sampling process that causes slow generation.
   url: https://openai.com/index/consistency-models
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-06-20T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Improved Techniques for Training Consistency Models
+  summary: >-
+    Consistency models are a nascent family of generative models that can sample high quality data
+    in one step without the need for adversarial training.
+  details: >-
+    Consistency models are a nascent family of generative models that can sample high quality data
+    in one step without the need for adversarial training.
+  url: https://openai.com/index/improved-techniques-for-training-consistency-models
   source: rss
   tags:
     - genai
@@ -17188,24 +17473,6 @@
   score: 0
   publishedAt: '2024-05-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Understanding the source of what we see and hear online
-  summary: >-
-    Today we’re introducing new technology to help researchers identify content created by our tools
-    and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
-    industry standards.
-  details: >-
-    Today we’re introducing new technology to help researchers identify content created by our tools
-    and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
-    industry standards.
-  url: https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-07T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Our approach to data and AI
   summary: >-
     Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also
@@ -17216,6 +17483,24 @@
     raised important conversations about data in the age of AI. More on our approach, a new Media
     Manager for creators and content owners, and where we’re headed.
   url: https://openai.com/index/approach-to-data-and-ai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-07T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Understanding the source of what we see and hear online
+  summary: >-
+    Today we’re introducing new technology to help researchers identify content created by our tools
+    and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
+    industry standards.
+  details: >-
+    Today we’re introducing new technology to help researchers identify content created by our tools
+    and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
+    industry standards.
+  url: https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online
   source: rss
   tags:
     - genai
@@ -17248,38 +17533,6 @@
   score: 0
   publishedAt: '2024-05-06T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation "Spamouflage": China-linked influence activity'
-  summary: >-
-    OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to
-    research social media activity, generate posts, and debug a previously unreported website.
-  details: >-
-    OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to
-    research social media activity, generate posts, and debug a previously unreported website.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-spamouflage
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'IUVM: Iran-linked influence content network'
-  summary: >-
-    OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate
-    and translate pro-Iran, anti-Israel and anti-US website content.
-  details: >-
-    OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate
-    and translate pro-Iran, anti-Israel and anti-US website content.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Operation "Zero Zeno": Israel-linked influence activity'
   summary: >-
     OpenAI banned accounts linked to a previously unreported Israel-origin operation we dubbed “Zero
@@ -17290,6 +17543,24 @@
     Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut
     content.
   url: https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation "Doppelganger": Russian influence activity targeting Ukraine'
+  summary: >-
+    OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
+    generate anti-Ukraine social media comments, translations, and website copy across several
+    languages.
+  details: >-
+    OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
+    generate anti-Ukraine social media comments, translations, and website copy across several
+    languages.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger
   source: rss
   tags:
     - genai
@@ -17316,16 +17587,30 @@
   score: 0
   publishedAt: '2024-05-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation "Doppelganger": Russian influence activity targeting Ukraine'
+  title: 'IUVM: Iran-linked influence content network'
   summary: >-
-    OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
-    generate anti-Ukraine social media comments, translations, and website copy across several
-    languages.
+    OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate
+    and translate pro-Iran, anti-Israel and anti-US website content.
   details: >-
-    OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
-    generate anti-Ukraine social media comments, translations, and website copy across several
-    languages.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger
+    OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate
+    and translate pro-Iran, anti-Israel and anti-US website content.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation "Spamouflage": China-linked influence activity'
+  summary: >-
+    OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to
+    research social media activity, generate posts, and debug a previously unreported website.
+  details: >-
+    OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to
+    research social media activity, generate posts, and debug a previously unreported website.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-spamouflage
   source: rss
   tags:
     - genai
@@ -17358,18 +17643,6 @@
   score: 0
   publishedAt: '2024-04-24T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing ChatGPT and Whisper APIs
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-chatgpt-and-whisper-apis
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-04-24T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: GPT-4 API general availability and deprecation of older models in the Completions API
   summary: >-
     GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a
@@ -17380,6 +17653,18 @@
     deprecation plan for older models of the Completions API, which will retire at the beginning of
     2024.
   url: https://openai.com/index/gpt-4-api-general-availability
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-04-24T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing ChatGPT and Whisper APIs
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-chatgpt-and-whisper-apis
   source: rss
   tags:
     - genai
@@ -17585,14 +17870,10 @@
   score: 0
   publishedAt: '2024-03-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Building a data-driven, efficient culture with AI
-  summary: >-
-    Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
-    hours weekly.
-  details: >-
-    Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
-    hours weekly.
-  url: https://openai.com/index/holiday-extras
+  title: Enterprise-ready trust and safety
+  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  url: https://openai.com/index/salesforce
   source: rss
   tags:
     - genai
@@ -17601,10 +17882,14 @@
   score: 0
   publishedAt: '2024-03-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Enterprise-ready trust and safety
-  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  url: https://openai.com/index/salesforce
+  title: Building a data-driven, efficient culture with AI
+  summary: >-
+    Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
+    hours weekly.
+  details: >-
+    Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
+    hours weekly.
+  url: https://openai.com/index/holiday-extras
   source: rss
   tags:
     - genai
@@ -17834,18 +18119,6 @@
   score: 0
   publishedAt: '2024-01-12T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing the GPT Store
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-the-gpt-store
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-01-10T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing ChatGPT Team
   summary: >-
     We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
@@ -17854,6 +18127,18 @@
     We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
     collaborative workspace to get the most out of ChatGPT at work.
   url: https://openai.com/index/introducing-chatgpt-team
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-01-10T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing the GPT Store
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-the-gpt-store
   source: rss
   tags:
     - genai
@@ -19311,10 +19596,10 @@
   score: 0
   publishedAt: '2022-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Economic impacts research at OpenAI
-  summary: "Call for expressions of interest to study the economic impacts of large language\_models."
-  details: "Call for expressions of interest to study the economic impacts of large language\_models."
-  url: https://openai.com/index/economic-impacts
+  title: Lessons learned on language model safety and misuse
+  summary: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
+  details: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
+  url: https://openai.com/index/language-model-safety-and-misuse
   source: rss
   tags:
     - genai
@@ -19323,10 +19608,10 @@
   score: 0
   publishedAt: '2022-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Lessons learned on language model safety and misuse
-  summary: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
-  details: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
-  url: https://openai.com/index/language-model-safety-and-misuse
+  title: Economic impacts research at OpenAI
+  summary: "Call for expressions of interest to study the economic impacts of large language\_models."
+  details: "Call for expressions of interest to study the economic impacts of large language\_models."
+  url: https://openai.com/index/economic-impacts
   source: rss
   tags:
     - genai
@@ -20845,18 +21130,6 @@
   score: 0
   publishedAt: '2018-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/multi-goal-reinforcement-learning
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2018-02-26T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Ingredients for robotics research
   summary: >-
     We’re releasing eight simulated robotics environments and a Baselines implementation of
@@ -20868,6 +21141,18 @@
     environments to train models which work on physical robots. We’re also releasing a set of
     requests for robotics research.
   url: https://openai.com/index/ingredients-for-robotics-research
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2018-02-26T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/multi-goal-reinforcement-learning
   source: rss
   tags:
     - genai

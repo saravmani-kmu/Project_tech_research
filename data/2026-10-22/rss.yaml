@@ -851,22 +851,6 @@
   score: 0
   publishedAt: '2026-09-28T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
-  summary: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  details: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  url: https://openai.com/index/basis-tax-workbook-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-28T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Are you a Codex Original?
   summary: >-
     We’re collecting real stories of builders, tinkerers, researchers, and creators who are using
@@ -877,6 +861,22 @@
     Codex to do incredible things. If you want to be a part of the next chapter of the Codex
     Originals program, tell us more about your story and project below.
   url: https://openai.com/form/codex-originals
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-28T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
+  summary: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  details: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  url: https://openai.com/index/basis-tax-workbook-with-astra
   source: rss
   tags:
     - genai
@@ -978,6 +978,22 @@
   score: 0
   publishedAt: '2026-09-23T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
+  summary: >-
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
+  details: >-
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
+  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-23T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Sam Altman’s remarks at the United Nations Security Council
   summary: >-
     OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
@@ -1002,22 +1018,6 @@
     With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
     grading threefold, and produces 50 custom effects in one day.
   url: https://openai.com/index/invideo-builds-with-gpt-6-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-23T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
-  summary: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
-  details: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
-  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
   source: rss
   tags:
     - genai
@@ -1154,22 +1154,6 @@
   score: 0
   publishedAt: '2026-09-22T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Higgsfield AI ships new video features in a day with GPT-6 Astra
-  summary: >-
-    With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
-    new creative tools to market faster.
-  details: >-
-    With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
-    new creative tools to market faster.
-  url: https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-21T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Advisory Group on Mathematics and Artificial Intelligence
   summary: >-
     OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence
@@ -1178,6 +1162,22 @@
     OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence
     to guide the review and communication of emerging AI results.
   url: https://openai.com/index/advisory-group-on-mathematics-and-ai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-21T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Higgsfield AI ships new video features in a day with GPT-6 Astra
+  summary: >-
+    With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
+    new creative tools to market faster.
+  details: >-
+    With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
+    new creative tools to market faster.
+  url: https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
   source: rss
   tags:
     - genai
@@ -1506,22 +1506,6 @@
   score: 0
   publishedAt: '2026-09-10T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Build more natural voice experiences with GPT‑Live‑1 in the API
-  summary: >-
-    GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
-    following, custom voices, and telephony support.
-  details: >-
-    GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
-    following, custom voices, and telephony support.
-  url: https://openai.com/index/introducing-gpt-live-1-in-the-api
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing the Agents API
   summary: >-
     Build and launch cloud agents with the Agents API, a managed service powered by the Codex
@@ -1530,6 +1514,22 @@
     Build and launch cloud agents with the Agents API, a managed service powered by the Codex
     harness for orchestration, long-running sessions, and tool use.
   url: https://openai.com/index/introducing-the-agents-api
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Build more natural voice experiences with GPT‑Live‑1 in the API
+  summary: >-
+    GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
+    following, custom voices, and telephony support.
+  details: >-
+    GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
+    following, custom voices, and telephony support.
+  url: https://openai.com/index/introducing-gpt-live-1-in-the-api
   source: rss
   tags:
     - genai
@@ -1762,22 +1762,6 @@
   score: 0
   publishedAt: '2026-09-03T13:15:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Playco cut manual fixes 50% prototyping games with GPT-6 Astra
-  summary: >-
-    Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
-    reported 50% fewer manual fixes than with the previous model.
-  details: >-
-    Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
-    reported 50% fewer manual fixes than with the previous model.
-  url: https://openai.com/index/playco-game-prototyping-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-03T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Legora reviewed 41 documents in minutes with GPT-6 Astra
   summary: >-
     Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
@@ -1786,6 +1770,22 @@
     Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
     improve performance by nearly 40% in this financial-review workflow.
   url: https://openai.com/index/legora-financial-statement-review-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-03T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+  summary: >-
+    Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
+    reported 50% fewer manual fixes than with the previous model.
+  details: >-
+    Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
+    reported 50% fewer manual fixes than with the previous model.
+  url: https://openai.com/index/playco-game-prototyping-with-astra
   source: rss
   tags:
     - genai
@@ -2019,22 +2019,6 @@
   score: 0
   publishedAt: '2026-08-27T03:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Bringing ChatGPT for Teachers to more U.S. school districts
-  summary: >-
-    ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
-    and support to over 100,000 more educators and staff.
-  details: >-
-    ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
-    and support to over 100,000 more educators and staff.
-  url: https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-08-26T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Learning never stops: How AI makes learning continuous'
   summary: >-
     OpenAI’s new report explores how students and educators use ChatGPT to make learning more
@@ -2043,6 +2027,22 @@
     OpenAI’s new report explores how students and educators use ChatGPT to make learning more
     continuous, with support that extends beyond the classroom.
   url: https://openai.com/index/learning-never-stops
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-08-26T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Bringing ChatGPT for Teachers to more U.S. school districts
+  summary: >-
+    ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
+    and support to over 100,000 more educators and staff.
+  details: >-
+    ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
+    and support to over 100,000 more educators and staff.
+  url: https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
   source: rss
   tags:
     - genai
@@ -12213,14 +12213,14 @@
   score: 0
   publishedAt: '2025-05-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Create on-brand visuals with image generation
+  title: Collaborate and write with GPT-4o
   summary: >-
-    See how ChatGPT image generation helps create branded visuals and product mockups from prompts,
-    sketches, or uploaded images.
+    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
+    and adjust tone faster.
   details: >-
-    See how ChatGPT image generation helps create branded visuals and product mockups from prompts,
-    sketches, or uploaded images.
-  url: https://openai.com/business/learn/create-on-brand-visuals-with-image-generation
+    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
+    and adjust tone faster.
+  url: https://openai.com/business/learn/collaborate-and-write-with-gpt-4o
   source: rss
   tags:
     - genai
@@ -12257,14 +12257,14 @@
   score: 0
   publishedAt: '2025-05-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Collaborate and write with GPT-4o
+  title: Create on-brand visuals with image generation
   summary: >-
-    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
-    and adjust tone faster.
+    See how ChatGPT image generation helps create branded visuals and product mockups from prompts,
+    sketches, or uploaded images.
   details: >-
-    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
-    and adjust tone faster.
-  url: https://openai.com/business/learn/collaborate-and-write-with-gpt-4o
+    See how ChatGPT image generation helps create branded visuals and product mockups from prompts,
+    sketches, or uploaded images.
+  url: https://openai.com/business/learn/create-on-brand-visuals-with-image-generation
   source: rss
   tags:
     - genai
@@ -12502,6 +12502,24 @@
   score: 0
   publishedAt: '2025-04-22T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: OpenAI o3 and o4-mini System Card
+  summary: >-
+    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
+    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
+    and memory.
+  details: >-
+    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
+    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
+    and memory.
+  url: https://openai.com/index/o3-o4-mini-system-card
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-04-16T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Thinking with images
   summary: ''
   details: ''
@@ -12518,24 +12536,6 @@
   summary: Our smartest and most capable models to date with full tool access
   details: Our smartest and most capable models to date with full tool access
   url: https://openai.com/index/introducing-o3-and-o4-mini
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-04-16T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: OpenAI o3 and o4-mini System Card
-  summary: >-
-    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
-    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
-    and memory.
-  details: >-
-    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
-    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
-    and memory.
-  url: https://openai.com/index/o3-o4-mini-system-card
   source: rss
   tags:
     - genai
@@ -12662,10 +12662,14 @@
   score: 0
   publishedAt: '2025-04-09T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Shipping code to your IDE with ChatGPT
-  summary: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
-  details: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
-  url: https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt
+  title: Vision and voice in ChatGPT
+  summary: >-
+    See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more
+    naturally.
+  details: >-
+    See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more
+    naturally.
+  url: https://openai.com/business/learn/vision-and-voice-in-chatgpt
   source: rss
   tags:
     - genai
@@ -12686,14 +12690,10 @@
   score: 0
   publishedAt: '2025-04-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Vision and voice in ChatGPT
-  summary: >-
-    See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more
-    naturally.
-  details: >-
-    See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more
-    naturally.
-  url: https://openai.com/business/learn/vision-and-voice-in-chatgpt
+  title: Shipping code to your IDE with ChatGPT
+  summary: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
+  details: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
+  url: https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt
   source: rss
   tags:
     - genai
@@ -13336,6 +13336,18 @@
   score: 0
   publishedAt: '2025-02-04T11:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Catching halibut with ChatGPT
+  summary: Using ChatGPT to catch halibut
+  details: Using ChatGPT to catch halibut
+  url: https://openai.com/index/fishing-for-first-timers
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-02-04T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Building a custom math tutor powered by ChatGPT
   summary: ChatGPT and personal tutoring
   details: ChatGPT and personal tutoring
@@ -13360,17 +13372,17 @@
   score: 0
   publishedAt: '2025-02-04T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Catching halibut with ChatGPT
-  summary: Using ChatGPT to catch halibut
-  details: Using ChatGPT to catch halibut
-  url: https://openai.com/index/fishing-for-first-timers
+  title: Understanding complex trends with deep research
+  summary: How OpenAI deep research helps Bain & Company understand complex industry trends.
+  details: How OpenAI deep research helps Bain & Company understand complex industry trends.
+  url: https://openai.com/index/deep-research
   source: rss
   tags:
     - genai
     - llm
     - openai
   score: 0
-  publishedAt: '2025-02-04T00:00:00.000Z'
+  publishedAt: '2025-02-02T16:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing deep research
   summary: >-
@@ -13380,18 +13392,6 @@
     An agent that uses reasoning to synthesize large amounts of online information and complete
     multi-step research tasks for you. Available to Pro users today, Plus and Team next.
   url: https://openai.com/index/introducing-deep-research
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-02-02T16:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Understanding complex trends with deep research
-  summary: How OpenAI deep research helps Bain & Company understand complex industry trends.
-  details: How OpenAI deep research helps Bain & Company understand complex industry trends.
-  url: https://openai.com/index/deep-research
   source: rss
   tags:
     - genai
@@ -14575,6 +14575,18 @@
   score: 0
   publishedAt: '2024-09-12T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Economics and reasoning with OpenAI o1
+  summary: Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
+  details: Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
+  url: https://openai.com/index/o1-economics
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-09-12T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Decoding genetics with OpenAI o1
   summary: >-
     Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of
@@ -14591,30 +14603,6 @@
   score: 0
   publishedAt: '2024-09-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Answering quantum physics questions with OpenAI o1
-  summary: Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
-  details: Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
-  url: https://openai.com/index/o1-quantum-physics
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-09-12T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Economics and reasoning with OpenAI o1
-  summary: Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
-  details: Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.
-  url: https://openai.com/index/o1-economics
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-09-12T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Coding with OpenAI o1
   summary: >-
     Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a
@@ -14623,6 +14611,18 @@
     Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a
     more human-like way.
   url: https://openai.com/index/o1-coding
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-09-12T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Answering quantum physics questions with OpenAI o1
+  summary: Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
+  details: Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.
+  url: https://openai.com/index/o1-quantum-physics
   source: rss
   tags:
     - genai
@@ -15023,22 +15023,6 @@
   score: 0
   publishedAt: '2024-06-20T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Improved Techniques for Training Consistency Models
-  summary: >-
-    Consistency models are a nascent family of generative models that can sample high quality data
-    in one step without the need for adversarial training.
-  details: >-
-    Consistency models are a nascent family of generative models that can sample high quality data
-    in one step without the need for adversarial training.
-  url: https://openai.com/index/improved-techniques-for-training-consistency-models
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-06-20T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Consistency Models
   summary: >-
     Diffusion models have significantly advanced the fields of image, audio, and video generation,
@@ -15047,6 +15031,22 @@
     Diffusion models have significantly advanced the fields of image, audio, and video generation,
     but they depend on an iterative sampling process that causes slow generation.
   url: https://openai.com/index/consistency-models
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-06-20T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Improved Techniques for Training Consistency Models
+  summary: >-
+    Consistency models are a nascent family of generative models that can sample high quality data
+    in one step without the need for adversarial training.
+  details: >-
+    Consistency models are a nascent family of generative models that can sample high quality data
+    in one step without the need for adversarial training.
+  url: https://openai.com/index/improved-techniques-for-training-consistency-models
   source: rss
   tags:
     - genai
@@ -15487,24 +15487,6 @@
   score: 0
   publishedAt: '2024-05-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Understanding the source of what we see and hear online
-  summary: >-
-    Today we’re introducing new technology to help researchers identify content created by our tools
-    and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
-    industry standards.
-  details: >-
-    Today we’re introducing new technology to help researchers identify content created by our tools
-    and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
-    industry standards.
-  url: https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-07T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Our approach to data and AI
   summary: >-
     Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also
@@ -15515,6 +15497,24 @@
     raised important conversations about data in the age of AI. More on our approach, a new Media
     Manager for creators and content owners, and where we’re headed.
   url: https://openai.com/index/approach-to-data-and-ai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-07T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Understanding the source of what we see and hear online
+  summary: >-
+    Today we’re introducing new technology to help researchers identify content created by our tools
+    and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
+    industry standards.
+  details: >-
+    Today we’re introducing new technology to help researchers identify content created by our tools
+    and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
+    industry standards.
+  url: https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online
   source: rss
   tags:
     - genai
@@ -15547,38 +15547,6 @@
   score: 0
   publishedAt: '2024-05-06T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation "Spamouflage": China-linked influence activity'
-  summary: >-
-    OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to
-    research social media activity, generate posts, and debug a previously unreported website.
-  details: >-
-    OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to
-    research social media activity, generate posts, and debug a previously unreported website.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-spamouflage
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'IUVM: Iran-linked influence content network'
-  summary: >-
-    OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate
-    and translate pro-Iran, anti-Israel and anti-US website content.
-  details: >-
-    OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate
-    and translate pro-Iran, anti-Israel and anti-US website content.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Operation "Zero Zeno": Israel-linked influence activity'
   summary: >-
     OpenAI banned accounts linked to a previously unreported Israel-origin operation we dubbed “Zero
@@ -15589,6 +15557,24 @@
     Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut
     content.
   url: https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation "Doppelganger": Russian influence activity targeting Ukraine'
+  summary: >-
+    OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
+    generate anti-Ukraine social media comments, translations, and website copy across several
+    languages.
+  details: >-
+    OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
+    generate anti-Ukraine social media comments, translations, and website copy across several
+    languages.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger
   source: rss
   tags:
     - genai
@@ -15615,16 +15601,30 @@
   score: 0
   publishedAt: '2024-05-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation "Doppelganger": Russian influence activity targeting Ukraine'
+  title: 'IUVM: Iran-linked influence content network'
   summary: >-
-    OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
-    generate anti-Ukraine social media comments, translations, and website copy across several
-    languages.
+    OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate
+    and translate pro-Iran, anti-Israel and anti-US website content.
   details: >-
-    OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
-    generate anti-Ukraine social media comments, translations, and website copy across several
-    languages.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger
+    OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate
+    and translate pro-Iran, anti-Israel and anti-US website content.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation "Spamouflage": China-linked influence activity'
+  summary: >-
+    OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to
+    research social media activity, generate posts, and debug a previously unreported website.
+  details: >-
+    OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to
+    research social media activity, generate posts, and debug a previously unreported website.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-spamouflage
   source: rss
   tags:
     - genai
@@ -15657,18 +15657,6 @@
   score: 0
   publishedAt: '2024-04-24T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing ChatGPT and Whisper APIs
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-chatgpt-and-whisper-apis
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-04-24T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: GPT-4 API general availability and deprecation of older models in the Completions API
   summary: >-
     GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a
@@ -15679,6 +15667,18 @@
     deprecation plan for older models of the Completions API, which will retire at the beginning of
     2024.
   url: https://openai.com/index/gpt-4-api-general-availability
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-04-24T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing ChatGPT and Whisper APIs
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-chatgpt-and-whisper-apis
   source: rss
   tags:
     - genai
@@ -15884,14 +15884,10 @@
   score: 0
   publishedAt: '2024-03-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Building a data-driven, efficient culture with AI
-  summary: >-
-    Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
-    hours weekly.
-  details: >-
-    Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
-    hours weekly.
-  url: https://openai.com/index/holiday-extras
+  title: Enterprise-ready trust and safety
+  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  url: https://openai.com/index/salesforce
   source: rss
   tags:
     - genai
@@ -15900,10 +15896,14 @@
   score: 0
   publishedAt: '2024-03-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Enterprise-ready trust and safety
-  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  url: https://openai.com/index/salesforce
+  title: Building a data-driven, efficient culture with AI
+  summary: >-
+    Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
+    hours weekly.
+  details: >-
+    Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
+    hours weekly.
+  url: https://openai.com/index/holiday-extras
   source: rss
   tags:
     - genai
@@ -16133,18 +16133,6 @@
   score: 0
   publishedAt: '2024-01-12T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing the GPT Store
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-the-gpt-store
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-01-10T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing ChatGPT Team
   summary: >-
     We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
@@ -16153,6 +16141,18 @@
     We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
     collaborative workspace to get the most out of ChatGPT at work.
   url: https://openai.com/index/introducing-chatgpt-team
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-01-10T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing the GPT Store
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-the-gpt-store
   source: rss
   tags:
     - genai
@@ -17560,10 +17560,10 @@
   score: 0
   publishedAt: '2022-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Economic impacts research at OpenAI
-  summary: "Call for expressions of interest to study the economic impacts of large language\_models."
-  details: "Call for expressions of interest to study the economic impacts of large language\_models."
-  url: https://openai.com/index/economic-impacts
+  title: Lessons learned on language model safety and misuse
+  summary: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
+  details: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
+  url: https://openai.com/index/language-model-safety-and-misuse
   source: rss
   tags:
     - genai
@@ -17572,10 +17572,10 @@
   score: 0
   publishedAt: '2022-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Lessons learned on language model safety and misuse
-  summary: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
-  details: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
-  url: https://openai.com/index/language-model-safety-and-misuse
+  title: Economic impacts research at OpenAI
+  summary: "Call for expressions of interest to study the economic impacts of large language\_models."
+  details: "Call for expressions of interest to study the economic impacts of large language\_models."
+  url: https://openai.com/index/economic-impacts
   source: rss
   tags:
     - genai
@@ -19094,18 +19094,6 @@
   score: 0
   publishedAt: '2018-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/multi-goal-reinforcement-learning
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2018-02-26T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Ingredients for robotics research
   summary: >-
     We’re releasing eight simulated robotics environments and a Baselines implementation of
@@ -19117,6 +19105,18 @@
     environments to train models which work on physical robots. We’re also releasing a set of
     requests for robotics research.
   url: https://openai.com/index/ingredients-for-robotics-research
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2018-02-26T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/multi-goal-reinforcement-learning
   source: rss
   tags:
     - genai
