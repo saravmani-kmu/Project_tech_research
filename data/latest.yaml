@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 18173
+  score: 18191
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15694
+  score: 15699
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -65,7 +65,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14401
+  score: 14402
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -89,7 +89,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11793
+  score: 11794
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -131,7 +131,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 8813
+  score: 8850
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -170,7 +170,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8546
+  score: 8552
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -197,7 +197,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8372
+  score: 8373
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -217,7 +217,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7255
+  score: 7258
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -269,7 +269,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 6762
+  score: 6763
 - id: huggingface-model-openai/whisper-large-v3
   title: openai/whisper-large-v3
   summary: automatic-speech-recognition
@@ -418,7 +418,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6392
+  score: 6402
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -441,7 +441,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6389
+  score: 6393
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -471,7 +471,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6284
+  score: 6289
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -569,7 +569,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5772
+  score: 5776
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -591,7 +591,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 5669
+  score: 5670
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -613,7 +613,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5499
+  score: 5498
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -642,7 +642,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5486
+  score: 5493
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
   summary: text-generation
@@ -690,7 +690,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5266
+  score: 5271
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -717,7 +717,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5200
+  score: 5201
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
   summary: text-generation
@@ -876,7 +876,7 @@
   tags:
     - docker
     - region:us
-  score: 11306
+  score: 11305
 - id: huggingface-space-Kwai-Kolors/Kolors-Virtual-Try-On
   title: Kwai-Kolors/Kolors-Virtual-Try-On
   summary: gradio, region:us
@@ -886,7 +886,7 @@
   tags:
     - gradio
     - region:us
-  score: 10205
+  score: 10206
 - id: huggingface-space-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: gradio, region:us
@@ -896,7 +896,7 @@
   tags:
     - gradio
     - region:us
-  score: 9575
+  score: 9574
 - id: huggingface-space-mteb/leaderboard
   title: mteb/leaderboard
   summary: docker, leaderboard, region:us
@@ -907,7 +907,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7743
+  score: 7744
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -1003,7 +1003,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3914
+  score: 3915
 - id: huggingface-space-KlingTeam/LivePortrait
   title: KlingTeam/LivePortrait
   summary: gradio, Multimodal, Motion control
@@ -1022,7 +1022,7 @@
     - LLMs
     - region:us
     - llm
-  score: 3810
+  score: 3809
 - id: huggingface-space-zerogpu-aoti/wan2-2-fp8da-aoti-faster
   title: zerogpu-aoti/wan2-2-fp8da-aoti-faster
   summary: gradio, mcp-server, region:us
@@ -1043,7 +1043,7 @@
   tags:
     - gradio
     - region:us
-  score: 3653
+  score: 3654
 - id: huggingface-space-hexgrad/Kokoro-TTS
   title: hexgrad/Kokoro-TTS
   summary: gradio, region:us
@@ -1121,6 +1121,34 @@
     - gradio
     - region:us
   score: 2985
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: What FDE means at OpenAI
+  summary: What forward deployed engineering means at OpenAI
+  details: What forward deployed engineering means at OpenAI
+  url: https://openai.com/index/forward-deployed-engineering-means
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-10-22T06:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Uber brings ChatGPT Work to all employees with OpenAI
+  summary: >-
+    Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze
+    data, create presentations, and complete complex workflows.
+  details: >-
+    Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze
+    data, create presentations, and complete complex workflows.
+  url: https://openai.com/index/uber-chatgpt-work-rollout
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-10-22T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Broad access through consistent standards
   summary: >-
@@ -2175,7 +2203,7 @@
     - llm
     - openai
   score: 0
-  publishedAt: '2026-09-29T10:00:00.000Z'
+  publishedAt: '2026-09-29T17:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: DevDay 2026 Recap
   summary: >-
@@ -2257,6 +2285,22 @@
   score: 0
   publishedAt: '2026-09-28T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
+  summary: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  details: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  url: https://openai.com/index/basis-tax-workbook-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-28T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Are you a Codex Original?
   summary: >-
     We’re collecting real stories of builders, tinkerers, researchers, and creators who are using
@@ -2267,22 +2311,6 @@
     Codex to do incredible things. If you want to be a part of the next chapter of the Codex
     Originals program, tell us more about your story and project below.
   url: https://openai.com/form/codex-originals
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-28T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
-  summary: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  details: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  url: https://openai.com/index/basis-tax-workbook-with-astra
   source: rss
   tags:
     - genai
@@ -2367,31 +2395,14 @@
   score: 0
   publishedAt: '2026-09-23T13:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+  title: How invideo improves color grading 3x with GPT‑6 Astra
   summary: >-
-    Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90%
-    less cost vs. GPT-4.1.
+    With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
+    grading threefold, and produces 50 custom effects in one day.
   details: >-
-    Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90%
-    less cost vs. GPT-4.1.
-  url: https://openai.com/index/ringg
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-    - agentic-ai
-  score: 0
-  publishedAt: '2026-09-23T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
-  summary: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
-  details: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
-  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
+    With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
+    grading threefold, and produces 50 custom effects in one day.
+  url: https://openai.com/index/invideo-builds-with-gpt-6-astra
   source: rss
   tags:
     - genai
@@ -2416,19 +2427,36 @@
   score: 0
   publishedAt: '2026-09-23T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How invideo improves color grading 3x with GPT‑6 Astra
+  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
   summary: >-
-    With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
-    grading threefold, and produces 50 custom effects in one day.
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
   details: >-
-    With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
-    grading threefold, and produces 50 custom effects in one day.
-  url: https://openai.com/index/invideo-builds-with-gpt-6-astra
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
+  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
   source: rss
   tags:
     - genai
     - llm
     - openai
+  score: 0
+  publishedAt: '2026-09-23T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+  summary: >-
+    Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90%
+    less cost vs. GPT-4.1.
+  details: >-
+    Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90%
+    less cost vs. GPT-4.1.
+  url: https://openai.com/index/ringg
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-09-23T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -2912,22 +2940,6 @@
   score: 0
   publishedAt: '2026-09-10T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing the Agents API
-  summary: >-
-    Build and launch cloud agents with the Agents API, a managed service powered by the Codex
-    harness for orchestration, long-running sessions, and tool use.
-  details: >-
-    Build and launch cloud agents with the Agents API, a managed service powered by the Codex
-    harness for orchestration, long-running sessions, and tool use.
-  url: https://openai.com/index/introducing-the-agents-api
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Build more natural voice experiences with GPT‑Live‑1 in the API
   summary: >-
     GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
@@ -2936,6 +2948,22 @@
     GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction
     following, custom voices, and telephony support.
   url: https://openai.com/index/introducing-gpt-live-1-in-the-api
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing the Agents API
+  summary: >-
+    Build and launch cloud agents with the Agents API, a managed service powered by the Codex
+    harness for orchestration, long-running sessions, and tool use.
+  details: >-
+    Build and launch cloud agents with the Agents API, a managed service powered by the Codex
+    harness for orchestration, long-running sessions, and tool use.
+  url: https://openai.com/index/introducing-the-agents-api
   source: rss
   tags:
     - genai
@@ -3168,22 +3196,6 @@
   score: 0
   publishedAt: '2026-09-03T13:15:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Legora reviewed 41 documents in minutes with GPT-6 Astra
-  summary: >-
-    Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
-    improve performance by nearly 40% in this financial-review workflow.
-  details: >-
-    Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
-    improve performance by nearly 40% in this financial-review workflow.
-  url: https://openai.com/index/legora-financial-statement-review-with-astra
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-03T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Playco cut manual fixes 50% prototyping games with GPT-6 Astra
   summary: >-
     Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
@@ -3192,6 +3204,22 @@
     Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
     reported 50% fewer manual fixes than with the previous model.
   url: https://openai.com/index/playco-game-prototyping-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-03T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Legora reviewed 41 documents in minutes with GPT-6 Astra
+  summary: >-
+    Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
+    improve performance by nearly 40% in this financial-review workflow.
+  details: >-
+    Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
+    improve performance by nearly 40% in this financial-review workflow.
+  url: https://openai.com/index/legora-financial-statement-review-with-astra
   source: rss
   tags:
     - genai
@@ -3425,22 +3453,6 @@
   score: 0
   publishedAt: '2026-08-27T03:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Learning never stops: How AI makes learning continuous'
-  summary: >-
-    OpenAI’s new report explores how students and educators use ChatGPT to make learning more
-    continuous, with support that extends beyond the classroom.
-  details: >-
-    OpenAI’s new report explores how students and educators use ChatGPT to make learning more
-    continuous, with support that extends beyond the classroom.
-  url: https://openai.com/index/learning-never-stops
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-08-26T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Bringing ChatGPT for Teachers to more U.S. school districts
   summary: >-
     ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
@@ -3449,6 +3461,22 @@
     ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training,
     and support to over 100,000 more educators and staff.
   url: https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-08-26T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Learning never stops: How AI makes learning continuous'
+  summary: >-
+    OpenAI’s new report explores how students and educators use ChatGPT to make learning more
+    continuous, with support that extends beyond the classroom.
+  details: >-
+    OpenAI’s new report explores how students and educators use ChatGPT to make learning more
+    continuous, with support that extends beyond the classroom.
+  url: https://openai.com/index/learning-never-stops
   source: rss
   tags:
     - genai
@@ -3955,22 +3983,6 @@
   score: 0
   publishedAt: '2026-08-10T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Expanding Daybreak as the Cyber Defense Window Narrows
-  summary: >-
-    Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for
-    authorized vulnerability research, exploit validation, and security testing.
-  details: >-
-    Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for
-    authorized vulnerability research, exploit validation, and security testing.
-  url: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-08-10T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Putting frontier cyber models in more trusted hands
   summary: >-
     Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized,
@@ -3987,14 +3999,30 @@
   score: 0
   publishedAt: '2026-08-10T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Premium seats are coming to ChatGPT Business
+  title: Expanding Daybreak as the Cyber Defense Window Narrows
   summary: >-
-    Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage
-    limit, and flexible seat options for every teammate.
+    Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for
+    authorized vulnerability research, exploit validation, and security testing.
   details: >-
-    Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage
-    limit, and flexible seat options for every teammate.
-  url: https://openai.com/index/premium-seats-chatgpt-business
+    Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for
+    authorized vulnerability research, exploit validation, and security testing.
+  url: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-08-10T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Virgin Atlantic sharpens customer journeys with ChatGPT Work
+  summary: >-
+    Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT
+    Work, helping teams connect signals across the customer journey.
+  details: >-
+    Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT
+    Work, helping teams connect signals across the customer journey.
+  url: https://openai.com/index/virgin-atlantic/chatgpt-work
   source: rss
   tags:
     - genai
@@ -4019,14 +4047,14 @@
   score: 0
   publishedAt: '2026-08-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Virgin Atlantic sharpens customer journeys with ChatGPT Work
+  title: Premium seats are coming to ChatGPT Business
   summary: >-
-    Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT
-    Work, helping teams connect signals across the customer journey.
+    Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage
+    limit, and flexible seat options for every teammate.
   details: >-
-    Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT
-    Work, helping teams connect signals across the customer journey.
-  url: https://openai.com/index/virgin-atlantic/chatgpt-work
+    Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage
+    limit, and flexible seat options for every teammate.
+  url: https://openai.com/index/premium-seats-chatgpt-business
   source: rss
   tags:
     - genai
@@ -4664,22 +4692,6 @@
   score: 0
   publishedAt: '2026-07-14T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sales workflows with ChatGPT Work
-  summary: >-
-    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
-    forecast reviews, and deal diagnosis.
-  details: >-
-    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
-    forecast reviews, and deal diagnosis.
-  url: https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-07-14T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Data science workflows with ChatGPT Work
   summary: >-
     Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and
@@ -4688,6 +4700,22 @@
     Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and
     dashboard specifications.
   url: https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-07-14T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Sales workflows with ChatGPT Work
+  summary: >-
+    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
+    forecast reviews, and deal diagnosis.
+  details: >-
+    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
+    forecast reviews, and deal diagnosis.
+  url: https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
   source: rss
   tags:
     - genai
@@ -4756,22 +4784,6 @@
   score: 0
   publishedAt: '2026-07-09T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: ChatGPT is now a partner for your most ambitious work
-  summary: >-
-    ChatGPT Work is an agent that can take action across your apps and files, stay with a project
-    for hours if needed, and turn a goal into finished work.
-  details: >-
-    ChatGPT Work is an agent that can take action across your apps and files, stay with a project
-    for hours if needed, and turn a goal into finished work.
-  url: https://openai.com/index/chatgpt-for-your-most-ambitious-work
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-07-09T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'GPT-5.6: Frontier intelligence that scales with your ambition'
   summary: >-
     More intelligence from every token, stronger performance per dollar, and more capability on
@@ -4780,6 +4792,22 @@
     More intelligence from every token, stronger performance per dollar, and more capability on
     demand for your hardest work.
   url: https://openai.com/index/gpt-5-6
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-07-09T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: ChatGPT is now a partner for your most ambitious work
+  summary: >-
+    ChatGPT Work is an agent that can take action across your apps and files, stay with a project
+    for hours if needed, and turn a goal into finished work.
+  details: >-
+    ChatGPT Work is an agent that can take action across your apps and files, stay with a project
+    for hours if needed, and turn a goal into finished work.
+  url: https://openai.com/index/chatgpt-for-your-most-ambitious-work
   source: rss
   tags:
     - genai
@@ -4848,22 +4876,6 @@
   score: 0
   publishedAt: '2026-07-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: MUFG aims to become AI-native with OpenAI
-  summary: >-
-    MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver
-    new AI-powered financial services at scale.
-  details: >-
-    MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver
-    new AI-powered financial services at scale.
-  url: https://openai.com/index/mufg
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-07-07T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Australian Payments Plus moves faster with ChatGPT and Codex
   summary: >-
     See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through
@@ -4872,6 +4884,22 @@
     See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through
     payments complexity. AP+ saves time, improves quality, and keeps human judgment central.
   url: https://openai.com/index/australian-payments-plus
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-07-07T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: MUFG aims to become AI-native with OpenAI
+  summary: >-
+    MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver
+    new AI-powered financial services at scale.
+  details: >-
+    MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver
+    new AI-powered financial services at scale.
+  url: https://openai.com/index/mufg
   source: rss
   tags:
     - genai
@@ -5293,6 +5321,22 @@
   score: 0
   publishedAt: '2026-06-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How an astrophysicist uses Codex to help simulate black holes
+  summary: >-
+    Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping
+    scientists study extreme physics and test Einstein’s theory of general relativity.
+  details: >-
+    Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping
+    scientists study extreme physics and test Einstein’s theory of general relativity.
+  url: https://openai.com/index/using-codex-to-simulate-black-holes
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-06-11T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI to acquire Ona
   summary: >-
     OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling
@@ -5307,22 +5351,6 @@
     - llm
     - openai
     - agentic-ai
-  score: 0
-  publishedAt: '2026-06-11T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How an astrophysicist uses Codex to help simulate black holes
-  summary: >-
-    Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping
-    scientists study extreme physics and test Einstein’s theory of general relativity.
-  details: >-
-    Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping
-    scientists study extreme physics and test Einstein’s theory of general relativity.
-  url: https://openai.com/index/using-codex-to-simulate-black-holes
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
   score: 0
   publishedAt: '2026-06-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -8320,55 +8348,6 @@
     - openai
   score: 0
   publishedAt: '2026-02-25T00:00:00.000Z'
-- id: hackernews-47138618
-  title: 'Show HN: Neuron – Independent Rust crates for building AI agents'
-  summary: >-
-    The core of every agent framework is the same ReAct loop. It&#x27;s commodity code. What
-    actually matters is everything around that loop — how you manage context windows, how you
-    pipeline tool executi
-  details: >-
-    The core of every agent framework is the same ReAct loop. It&#x27;s commodity code. What
-    actually matters is everything around that loop — how you manage context windows, how you
-    pipeline tool execution, how you handle durability and replay. These are hard problems with real
-    design trade-offs, and yet every framework bundles them into one monolith where you buy all of
-    it or none of it.<p>neuron is the layer below frameworks. It defines trait boundaries —
-    `Provider`, `Tool`, `ContextStrategy` — and ships working implementations of each as independent
-    crates. You get four context compaction strategies without pulling a single provider. You get
-    the Anthropic provider without the tool registry. You get MCP support without the agent loop.
-    The analogy is `serde` and `serde_json`: one crate defines the traits, the others implement
-    them, and you compose what you need.<p>v0.3 is 12 crates. Three providers (Anthropic, OpenAI,
-    Ollama), composable tool middleware with a `#[neuron_tool]` proc macro, four context compaction
-    strategies, an agent loop with cancellation and parallel tool execution, full MCP support across
-    both stdio and Streamable HTTP, sessions, guardrails with sandboxing and permission policies,
-    and a dedicated OpenTelemetry crate following the GenAI semantic conventions. Rust 2024 edition,
-    native async traits.<p>Adding a provider is adding a crate. The existing provider crates serve
-    as templates — implement the `Provider` trait from `neuron-types`, wire up streaming, and you
-    have a first-class citizen in the ecosystem. The same goes for context strategies, tool
-    middleware, and session backends. More provider and integration crates are on the roadmap, but
-    the architecture is specifically designed so that you or your agent can add them without waiting
-    on me.<p>That last point is deliberate. The repo ships with `CLAUDE.md`, `llms.txt`, and
-    architecture docs written to be machine-readable. An LLM agent can pull the codebase, understand
-    the trait boundaries, and start building against them. If you&#x27;re using Claude Code or
-    similar tools to scaffold new integrations, neuron is optimized for that workflow.<p>Looking for
-    feedback on the crate boundaries and API surface. The docs site walks through the reasoning
-    behind specific trade-offs — why axum-style middleware instead of tower, why `DurableContext`
-    wraps side effects rather than observing them, why the flat `Message` struct instead of
-    variant-per-role.<p>Repo: <a href="https:&#x2F;&#x2F;github.com&#x2F;SecBear&#x2F;neuron"
-    rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;SecBear&#x2F;neuron</a>
-
-    Crates: <a href="https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;neuron"
-    rel="nofollow">https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;neuron</a>
-  url: https://secbear.github.io/neuron/
-  source: hackernews
-  tags:
-    - author_secbear
-    - story_47138618
-    - show_hn
-    - agentic-ai
-    - llm
-    - genai
-  score: 1
-  publishedAt: '2026-02-24T15:49:56Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Arvind KC appointed Chief People Officer
   summary: >-
@@ -14162,50 +14141,6 @@
     - openai
   score: 0
   publishedAt: '2025-04-09T10:00:00.000Z'
-- id: hackernews-43627329
-  title: 'Show HN: Dapto – AI Prompt and Response Firewall for Enterprises'
-  summary: >-
-    Hi HN,
-
-    We’ve been working on a problem we kept seeing in enterprise GenAI rollouts:<p>As tools like
-    GPT, Claude, and Gemini get embedded into dashboards, support tools, and business systems, most
-    orga
-  details: >-
-    Hi HN,
-
-    We’ve been working on a problem we kept seeing in enterprise GenAI rollouts:<p>As tools like
-    GPT, Claude, and Gemini get embedded into dashboards, support tools, and business systems, most
-    organizations have no control or context over what the AI sees, says, or shares.<p>That creates
-    serious risks:
-     - Hallucinated answers
-     - Prompt injection attacks
-     - Data and PII exposure
-     - Industry compliance violations (e.g. HIPAA, SOC2, GDPR)<p>So we built Dapto ,  an enterprise-grade trust layer designed for companies that want to deploy GenAI safely, at scale, and with full governance.<p>See it in action - <a href="https:&#x2F;&#x2F;youtu.be&#x2F;dxFb7Q12gcw" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;dxFb7Q12gcw</a><p>Here’s how it works:
-     - Validates prompts before they hit the LLM - catching jailbreaks, injections, and 
-       policy violations
-     - Checks AI responses before they reach the user - to prevent hallucinations or 
-       unauthorized content
-     - Auto-generates real-time metadata context from the input prompt
-     - Then re-verifies the AI’s response against enterprise data before it’s shown
-     - Detects and masks sensitive data (PII, financials, health info) as needed
-     - Keeps full logs, audit trails, and risk scoring, without changing your model or 
-       app<p>But here&#x27;s what makes it different:<p>We use a multi-agent architecture with:
-     - Vertical-specific AI agents (Finance, Healthcare, Legal, etc.) that understand 
-       the unique compliance and domain context of your industry
-     - Horizontal supporting agents that handle metadata, hallucination detection, 
-       policy enforcement, and data verification<p>You can build your own AI agents inside Dapto, with all safety and governance layers baked in.<p>It works out of the box with OpenAI, Claude, Gemini, Ollama, LangChain, and self-hosted models.<p>We’d love feedback, especially from folks building with LLMs in regulated or complex domains.<p>What are you using today for guardrails? Would this plug-in approach fit into your stack?<p>Thanks for reading.
-    www.dapto.ai
-  url: https://dapto.ai
-  source: hackernews
-  tags:
-    - author_sharmasachin98
-    - story_43627329
-    - show_hn
-    - agentic-ai
-    - llm
-    - genai
-  score: 2
-  publishedAt: '2025-04-08T23:04:16Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Vision and voice in ChatGPT
   summary: >-
@@ -15237,45 +15172,6 @@
     - openai
   score: 0
   publishedAt: '2025-01-15T03:00:00.000Z'
-- id: hackernews-42697592
-  title: 'Ask HN: Continue with SaaS type platform, or pursue AI?'
-  summary: >-
-    I&#x27;m building a collaborative platform for improving sanity (efficiency) when working on
-    complex projects, and with all the AI hype I spent some time diving into LLMs, agents, etc.<p>My
-    key takeaw
-  details: >-
-    I&#x27;m building a collaborative platform for improving sanity (efficiency) when working on
-    complex projects, and with all the AI hype I spent some time diving into LLMs, agents, etc.<p>My
-    key takeaway after spending a couple months on it is that inaccuracy is really the biggest
-    killer.<p>Here are some key takeaways after talking to some people as well as doing my own
-    projects:<p>1. 1hr meeting&#x27;s AI gen minutes (zoom&#x2F;teams&#x2F;etc). It makes a dozen or
-    so points but some of them are not relevant to the meeting at all, and some folks have heavy
-    accents and their input is mostly incorrectly captured. Folks ended up just using manual minutes
-    again because these are important for their workflow.<p>2. Creating embeddings of
-    files&#x2F;documentation&#x2F;messages&#x2F;etc and then searching on them seems to work well.
-    For the most part, it seems these can be 60-80% accurate because the alternative is even worse
-    (try searching a huge slack for a file, or even software made for file management). However,
-    when it doesn&#x27;t work, it is really bad because I get wildly unrelated results.<p>3. Not
-    very accurate for anything involving calculations or open ended questions about numeric data,
-    granted this is a known limitation. Creating a graph or something like that? Sure. Asking it
-    about those figures or trying to derive some additional information seems to be hit or
-    miss.<p>So I&#x27;m a little stuck. I feel like if I stick with a SaaS platform, it won&#x27;t
-    be appealing in the current landscape where everyone is hammering AI into their products.
-    Personally I find most of the gen AI not that useful - like when I open up a project management
-    tool and the description box has an AI button.<p>NL input seems to instill a sense of false
-    confidence - I will get what I ask. But when it doesn&#x27;t work, especially after effort
-    placed into the prompt, people just revert to the vanilla experience.<p>So what am I missing? Am
-    I just thinking the wrong way? Maybe I just suck at setting vision for the future based on my
-    own experience with these tools.<p>Any thoughts would be helpful. Thanks!
-  url: https://news.ycombinator.com/item?id=42697592
-  source: hackernews
-  tags:
-    - author_babyent
-    - story_42697592
-    - ask_hn
-    - llm
-  score: 2
-  publishedAt: '2025-01-14T14:28:18Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Adebayo Ogunlesi joins OpenAI’s Board of Directors
   summary: Adebayo Ogunlesi Joins OpenAI’s Board of Directors
@@ -15439,32 +15335,6 @@
     - openai
   score: 0
   publishedAt: '2024-12-09T00:00:00.000Z'
-- id: hackernews-42347825
-  title: 'Ask HN: What will happen to social media?'
-  summary: >-
-    With the incoming AI agents, I am pretty sure social media teams will be run mostly by these LLM
-    bots. I am already observing accounts replying to every post on my feed.<p>Soon social media is
-    going t
-  details: >-
-    With the incoming AI agents, I am pretty sure social media teams will be run mostly by these LLM
-    bots. I am already observing accounts replying to every post on my feed.<p>Soon social media is
-    going to be filled with bots posting content, and other bots commenting, re-sharing, and
-    upvoting content. Quora already has an &quot;Assistant&quot; answering each and every
-    question.<p>I am sure I will not stick around to scroll through such AI generated
-    content.<p>With image generation models, even instagram is not going to be spared it seems.
-    However, I am optimistic that video still has time. Most popular video contents usually have a
-    human element with some presenter or subject doing or saying something interesting which is
-    still hard using gen AI.
-  url: https://news.ycombinator.com/item?id=42347825
-  source: hackernews
-  tags:
-    - author_ghoshbishakh
-    - story_42347825
-    - ask_hn
-    - agentic-ai
-    - llm
-  score: 5
-  publishedAt: '2024-12-07T07:02:32Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing ChatGPT Pro
   summary: Broadening usage of frontier AI
@@ -16264,61 +16134,6 @@
     - openai
   score: 0
   publishedAt: '2024-09-05T08:00:00.000Z'
-- id: hackernews-41451698
-  title: 'Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust'
-  summary: >-
-    Hey HN, we’re Robert, Din and Temirlan from Laminar (<a
-    href="https:&#x2F;&#x2F;www.lmnr.ai">https:&#x2F;&#x2F;www.lmnr.ai</a>), an open-source
-    observability and analytics platform for complex LLM app
-  details: >-
-    Hey HN, we’re Robert, Din and Temirlan from Laminar (<a
-    href="https:&#x2F;&#x2F;www.lmnr.ai">https:&#x2F;&#x2F;www.lmnr.ai</a>), an open-source
-    observability and analytics platform for complex LLM apps. It’s designed to be fast, reliable,
-    and scalable. The stack is RabbitMQ for message queues, Postgres for storage, Clickhouse for
-    analytics, Qdrant for semantic search - all powered by Rust.<p>How is Laminar different from the
-    swarm of other “LLM observability” platforms?<p>On the observability part, we’re focused on
-    handling full execution traces, not just LLM calls. We built a Rust ingestor for OpenTelemetry
-    (Otel) spans with GenAI semantic conventions. As LLM apps get more complex (think Agents with
-    hundreds of LLM and function calls, or complex RAG pipelines), full tracing is critical. With
-    Otel spans, we can: 1. Cover the entire execution trace. 2. Keep the platform future-proof 3.
-    Leverage an amazing OpenLLMetry (<a
-    href="https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry">https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry</a>),
-    open-source package for span production.<p>The key difference is that we tie text analytics
-    directly to execution traces. Rich text data makes LLM traces unique, so we let you track
-    “semantic metrics” (like what your AI agent is actually saying) and connect those metrics to
-    where they happen in the trace. If you want to know if your AI drive-through agent made an
-    upsell, you can design an LLM extraction pipeline in our builder (more on it later), host it on
-    Laminar, and handle everything from event requests to output logging. Processing requests simply
-    come as events in the Otel span.<p>We think it’s a win to separate core app logic from LLM event
-    processing. Most devs don’t want to manage background queues for LLM analytics processing but
-    still want insights into how their Agents or RAGs are working.<p>Our Pipeline Builder uses graph
-    UI where nodes are LLM and util functions, and edges showing data flow. We built a custom task
-    execution engine with support of parallel branch executions, cycles and branches (it’s overkill
-    for simple pipelines, but it’s extremely cool and we’ve spent a lot of time designing a robust
-    engine). You can also call pipelines directly as API endpoints. We found them to be extremely
-    useful for iterating on and separating LLM logic. Laminar also traces pipeline directly, which
-    removes the overhead of sending large outputs over the network.<p>One thing missing from all LLM
-    observability platforms right now is an adequate search over traces. We’re attacking this
-    problem by indexing each span in a vector DB and performing hybrid search at query time. This
-    feature is still in beta, but we think it’s gonna be crucial part of our platform going
-    forward.<p>We also support evaluations. We loved the “run everything locally, send results to a
-    server” approach from Braintrust and Weights &amp; Biases, so we did that too: a simple SDK and
-    nice dashboards to track everything. Evals are still early, but we’re pushing hard on
-    them.<p>Our goal is to make Laminar the Supabase for LLMOps - the go-to open-source
-    comprehensive platform for all things LLMs &#x2F; GenAI. In it’s current shape, Laminar is just
-    few weeks old and developing rapidly, we’d love any feedback or for you to give Laminar a try in
-    your LLM projects!
-  url: https://github.com/lmnr-ai/lmnr
-  source: hackernews
-  tags:
-    - author_skull8888888
-    - story_41451698
-    - show_hn
-    - agentic-ai
-    - llm
-    - genai
-  score: 203
-  publishedAt: '2024-09-04T22:52:19Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Personalizing education with ChatGPT
   summary: >-
@@ -20759,6 +20574,18 @@
   score: 0
   publishedAt: '2018-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/multi-goal-reinforcement-learning
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2018-02-26T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Ingredients for robotics research
   summary: >-
     We’re releasing eight simulated robotics environments and a Baselines implementation of
@@ -20770,18 +20597,6 @@
     environments to train models which work on physical robots. We’re also releasing a set of
     requests for robotics research.
   url: https://openai.com/index/ingredients-for-robotics-research
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2018-02-26T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/multi-goal-reinforcement-learning
   source: rss
   tags:
     - genai
