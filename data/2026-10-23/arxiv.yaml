@@ -1,0 +1,286 @@
+- id: arxiv-2610.31662v1
+  title: Reliable AI-Assisted Decisions via Selective Auditing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31662v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T17:59:22.000Z'
+- id: arxiv-2610.31657v1
+  title: Cost-Aware Abstention for LLM-Based IT Ticket Classification
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31657v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T17:58:52.000Z'
+- id: arxiv-2610.31614v1
+  title: The Critical 2D KPZ Process
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31614v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T17:40:36.000Z'
+- id: arxiv-2610.31600v1
+  title: >-
+    SympFormer: Inertial Attention Blocks from Damped Hamiltonian Dynamics on Spaces of Probability
+    Measures
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31600v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T17:32:11.000Z'
+- id: arxiv-2610.31588v1
+  title: 'VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31588v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T17:23:39.000Z'
+- id: arxiv-2610.31579v1
+  title: >-
+    Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust
+    Calibration
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31579v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T17:15:59.000Z'
+- id: arxiv-2610.31574v1
+  title: Rethinking Sequence Compression with Test-time Regression
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31574v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T17:14:38.000Z'
+- id: arxiv-2610.31573v1
+  title: 'Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31573v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T17:13:46.000Z'
+- id: arxiv-2610.31566v1
+  title: 'CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31566v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T17:09:12.000Z'
+- id: arxiv-2610.31553v1
+  title: >-
+    Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata
+    Across Structured and Unstructured Systems
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31553v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T16:57:01.000Z'
+- id: arxiv-2610.31552v1
+  title: 'CAMGen: A Core Change-Aware Multi-View Framework for Commit Message Generation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31552v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T16:55:56.000Z'
+- id: arxiv-2610.31529v1
+  title: >-
+    An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on
+    Standard Benchmarks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31529v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T16:36:35.000Z'
+- id: arxiv-2610.31520v1
+  title: 'The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31520v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T16:33:01.000Z'
+- id: arxiv-2610.31519v1
+  title: >-
+    From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant
+    Pharmaceutical Claims
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31519v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T16:31:36.000Z'
+- id: arxiv-2610.31518v1
+  title: >-
+    SCOPE: Scene-graph Construction Optimized by Plan Error-correction for Robot Long-term Planning
+    Datasets
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31518v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T16:31:11.000Z'
+- id: arxiv-2610.31467v1
+  title: >-
+    From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated
+    Health Summaries
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31467v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T15:58:57.000Z'
+- id: arxiv-2610.31461v1
+  title: 'Adaptive Skill Granularity for Coding Agents: Runtime Routing and Macro-to-Micro Recovery'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31461v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T15:55:18.000Z'
+- id: arxiv-2610.31428v1
+  title: Predictable performance is suboptimal, and what it means for model routing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31428v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T15:27:27.000Z'
+- id: arxiv-2610.31412v1
+  title: 'SQuAT: Spherical Lattice Vector Quantization-Aware Training'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31412v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T15:14:44.000Z'
+- id: arxiv-2610.31397v1
+  title: >-
+    Parameter-Efficient Adaptation of Large Language Models to a Low-Resource Agglutinative
+    Language: A Corpus, Datasets, and a Reproducible Benchmark for the Bashkir Language
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31397v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T14:59:55.000Z'
+- id: arxiv-2610.31376v1
+  title: >-
+    Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory
+    Control Between Reasoning and Action
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31376v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-22T14:48:16.000Z'
+- id: arxiv-2610.31357v1
+  title: >-
+    In-Browser Human-AI Co-Writing for Counterspeech: An Exploratory User Study of Agency, Perceived
+    Response Quality, and Time
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31357v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-22T14:37:33.000Z'
+- id: arxiv-2610.31355v1
+  title: Muffin - A Shared Memory Buffer for Asynchronous AI Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31355v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-22T14:36:46.000Z'
+- id: arxiv-2610.31346v1
+  title: >-
+    From Signals to Evidence: Interpretable Underwater Acoustic Target Sensing with Large Language
+    Models - Part II: Passive Detection
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31346v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-22T14:28:31.000Z'
+- id: arxiv-2610.31344v1
+  title: >-
+    Making Generative AI Workable at Work: Accountability, Localization, and Representation in
+    Kenyan and Nigerian Small Businesses
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.31344v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-10-22T14:26:52.000Z'
