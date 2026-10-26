@@ -1,0 +1,277 @@
+- id: arxiv-2610.32982v1
+  title: 'The Language of Instruction: Genre and Generative AI'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32982v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-10-23T17:59:56.000Z'
+- id: arxiv-2610.32951v1
+  title: >-
+    Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement
+    Learning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32951v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T17:45:03.000Z'
+- id: arxiv-2610.32945v1
+  title: 'Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32945v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T17:39:42.000Z'
+- id: arxiv-2610.32891v1
+  title: Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32891v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T16:58:01.000Z'
+- id: arxiv-2610.32883v1
+  title: When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32883v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T16:49:14.000Z'
+- id: arxiv-2610.32881v1
+  title: >-
+    NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram
+    Speculative Decoding
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32881v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T16:47:29.000Z'
+- id: arxiv-2610.32880v1
+  title: Multimodal Generative AI Assists Comprehensive Echocardiographic Interpretation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32880v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-10-23T16:47:01.000Z'
+- id: arxiv-2610.32876v1
+  title: >-
+    Trusting the Tool: Asymmetric Deference of LLM Vulnerability Auditors to Static-Analysis
+    Evidence
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32876v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T16:45:10.000Z'
+- id: arxiv-2610.32851v1
+  title: >-
+    Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It
+    Retrieves
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32851v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-23T16:21:56.000Z'
+- id: arxiv-2610.32788v1
+  title: 'Generalization properties of the token perceptron: the role of embedding and vocabulary'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32788v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T15:35:19.000Z'
+- id: arxiv-2610.32784v1
+  title: >-
+    Video-MemComp: Taylor-Guided Sensitivity-Aware Memory Management for Streaming Video
+    Understanding
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32784v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T15:32:41.000Z'
+- id: arxiv-2610.32780v1
+  title: 'AI Alignment for Digital Democracy: Fairer Voters Representation against LLM Biases'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32780v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T15:27:40.000Z'
+- id: arxiv-2610.32770v1
+  title: 'On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32770v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T15:12:03.000Z'
+- id: arxiv-2610.32726v1
+  title: 'The Butterfly Defects: Tracing Cooperation in LLM Agent Networks'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32726v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T14:46:57.000Z'
+- id: arxiv-2610.32696v1
+  title: Foundation Models Meet Power Grid Topology for Cascade Prediction
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32696v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T14:21:47.000Z'
+- id: arxiv-2610.32665v1
+  title: Do Language Models Trust Their Own Justifications? A Study on Functional Consistency
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32665v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T14:08:32.000Z'
+- id: arxiv-2610.32664v1
+  title: 'The Answer Knows Where to Look: Zooming before MLLMs Answer under Visual-Token Budgets'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32664v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T14:07:26.000Z'
+- id: arxiv-2610.32648v1
+  title: 'StateMirror: Pre-Execution Detection of Hallucinated Tool Calls in Coding Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32648v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T13:56:13.000Z'
+- id: arxiv-2610.32633v1
+  title: 'Natural-Language to Nav2: Operational Policies for Costmap-Based Navigation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32633v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T13:44:03.000Z'
+- id: arxiv-2610.32627v1
+  title: 'LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32627v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T13:41:43.000Z'
+- id: arxiv-2610.32616v1
+  title: 'From archive to resource: bringing legacy data back to life at scale with large language models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32616v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T13:34:54.000Z'
+- id: arxiv-2610.32604v1
+  title: 'LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32604v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T13:28:40.000Z'
+- id: arxiv-2610.32597v1
+  title: >-
+    Automated Multi-Line Bug Repair Using Model Checker Aided LLMs: A Case Study on RISC-V
+    Processors
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32597v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-23T13:20:24.000Z'
+- id: arxiv-2610.32586v1
+  title: 'OCTOPUS: Towards A Tag Model for Cross-Query Reuse in Semantic Query Processing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32586v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T13:12:32.000Z'
+- id: arxiv-2610.32575v1
+  title: 'PHYRD: A Living Benchmark for Reproducing and Extending Theoretical Physics Research'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.32575v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-23T13:03:48.000Z'

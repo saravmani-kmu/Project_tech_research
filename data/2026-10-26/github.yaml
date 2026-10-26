@@ -1,0 +1,33 @@
+- id: github-1431674371
+  title: basmith7/sugarbowl
+  summary: >-
+    The orchestration layer for agent skills. Discover, compose, and ship 1,247 skills across Claude
+    Code, Codex, Cursor & MCP.
+  details: >-
+    The orchestration layer for agent skills. Discover, compose, and ship 1,247 skills across Claude
+    Code, Codex, Cursor & MCP.
+  url: https://github.com/basmith7/sugarbowl
+  source: github
+  tags:
+    - agent-skills
+    - agentic-ai
+    - ai
+    - ai-agents
+    - ai-marketplace
+    - autonomous-agents
+    - claude
+    - claude-code
+    - claude-skills
+    - codex
+    - cursor
+    - developer-tools
+    - genai
+    - llm
+    - mcp
+    - mcp-server
+    - model-context-protocol
+    - multi-agent
+    - orchestration
+    - rag
+  score: 0
+  publishedAt: '2026-10-24T00:23:52Z'
