@@ -1,0 +1,277 @@
+- id: arxiv-2610.35847v1
+  title: >-
+    Patient-specific rubric-based evaluation of large language models across longitudinal cancer
+    care
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35847v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T17:56:26.000Z'
+- id: arxiv-2610.35846v1
+  title: 'Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35846v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T17:56:22.000Z'
+- id: arxiv-2610.35835v1
+  title: 'I-HITL: Inalienable Human-in-the-Loop'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35835v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T17:52:14.000Z'
+- id: arxiv-2610.35832v1
+  title: 'Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35832v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T17:51:02.000Z'
+- id: arxiv-2610.35829v1
+  title: 'Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35829v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T17:50:09.000Z'
+- id: arxiv-2610.35826v1
+  title: 'Understanding Jev-Style System One Models: Does Structure Reduce Selection Bias?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35826v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T17:48:55.000Z'
+- id: arxiv-2610.35804v1
+  title: 'Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35804v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T17:35:58.000Z'
+- id: arxiv-2610.35793v1
+  title: Quantifying Claim Smoothing by LLM Research Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35793v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T17:29:48.000Z'
+- id: arxiv-2610.35787v1
+  title: 'Selective Tie Learning: Mitigating Spurious Correlations in Preference Optimization'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35787v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T17:26:32.000Z'
+- id: arxiv-2610.35773v1
+  title: A Unified Arena for LLM Agents across Diverse Eurogame
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35773v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T17:14:22.000Z'
+- id: arxiv-2610.35698v1
+  title: >-
+    From Self-Confidence to Statistical Accuracy: Scaling Human-in-the-Loop Evaluation with Direct
+    and LLM-Assisted Auditing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35698v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T16:25:11.000Z'
+- id: arxiv-2610.35696v1
+  title: Reflective Computing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35696v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T16:24:41.000Z'
+- id: arxiv-2610.35690v1
+  title: 'EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided On-Policy Distillation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35690v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-26T16:21:00.000Z'
+- id: arxiv-2610.35686v1
+  title: >-
+    FISRF: Flexible Instructional Scaffolding Reflection Framework for Robotics Task Planning with
+    Large Language Model
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35686v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T16:20:06.000Z'
+- id: arxiv-2610.35685v1
+  title: >-
+    Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and
+    Human Evaluation on Pashupatinath Temple Reviews
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35685v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T16:20:00.000Z'
+- id: arxiv-2610.35658v1
+  title: >-
+    A Hybrid Framework for Explainable Aviation Risk: Causal Chain Extraction from Safety Reports
+    with Physics-Based Failure Quantification and Interventional Analysis
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35658v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T16:03:50.000Z'
+- id: arxiv-2610.35650v1
+  title: 'FLOWSTEP: A Framework for Learning to Predict GitHub Actions Workflow STEPs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35650v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T15:57:17.000Z'
+- id: arxiv-2610.35633v1
+  title: Cheap AI-Assisted Reverse Engineering and What It Will Do
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35633v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T15:44:36.000Z'
+- id: arxiv-2610.35629v1
+  title: >-
+    From Language to Drives: A Multimodal Framework for Aligning Autonomous Robots with Human
+    Purposes
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35629v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T15:40:38.000Z'
+- id: arxiv-2610.35628v1
+  title: Investigating Forecasting Capabilities of Narrative Networks on Emerging Stories
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35628v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T15:40:25.000Z'
+- id: arxiv-2610.35598v1
+  title: 'Evolve on Graph: Self-Evolving Knowledge Graph Reasoning without Question Annotations'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35598v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T15:23:04.000Z'
+- id: arxiv-2610.35562v1
+  title: >-
+    Beyond Being Accurate: Implications for Using Natural Language Descriptions for Accessible 3D
+    Modeling with~Blind and Low Vision Makers
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35562v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T15:03:25.000Z'
+- id: arxiv-2610.35530v1
+  title: 'CANS: Capability-Preserving Neuron Steering for Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35530v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T14:45:23.000Z'
+- id: arxiv-2610.35509v1
+  title: >-
+    Governing Enterprise AI Traffic at Scale: Design and Operation of a Policy-Driven, Multi-Vendor
+    LLM Gateway on Envoy
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35509v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-26T14:33:48.000Z'
+- id: arxiv-2610.35500v1
+  title: Test-Time Confidence Adaptation under RL-Induced Trajectory Shift
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.35500v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-26T14:27:41.000Z'
