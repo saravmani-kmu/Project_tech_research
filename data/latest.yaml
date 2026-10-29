@@ -98,7 +98,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 18612
+  score: 18633
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -118,7 +118,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15808
+  score: 15814
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -143,7 +143,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14415
+  score: 14416
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -167,7 +167,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11867
+  score: 11870
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -209,7 +209,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 9710
+  score: 9750
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -248,7 +248,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8653
+  score: 8661
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -275,7 +275,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8407
+  score: 8408
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -295,7 +295,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7296
+  score: 7297
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -496,7 +496,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6626
+  score: 6630
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -519,7 +519,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6488
+  score: 6491
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -549,7 +549,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6423
+  score: 6428
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -617,7 +617,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6035
+  score: 6038
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -647,7 +647,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5849
+  score: 5850
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -669,7 +669,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 5682
+  score: 5683
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -698,7 +698,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5614
+  score: 5615
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -747,7 +747,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5453
+  score: 5456
 - id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
   title: unsloth/Qwen3.8-27B-GGUF
   summary: gguf, qwen3_5, unsloth
@@ -768,7 +768,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5397
+  score: 5401
 - id: huggingface-model-facebook/sam3
   title: facebook/sam3
   summary: mask-generation
@@ -791,7 +791,7 @@
     - region:us
     - deploy:azure
     - azure
-  score: 5336
+  score: 5366
 - id: huggingface-model-abenzerps/Qwen-Image-2.1-Uncensored-Quantized
   title: abenzerps/Qwen-Image-2.1-Uncensored-Quantized
   summary: text-to-image
@@ -815,7 +815,7 @@
     - base_model:quantized:Qwen/Qwen-Image-2.1
     - license:other
     - region:us
-  score: 5254
+  score: 5272
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -842,7 +842,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5242
+  score: 5243
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
   summary: text-generation
@@ -936,7 +936,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7752
+  score: 7753
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -1899,22 +1899,6 @@
   score: 0
   publishedAt: '2026-10-16T19:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How Localiza reorganized work around generative AI
-  summary: >-
-    See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to
-    reorganize work and build AI-native mobility experiences.
-  details: >-
-    See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to
-    reorganize work and build AI-native mobility experiences.
-  url: https://openai.com/index/localiza-generative-ai
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-10-16T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How Grupo Boticário uses AI to strengthen human connections
   summary: >-
     Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a
@@ -1925,6 +1909,22 @@
     proprietary agent platform that autonomously resolves up to 80% of resellers’ operational
     requests—enabling the sales force to take on an advisory role.
   url: https://openai.com/index/grupo-boticario
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-10-16T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How Localiza reorganized work around generative AI
+  summary: >-
+    See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to
+    reorganize work and build AI-native mobility experiences.
+  details: >-
+    See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to
+    reorganize work and build AI-native mobility experiences.
+  url: https://openai.com/index/localiza-generative-ai
   source: rss
   tags:
     - genai
@@ -2111,22 +2111,6 @@
   score: 0
   publishedAt: '2026-10-13T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sophos cuts threat investigation time by 96% with OpenAI Daybreak
-  summary: >-
-    Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and
-    automate 52% of MDR cases while preserving human oversight.
-  details: >-
-    Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and
-    automate 52% of MDR cases while preserving human oversight.
-  url: https://openai.com/index/sophos
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-10-09T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Asana cuts model costs 76x in browser tests with GPT-6.1 Sol
   summary: >-
     Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to
@@ -2135,6 +2119,22 @@
     Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to
     offer customers more capable models.
   url: https://openai.com/index/asana-browser-agent
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-10-09T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Sophos cuts threat investigation time by 96% with OpenAI Daybreak
+  summary: >-
+    Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and
+    automate 52% of MDR cases while preserving human oversight.
+  details: >-
+    Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and
+    automate 52% of MDR cases while preserving human oversight.
+  url: https://openai.com/index/sophos
   source: rss
   tags:
     - genai
@@ -2512,22 +2512,6 @@
   score: 0
   publishedAt: '2026-09-29T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Towards safety cases for frontier AI training
-  summary: >-
-    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
-    operational practices, and investigating misalignment incidents
-  details: >-
-    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
-    operational practices, and investigating misalignment incidents
-  url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-28T19:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How we will do better for Australia
   summary: >-
     OpenAI apologises for incidents involving Australian government websites and outlines stronger
@@ -2536,6 +2520,22 @@
     OpenAI apologises for incidents involving Australian government websites and outlines stronger
     safeguards and support to strengthen Australia’s cyber defences.
   url: https://openai.com/index/how-we-will-do-better-for-australia
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-28T19:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Towards safety cases for frontier AI training
+  summary: >-
+    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
+    operational practices, and investigating misalignment incidents
+  details: >-
+    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
+    operational practices, and investigating misalignment incidents
+  url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
   source: rss
   tags:
     - genai
@@ -2670,14 +2670,30 @@
   score: 0
   publishedAt: '2026-09-23T13:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
+  title: Sam Altman’s remarks at the United Nations Security Council
   summary: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
+    OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
+    remarks to the United Nations Security Council.
   details: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
-  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
+    OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
+    remarks to the United Nations Security Council.
+  url: https://openai.com/index/sam-altman-un-security-council-remarks
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-23T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How invideo improves color grading 3x with GPT‑6 Astra
+  summary: >-
+    With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
+    grading threefold, and produces 50 custom effects in one day.
+  details: >-
+    With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
+    grading threefold, and produces 50 custom effects in one day.
+  url: https://openai.com/index/invideo-builds-with-gpt-6-astra
   source: rss
   tags:
     - genai
@@ -2703,30 +2719,14 @@
   score: 0
   publishedAt: '2026-09-23T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sam Altman’s remarks at the United Nations Security Council
+  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
   summary: >-
-    OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
-    remarks to the United Nations Security Council.
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
   details: >-
-    OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
-    remarks to the United Nations Security Council.
-  url: https://openai.com/index/sam-altman-un-security-council-remarks
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-23T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How invideo improves color grading 3x with GPT‑6 Astra
-  summary: >-
-    With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
-    grading threefold, and produces 50 custom effects in one day.
-  details: >-
-    With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and
-    grading threefold, and produces 50 custom effects in one day.
-  url: https://openai.com/index/invideo-builds-with-gpt-6-astra
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
+  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
   source: rss
   tags:
     - genai
@@ -2863,22 +2863,6 @@
   score: 0
   publishedAt: '2026-09-22T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Advisory Group on Mathematics and Artificial Intelligence
-  summary: >-
-    OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence
-    to guide the review and communication of emerging AI results.
-  details: >-
-    OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence
-    to guide the review and communication of emerging AI results.
-  url: https://openai.com/index/advisory-group-on-mathematics-and-ai
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-21T12:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Higgsfield AI ships new video features in a day with GPT-6 Astra
   summary: >-
     With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
@@ -2887,6 +2871,22 @@
     With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings
     new creative tools to market faster.
   url: https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-21T12:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Advisory Group on Mathematics and Artificial Intelligence
+  summary: >-
+    OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence
+    to guide the review and communication of emerging AI results.
+  details: >-
+    OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence
+    to guide the review and communication of emerging AI results.
+  url: https://openai.com/index/advisory-group-on-mathematics-and-ai
   source: rss
   tags:
     - genai
@@ -18063,10 +18063,10 @@
   score: 0
   publishedAt: '2024-04-02T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Reducing health insurance costs and improving care
-  summary: Oscar brings AI to health insurance, reducing costs and improving patient care.
-  details: Oscar brings AI to health insurance, reducing costs and improving patient care.
-  url: https://openai.com/index/oscar
+  title: Start using ChatGPT instantly
+  summary: We’re making it easier for people to experience the benefits of AI without needing to sign up
+  details: We’re making it easier for people to experience the benefits of AI without needing to sign up
+  url: https://openai.com/index/start-using-chatgpt-instantly
   source: rss
   tags:
     - genai
@@ -18075,10 +18075,10 @@
   score: 0
   publishedAt: '2024-04-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Start using ChatGPT instantly
-  summary: We’re making it easier for people to experience the benefits of AI without needing to sign up
-  details: We’re making it easier for people to experience the benefits of AI without needing to sign up
-  url: https://openai.com/index/start-using-chatgpt-instantly
+  title: Reducing health insurance costs and improving care
+  summary: Oscar brings AI to health insurance, reducing costs and improving patient care.
+  details: Oscar brings AI to health insurance, reducing costs and improving patient care.
+  url: https://openai.com/index/oscar
   source: rss
   tags:
     - genai
@@ -18155,18 +18155,6 @@
   score: 0
   publishedAt: '2024-03-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Enterprise-ready trust and safety
-  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  url: https://openai.com/index/salesforce
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-03-18T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Building a data-driven, efficient culture with AI
   summary: >-
     Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
@@ -18175,6 +18163,18 @@
     Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
     hours weekly.
   url: https://openai.com/index/holiday-extras
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-03-18T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Enterprise-ready trust and safety
+  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  url: https://openai.com/index/salesforce
   source: rss
   tags:
     - genai
@@ -18247,10 +18247,10 @@
   score: 0
   publishedAt: '2024-03-06T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Improving health literacy and patient well-being
-  summary: Lifespan uses GPT-4 to radically improve health literacy and patient outcomes.
-  details: Lifespan uses GPT-4 to radically improve health literacy and patient outcomes.
-  url: https://openai.com/index/lifespan
+  title: Using AI to improve patient access to clinical trials
+  summary: Paradigm uses OpenAI’s API to improve patient access to clinical trials.
+  details: Paradigm uses OpenAI’s API to improve patient access to clinical trials.
+  url: https://openai.com/index/paradigm
   source: rss
   tags:
     - genai
@@ -18259,10 +18259,10 @@
   score: 0
   publishedAt: '2024-03-06T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Using AI to improve patient access to clinical trials
-  summary: Paradigm uses OpenAI’s API to improve patient access to clinical trials.
-  details: Paradigm uses OpenAI’s API to improve patient access to clinical trials.
-  url: https://openai.com/index/paradigm
+  title: Improving health literacy and patient well-being
+  summary: Lifespan uses GPT-4 to radically improve health literacy and patient outcomes.
+  details: Lifespan uses GPT-4 to radically improve health literacy and patient outcomes.
+  url: https://openai.com/index/lifespan
   source: rss
   tags:
     - genai
@@ -18404,18 +18404,6 @@
   score: 0
   publishedAt: '2024-01-12T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing the GPT Store
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-the-gpt-store
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-01-10T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing ChatGPT Team
   summary: >-
     We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
@@ -18424,6 +18412,18 @@
     We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
     collaborative workspace to get the most out of ChatGPT at work.
   url: https://openai.com/index/introducing-chatgpt-team
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-01-10T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing the GPT Store
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-the-gpt-store
   source: rss
   tags:
     - genai
@@ -18472,19 +18472,6 @@
   score: 0
   publishedAt: '2023-12-14T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Practices for Governing Agentic AI Systems
-  summary: ''
-  details: ''
-  url: https://openai.com/index/practices-for-governing-agentic-ai-systems
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-    - agentic-ai
-  score: 0
-  publishedAt: '2023-12-14T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Superalignment Fast Grants
   summary: >-
     We’re launching $10M in grants to support technical research towards the alignment and safety of
@@ -18500,6 +18487,19 @@
     - genai
     - llm
     - openai
+  score: 0
+  publishedAt: '2023-12-14T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Practices for Governing Agentic AI Systems
+  summary: ''
+  details: ''
+  url: https://openai.com/index/practices-for-governing-agentic-ai-systems
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+    - agentic-ai
   score: 0
   publishedAt: '2023-12-14T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -18659,6 +18659,22 @@
   score: 0
   publishedAt: '2023-10-19T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Evolving online forms into dynamic data
+  summary: >-
+    Typeform evolves online forms into dynamic and conversational data collection experiences with
+    GPT-3.5 and GPT-4.
+  details: >-
+    Typeform evolves online forms into dynamic and conversational data collection experiences with
+    GPT-3.5 and GPT-4.
+  url: https://openai.com/index/typeform
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2023-10-11T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Simplifying contract reviews with AI
   summary: Ironclad uses GPT-4 to simplify the contract review process.
   details: Ironclad uses GPT-4 to simplify the contract review process.
@@ -18675,22 +18691,6 @@
   summary: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
   details: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
   url: https://openai.com/index/retool
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2023-10-11T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Evolving online forms into dynamic data
-  summary: >-
-    Typeform evolves online forms into dynamic and conversational data collection experiences with
-    GPT-3.5 and GPT-4.
-  details: >-
-    Typeform evolves online forms into dynamic and conversational data collection experiences with
-    GPT-3.5 and GPT-4.
-  url: https://openai.com/index/typeform
   source: rss
   tags:
     - genai
@@ -19260,10 +19260,10 @@
   score: 0
   publishedAt: '2023-03-17T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Preserving languages for the future
-  summary: How Iceland is using GPT-4 to preserve its language.
-  details: How Iceland is using GPT-4 to preserve its language.
-  url: https://openai.com/index/government-of-iceland
+  title: Powering virtual education for the classroom
+  summary: Khan Academy explores the potential for GPT-4 in a limited pilot program.
+  details: Khan Academy explores the potential for GPT-4 in a limited pilot program.
+  url: https://openai.com/index/khan-academy
   source: rss
   tags:
     - genai
@@ -19291,10 +19291,10 @@
   score: 0
   publishedAt: '2023-03-14T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Transforming visual accessibility
-  summary: Be My Eyes uses GPT-4 to transform visual accessibility.
-  details: Be My Eyes uses GPT-4 to transform visual accessibility.
-  url: https://openai.com/index/be-my-eyes
+  title: Preserving languages for the future
+  summary: How Iceland is using GPT-4 to preserve its language.
+  details: How Iceland is using GPT-4 to preserve its language.
+  url: https://openai.com/index/government-of-iceland
   source: rss
   tags:
     - genai
@@ -19303,10 +19303,10 @@
   score: 0
   publishedAt: '2023-03-14T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Stripe
-  summary: Stripe leverages GPT-4 to streamline user experience and combat fraud.
-  details: Stripe leverages GPT-4 to streamline user experience and combat fraud.
-  url: https://openai.com/index/stripe
+  title: Transforming visual accessibility
+  summary: Be My Eyes uses GPT-4 to transform visual accessibility.
+  details: Be My Eyes uses GPT-4 to transform visual accessibility.
+  url: https://openai.com/index/be-my-eyes
   source: rss
   tags:
     - genai
@@ -19327,10 +19327,10 @@
   score: 0
   publishedAt: '2023-03-14T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Powering virtual education for the classroom
-  summary: Khan Academy explores the potential for GPT-4 in a limited pilot program.
-  details: Khan Academy explores the potential for GPT-4 in a limited pilot program.
-  url: https://openai.com/index/khan-academy
+  title: Stripe
+  summary: Stripe leverages GPT-4 to streamline user experience and combat fraud.
+  details: Stripe leverages GPT-4 to streamline user experience and combat fraud.
+  url: https://openai.com/index/stripe
   source: rss
   tags:
     - genai
@@ -20456,10 +20456,10 @@
   score: 0
   publishedAt: '2019-12-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Benchmarking safe exploration in deep reinforcement learning
-  summary: ''
-  details: ''
-  url: https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning
+  title: Safety Gym
+  summary: "We’re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while\_training."
+  details: "We’re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while\_training."
+  url: https://openai.com/index/safety-gym
   source: rss
   tags:
     - genai
@@ -20468,10 +20468,10 @@
   score: 0
   publishedAt: '2019-11-21T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Safety Gym
-  summary: "We’re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while\_training."
-  details: "We’re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while\_training."
-  url: https://openai.com/index/safety-gym
+  title: Benchmarking safe exploration in deep reinforcement learning
+  summary: ''
+  details: ''
+  url: https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning
   source: rss
   tags:
     - genai
@@ -21415,6 +21415,18 @@
   score: 0
   publishedAt: '2018-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/multi-goal-reinforcement-learning
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2018-02-26T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Ingredients for robotics research
   summary: >-
     We’re releasing eight simulated robotics environments and a Baselines implementation of
@@ -21426,18 +21438,6 @@
     environments to train models which work on physical robots. We’re also releasing a set of
     requests for robotics research.
   url: https://openai.com/index/ingredients-for-robotics-research
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2018-02-26T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/multi-goal-reinforcement-learning
   source: rss
   tags:
     - genai
@@ -21639,10 +21639,10 @@
   score: 0
   publishedAt: '2017-10-19T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Asymmetric actor critic for image-based robot learning
+  title: Sim-to-real transfer of robotic control with dynamics randomization
   summary: ''
   details: ''
-  url: https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning
+  url: https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization
   source: rss
   tags:
     - genai
@@ -21651,10 +21651,10 @@
   score: 0
   publishedAt: '2017-10-18T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sim-to-real transfer of robotic control with dynamics randomization
+  title: Asymmetric actor critic for image-based robot learning
   summary: ''
   details: ''
-  url: https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization
+  url: https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning
   source: rss
   tags:
     - genai
@@ -22283,6 +22283,18 @@
   score: 0
   publishedAt: '2016-12-05T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: '#Exploration: A study of count-based exploration for deep reinforcement learning'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/exploration
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2016-11-15T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI and Microsoft
   summary: We’re working with Microsoft to start running most of our large-scale experiments on Azure.
   details: We’re working with Microsoft to start running most of our large-scale experiments on Azure.
@@ -22293,18 +22305,6 @@
     - llm
     - openai
     - azure
-  score: 0
-  publishedAt: '2016-11-15T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: '#Exploration: A study of count-based exploration for deep reinforcement learning'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/exploration
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
   score: 0
   publishedAt: '2016-11-15T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -22523,10 +22523,10 @@
   score: 0
   publishedAt: '2016-06-16T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Team update
-  summary: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
-  details: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
-  url: https://openai.com/index/team-update
+  title: Adversarial training methods for semi-supervised text classification
+  summary: ''
+  details: ''
+  url: https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification
   source: rss
   tags:
     - genai
@@ -22535,10 +22535,10 @@
   score: 0
   publishedAt: '2016-05-25T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Adversarial training methods for semi-supervised text classification
-  summary: ''
-  details: ''
-  url: https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification
+  title: Team update
+  summary: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
+  details: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
+  url: https://openai.com/index/team-update
   source: rss
   tags:
     - genai

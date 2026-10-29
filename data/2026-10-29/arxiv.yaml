@@ -1,0 +1,261 @@
+- id: arxiv-2610.37651v1
+  title: 'GEPA-Curator: Curated Learning for Self Improving Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37651v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T17:58:11.000Z'
+- id: arxiv-2610.37649v1
+  title: Can LLMs Uncover Hidden Physical Laws through Free Exploration?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37649v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-27T17:57:00.000Z'
+- id: arxiv-2610.37648v1
+  title: Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37648v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T17:56:46.000Z'
+- id: arxiv-2610.37645v1
+  title: Multi-State Linear Attention with Generalized Second-Order Routing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37645v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T17:55:49.000Z'
+- id: arxiv-2610.37613v1
+  title: 'VideoLVR: Latent Visual Reasoning over Grounded Video Evidence'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37613v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T17:41:56.000Z'
+- id: arxiv-2610.37579v1
+  title: 'As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37579v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T17:20:44.000Z'
+- id: arxiv-2610.37484v1
+  title: >-
+    Teach reality, not ethics: a drop-in continued-pretraining corpus installs coupled
+    human-biosphere-AI welfare dispositions across model families
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37484v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T16:11:04.000Z'
+- id: arxiv-2610.37481v1
+  title: 'Follow the Gradient: Tracing Safety Degradation Back to Training Data'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37481v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T16:08:08.000Z'
+- id: arxiv-2610.37471v1
+  title: 'PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37471v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T16:04:10.000Z'
+- id: arxiv-2610.37461v1
+  title: 'Concordat: Typed Sessions for LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37461v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-27T16:00:26.000Z'
+- id: arxiv-2610.37443v1
+  title: 'ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37443v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T15:51:42.000Z'
+- id: arxiv-2610.37434v1
+  title: 'FeatureArc: Benchmarking Coding Agents on Evolving Features'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37434v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T15:45:50.000Z'
+- id: arxiv-2610.37432v1
+  title: Request-Adaptive Execution for Efficient Hybrid LLM Inference
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37432v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-27T15:43:30.000Z'
+- id: arxiv-2610.37430v1
+  title: >-
+    When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations
+    Shape Refusal in Multimodal Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37430v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T15:42:20.000Z'
+- id: arxiv-2610.37405v1
+  title: 'Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37405v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T15:20:37.000Z'
+- id: arxiv-2610.37375v1
+  title: 'Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37375v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T15:06:29.000Z'
+- id: arxiv-2610.37369v1
+  title: 'Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37369v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-27T15:02:04.000Z'
+- id: arxiv-2610.37348v1
+  title: Uneven Use, Similar Trust Generative AI in Denmark and Romania
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37348v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-10-27T14:50:58.000Z'
+- id: arxiv-2610.37343v1
+  title: 'HIDE: Hierarchical Isolation via Documentation and Evidence for Rustc Bugs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37343v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T14:49:22.000Z'
+- id: arxiv-2610.37342v1
+  title: Aligning Institutional Power and Operational Ability
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37342v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T14:47:58.000Z'
+- id: arxiv-2610.37341v1
+  title: 'CodeCap-Bench: Can Code Serve as a Good Video Caption?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37341v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T14:47:31.000Z'
+- id: arxiv-2610.37336v1
+  title: 'CoS-VQ: Coordinated Shared-Scale Vector Quantization for Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37336v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-27T14:43:00.000Z'
+- id: arxiv-2610.37319v1
+  title: 'AnalogScout: Simulation-Efficient PVT-Aware Analog Sizing with LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37319v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-27T14:33:02.000Z'
+- id: arxiv-2610.37316v1
+  title: 'ReForest: Interpretability Meets Reasoning in Isolation Forest'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37316v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T14:31:40.000Z'
+- id: arxiv-2610.37311v1
+  title: Probabilistic Sequential Safety for Stochastic Dynamical Systems
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.37311v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-27T14:28:42.000Z'
