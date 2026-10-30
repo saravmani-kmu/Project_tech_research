@@ -146,7 +146,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 18694
+  score: 18710
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -166,7 +166,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 15828
+  score: 15832
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -191,7 +191,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14417
+  score: 14418
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -215,7 +215,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11876
+  score: 11879
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -257,7 +257,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 9877
+  score: 9903
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -296,7 +296,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8683
+  score: 8688
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -323,7 +323,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8411
+  score: 8413
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -343,7 +343,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7304
+  score: 7305
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -395,7 +395,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 6770
+  score: 6771
 - id: huggingface-model-openai/whisper-large-v3
   title: openai/whisper-large-v3
   summary: automatic-speech-recognition
@@ -525,7 +525,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6711
+  score: 6712
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -544,7 +544,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6648
+  score: 6651
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -567,7 +567,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6503
+  score: 6505
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -597,7 +597,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6441
+  score: 6447
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -665,7 +665,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6043
+  score: 6044
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -695,7 +695,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5858
+  score: 5861
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -746,7 +746,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5633
+  score: 5637
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -769,6 +769,29 @@
     - region:us
     - azure
   score: 5524
+- id: huggingface-model-facebook/sam3
+  title: facebook/sam3
+  summary: mask-generation
+  details: >-
+    Model · transformers, safetensors, sam3_video, feature-extraction, sam3, mask-generation, en,
+    license:other, eval-results, endpoints_compatible, region:us, deploy:azure
+  url: https://huggingface.co/facebook/sam3
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - sam3_video
+    - feature-extraction
+    - sam3
+    - mask-generation
+    - en
+    - license:other
+    - eval-results
+    - endpoints_compatible
+    - region:us
+    - deploy:azure
+    - azure
+  score: 5471
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
   summary: text-generation
@@ -795,30 +818,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5465
-- id: huggingface-model-facebook/sam3
-  title: facebook/sam3
-  summary: mask-generation
-  details: >-
-    Model · transformers, safetensors, sam3_video, feature-extraction, sam3, mask-generation, en,
-    license:other, eval-results, endpoints_compatible, region:us, deploy:azure
-  url: https://huggingface.co/facebook/sam3
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - sam3_video
-    - feature-extraction
-    - sam3
-    - mask-generation
-    - en
-    - license:other
-    - eval-results
-    - endpoints_compatible
-    - region:us
-    - deploy:azure
-    - azure
-  score: 5440
+  score: 5468
 - id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
   title: unsloth/Qwen3.8-27B-GGUF
   summary: gguf, qwen3_5, unsloth
@@ -839,7 +839,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5408
+  score: 5412
 - id: huggingface-model-abenzerps/Qwen-Image-2.1-Uncensored-Quantized
   title: abenzerps/Qwen-Image-2.1-Uncensored-Quantized
   summary: text-to-image
@@ -863,7 +863,7 @@
     - base_model:quantized:Qwen/Qwen-Image-2.1
     - license:other
     - region:us
-  score: 5324
+  score: 5344
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -890,7 +890,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5248
+  score: 5249
 - id: huggingface-model-zai-org/GLM-5.2
   title: zai-org/GLM-5.2
   summary: text-generation
@@ -963,7 +963,7 @@
   tags:
     - gradio
     - region:us
-  score: 10209
+  score: 10210
 - id: huggingface-space-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: gradio, region:us
@@ -1004,7 +1004,7 @@
   tags:
     - gradio
     - region:us
-  score: 5455
+  score: 5456
 - id: huggingface-space-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: gradio, region:us
@@ -1014,7 +1014,7 @@
   tags:
     - gradio
     - region:us
-  score: 5158
+  score: 5159
 - id: huggingface-space-facebook/MusicGen
   title: facebook/MusicGen
   summary: gradio, music generation, language models
@@ -1039,7 +1039,7 @@
     - static
     - leaderboard
     - region:us
-  score: 5031
+  score: 5032
 - id: huggingface-space-microsoft/TRELLIS
   title: microsoft/TRELLIS
   summary: gradio, region:us
@@ -1099,7 +1099,7 @@
     - LLMs
     - region:us
     - llm
-  score: 3814
+  score: 3815
 - id: huggingface-space-zerogpu-aoti/wan2-2-fp8da-aoti-faster
   title: zerogpu-aoti/wan2-2-fp8da-aoti-faster
   summary: gradio, mcp-server, region:us
@@ -1110,7 +1110,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3781
+  score: 3782
 - id: huggingface-space-InstantX/InstantID
   title: InstantX/InstantID
   summary: gradio, region:us
@@ -1130,7 +1130,7 @@
   tags:
     - gradio
     - region:us
-  score: 3533
+  score: 3534
 - id: huggingface-space-tencent/Hunyuan3D-2
   title: tencent/Hunyuan3D-2
   summary: gradio, region:us
@@ -1140,7 +1140,7 @@
   tags:
     - gradio
     - region:us
-  score: 3423
+  score: 3425
 - id: huggingface-space-HuggingFaceTB/smol-training-playbook
   title: HuggingFaceTB/smol-training-playbook
   summary: docker, research-article-template, research paper
@@ -1177,7 +1177,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3262
+  score: 3264
 - id: huggingface-space-mukaist/Midjourney
   title: mukaist/Midjourney
   summary: gradio, region:us
@@ -7956,6 +7956,55 @@
     - openai
   score: 0
   publishedAt: '2026-04-06T10:00:00.000Z'
+- id: hackernews-47621306
+  title: 'Show HN: Currant – Anonymus social media for NON-AI agents'
+  summary: >-
+    I was once having a bad day and wanted to ventillate about the peculiarities of corporate life.
+    Then I realised I don&#x27;t trust these sites. Neither my blog. I didn&#x27;t want to link
+    these though
+  details: >-
+    I was once having a bad day and wanted to ventillate about the peculiarities of corporate life.
+    Then I realised I don&#x27;t trust these sites. Neither my blog. I didn&#x27;t want to link
+    these thoughts to an account - my stream of thoughts. I also needed comfort from real human
+    beings - not gen AI bots. Don&#x27;t get me wrong I engineered&#x2F;hacked&#x2F;conjured? this
+    stuff together with the help of LLMs. I think gen AI CAN be a net positive. Yet, I don&#x27;t
+    want to interact with agents if they are being pushed on me. So I created Currant. This is
+    basically a wannabe feed of posts. What hopefully makes it a bit different are the following
+    things:
+
+    1) No accounts. You can create posts, comment without an identity. You can create hashtags, you
+    can write down your phone number and address if you want, but you&#x27;re not pushed to do that.
+    You can prevent others to comment if you wish.
+
+    2) Proof-of-work AI&#x2F;ripoff detection. Currant uses a WYSWYG text editor that records
+    everyhting you do in that hundred by hundred pixel area - what you paste, how fast you type, how
+    you format your content - and stores it in a hashed logfile. It can be replayed by anyone. :) If
+    the detector thinks you&#x27;re an AI your content will be rejected. Will it prevent AI use
+    alltogether? No. But hopefully it will throttle it. Will it produce some false positives?
+    Absolutely. You might wonder - isn&#x27;t this against the anonym thingy? Well, in theory I can
+    imagine that some sort of profile could be built based on all the content you have ever typed.
+    But it&#x27;s still not a cookie that sends all your click data to 87565 &quot;trusted&quot;
+    partners.
+
+    3) Content expiry. By default everything you post will be deleted after 1 month. You can set it
+    to 1 hour, 1 day ... or never. But if you don&#x27;t want, the site will not store your
+    manifested thoughts forever.
+
+    4) Customisation. It&#x27;s a bit silly, but you have control over several stylistic things
+    about your post - background colors, gradients, border radius. Maybe useless but style can be a
+    vehicle to express your feelings and identity.<p>It&#x27;s an experiment and I really appreciate
+    if you give it a chance! &lt;3<p>Ps.: If you do try it and have any feedback or suggestion you
+    can use the &quot;Contact&quot; submenu. The software currently has 68% statement coverage.
+  url: https://currantfeed.cc
+  source: hackernews
+  tags:
+    - author_PAndreew
+    - story_47621306
+    - show_hn
+    - agentic-ai
+    - llm
+  score: 4
+  publishedAt: '2026-04-02T23:00:37Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI acquires TBPN
   summary: >-
@@ -8722,6 +8771,55 @@
     - openai
   score: 0
   publishedAt: '2026-02-25T00:00:00.000Z'
+- id: hackernews-47138618
+  title: 'Show HN: Neuron – Independent Rust crates for building AI agents'
+  summary: >-
+    The core of every agent framework is the same ReAct loop. It&#x27;s commodity code. What
+    actually matters is everything around that loop — how you manage context windows, how you
+    pipeline tool executi
+  details: >-
+    The core of every agent framework is the same ReAct loop. It&#x27;s commodity code. What
+    actually matters is everything around that loop — how you manage context windows, how you
+    pipeline tool execution, how you handle durability and replay. These are hard problems with real
+    design trade-offs, and yet every framework bundles them into one monolith where you buy all of
+    it or none of it.<p>neuron is the layer below frameworks. It defines trait boundaries —
+    `Provider`, `Tool`, `ContextStrategy` — and ships working implementations of each as independent
+    crates. You get four context compaction strategies without pulling a single provider. You get
+    the Anthropic provider without the tool registry. You get MCP support without the agent loop.
+    The analogy is `serde` and `serde_json`: one crate defines the traits, the others implement
+    them, and you compose what you need.<p>v0.3 is 12 crates. Three providers (Anthropic, OpenAI,
+    Ollama), composable tool middleware with a `#[neuron_tool]` proc macro, four context compaction
+    strategies, an agent loop with cancellation and parallel tool execution, full MCP support across
+    both stdio and Streamable HTTP, sessions, guardrails with sandboxing and permission policies,
+    and a dedicated OpenTelemetry crate following the GenAI semantic conventions. Rust 2024 edition,
+    native async traits.<p>Adding a provider is adding a crate. The existing provider crates serve
+    as templates — implement the `Provider` trait from `neuron-types`, wire up streaming, and you
+    have a first-class citizen in the ecosystem. The same goes for context strategies, tool
+    middleware, and session backends. More provider and integration crates are on the roadmap, but
+    the architecture is specifically designed so that you or your agent can add them without waiting
+    on me.<p>That last point is deliberate. The repo ships with `CLAUDE.md`, `llms.txt`, and
+    architecture docs written to be machine-readable. An LLM agent can pull the codebase, understand
+    the trait boundaries, and start building against them. If you&#x27;re using Claude Code or
+    similar tools to scaffold new integrations, neuron is optimized for that workflow.<p>Looking for
+    feedback on the crate boundaries and API surface. The docs site walks through the reasoning
+    behind specific trade-offs — why axum-style middleware instead of tower, why `DurableContext`
+    wraps side effects rather than observing them, why the flat `Message` struct instead of
+    variant-per-role.<p>Repo: <a href="https:&#x2F;&#x2F;github.com&#x2F;SecBear&#x2F;neuron"
+    rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;SecBear&#x2F;neuron</a>
+
+    Crates: <a href="https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;neuron"
+    rel="nofollow">https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;neuron</a>
+  url: https://secbear.github.io/neuron/
+  source: hackernews
+  tags:
+    - author_secbear
+    - story_47138618
+    - show_hn
+    - agentic-ai
+    - llm
+    - genai
+  score: 1
+  publishedAt: '2026-02-24T15:49:56Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Arvind KC appointed Chief People Officer
   summary: >-
@@ -14572,6 +14670,50 @@
     - openai
   score: 0
   publishedAt: '2025-04-09T10:00:00.000Z'
+- id: hackernews-43627329
+  title: 'Show HN: Dapto – AI Prompt and Response Firewall for Enterprises'
+  summary: >-
+    Hi HN,
+
+    We’ve been working on a problem we kept seeing in enterprise GenAI rollouts:<p>As tools like
+    GPT, Claude, and Gemini get embedded into dashboards, support tools, and business systems, most
+    orga
+  details: >-
+    Hi HN,
+
+    We’ve been working on a problem we kept seeing in enterprise GenAI rollouts:<p>As tools like
+    GPT, Claude, and Gemini get embedded into dashboards, support tools, and business systems, most
+    organizations have no control or context over what the AI sees, says, or shares.<p>That creates
+    serious risks:
+     - Hallucinated answers
+     - Prompt injection attacks
+     - Data and PII exposure
+     - Industry compliance violations (e.g. HIPAA, SOC2, GDPR)<p>So we built Dapto ,  an enterprise-grade trust layer designed for companies that want to deploy GenAI safely, at scale, and with full governance.<p>See it in action - <a href="https:&#x2F;&#x2F;youtu.be&#x2F;dxFb7Q12gcw" rel="nofollow">https:&#x2F;&#x2F;youtu.be&#x2F;dxFb7Q12gcw</a><p>Here’s how it works:
+     - Validates prompts before they hit the LLM - catching jailbreaks, injections, and 
+       policy violations
+     - Checks AI responses before they reach the user - to prevent hallucinations or 
+       unauthorized content
+     - Auto-generates real-time metadata context from the input prompt
+     - Then re-verifies the AI’s response against enterprise data before it’s shown
+     - Detects and masks sensitive data (PII, financials, health info) as needed
+     - Keeps full logs, audit trails, and risk scoring, without changing your model or 
+       app<p>But here&#x27;s what makes it different:<p>We use a multi-agent architecture with:
+     - Vertical-specific AI agents (Finance, Healthcare, Legal, etc.) that understand 
+       the unique compliance and domain context of your industry
+     - Horizontal supporting agents that handle metadata, hallucination detection, 
+       policy enforcement, and data verification<p>You can build your own AI agents inside Dapto, with all safety and governance layers baked in.<p>It works out of the box with OpenAI, Claude, Gemini, Ollama, LangChain, and self-hosted models.<p>We’d love feedback, especially from folks building with LLMs in regulated or complex domains.<p>What are you using today for guardrails? Would this plug-in approach fit into your stack?<p>Thanks for reading.
+    www.dapto.ai
+  url: https://dapto.ai
+  source: hackernews
+  tags:
+    - author_sharmasachin98
+    - story_43627329
+    - show_hn
+    - agentic-ai
+    - llm
+    - genai
+  score: 2
+  publishedAt: '2025-04-08T23:04:16Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Shipping code to your IDE with ChatGPT
   summary: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
@@ -15603,6 +15745,45 @@
     - openai
   score: 0
   publishedAt: '2025-01-15T03:00:00.000Z'
+- id: hackernews-42697592
+  title: 'Ask HN: Continue with SaaS type platform, or pursue AI?'
+  summary: >-
+    I&#x27;m building a collaborative platform for improving sanity (efficiency) when working on
+    complex projects, and with all the AI hype I spent some time diving into LLMs, agents, etc.<p>My
+    key takeaw
+  details: >-
+    I&#x27;m building a collaborative platform for improving sanity (efficiency) when working on
+    complex projects, and with all the AI hype I spent some time diving into LLMs, agents, etc.<p>My
+    key takeaway after spending a couple months on it is that inaccuracy is really the biggest
+    killer.<p>Here are some key takeaways after talking to some people as well as doing my own
+    projects:<p>1. 1hr meeting&#x27;s AI gen minutes (zoom&#x2F;teams&#x2F;etc). It makes a dozen or
+    so points but some of them are not relevant to the meeting at all, and some folks have heavy
+    accents and their input is mostly incorrectly captured. Folks ended up just using manual minutes
+    again because these are important for their workflow.<p>2. Creating embeddings of
+    files&#x2F;documentation&#x2F;messages&#x2F;etc and then searching on them seems to work well.
+    For the most part, it seems these can be 60-80% accurate because the alternative is even worse
+    (try searching a huge slack for a file, or even software made for file management). However,
+    when it doesn&#x27;t work, it is really bad because I get wildly unrelated results.<p>3. Not
+    very accurate for anything involving calculations or open ended questions about numeric data,
+    granted this is a known limitation. Creating a graph or something like that? Sure. Asking it
+    about those figures or trying to derive some additional information seems to be hit or
+    miss.<p>So I&#x27;m a little stuck. I feel like if I stick with a SaaS platform, it won&#x27;t
+    be appealing in the current landscape where everyone is hammering AI into their products.
+    Personally I find most of the gen AI not that useful - like when I open up a project management
+    tool and the description box has an AI button.<p>NL input seems to instill a sense of false
+    confidence - I will get what I ask. But when it doesn&#x27;t work, especially after effort
+    placed into the prompt, people just revert to the vanilla experience.<p>So what am I missing? Am
+    I just thinking the wrong way? Maybe I just suck at setting vision for the future based on my
+    own experience with these tools.<p>Any thoughts would be helpful. Thanks!
+  url: https://news.ycombinator.com/item?id=42697592
+  source: hackernews
+  tags:
+    - author_babyent
+    - story_42697592
+    - ask_hn
+    - llm
+  score: 2
+  publishedAt: '2025-01-14T14:28:18Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Adebayo Ogunlesi joins OpenAI’s Board of Directors
   summary: Adebayo Ogunlesi Joins OpenAI’s Board of Directors
@@ -15766,6 +15947,32 @@
     - openai
   score: 0
   publishedAt: '2024-12-09T00:00:00.000Z'
+- id: hackernews-42347825
+  title: 'Ask HN: What will happen to social media?'
+  summary: >-
+    With the incoming AI agents, I am pretty sure social media teams will be run mostly by these LLM
+    bots. I am already observing accounts replying to every post on my feed.<p>Soon social media is
+    going t
+  details: >-
+    With the incoming AI agents, I am pretty sure social media teams will be run mostly by these LLM
+    bots. I am already observing accounts replying to every post on my feed.<p>Soon social media is
+    going to be filled with bots posting content, and other bots commenting, re-sharing, and
+    upvoting content. Quora already has an &quot;Assistant&quot; answering each and every
+    question.<p>I am sure I will not stick around to scroll through such AI generated
+    content.<p>With image generation models, even instagram is not going to be spared it seems.
+    However, I am optimistic that video still has time. Most popular video contents usually have a
+    human element with some presenter or subject doing or saying something interesting which is
+    still hard using gen AI.
+  url: https://news.ycombinator.com/item?id=42347825
+  source: hackernews
+  tags:
+    - author_ghoshbishakh
+    - story_42347825
+    - ask_hn
+    - agentic-ai
+    - llm
+  score: 5
+  publishedAt: '2024-12-07T07:02:32Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing ChatGPT Pro
   summary: Broadening usage of frontier AI
@@ -16677,6 +16884,61 @@
     - openai
   score: 0
   publishedAt: '2024-09-05T08:00:00.000Z'
+- id: hackernews-41451698
+  title: 'Show HN: Laminar – Open-Source DataDog + PostHog for LLM Apps, Built in Rust'
+  summary: >-
+    Hey HN, we’re Robert, Din and Temirlan from Laminar (<a
+    href="https:&#x2F;&#x2F;www.lmnr.ai">https:&#x2F;&#x2F;www.lmnr.ai</a>), an open-source
+    observability and analytics platform for complex LLM app
+  details: >-
+    Hey HN, we’re Robert, Din and Temirlan from Laminar (<a
+    href="https:&#x2F;&#x2F;www.lmnr.ai">https:&#x2F;&#x2F;www.lmnr.ai</a>), an open-source
+    observability and analytics platform for complex LLM apps. It’s designed to be fast, reliable,
+    and scalable. The stack is RabbitMQ for message queues, Postgres for storage, Clickhouse for
+    analytics, Qdrant for semantic search - all powered by Rust.<p>How is Laminar different from the
+    swarm of other “LLM observability” platforms?<p>On the observability part, we’re focused on
+    handling full execution traces, not just LLM calls. We built a Rust ingestor for OpenTelemetry
+    (Otel) spans with GenAI semantic conventions. As LLM apps get more complex (think Agents with
+    hundreds of LLM and function calls, or complex RAG pipelines), full tracing is critical. With
+    Otel spans, we can: 1. Cover the entire execution trace. 2. Keep the platform future-proof 3.
+    Leverage an amazing OpenLLMetry (<a
+    href="https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry">https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;openllmetry</a>),
+    open-source package for span production.<p>The key difference is that we tie text analytics
+    directly to execution traces. Rich text data makes LLM traces unique, so we let you track
+    “semantic metrics” (like what your AI agent is actually saying) and connect those metrics to
+    where they happen in the trace. If you want to know if your AI drive-through agent made an
+    upsell, you can design an LLM extraction pipeline in our builder (more on it later), host it on
+    Laminar, and handle everything from event requests to output logging. Processing requests simply
+    come as events in the Otel span.<p>We think it’s a win to separate core app logic from LLM event
+    processing. Most devs don’t want to manage background queues for LLM analytics processing but
+    still want insights into how their Agents or RAGs are working.<p>Our Pipeline Builder uses graph
+    UI where nodes are LLM and util functions, and edges showing data flow. We built a custom task
+    execution engine with support of parallel branch executions, cycles and branches (it’s overkill
+    for simple pipelines, but it’s extremely cool and we’ve spent a lot of time designing a robust
+    engine). You can also call pipelines directly as API endpoints. We found them to be extremely
+    useful for iterating on and separating LLM logic. Laminar also traces pipeline directly, which
+    removes the overhead of sending large outputs over the network.<p>One thing missing from all LLM
+    observability platforms right now is an adequate search over traces. We’re attacking this
+    problem by indexing each span in a vector DB and performing hybrid search at query time. This
+    feature is still in beta, but we think it’s gonna be crucial part of our platform going
+    forward.<p>We also support evaluations. We loved the “run everything locally, send results to a
+    server” approach from Braintrust and Weights &amp; Biases, so we did that too: a simple SDK and
+    nice dashboards to track everything. Evals are still early, but we’re pushing hard on
+    them.<p>Our goal is to make Laminar the Supabase for LLMOps - the go-to open-source
+    comprehensive platform for all things LLMs &#x2F; GenAI. In it’s current shape, Laminar is just
+    few weeks old and developing rapidly, we’d love any feedback or for you to give Laminar a try in
+    your LLM projects!
+  url: https://github.com/lmnr-ai/lmnr
+  source: hackernews
+  tags:
+    - author_skull8888888
+    - story_41451698
+    - show_hn
+    - agentic-ai
+    - llm
+    - genai
+  score: 203
+  publishedAt: '2024-09-04T22:52:19Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Personalizing education with ChatGPT
   summary: >-
@@ -18501,6 +18763,56 @@
     - openai
   score: 0
   publishedAt: '2023-10-11T07:00:00.000Z'
+- id: hackernews-37753791
+  title: 'Show HN: Wild Moose – Autonomous agent for production debugging'
+  summary: >-
+    Hi Hacker News! We launched an autonomous agent that helps debug production issues, and we’re
+    curious to get your feedback.<p>Today&#x27;s GenAI devtools, such as Copilot, are limited: they
+    are great 
+  details: >-
+    Hi Hacker News! We launched an autonomous agent that helps debug production issues, and we’re
+    curious to get your feedback.<p>Today&#x27;s GenAI devtools, such as Copilot, are limited: they
+    are great for writing code, but we all know that programming is only 20% coding, and 80%
+    debugging.<p>So how can GenAI be used for debugging? As opposed to code completion or test
+    automation, production debugging is not about generating text. Debugging is mostly about
+    root-cause analysis. We realized two things:<p>1) Generative AI is drastically changing the way
+    we work with data, thanks to its ability to not only generate queries, but also run code and
+    analyze unstructured data. This enables building better data-exploration experiences with far
+    more intuitive interfaces.<p>2) RCA is all about exploring different types of data. When you
+    don’t know why a transaction was dropped or which customers are affected – you explore metrics,
+    logs, your code, other people’s code, old slack messages, and whatnot, to figure out what’s
+    broken.<p>Putting those two together, we built an autonomous agent that helps debug production
+    issues. Our LLM &quot;moose&quot; (ok, it&#x27;s corny but we like it) connects to your logs,
+    metrics, and other observability data, and lets you extract and analyze them by conversing with
+    it. Once it gets a task, it will start reasoning, invoking APIs, and running code, until it
+    comes back with an answer.<p>For example, when requested to “show me IDs of transactions that
+    took over 1 minute today”, it will fetch those transactions from Datadog for you. You might then
+    ask it if long-running transactions correlate with a metric such as DB CPU load. It will fetch
+    the metric values, visualize them on a graph alongside the long transaction frequency, and give
+    you the answer.<p>Our software both runs code and invokes API calls; the interplay between these
+    is nontrivial to design and a fertile ground for innovation. There are “textbook” solutions to
+    let agents write and run code (open sourced by, for example, Open Interpreter), and also to
+    invoke tools&#x2F;APIs (for example, Gorilla). But doing both together is harder, and yet
+    required. We welcome your thoughts on this!<p>Try our tool with your Datadog’s logs and metrics
+    &gt;&gt; <a
+    href="https:&#x2F;&#x2F;app.wildmoose.ai&#x2F;slack&#x2F;install">https:&#x2F;&#x2F;app.wildmoose.ai&#x2F;slack&#x2F;install</a><p>Setup
+    demo &gt;&gt; <a
+    href="https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;9a4adc39806742c48d14cdd39da6e560?sid=3d518e11-64b3-4139-82fd-451a3f055940"
+    rel="nofollow
+    noreferrer">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;9a4adc39806742c48d14cdd39da6e560?...</a><p>If
+    you want to see other integrations, or have ideas for features, or you’ve spotted behaviors that
+    seem off - we’d love to hear. Hit us up in the comments!
+  url: https://www.wildmoose.ai/
+  source: hackernews
+  tags:
+    - author_yasmind
+    - story_37753791
+    - show_hn
+    - agentic-ai
+    - llm
+    - genai
+  score: 55
+  publishedAt: '2023-10-03T16:08:50Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: DALL·E 3 system card
   summary: ''
