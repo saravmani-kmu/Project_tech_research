@@ -1,0 +1,278 @@
+- id: arxiv-2610.40641v1
+  title: From extreme weather to agricultural consequences with agentic AI
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40641v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-29T17:58:53.000Z'
+- id: arxiv-2610.40627v1
+  title: 'ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40627v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T17:56:53.000Z'
+- id: arxiv-2610.40613v1
+  title: 'TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40613v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-29T17:54:12.000Z'
+- id: arxiv-2610.40589v1
+  title: Collaborative AI agents for autonomous experimental research with solid-state quantum spins
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40589v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-29T17:47:50.000Z'
+- id: arxiv-2610.40574v1
+  title: 'Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40574v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T17:44:42.000Z'
+- id: arxiv-2610.40563v1
+  title: >-
+    Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An
+    Analysis of Counselling Patterns
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40563v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-29T17:41:59.000Z'
+- id: arxiv-2610.40556v1
+  title: Advancing Clinical Genomic Analysis with a Skill-Centred Agent
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40556v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T17:40:24.000Z'
+- id: arxiv-2610.40543v1
+  title: The Privacy and Security Risks of Edge LLM Optimization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40543v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-29T17:36:37.000Z'
+- id: arxiv-2610.40541v1
+  title: On the Fundamental Limits of Prefill-Based Decoding Length Prediction
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40541v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T17:36:01.000Z'
+- id: arxiv-2610.40530v1
+  title: 'PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40530v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T17:33:34.000Z'
+- id: arxiv-2610.40516v1
+  title: 'How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40516v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T17:26:02.000Z'
+- id: arxiv-2610.40511v1
+  title: >-
+    A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During
+    Naturalistic Language Listening
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40511v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-29T17:23:44.000Z'
+- id: arxiv-2610.40492v1
+  title: 'Agentic University: Collaborative Agents for Personalized Learning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40492v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-29T17:18:07.000Z'
+- id: arxiv-2610.40482v1
+  title: 'FIRME: Registry-Anchored Memory Graphs for Evolving, Heterogeneous Investor Knowledge'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40482v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T17:13:45.000Z'
+- id: arxiv-2610.40379v1
+  title: Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40379v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-10-29T16:23:47.000Z'
+- id: arxiv-2610.40370v1
+  title: >-
+    The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized
+    Physiology from Consumer Wearables
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40370v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-29T16:20:24.000Z'
+- id: arxiv-2610.40350v1
+  title: >-
+    Don't Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource
+    Self-Allocation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40350v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-29T16:07:10.000Z'
+- id: arxiv-2610.40345v1
+  title: A Unified Hessian-Guided Framework for Post-Training Quantization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40345v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T16:06:01.000Z'
+- id: arxiv-2610.40327v1
+  title: Radiology Guideline-derived Decision Graph for Efficient Clinical Decision Support
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40327v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T15:56:27.000Z'
+- id: arxiv-2610.40293v1
+  title: >-
+    MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration
+    Workloads
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40293v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-10-29T15:42:15.000Z'
+- id: arxiv-2610.40292v1
+  title: 'DolphinRouting: Cluster-Level Binary Routing for Disaggregated LLM Inference Serving'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40292v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-29T15:42:05.000Z'
+- id: arxiv-2610.40287v1
+  title: 'Only Accepted Tokens Count: An Energy Accounting of Speculative Decoding Under Latency Targets'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40287v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T15:37:45.000Z'
+- id: arxiv-2610.40278v1
+  title: >-
+    Neighborhood Elites: Quality-Diversity Search for Uncertainty Quantification in Question
+    Answering
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40278v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T15:32:57.000Z'
+- id: arxiv-2610.40259v1
+  title: The Price of a Chance in Artificial Societies
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40259v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T15:24:00.000Z'
+- id: arxiv-2610.40246v1
+  title: >-
+    EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task
+    Construction, Certification, and Evidence-Based Evaluation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.40246v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-29T15:17:29.000Z'
