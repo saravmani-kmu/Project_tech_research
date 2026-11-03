@@ -1,277 +1,278 @@
-- id: arxiv-2610.42149v1
-  title: Latent Reasoning in Continuous Space for Unified Multimodal Models
+- id: arxiv-2611.03641v1
+  title: 'From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.42149v1
+  url: http://arxiv.org/abs/2611.03641v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-10-30T17:59:43.000Z'
-- id: arxiv-2610.42121v1
-  title: 'Where ADS Crashes Differ: A Harmonized Comparison Against Human Baselines'
+  publishedAt: '2026-11-02T18:58:21.000Z'
+- id: arxiv-2611.03633v1
+  title: Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.42121v1
+  url: http://arxiv.org/abs/2611.03633v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-10-30T17:53:28.000Z'
-- id: arxiv-2610.42116v1
-  title: 'ACCT: Asymmetric Cross-LLM Context Transfer'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.42116v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T17:50:49.000Z'
-- id: arxiv-2610.42112v1
-  title: Subquadratic Attention with a Hierarchical Tree-Structured Indexer
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.42112v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T17:48:37.000Z'
-- id: arxiv-2610.42039v1
+  publishedAt: '2026-11-02T18:56:43.000Z'
+- id: arxiv-2611.03627v1
   title: >-
-    Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on
-    Smoking-Cessation Advice
+    Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in
+    RLVR
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.42039v1
+  url: http://arxiv.org/abs/2611.03627v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T18:53:54.000Z'
+- id: arxiv-2611.03617v1
+  title: Tracing the Scientific Discovery Capacity of LLMs to Their Training Data
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03617v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-30T17:03:35.000Z'
-- id: arxiv-2610.42024v1
-  title: >-
-    Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under
-    Extrapolation
+  publishedAt: '2026-11-02T18:50:54.000Z'
+- id: arxiv-2611.03602v1
+  title: 'Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.42024v1
+  url: http://arxiv.org/abs/2611.03602v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T18:41:14.000Z'
+- id: arxiv-2611.03575v1
+  title: 'VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03575v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-30T16:54:16.000Z'
-- id: arxiv-2610.42004v1
-  title: 'TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents'
+  publishedAt: '2026-11-02T18:27:55.000Z'
+- id: arxiv-2611.03555v1
+  title: 'MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.42004v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T16:45:29.000Z'
-- id: arxiv-2610.41968v1
-  title: 'Prune Gradually, Adapt Sparsely: Efficient Pruning of Large Language Models at Extreme Sparsity'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41968v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T16:17:43.000Z'
-- id: arxiv-2610.41951v1
-  title: >-
-    Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic
-    Dimensions
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41951v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T16:06:08.000Z'
-- id: arxiv-2610.41909v1
-  title: Structure-Aware Skill Retrieval and Arbitration for Optimization Modeling
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41909v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T15:45:17.000Z'
-- id: arxiv-2610.41901v1
-  title: 'ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41901v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T15:39:02.000Z'
-- id: arxiv-2610.41893v1
-  title: Automated Keyword Generation Using LLMs in a High-Volume Data Virtualization Service
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41893v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T15:34:59.000Z'
-- id: arxiv-2610.41885v1
-  title: How Much Can Tool Calls Reveal About You? Privacy Leakage from Tool-Call Traces
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41885v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T15:30:23.000Z'
-- id: arxiv-2610.41866v1
-  title: >-
-    AI evaluators favor job applications written by certain AI models, independent of candidate
-    quality
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41866v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T15:18:29.000Z'
-- id: arxiv-2610.41854v1
-  title: LLM Recommenders Produce Demographic Inequality Through Content Preferences
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41854v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T15:11:08.000Z'
-- id: arxiv-2610.41841v1
-  title: Open-Weight MLLMs Cannot Compare What They Cannot Name
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41841v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T14:56:19.000Z'
-- id: arxiv-2610.41822v1
-  title: Trainable Vector Quantization for Large Language Models
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41822v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T14:42:40.000Z'
-- id: arxiv-2610.41803v1
-  title: >-
-    What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen
-    Tools and Benchmark Transfer
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41803v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T14:30:47.000Z'
-- id: arxiv-2610.41769v1
-  title: 'Stepwise-Querying: Distilling Reasoning without Access to Teacher Chain-of-Thought'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41769v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T14:10:09.000Z'
-- id: arxiv-2610.41755v1
-  title: 'CypherGuard: Database-Grounded Correction for Reliable Text-to-Cypher'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41755v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T13:58:22.000Z'
-- id: arxiv-2610.41754v1
-  title: Multimodal In-Context Learning with Explicit Rule Induction
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41754v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T13:57:30.000Z'
-- id: arxiv-2610.41745v1
-  title: >-
-    Do LLMs Know When They Are Wrong About Molecules? In-Context Property Prediction with
-    Self-Reported Uncertainty
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41745v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-10-30T13:50:11.000Z'
-- id: arxiv-2610.41743v1
-  title: Task Vectors Can Be Linearly Decomposed into Interpretable and Controllable Components
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41743v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-10-30T13:48:48.000Z'
-- id: arxiv-2610.41738v1
-  title: >-
-    Search When Needed, Proceed When Reliable: Metacognitive Reliability Supervision for Efficient
-    Agentic Search
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2610.41738v1
+  url: http://arxiv.org/abs/2611.03555v1
   source: arxiv
   tags:
     - arxiv
     - agentic-ai
   score: 0
-  publishedAt: '2026-10-30T13:44:30.000Z'
-- id: arxiv-2610.41710v1
-  title: Advancing Clinical Trial Outcome Prediction with Domain-Specific Large Language Models
+  publishedAt: '2026-11-02T18:17:08.000Z'
+- id: arxiv-2611.03543v1
+  title: Can LLM Agents Improve Imperfect Earth System Model Parameterizations?
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2610.41710v1
+  url: http://arxiv.org/abs/2611.03543v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-10-30T13:17:00.000Z'
+  publishedAt: '2026-11-02T18:05:04.000Z'
+- id: arxiv-2611.03518v1
+  title: >-
+    VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for
+    Organisations
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03518v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T17:53:26.000Z'
+- id: arxiv-2611.03508v1
+  title: 'LODox: A Web-Based Platform for Cultural Heritage Linked Data Discovery'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03508v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T17:45:40.000Z'
+- id: arxiv-2611.03453v1
+  title: 'Penalize the Common Trade: A Collision-Aware Layer for Learned Portfolios'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03453v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T16:59:38.000Z'
+- id: arxiv-2611.03431v1
+  title: >-
+    IAMRAGBENCH: Benchmarking Authorization Expansions in LLM-Generated AWS IAM Policies under RAG
+    Poisoning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03431v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-02T16:52:44.000Z'
+- id: arxiv-2611.03406v1
+  title: 'From Reactive to Agentic Resilience: Multi-Timescale AI-RAN Orchestration Under Signaling Storms'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03406v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-02T16:34:13.000Z'
+- id: arxiv-2611.03384v1
+  title: >-
+    Can We Stop the Backtest Yet? Anytime-Valid Promotion Tests for Adaptive Financial Research
+    Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03384v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T16:24:43.000Z'
+- id: arxiv-2611.03330v1
+  title: The SIMPLE Law for Energy Cost of LLM Inference
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03330v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-02T15:51:46.000Z'
+- id: arxiv-2611.03309v1
+  title: 'MultiInpaintCOCO: Fine-Grained Visual Understanding in Multiple Languages'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03309v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T15:39:35.000Z'
+- id: arxiv-2611.03298v1
+  title: >-
+    SQLoom: Set-Contrastive Learning of Syntactic, Semantic, and Logical Dependencies for
+    Text-to-SQL
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03298v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T15:33:40.000Z'
+- id: arxiv-2611.03293v1
+  title: 'ENGINE: Endogenous Variational MultiScale Optimization for Zeroth-Order LLM Fine-Tuning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03293v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-02T15:31:38.000Z'
+- id: arxiv-2611.03280v1
+  title: >-
+    Specificity Bias and the Wikipedia Paradox: An xAI Analysis of AI Text Detectors under Domain
+    Shift
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03280v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T15:22:34.000Z'
+- id: arxiv-2611.03260v1
+  title: 'The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03260v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T15:07:18.000Z'
+- id: arxiv-2611.03247v1
+  title: 'R$^2$-Omni: Reducing Structural and Precision Redundancy in Omni-LLMs for Long-Form Generation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03247v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-02T14:57:48.000Z'
+- id: arxiv-2611.03231v1
+  title: >-
+    Specification-Driven Governance for Fairness-by-Design in Agentic Software Engineering: How Far
+    Can We Go?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03231v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-02T14:48:34.000Z'
+- id: arxiv-2611.03199v1
+  title: Cold-Start Pricing of LLM Services under Two-Sided Learning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03199v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-02T14:25:15.000Z'
+- id: arxiv-2611.03197v1
+  title: Finding the Pivots to Repair Broken Source-Test Evolution Using LLMs
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03197v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-02T14:24:29.000Z'
+- id: arxiv-2611.03157v1
+  title: >-
+    Toward Knowledge-Centric AI: Discovering, Internalizing, and Using Explicit Knowledge Across
+    Agents and Generations
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.03157v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-02T14:03:12.000Z'
