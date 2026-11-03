@@ -1,0 +1,277 @@
+- id: arxiv-2610.42149v1
+  title: Latent Reasoning in Continuous Space for Unified Multimodal Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.42149v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T17:59:43.000Z'
+- id: arxiv-2610.42121v1
+  title: 'Where ADS Crashes Differ: A Harmonized Comparison Against Human Baselines'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.42121v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T17:53:28.000Z'
+- id: arxiv-2610.42116v1
+  title: 'ACCT: Asymmetric Cross-LLM Context Transfer'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.42116v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T17:50:49.000Z'
+- id: arxiv-2610.42112v1
+  title: Subquadratic Attention with a Hierarchical Tree-Structured Indexer
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.42112v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T17:48:37.000Z'
+- id: arxiv-2610.42039v1
+  title: >-
+    Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on
+    Smoking-Cessation Advice
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.42039v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T17:03:35.000Z'
+- id: arxiv-2610.42024v1
+  title: >-
+    Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under
+    Extrapolation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.42024v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T16:54:16.000Z'
+- id: arxiv-2610.42004v1
+  title: 'TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.42004v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T16:45:29.000Z'
+- id: arxiv-2610.41968v1
+  title: 'Prune Gradually, Adapt Sparsely: Efficient Pruning of Large Language Models at Extreme Sparsity'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41968v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T16:17:43.000Z'
+- id: arxiv-2610.41951v1
+  title: >-
+    Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic
+    Dimensions
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41951v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T16:06:08.000Z'
+- id: arxiv-2610.41909v1
+  title: Structure-Aware Skill Retrieval and Arbitration for Optimization Modeling
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41909v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T15:45:17.000Z'
+- id: arxiv-2610.41901v1
+  title: 'ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41901v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T15:39:02.000Z'
+- id: arxiv-2610.41893v1
+  title: Automated Keyword Generation Using LLMs in a High-Volume Data Virtualization Service
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41893v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T15:34:59.000Z'
+- id: arxiv-2610.41885v1
+  title: How Much Can Tool Calls Reveal About You? Privacy Leakage from Tool-Call Traces
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41885v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T15:30:23.000Z'
+- id: arxiv-2610.41866v1
+  title: >-
+    AI evaluators favor job applications written by certain AI models, independent of candidate
+    quality
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41866v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T15:18:29.000Z'
+- id: arxiv-2610.41854v1
+  title: LLM Recommenders Produce Demographic Inequality Through Content Preferences
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41854v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T15:11:08.000Z'
+- id: arxiv-2610.41841v1
+  title: Open-Weight MLLMs Cannot Compare What They Cannot Name
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41841v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T14:56:19.000Z'
+- id: arxiv-2610.41822v1
+  title: Trainable Vector Quantization for Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41822v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T14:42:40.000Z'
+- id: arxiv-2610.41803v1
+  title: >-
+    What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen
+    Tools and Benchmark Transfer
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41803v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T14:30:47.000Z'
+- id: arxiv-2610.41769v1
+  title: 'Stepwise-Querying: Distilling Reasoning without Access to Teacher Chain-of-Thought'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41769v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T14:10:09.000Z'
+- id: arxiv-2610.41755v1
+  title: 'CypherGuard: Database-Grounded Correction for Reliable Text-to-Cypher'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41755v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T13:58:22.000Z'
+- id: arxiv-2610.41754v1
+  title: Multimodal In-Context Learning with Explicit Rule Induction
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41754v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T13:57:30.000Z'
+- id: arxiv-2610.41745v1
+  title: >-
+    Do LLMs Know When They Are Wrong About Molecules? In-Context Property Prediction with
+    Self-Reported Uncertainty
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41745v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T13:50:11.000Z'
+- id: arxiv-2610.41743v1
+  title: Task Vectors Can Be Linearly Decomposed into Interpretable and Controllable Components
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41743v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-10-30T13:48:48.000Z'
+- id: arxiv-2610.41738v1
+  title: >-
+    Search When Needed, Proceed When Reliable: Metacognitive Reliability Supervision for Efficient
+    Agentic Search
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41738v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-10-30T13:44:30.000Z'
+- id: arxiv-2610.41710v1
+  title: Advancing Clinical Trial Outcome Prediction with Domain-Specific Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2610.41710v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-10-30T13:17:00.000Z'
