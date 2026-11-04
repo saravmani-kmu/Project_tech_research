@@ -1,0 +1,282 @@
+- id: arxiv-2611.05345v1
+  title: Adversarial Speculative Reasoning Improves Long Horizon Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05345v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T18:45:23.000Z'
+- id: arxiv-2611.05314v1
+  title: 'Noisy Issues, Noisy Results: Mislabeling in Information Retrieval-based Bug Localization'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05314v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T18:22:34.000Z'
+- id: arxiv-2611.05287v1
+  title: 'Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05287v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T18:02:21.000Z'
+- id: arxiv-2611.05272v1
+  title: >-
+    The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation
+    Fragmentation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05272v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T17:55:57.000Z'
+- id: arxiv-2611.05251v1
+  title: >-
+    A semi-autonomous multi-agent pipeline for high-energy astrophysics research with enforced
+    provenance and verifiable self-extension
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05251v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-03T17:38:00.000Z'
+- id: arxiv-2611.05193v1
+  title: Factorized MLLM Embeddings for Composed Image Retrieval
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05193v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T16:46:45.000Z'
+- id: arxiv-2611.05181v1
+  title: What Does the Model See? Representation Validity in Multimodal LLM-Based Video Analysis
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05181v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T16:42:49.000Z'
+- id: arxiv-2611.05179v1
+  title: 'OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05179v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-03T16:40:46.000Z'
+- id: arxiv-2611.05175v1
+  title: >-
+    The Novelty Horizon H_N: Why Large Language Models Fail to Generate Scientific Data beyond Their
+    Training Distribution
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05175v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T16:39:48.000Z'
+- id: arxiv-2611.05171v1
+  title: >-
+    AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed
+    Fusion
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05171v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-03T16:38:46.000Z'
+- id: arxiv-2611.05168v1
+  title: 'DSL-Bench: Evaluating and Explaining LLM Code Generation Across Domain-Specific Languages'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05168v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T16:37:19.000Z'
+- id: arxiv-2611.05151v1
+  title: Catalyzing Interactive HTML Generation Capabilities via High-Fidelity Reinforcement Learning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05151v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T16:27:07.000Z'
+- id: arxiv-2611.05148v1
+  title: Creating Power Flexibility in Datacenters via Query Routing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05148v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T16:22:48.000Z'
+- id: arxiv-2611.05147v1
+  title: >-
+    GM League Arena: An Interactive Long-Horizon Task Benchmark Based on Professional Sports League
+    Management
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05147v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T16:21:59.000Z'
+- id: arxiv-2611.05135v1
+  title: 'From Opinions to Commitments: Unstable Assignments and Silent Choices in AI-Mediated Proposals'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05135v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T16:16:09.000Z'
+- id: arxiv-2611.05127v1
+  title: >-
+    Towards Multi-Method Evaluation of AI in Health: Integrating Benchmarks, Autoraters, and Expert
+    Evaluation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05127v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T16:12:47.000Z'
+- id: arxiv-2611.05124v1
+  title: 'The Right Source Is Not Enough: Understanding History Interference in Speech-LLM Memory'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05124v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T16:11:16.000Z'
+- id: arxiv-2611.05106v1
+  title: >-
+    Label-Preserving Fourier Domain Adaptation with Generative-AI and Real Style Donors for 3D
+    Mitral Valve Segmentation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05106v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T16:01:44.000Z'
+- id: arxiv-2611.05088v1
+  title: 'LatentTriad: Pre-Action Risk Representations for Malicious Agent Skill Detection'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05088v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T15:46:12.000Z'
+- id: arxiv-2611.05056v1
+  title: Equal Access, Unequal Gains? GitHub Copilot and Productivity Among Developers with Disabilities
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05056v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T15:22:08.000Z'
+- id: arxiv-2611.05039v1
+  title: 'ALBI: LLM-Guided Inductive Logic Programming via Iterative Generate-Test-Constrain Refineme'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05039v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T15:11:41.000Z'
+- id: arxiv-2611.05036v1
+  title: 'ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05036v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-03T15:09:01.000Z'
+- id: arxiv-2611.05003v1
+  title: >-
+    Unifying and Beyond the Theory of Pervasive Capability Degradation in LLM Post-training SFT from
+    Feature Interference
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.05003v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T14:52:23.000Z'
+- id: arxiv-2611.04977v1
+  title: 'GeoFaham: Domain-Specialized Multi-Agent Geospatial Analytics for Disaster Response'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.04977v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-03T14:32:03.000Z'
+- id: arxiv-2611.04974v1
+  title: >-
+    LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy
+    Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.04974v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-11-03T14:29:36.000Z'
