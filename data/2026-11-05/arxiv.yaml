@@ -1,0 +1,279 @@
+- id: arxiv-2611.06914v1
+  title: A Framework for Context Enrichment and Selective Robustness in LLM Social Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06914v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T18:58:23.000Z'
+- id: arxiv-2611.06911v1
+  title: 'BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06911v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T18:57:17.000Z'
+- id: arxiv-2611.06888v1
+  title: Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06888v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T18:41:40.000Z'
+- id: arxiv-2611.06868v1
+  title: On Turn-Level Best-of-N Sampling for Scaling LLM Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06868v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T18:23:14.000Z'
+- id: arxiv-2611.06848v1
+  title: 'Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06848v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T18:05:17.000Z'
+- id: arxiv-2611.06844v1
+  title: Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06844v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T18:01:24.000Z'
+- id: arxiv-2611.06841v1
+  title: 'ServerBench: How can your coding agents design specialized LLM serving systems?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06841v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T17:59:07.000Z'
+- id: arxiv-2611.06839v1
+  title: 'Before You Continue: Evaluating Time-Sensitive Safety Awareness in Conversational Assistants'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06839v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T17:54:49.000Z'
+- id: arxiv-2611.06830v1
+  title: Alignment Myopia in Generative AI
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06830v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-11-04T17:44:07.000Z'
+- id: arxiv-2611.06812v1
+  title: 'SAUCE: Summary Analysis Using Conversation Entailment'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06812v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T17:25:40.000Z'
+- id: arxiv-2611.06808v1
+  title: 'LLMs Don''t Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06808v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T17:24:02.000Z'
+- id: arxiv-2611.06806v1
+  title: 'Measuring Risk, Not Harm: Detecting Psychological Harm Risk Factors in LLM Conversations'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06806v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T17:22:23.000Z'
+- id: arxiv-2611.06770v1
+  title: Benchmarking Fine-Grained Visual Reasoning for Remote Sensing in Urban Management
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06770v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T16:50:17.000Z'
+- id: arxiv-2611.06764v1
+  title: 'Rethinking Access Control for AI Agents: Recent Advances and Open Challenges'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06764v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-04T16:42:53.000Z'
+- id: arxiv-2611.06734v1
+  title: 'Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06734v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T16:18:35.000Z'
+- id: arxiv-2611.06682v1
+  title: 'SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06682v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T15:51:30.000Z'
+- id: arxiv-2611.06639v1
+  title: >-
+    Replicability, Reproducibility, and Robustness in Political and Social Science Research with
+    Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06639v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T15:20:03.000Z'
+- id: arxiv-2611.06606v1
+  title: 'Verifier-Guided Self-Consistency: Test-Time Reasoning with Imperfect Generators and Verifiers'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06606v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T14:57:04.000Z'
+- id: arxiv-2611.06596v1
+  title: >-
+    Limited knowledge exchange across biological subfields in agent-based modelling: an LLM-assisted
+    bibliometric analysis
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06596v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T14:50:00.000Z'
+- id: arxiv-2611.06583v1
+  title: 'PatchCon: Patch-aware Weighted Supervised Contrastive Learning for Vulnerability Detection'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06583v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T14:39:42.000Z'
+- id: arxiv-2611.06572v1
+  title: >-
+    Does Personality Persuade? Investigating Personality Trait Prompting and Persuasion in Large
+    Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06572v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T14:33:26.000Z'
+- id: arxiv-2611.06555v1
+  title: >-
+    FA-Agent: An extensible multimodal agent framework for first-arrival picking in mountainous
+    seismic data
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06555v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-04T14:18:38.000Z'
+- id: arxiv-2611.06554v1
+  title: >-
+    RAGAM-AI: A Hybrid Reinforcement Learning based Agentic approach powered by Generative AI for
+    Edge Resource Management
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06554v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - genai
+  score: 0
+  publishedAt: '2026-11-04T14:18:07.000Z'
+- id: arxiv-2611.06553v1
+  title: 'Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06553v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T14:18:05.000Z'
+- id: arxiv-2611.06550v1
+  title: >-
+    Who Gets Counted? Large Language Models, Informative Refusal, and Downstream Bias in Name-Based
+    Demographic Classification
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.06550v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-04T14:15:04.000Z'
