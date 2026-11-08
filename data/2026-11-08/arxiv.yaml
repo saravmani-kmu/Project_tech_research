@@ -1,0 +1,271 @@
+- id: arxiv-2611.08486v1
+  title: >-
+    Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the
+    Age of Generative AI
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08486v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-11-05T18:59:33.000Z'
+- id: arxiv-2611.08456v1
+  title: 'Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08456v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T18:48:06.000Z'
+- id: arxiv-2611.08428v1
+  title: >-
+    The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat
+    AI
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08428v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T18:22:24.000Z'
+- id: arxiv-2611.08412v1
+  title: 'The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08412v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T18:17:18.000Z'
+- id: arxiv-2611.08383v1
+  title: >-
+    FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated
+    Learning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08383v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T18:00:58.000Z'
+- id: arxiv-2611.08367v1
+  title: 'CascadeFilter: Cost-Efficient Semantic Filtering with Joint Threshold Selection'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08367v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T17:45:57.000Z'
+- id: arxiv-2611.08366v1
+  title: Information Elicitation by Ordinal Agreement
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08366v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T17:43:56.000Z'
+- id: arxiv-2611.08363v1
+  title: 'StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08363v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T17:42:06.000Z'
+- id: arxiv-2611.08315v1
+  title: >-
+    Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs:
+    The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08315v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T17:12:58.000Z'
+- id: arxiv-2611.08308v1
+  title: 'RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08308v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T17:10:10.000Z'
+- id: arxiv-2611.08299v1
+  title: Should You Split Decode? Disaggregation Across Future Models and Accelerators
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08299v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T17:02:06.000Z'
+- id: arxiv-2611.08284v1
+  title: 'A Generative Model of Contextual Integrity: Appropriate vs. Inappropriate Information Sharing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08284v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T16:48:31.000Z'
+- id: arxiv-2611.08232v1
+  title: 'Signals, Evidence, and Context: User Scrutiny in Real-World LLM Conversations'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08232v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T16:16:08.000Z'
+- id: arxiv-2611.08231v1
+  title: 'From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08231v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T16:15:18.000Z'
+- id: arxiv-2611.08226v1
+  title: '"Blind Compliance": Coercive Control in AI Jailbreaking'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08226v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T16:11:08.000Z'
+- id: arxiv-2611.08219v1
+  title: 'Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08219v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T16:08:05.000Z'
+- id: arxiv-2611.08218v1
+  title: 'Building Barricades: Red-Teaming Agentic Biosynthesis Planning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08218v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-05T16:05:14.000Z'
+- id: arxiv-2611.08216v1
+  title: 'ProQuant: Progressive Quantization-aware Training for Edge MLLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08216v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T16:04:31.000Z'
+- id: arxiv-2611.08214v1
+  title: 'IntentWeaver: Sustaining Coherence across Evolving Intents in Human-AI Co-Writing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08214v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T16:03:41.000Z'
+- id: arxiv-2611.08138v1
+  title: Describe Your Facial Expressions by Linking Image Encoders and Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08138v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T15:02:05.000Z'
+- id: arxiv-2611.08085v1
+  title: Linguistic boundaries emerge from pressure-constrained processing dynamics
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08085v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T14:33:00.000Z'
+- id: arxiv-2611.08082v1
+  title: 'DictLLM: Post-training Compression of Large Language Model with Dictionary Kernels'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08082v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T14:31:12.000Z'
+- id: arxiv-2611.08080v1
+  title: Spatiotemporal Dynamics-Aware Industrial Anomaly Detection and Reasoning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08080v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T14:30:20.000Z'
+- id: arxiv-2611.08070v1
+  title: >-
+    Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization
+    on steroids? Exploring "Weight-Space Programming"
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08070v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-05T14:23:07.000Z'
+- id: arxiv-2611.08046v1
+  title: 'KeHoSu: Keyed Homoglyph Substitution for Authenticated Text Provenance over Copy-Paste Channels'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.08046v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-05T14:01:01.000Z'
