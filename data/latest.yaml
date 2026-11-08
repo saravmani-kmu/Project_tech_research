@@ -278,7 +278,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 19372
+  score: 19404
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -298,7 +298,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 16016
+  score: 16024
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -323,7 +323,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14439
+  score: 14441
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -347,7 +347,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11949
+  score: 11953
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -389,7 +389,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 11062
+  score: 11120
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -428,7 +428,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8838
+  score: 8843
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -455,7 +455,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8446
+  score: 8447
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -475,7 +475,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7379
+  score: 7381
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -520,7 +520,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6856
+  score: 6860
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -676,7 +676,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6772
+  score: 6773
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -706,7 +706,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6653
+  score: 6660
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -729,7 +729,30 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6649
+  score: 6654
+- id: huggingface-model-facebook/sam3
+  title: facebook/sam3
+  summary: mask-generation
+  details: >-
+    Model · transformers, safetensors, sam3_video, feature-extraction, sam3, mask-generation, en,
+    license:other, eval-results, endpoints_compatible, region:us, deploy:azure
+  url: https://huggingface.co/facebook/sam3
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - sam3_video
+    - feature-extraction
+    - sam3
+    - mask-generation
+    - en
+    - license:other
+    - eval-results
+    - endpoints_compatible
+    - region:us
+    - deploy:azure
+    - azure
+  score: 6101
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -797,30 +820,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6078
-- id: huggingface-model-facebook/sam3
-  title: facebook/sam3
-  summary: mask-generation
-  details: >-
-    Model · transformers, safetensors, sam3_video, feature-extraction, sam3, mask-generation, en,
-    license:other, eval-results, endpoints_compatible, region:us, deploy:azure
-  url: https://huggingface.co/facebook/sam3
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - sam3_video
-    - feature-extraction
-    - sam3
-    - mask-generation
-    - en
-    - license:other
-    - eval-results
-    - endpoints_compatible
-    - region:us
-    - deploy:azure
-    - azure
-  score: 6075
+  score: 6079
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -879,7 +879,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5787
+  score: 5790
 - id: huggingface-model-abenzerps/Qwen-Image-2.1-Turbo-Quantized
   title: abenzerps/Qwen-Image-2.1-Turbo-Quantized
   summary: text-to-image
@@ -903,7 +903,7 @@
     - base_model:quantized:Qwen/Qwen-Image-2.1-Turbo
     - license:other
     - region:us
-  score: 5718
+  score: 5725
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -946,7 +946,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5608
+  score: 5610
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -968,7 +968,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5572
+  score: 5576
 - id: huggingface-model-openai/gpt-oss-120b
   title: openai/gpt-oss-120b
   summary: text-generation
@@ -1018,7 +1018,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5404
+  score: 5407
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -1045,7 +1045,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5287
+  score: 5290
 - id: huggingface-space-enzostvs/deepsite
   title: enzostvs/deepsite
   summary: docker, region:us
@@ -1075,7 +1075,7 @@
     - eval:math
     - region:us
     - llm
-  score: 14156
+  score: 14155
 - id: huggingface-space-jbilcke-hf/ai-comic-factory
   title: jbilcke-hf/ai-comic-factory
   summary: docker, region:us
@@ -1095,7 +1095,7 @@
   tags:
     - gradio
     - region:us
-  score: 10218
+  score: 10219
 - id: huggingface-space-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: gradio, region:us
@@ -1116,7 +1116,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7764
+  score: 7765
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -1223,7 +1223,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3827
+  score: 3829
 - id: huggingface-space-KlingTeam/LivePortrait
   title: KlingTeam/LivePortrait
   summary: gradio, Multimodal, Motion control
@@ -1242,7 +1242,7 @@
     - LLMs
     - region:us
     - llm
-  score: 3821
+  score: 3822
 - id: huggingface-space-InstantX/InstantID
   title: InstantX/InstantID
   summary: gradio, region:us
@@ -1288,7 +1288,7 @@
     - scientific paper
     - data visualization
     - region:us
-  score: 3363
+  score: 3366
 - id: huggingface-space-akhaliq/anycoder
   title: akhaliq/anycoder
   summary: docker, region:us
@@ -1310,16 +1310,17 @@
     - mcp-server
     - region:us
   score: 3293
-- id: huggingface-space-YuyaoTechnology/MatterSeek
-  title: YuyaoTechnology/MatterSeek
+- id: huggingface-space-YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material
+  title: YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material
   summary: static, region:us
   details: Space · static, region:us
-  url: https://huggingface.co/spaces/YuyaoTechnology/MatterSeek
+  url: >-
+    https://huggingface.co/spaces/YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material
   source: huggingface
   tags:
     - static
     - region:us
-  score: 3154
+  score: 3155
 - id: huggingface-space-mukaist/Midjourney
   title: mukaist/Midjourney
   summary: gradio, region:us
@@ -1329,7 +1330,7 @@
   tags:
     - gradio
     - region:us
-  score: 2999
+  score: 3000
 - id: arxiv-2611.08486v1
   title: >-
     Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the
