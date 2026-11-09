@@ -278,7 +278,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 19404
+  score: 19423
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -298,7 +298,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 16024
+  score: 16029
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -347,7 +347,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 11953
+  score: 11956
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -389,7 +389,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 11120
+  score: 11151
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -428,7 +428,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 8843
+  score: 8848
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -455,7 +455,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8447
+  score: 8449
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -475,7 +475,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7381
+  score: 7385
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -520,7 +520,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6860
+  score: 6865
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -676,7 +676,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6773
+  score: 6775
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -706,7 +706,7 @@
     - reference-to-audio-video
     - license:other
     - region:us
-  score: 6660
+  score: 6669
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -729,7 +729,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6654
+  score: 6655
 - id: huggingface-model-facebook/sam3
   title: facebook/sam3
   summary: mask-generation
@@ -752,7 +752,7 @@
     - region:us
     - deploy:azure
     - azure
-  score: 6101
+  score: 6123
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -850,7 +850,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5925
+  score: 5926
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -879,7 +879,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5790
+  score: 5796
 - id: huggingface-model-abenzerps/Qwen-Image-2.1-Turbo-Quantized
   title: abenzerps/Qwen-Image-2.1-Turbo-Quantized
   summary: text-to-image
@@ -903,7 +903,7 @@
     - base_model:quantized:Qwen/Qwen-Image-2.1-Turbo
     - license:other
     - region:us
-  score: 5725
+  score: 5729
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -925,7 +925,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 5699
+  score: 5700
 - id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
   title: unsloth/Qwen3.8-27B-GGUF
   summary: gguf, qwen3_5, unsloth
@@ -946,7 +946,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 5610
+  score: 5615
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -995,7 +995,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5499
+  score: 5500
 - id: huggingface-model-deepseek-ai/DeepSeek-V4.1-Flash-1017
   title: deepseek-ai/DeepSeek-V4.1-Flash-1017
   summary: image-text-to-text
@@ -1018,7 +1018,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5407
+  score: 5413
 - id: huggingface-model-openai/gpt-oss-20b
   title: openai/gpt-oss-20b
   summary: text-generation
@@ -1045,7 +1045,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5290
+  score: 5289
 - id: huggingface-space-enzostvs/deepsite
   title: enzostvs/deepsite
   summary: docker, region:us
@@ -1085,7 +1085,7 @@
   tags:
     - docker
     - region:us
-  score: 11315
+  score: 11316
 - id: huggingface-space-Kwai-Kolors/Kolors-Virtual-Try-On
   title: Kwai-Kolors/Kolors-Virtual-Try-On
   summary: gradio, region:us
@@ -1116,7 +1116,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7765
+  score: 7767
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -1310,12 +1310,11 @@
     - mcp-server
     - region:us
   score: 3293
-- id: huggingface-space-YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material
-  title: YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material
+- id: huggingface-space-YuyaoTechnology/MatterSeek
+  title: YuyaoTechnology/MatterSeek
   summary: static, region:us
   details: Space · static, region:us
-  url: >-
-    https://huggingface.co/spaces/YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material
+  url: https://huggingface.co/spaces/YuyaoTechnology/MatterSeek
   source: huggingface
   tags:
     - static
@@ -1331,277 +1330,290 @@
     - gradio
     - region:us
   score: 3000
-- id: arxiv-2611.08486v1
-  title: >-
-    Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the
-    Age of Generative AI
+- id: arxiv-2611.09891v1
+  title: 'CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.08486v1
-  source: arxiv
-  tags:
-    - arxiv
-    - genai
-  score: 0
-  publishedAt: '2026-11-05T18:59:33.000Z'
-- id: arxiv-2611.08456v1
-  title: 'Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08456v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T18:48:06.000Z'
-- id: arxiv-2611.08428v1
-  title: >-
-    The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat
-    AI
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08428v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-05T18:22:24.000Z'
-- id: arxiv-2611.08412v1
-  title: 'The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08412v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T18:17:18.000Z'
-- id: arxiv-2611.08383v1
-  title: >-
-    FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated
-    Learning
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08383v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-05T18:00:58.000Z'
-- id: arxiv-2611.08367v1
-  title: 'CascadeFilter: Cost-Efficient Semantic Filtering with Joint Threshold Selection'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08367v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T17:45:57.000Z'
-- id: arxiv-2611.08366v1
-  title: Information Elicitation by Ordinal Agreement
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08366v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T17:43:56.000Z'
-- id: arxiv-2611.08363v1
-  title: 'StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08363v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-05T17:42:06.000Z'
-- id: arxiv-2611.08315v1
-  title: >-
-    Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs:
-    The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08315v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-05T17:12:58.000Z'
-- id: arxiv-2611.08308v1
-  title: 'RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08308v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T17:10:10.000Z'
-- id: arxiv-2611.08299v1
-  title: Should You Split Decode? Disaggregation Across Future Models and Accelerators
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08299v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T17:02:06.000Z'
-- id: arxiv-2611.08284v1
-  title: 'A Generative Model of Contextual Integrity: Appropriate vs. Inappropriate Information Sharing'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08284v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T16:48:31.000Z'
-- id: arxiv-2611.08232v1
-  title: 'Signals, Evidence, and Context: User Scrutiny in Real-World LLM Conversations'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08232v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-05T16:16:08.000Z'
-- id: arxiv-2611.08231v1
-  title: 'From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08231v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-05T16:15:18.000Z'
-- id: arxiv-2611.08226v1
-  title: '"Blind Compliance": Coercive Control in AI Jailbreaking'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08226v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T16:11:08.000Z'
-- id: arxiv-2611.08219v1
-  title: 'Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08219v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T16:08:05.000Z'
-- id: arxiv-2611.08218v1
-  title: 'Building Barricades: Red-Teaming Agentic Biosynthesis Planning'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08218v1
+  url: http://arxiv.org/abs/2611.09891v1
   source: arxiv
   tags:
     - arxiv
     - agentic-ai
   score: 0
-  publishedAt: '2026-11-05T16:05:14.000Z'
-- id: arxiv-2611.08216v1
-  title: 'ProQuant: Progressive Quantization-aware Training for Edge MLLMs'
+  publishedAt: '2026-11-06T18:58:50.000Z'
+- id: arxiv-2611.09840v1
+  title: 'GroundWork: Bridging Human and LLM Reasoning Through a Structured Argumentation Model'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.08216v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T16:04:31.000Z'
-- id: arxiv-2611.08214v1
-  title: 'IntentWeaver: Sustaining Coherence across Evolving Intents in Human-AI Co-Writing'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08214v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-05T16:03:41.000Z'
-- id: arxiv-2611.08138v1
-  title: Describe Your Facial Expressions by Linking Image Encoders and Large Language Models
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.08138v1
+  url: http://arxiv.org/abs/2611.09840v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-11-05T15:02:05.000Z'
-- id: arxiv-2611.08085v1
-  title: Linguistic boundaries emerge from pressure-constrained processing dynamics
+  publishedAt: '2026-11-06T18:25:43.000Z'
+- id: arxiv-2611.09822v1
+  title: Discovering formally verified quantum programs with AI
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.08085v1
+  url: http://arxiv.org/abs/2611.09822v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-05T14:33:00.000Z'
-- id: arxiv-2611.08082v1
-  title: 'DictLLM: Post-training Compression of Large Language Model with Dictionary Kernels'
+  publishedAt: '2026-11-06T18:08:06.000Z'
+- id: arxiv-2611.09792v1
+  title: 'Knowing When to Intervene: Causal Evaluation of AI Agents'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.08082v1
+  url: http://arxiv.org/abs/2611.09792v1
   source: arxiv
   tags:
     - arxiv
-    - llm
+    - agentic-ai
   score: 0
-  publishedAt: '2026-11-05T14:31:12.000Z'
-- id: arxiv-2611.08080v1
-  title: Spatiotemporal Dynamics-Aware Industrial Anomaly Detection and Reasoning
+  publishedAt: '2026-11-06T17:46:53.000Z'
+- id: arxiv-2611.09791v1
+  title: Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.08080v1
+  url: http://arxiv.org/abs/2611.09791v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-05T14:30:20.000Z'
-- id: arxiv-2611.08070v1
+  publishedAt: '2026-11-06T17:46:28.000Z'
+- id: arxiv-2611.09785v1
   title: >-
-    Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization
-    on steroids? Exploring "Weight-Space Programming"
+    Are These Programmers Ripe Enough to Eat? Evaluating How LLMs Handle Lexical Knowledge Conflicts
+    in Translation
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.08070v1
+  url: http://arxiv.org/abs/2611.09785v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-11-05T14:23:07.000Z'
-- id: arxiv-2611.08046v1
-  title: 'KeHoSu: Keyed Homoglyph Substitution for Authenticated Text Provenance over Copy-Paste Channels'
+  publishedAt: '2026-11-06T17:44:14.000Z'
+- id: arxiv-2611.09780v1
+  title: Strategic Competition and Convergence in LLM Leaderboards
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.08046v1
+  url: http://arxiv.org/abs/2611.09780v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-06T17:42:24.000Z'
+- id: arxiv-2611.09770v1
+  title: >-
+    ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal
+    Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09770v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-06T17:32:49.000Z'
+- id: arxiv-2611.09769v1
+  title: 'AnimWeb-Bench: Benchmarking Animated Webpage Code Generation from Videos'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09769v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-05T14:01:01.000Z'
+  publishedAt: '2026-11-06T17:31:09.000Z'
+- id: arxiv-2611.09768v1
+  title: >-
+    Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM
+    Social-Deduction Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09768v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-06T17:31:01.000Z'
+- id: arxiv-2611.09740v1
+  title: >-
+    Zero-Shot Benchmarking of Unified Multimodal Models for Shallow-Water UAV Image Distortion
+    Assessment and Restoration
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09740v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-06T17:12:08.000Z'
+- id: arxiv-2611.09734v1
+  title: 'GuardrailAgent: An Agentic Framework for Jailbreak Defense'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09734v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-06T17:09:55.000Z'
+- id: arxiv-2611.09730v1
+  title: >-
+    What to Delegate, What to Preserve: Human Preferences for Agentic AI Across Everyday Life and
+    Work
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09730v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-06T17:06:41.000Z'
+- id: arxiv-2611.09729v1
+  title: >-
+    One Run Is Not Enough: A Monte Carlo Protocol for Evaluating LLM Reliability on Data Science
+    Tasks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09729v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-06T17:06:21.000Z'
+- id: arxiv-2611.09722v1
+  title: 'FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09722v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-06T17:00:25.000Z'
+- id: arxiv-2611.09700v1
+  title: >-
+    Attend at the Right Resolution: Head-Adaptive Sparse Attention via Query-Key Interaction
+    Structure
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09700v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-06T16:45:26.000Z'
+- id: arxiv-2611.09623v1
+  title: >-
+    Entering a New Domain in the Era of Generative AI: An Autoethnography of Solo Game Development
+    as a Bioinformatics Educator
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09623v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-11-06T15:44:29.000Z'
+- id: arxiv-2611.09614v1
+  title: 'Know What You Need: Efficient Activation Checkpointing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09614v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-06T15:35:38.000Z'
+- id: arxiv-2611.09580v1
+  title: Hostages
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09580v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-06T15:17:16.000Z'
+- id: arxiv-2611.09559v1
+  title: >-
+    Can a Language Model Write the Weights? An Empirical Study of LLM-Written Scoring Networks for
+    Column Generation and MILP Branching, with a Bus-Driver Scheduling Application
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09559v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-06T15:02:24.000Z'
+- id: arxiv-2611.09550v1
+  title: Deliberate Pacing for Human Oversight in Agentic Software Development
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09550v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-06T14:57:38.000Z'
+- id: arxiv-2611.09542v1
+  title: 'CID: Measuring Cognitive Work Through Semantic State Change'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09542v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-06T14:52:22.000Z'
+- id: arxiv-2611.09536v1
+  title: Multimodal Training with Knowledge Traction for Video Anomaly Detection
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09536v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-06T14:50:13.000Z'
+- id: arxiv-2611.09506v1
+  title: >-
+    On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language
+    Detection in Danish
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09506v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-06T14:23:41.000Z'
+- id: arxiv-2611.09491v1
+  title: An Effective Spoken Language Understanding Approach Leveraging Query-Adaptive Intent Detection
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.09491v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-06T14:13:17.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Accelerating engineering for the physical world
   summary: >-
