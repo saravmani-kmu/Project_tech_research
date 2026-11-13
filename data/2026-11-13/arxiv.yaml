@@ -1,0 +1,273 @@
+- id: arxiv-2611.17304v1
+  title: 'Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17304v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T18:56:22.000Z'
+- id: arxiv-2611.17246v1
+  title: Programming Quantum Circuit Parameters with Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17246v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T18:34:23.000Z'
+- id: arxiv-2611.17241v1
+  title: 'Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17241v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T18:28:08.000Z'
+- id: arxiv-2611.17235v1
+  title: >-
+    Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite
+    State Automata and Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17235v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T18:23:56.000Z'
+- id: arxiv-2611.17206v1
+  title: 'PACER: GPU Excursion Management for ML Workloads'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17206v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T18:06:53.000Z'
+- id: arxiv-2611.17123v1
+  title: >-
+    Preserve the Vulnerability, Break the Alert: Testing the Robustness of CodeQL Taint Tracking
+    with Natural Rewrites
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17123v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T17:16:08.000Z'
+- id: arxiv-2611.17097v1
+  title: 'Broadcast, Don''t Replicate: Eliminating Weight HBM in Datacenter LLM Serving'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17097v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T16:58:07.000Z'
+- id: arxiv-2611.17048v1
+  title: 'AURA 2.0: From User-Driven Responses to Model-Initiated Conversations in Streaming Video'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17048v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T16:31:54.000Z'
+- id: arxiv-2611.17044v1
+  title: >-
+    [Experiment, Analysis, and Benchmark] How well do LLMs comprehend and design relational database
+    schemata?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17044v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T16:28:21.000Z'
+- id: arxiv-2611.17042v1
+  title: 'Infrastructure for Verifiable AI: Where Proof Costs Go and How Hardware Can Help'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17042v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T16:27:07.000Z'
+- id: arxiv-2611.17020v1
+  title: Maximizing LLM Utility While Managing LLM Fallibility
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17020v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T16:09:49.000Z'
+- id: arxiv-2611.17015v1
+  title: 'AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17015v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-12T16:08:33.000Z'
+- id: arxiv-2611.17007v1
+  title: 'Skill Adapter: Personalized Modification and Online Routing of General-Purpose Skills'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.17007v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T16:05:23.000Z'
+- id: arxiv-2611.16986v1
+  title: 'Primer: An AI Framework for Instructor-Centered Educational Simulation Creation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16986v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T15:50:46.000Z'
+- id: arxiv-2611.16931v1
+  title: 'Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16931v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T15:18:38.000Z'
+- id: arxiv-2611.16929v1
+  title: 'SPADE: Soft Prompts for Ai-text DEtection'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16929v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T15:16:19.000Z'
+- id: arxiv-2611.16905v1
+  title: Factored One-sided Adam-Moment for Practical and Scalable SOAP
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16905v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T14:59:01.000Z'
+- id: arxiv-2611.16902v1
+  title: Non-Functional Requirements to Hyperparameter Translation for Quantum Software via LLMs
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16902v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T14:57:43.000Z'
+- id: arxiv-2611.16895v1
+  title: Human or Synthetic? What a Fixed Budget Buys for Post-Training
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16895v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T14:51:51.000Z'
+- id: arxiv-2611.16886v1
+  title: LLM-Assisted Verification in Dafny
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16886v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T14:48:38.000Z'
+- id: arxiv-2611.16856v1
+  title: 'Sustainable Federated Fine-Tuning with LoRA: Environmental Impact and Performance Footprint'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16856v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T14:30:10.000Z'
+- id: arxiv-2611.16843v1
+  title: >-
+    Shortcuts or Memorisation? Revisiting Data Corruption in Natural Language Understanding with
+    Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16843v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T14:18:44.000Z'
+- id: arxiv-2611.16821v1
+  title: >-
+    Calibration and Conformal Prediction for Medical Question Answering in Arabic and English:
+    Evidence from Two Non-Parallel Benchmarks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16821v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-12T13:57:23.000Z'
+- id: arxiv-2611.16806v1
+  title: 'FlatSeek: LLM-Driven Symbolic Discovery of Flat Outputs via Backward Data Generation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16806v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-12T13:43:51.000Z'
+- id: arxiv-2611.16801v1
+  title: Agentic Orchestration for SLA-Constrained Network Slicing in Programmable Mobile Data Planes
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.16801v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-12T13:42:36.000Z'
