@@ -1,4 +1,36 @@
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Strengthening NATO and allied cyber defenses with AI
+  summary: >-
+    How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find
+    vulnerabilities, test fixes and protect essential systems.
+  details: >-
+    How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find
+    vulnerabilities, test fixes and protect essential systems.
+  url: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-11-17T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing OpenAI for Chile
+  summary: >-
+    OpenAI and the Government of Chile are partnering to support responsible AI adoption, build
+    public-sector skills and help local startups develop AI applications.
+  details: >-
+    OpenAI and the Government of Chile are partnering to support responsible AI adoption, build
+    public-sector skills and help local startups develop AI applications.
+  url: https://openai.com/index/introducing-openai-for-chile
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-11-17T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Broadening access to AI for scientists
   summary: >-
     We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers
@@ -47,6 +79,22 @@
   score: 0
   publishedAt: '2026-11-16T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How Revolut raises ambition without lowering the bar
+  summary: >-
+    Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial
+    crime investigations, and innovate without compromising security.
+  details: >-
+    Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial
+    crime investigations, and innovate without compromising security.
+  url: https://openai.com/business/customer-stories/revolut
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-11-16T09:30:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: LVMH’s Media Division announces strategic partnership with OpenAI
   summary: >-
     LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make
@@ -79,18 +127,6 @@
   score: 0
   publishedAt: '2026-11-16T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Advancing computer-use agents for healthcare teams
-  summary: ''
-  details: ''
-  url: https://openai.com/index/advancing-computer-use-for-healthcare-teams
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-11-16T06:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: More ways to move care forward with ChatGPT for Healthcare
   summary: >-
     Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work
@@ -99,6 +135,18 @@
     Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work
     across healthcare software to get real work done.
   url: https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-11-16T06:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Advancing computer-use agents for healthcare teams
+  summary: ''
+  details: ''
+  url: https://openai.com/index/advancing-computer-use-for-healthcare-teams
   source: rss
   tags:
     - genai
@@ -795,22 +843,6 @@
   score: 0
   publishedAt: '2026-11-02T15:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Rewarding defenders with bigger bug bounties
-  summary: >-
-    OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and
-    priority campaign bonuses for independent security researchers.
-  details: >-
-    OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and
-    priority campaign bonuses for independent security researchers.
-  url: https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-11-02T18:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Preparing our next security sprint to harden OpenAI
   summary: >-
     OpenAI is preparing its next internal security sprint with Cathedral Systems to test and
@@ -819,6 +851,22 @@
     OpenAI is preparing its next internal security sprint with Cathedral Systems to test and
     strengthen its defenses using AI.
   url: https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-11-02T18:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Rewarding defenders with bigger bug bounties
+  summary: >-
+    OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and
+    priority campaign bonuses for independent security researchers.
+  details: >-
+    OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and
+    priority campaign bonuses for independent security researchers.
+  url: https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
   source: rss
   tags:
     - genai
@@ -843,22 +891,6 @@
   score: 0
   publishedAt: '2026-11-02T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Qodo builds context into AI code review with Codex
-  summary: >-
-    Qodo brings company knowledge and coding standards into Codex, helping developers catch P0
-    issues across repositories before opening a pull request.
-  details: >-
-    Qodo brings company knowledge and coding standards into Codex, helping developers catch P0
-    issues across repositories before opening a pull request.
-  url: https://openai.com/index/qodo-codex-plugin
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-11-02T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
   summary: >-
     OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization,
@@ -867,6 +899,22 @@
     OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization,
     cyber resilience, and collaboration with U.S. allies.
   url: https://openai.com/index/dan-driscoll-joins-openai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-11-02T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Qodo builds context into AI code review with Codex
+  summary: >-
+    Qodo brings company knowledge and coding standards into Codex, helping developers catch P0
+    issues across repositories before opening a pull request.
+  details: >-
+    Qodo brings company knowledge and coding standards into Codex, helping developers catch P0
+    issues across repositories before opening a pull request.
+  url: https://openai.com/index/qodo-codex-plugin
   source: rss
   tags:
     - genai
@@ -1569,22 +1617,6 @@
   score: 0
   publishedAt: '2026-10-16T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Stack Overflow for Agents triples signups with ChatGPT plugin
-  summary: >-
-    Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT
-    plugin helped drive up to 10× growth in agent creation.
-  details: >-
-    Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT
-    plugin helped drive up to 10× growth in agent creation.
-  url: https://openai.com/index/stack-overflow-chatgpt-plugin
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-10-16T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Benefit Street Partners answers questions faster with Codex
   summary: >-
     Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex
@@ -1593,6 +1625,22 @@
     Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex
     for code review and faster follow-ups.
   url: https://openai.com/index/benefit-street-partners
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-10-16T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Stack Overflow for Agents triples signups with ChatGPT plugin
+  summary: >-
+    Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT
+    plugin helped drive up to 10× growth in agent creation.
+  details: >-
+    Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT
+    plugin helped drive up to 10× growth in agent creation.
+  url: https://openai.com/index/stack-overflow-chatgpt-plugin
   source: rss
   tags:
     - genai
@@ -2148,22 +2196,6 @@
   score: 0
   publishedAt: '2026-09-29T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Towards safety cases for frontier AI training
-  summary: >-
-    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
-    operational practices, and investigating misalignment incidents
-  details: >-
-    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
-    operational practices, and investigating misalignment incidents
-  url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-28T19:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How we will do better for Australia
   summary: >-
     OpenAI apologises for incidents involving Australian government websites and outlines stronger
@@ -2172,6 +2204,22 @@
     OpenAI apologises for incidents involving Australian government websites and outlines stronger
     safeguards and support to strengthen Australia’s cyber defences.
   url: https://openai.com/index/how-we-will-do-better-for-australia
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-28T19:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Towards safety cases for frontier AI training
+  summary: >-
+    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
+    operational practices, and investigating misalignment incidents
+  details: >-
+    Our early guidelines for safety cases in frontier AI training cover technical safeguards,
+    operational practices, and investigating misalignment incidents
+  url: https://openai.com/index/towards-safety-cases-for-frontier-ai-training
   source: rss
   tags:
     - genai
@@ -2196,6 +2244,22 @@
   score: 0
   publishedAt: '2026-09-28T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
+  summary: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  details: >-
+    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
+    understanding of user intent gives Basis more confidence in real-world use.
+  url: https://openai.com/index/basis-tax-workbook-with-astra
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-09-28T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Are you a Codex Original?
   summary: >-
     We’re collecting real stories of builders, tinkerers, researchers, and creators who are using
@@ -2206,22 +2270,6 @@
     Codex to do incredible things. If you want to be a part of the next chapter of the Codex
     Originals program, tell us more about your story and project below.
   url: https://openai.com/form/codex-originals
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-09-28T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Basis completes a tax workbook 2x faster with GPT-6 Astra
-  summary: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  details: >-
-    GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger
-    understanding of user intent gives Basis more confidence in real-world use.
-  url: https://openai.com/index/basis-tax-workbook-with-astra
   source: rss
   tags:
     - genai
@@ -2306,14 +2354,14 @@
   score: 0
   publishedAt: '2026-09-23T13:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
+  title: Sam Altman’s remarks at the United Nations Security Council
   summary: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
+    OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
+    remarks to the United Nations Security Council.
   details: >-
-    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
-    strategy.
-  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
+    OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
+    remarks to the United Nations Security Council.
+  url: https://openai.com/index/sam-altman-un-security-council-remarks
   source: rss
   tags:
     - genai
@@ -2339,14 +2387,14 @@
   score: 0
   publishedAt: '2026-09-23T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sam Altman’s remarks at the United Nations Security Council
+  title: Harvey turns legal context into stronger drafts with GPT-6 Astra
   summary: >-
-    OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
-    remarks to the United Nations Security Council.
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
   details: >-
-    OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in
-    remarks to the United Nations Security Council.
-  url: https://openai.com/index/sam-altman-un-security-council-remarks
+    GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on
+    strategy.
+  url: https://openai.com/index/harvey-from-context-to-confidence-with-astra
   source: rss
   tags:
     - genai
@@ -3814,22 +3862,6 @@
   score: 0
   publishedAt: '2026-08-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Daybreak models are now available on AWS
-  summary: >-
-    OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock
-    to support enterprise security workflows.
-  details: >-
-    OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock
-    to support enterprise security workflows.
-  url: https://openai.com/index/daybreak-models-are-now-available-on-aws
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-08-11T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Testing ads in ChatGPT
   summary: >-
     OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer
@@ -3838,6 +3870,22 @@
     OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer
     independence, strong privacy protections, and user control.
   url: https://openai.com/index/testing-ads-in-chatgpt
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-08-11T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Daybreak models are now available on AWS
+  summary: >-
+    OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock
+    to support enterprise security workflows.
+  details: >-
+    OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock
+    to support enterprise security workflows.
+  url: https://openai.com/index/daybreak-models-are-now-available-on-aws
   source: rss
   tags:
     - genai
@@ -3894,6 +3942,22 @@
   score: 0
   publishedAt: '2026-08-10T17:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Expanding Daybreak as the Cyber Defense Window Narrows
+  summary: >-
+    Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for
+    authorized vulnerability research, exploit validation, and security testing.
+  details: >-
+    Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for
+    authorized vulnerability research, exploit validation, and security testing.
+  url: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-08-10T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Putting frontier cyber models in more trusted hands
   summary: >-
     Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized,
@@ -3910,21 +3974,21 @@
   score: 0
   publishedAt: '2026-08-10T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Expanding Daybreak as the Cyber Defense Window Narrows
+  title: Virgin Atlantic sharpens customer journeys with ChatGPT Work
   summary: >-
-    Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for
-    authorized vulnerability research, exploit validation, and security testing.
+    Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT
+    Work, helping teams connect signals across the customer journey.
   details: >-
-    Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for
-    authorized vulnerability research, exploit validation, and security testing.
-  url: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
+    Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT
+    Work, helping teams connect signals across the customer journey.
+  url: https://openai.com/index/virgin-atlantic/chatgpt-work
   source: rss
   tags:
     - genai
     - llm
     - openai
   score: 0
-  publishedAt: '2026-08-10T10:00:00.000Z'
+  publishedAt: '2026-08-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How Zapier transformed core marketing processes with ChatGPT Work
   summary: >-
@@ -3950,22 +4014,6 @@
     Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage
     limit, and flexible seat options for every teammate.
   url: https://openai.com/index/premium-seats-chatgpt-business
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-08-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Virgin Atlantic sharpens customer journeys with ChatGPT Work
-  summary: >-
-    Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT
-    Work, helping teams connect signals across the customer journey.
-  details: >-
-    Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT
-    Work, helping teams connect signals across the customer journey.
-  url: https://openai.com/index/virgin-atlantic/chatgpt-work
   source: rss
   tags:
     - genai
@@ -4603,22 +4651,6 @@
   score: 0
   publishedAt: '2026-07-14T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sales workflows with ChatGPT Work
-  summary: >-
-    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
-    forecast reviews, and deal diagnosis.
-  details: >-
-    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
-    forecast reviews, and deal diagnosis.
-  url: https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-07-14T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Data science workflows with ChatGPT Work
   summary: >-
     Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and
@@ -4627,6 +4659,22 @@
     Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and
     dashboard specifications.
   url: https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-07-14T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Sales workflows with ChatGPT Work
+  summary: >-
+    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
+    forecast reviews, and deal diagnosis.
+  details: >-
+    Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans,
+    forecast reviews, and deal diagnosis.
+  url: https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
   source: rss
   tags:
     - genai
@@ -4683,10 +4731,14 @@
   score: 0
   publishedAt: '2026-07-09T13:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: GPT-5.5 Bio Bug Bounty
-  summary: Details about the OpenAI Bio Bounty program
-  details: Details about the OpenAI Bio Bounty program
-  url: https://openai.com/index/bio-bug-bounty
+  title: 'GPT-5.6: Frontier intelligence that scales with your ambition'
+  summary: >-
+    More intelligence from every token, stronger performance per dollar, and more capability on
+    demand for your hardest work.
+  details: >-
+    More intelligence from every token, stronger performance per dollar, and more capability on
+    demand for your hardest work.
+  url: https://openai.com/index/gpt-5-6
   source: rss
   tags:
     - genai
@@ -4711,14 +4763,10 @@
   score: 0
   publishedAt: '2026-07-09T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'GPT-5.6: Frontier intelligence that scales with your ambition'
-  summary: >-
-    More intelligence from every token, stronger performance per dollar, and more capability on
-    demand for your hardest work.
-  details: >-
-    More intelligence from every token, stronger performance per dollar, and more capability on
-    demand for your hardest work.
-  url: https://openai.com/index/gpt-5-6
+  title: GPT-5.5 Bio Bug Bounty
+  summary: Details about the OpenAI Bio Bounty program
+  details: Details about the OpenAI Bio Bounty program
+  url: https://openai.com/index/bio-bug-bounty
   source: rss
   tags:
     - genai
@@ -4835,6 +4883,22 @@
   score: 0
   publishedAt: '2026-06-30T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing GeneBench-Pro
+  summary: >-
+    Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and
+    scientific research using complex, real-world datasets.
+  details: >-
+    Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and
+    scientific research using complex, real-world datasets.
+  url: https://openai.com/index/introducing-genebench-pro
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-06-30T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Inside Genebench-Pro
   summary: ''
   details: ''
@@ -4855,22 +4919,6 @@
     OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes,
     uncovering both a hardware fault and a long-standing software bug.
   url: https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-06-30T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing GeneBench-Pro
-  summary: >-
-    Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and
-    scientific research using complex, real-world datasets.
-  details: >-
-    Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and
-    scientific research using complex, real-world datasets.
-  url: https://openai.com/index/introducing-genebench-pro
   source: rss
   tags:
     - genai
@@ -5216,22 +5264,6 @@
   score: 0
   publishedAt: '2026-06-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: BBVA puts AI at the core of banking with OpenAI
-  summary: >-
-    Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to
-    accelerate AI-powered banking transformation worldwide.
-  details: >-
-    Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to
-    accelerate AI-powered banking transformation worldwide.
-  url: https://openai.com/index/bbva
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-06-11T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: How an astrophysicist uses Codex to help simulate black holes
   summary: >-
     Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping
@@ -5262,6 +5294,22 @@
     - llm
     - openai
     - agentic-ai
+  score: 0
+  publishedAt: '2026-06-11T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: BBVA puts AI at the core of banking with OpenAI
+  summary: >-
+    Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to
+    accelerate AI-powered banking transformation worldwide.
+  details: >-
+    Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to
+    accelerate AI-powered banking transformation worldwide.
+  url: https://openai.com/index/bbva
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
   score: 0
   publishedAt: '2026-06-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -5504,22 +5552,6 @@
   score: 0
   publishedAt: '2026-06-03T12:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: A blueprint for democratic governance of frontier AI
-  summary: >-
-    OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework
-    for safety, resilience, and national security.
-  details: >-
-    OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework
-    for safety, resilience, and national security.
-  url: https://openai.com/index/frontier-safety-blueprint
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-06-03T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI public policy agenda
   summary: >-
     OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce
@@ -5528,6 +5560,22 @@
     OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce
     transition, and global standards to ensure AI benefits society.
   url: https://openai.com/index/public-policy-agenda
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-06-03T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: A blueprint for democratic governance of frontier AI
+  summary: >-
+    OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework
+    for safety, resilience, and national security.
+  details: >-
+    OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework
+    for safety, resilience, and national security.
+  url: https://openai.com/index/frontier-safety-blueprint
   source: rss
   tags:
     - genai
@@ -5822,22 +5870,6 @@
   score: 0
   publishedAt: '2026-05-27T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Warp’s big bet on building open source with GPT-5.5
-  summary: >-
-    Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and
-    open-source development workflows.
-  details: >-
-    Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and
-    open-source development workflows.
-  url: https://openai.com/index/warp
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-05-27T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Election information and safeguards in 2026
   summary: >-
     Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI
@@ -5846,6 +5878,22 @@
     Learn how OpenAI is supporting elections in 2026 through reliable information, cyber defense, AI
     transparency, misuse safeguards, and bias monitoring.
   url: https://openai.com/index/election-safeguards-2026
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-05-27T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Warp’s big bet on building open source with GPT-5.5
+  summary: >-
+    Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and
+    open-source development workflows.
+  details: >-
+    Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and
+    open-source development workflows.
+  url: https://openai.com/index/warp
   source: rss
   tags:
     - genai
@@ -5950,22 +5998,6 @@
   score: 0
   publishedAt: '2026-05-20T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: An OpenAI model has disproved a central conjecture in discrete geometry
-  summary: >-
-    An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in
-    discrete geometry and marking a milestone in AI-driven mathematics.
-  details: >-
-    An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in
-    discrete geometry and marking a milestone in AI-driven mathematics.
-  url: https://openai.com/index/model-disproves-discrete-geometry-conjecture
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-05-20T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: The next phase of OpenAI’s Education for Countries
   summary: >-
     OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships,
@@ -5974,6 +6006,22 @@
     OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships,
     teacher training, and tools to improve global learning outcomes.
   url: https://openai.com/index/the-next-phase-of-education-for-countries
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-05-20T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: An OpenAI model has disproved a central conjecture in discrete geometry
+  summary: >-
+    An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in
+    discrete geometry and marking a milestone in AI-driven mathematics.
+  details: >-
+    An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in
+    discrete geometry and marking a milestone in AI-driven mathematics.
+  url: https://openai.com/index/model-disproves-discrete-geometry-conjecture
   source: rss
   tags:
     - genai
@@ -6046,22 +6094,6 @@
   score: 0
   publishedAt: '2026-05-16T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Databricks brings GPT-5.5 to enterprise agent workflows
-  summary: >-
-    Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the
-    art on the OfficeQA Pro benchmark.
-  details: >-
-    Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the
-    art on the OfficeQA Pro benchmark.
-  url: https://openai.com/index/databricks
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-05-15T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Operations workflows with ChatGPT Work
   summary: >-
     Learn practical ChatGPT Work workflows for initiative briefs, strategy updates, decision
@@ -6086,6 +6118,22 @@
     Use ChatGPT for personal finance to connect your accounts, track spending and investments,
     manage subscriptions, create budgets, and plan financial goals.
   url: https://openai.com/index/personal-finance-chatgpt
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-05-15T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Databricks brings GPT-5.5 to enterprise agent workflows
+  summary: >-
+    Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the
+    art on the OfficeQA Pro benchmark.
+  details: >-
+    Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the
+    art on the OfficeQA Pro benchmark.
+  url: https://openai.com/index/databricks
   source: rss
   tags:
     - genai
@@ -6194,6 +6242,24 @@
   score: 0
   publishedAt: '2026-05-12T15:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: What Parameter Golf taught us about AI-assisted research
+  summary: >-
+    Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore
+    AI-assisted machine learning research, coding agents, quantization, and novel model design under
+    strict constraints.
+  details: >-
+    Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore
+    AI-assisted machine learning research, coding agents, quantization, and novel model design under
+    strict constraints.
+  url: https://openai.com/index/what-parameter-golf-taught-us
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-05-12T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: AutoScout24 scales engineering with AI-powered workflows
   summary: >-
     Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code
@@ -6218,24 +6284,6 @@
     Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable
     experiments.
   url: https://openai.com/index/nvidia
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-05-12T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: What Parameter Golf taught us about AI-assisted research
-  summary: >-
-    Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore
-    AI-assisted machine learning research, coding agents, quantization, and novel model design under
-    strict constraints.
-  details: >-
-    Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore
-    AI-assisted machine learning research, coding agents, quantization, and novel model design under
-    strict constraints.
-  url: https://openai.com/index/what-parameter-golf-taught-us
   source: rss
   tags:
     - genai
@@ -6436,21 +6484,20 @@
   score: 0
   publishedAt: '2026-05-06T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Introducing ChatGPT Futures: Class of 2026'
+  title: How frontier firms are pulling ahead
   summary: >-
-    Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and
-    drive real-world impact. Discover how this generation is redefining learning, creativity, and
-    opportunity with ChatGPT.
+    OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale
+    Codex-powered agentic workflows, and build durable competitive advantage.
   details: >-
-    Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and
-    drive real-world impact. Discover how this generation is redefining learning, creativity, and
-    opportunity with ChatGPT.
-  url: https://openai.com/index/introducing-chatgpt-futures-class-of-2026
+    OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale
+    Codex-powered agentic workflows, and build durable competitive advantage.
+  url: https://openai.com/index/introducing-b2b-signals
   source: rss
   tags:
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2026-05-06T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -6470,38 +6517,23 @@
   score: 0
   publishedAt: '2026-05-06T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How frontier firms are pulling ahead
+  title: 'Introducing ChatGPT Futures: Class of 2026'
   summary: >-
-    OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale
-    Codex-powered agentic workflows, and build durable competitive advantage.
+    Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and
+    drive real-world impact. Discover how this generation is redefining learning, creativity, and
+    opportunity with ChatGPT.
   details: >-
-    OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale
-    Codex-powered agentic workflows, and build durable competitive advantage.
-  url: https://openai.com/index/introducing-b2b-signals
+    Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and
+    drive real-world impact. Discover how this generation is redefining learning, creativity, and
+    opportunity with ChatGPT.
+  url: https://openai.com/index/introducing-chatgpt-futures-class-of-2026
   source: rss
   tags:
     - genai
     - llm
     - openai
-    - agentic-ai
   score: 0
   publishedAt: '2026-05-06T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'GPT-5.5 Instant: smarter, clearer, and more personalized'
-  summary: >-
-    GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced
-    hallucinations, and improved personalization controls.
-  details: >-
-    GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced
-    hallucinations, and improved personalization controls.
-  url: https://openai.com/index/gpt-5-5-instant
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-05-05T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)
   summary: >-
@@ -6523,6 +6555,22 @@
   summary: ''
   details: ''
   url: https://openai.com/index/gpt-5-5-instant-system-card
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-05-05T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'GPT-5.5 Instant: smarter, clearer, and more personalized'
+  summary: >-
+    GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced
+    hallucinations, and improved personalization controls.
+  details: >-
+    GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced
+    hallucinations, and improved personalization controls.
+  url: https://openai.com/index/gpt-5-5-instant
   source: rss
   tags:
     - genai
@@ -6849,22 +6897,6 @@
   score: 0
   publishedAt: '2026-04-22T15:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Workspace agents
-  summary: >-
-    Learn how to build and use workspace agents in ChatGPT to automate repeatable workflows, connect
-    tools, and streamline team operations.
-  details: >-
-    Learn how to build and use workspace agents in ChatGPT to automate repeatable workflows, connect
-    tools, and streamline team operations.
-  url: https://openai.com/academy/workspace-agents
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-22T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Speeding up agentic workflows with WebSockets in the Responses API
   summary: >-
     A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching
@@ -6890,6 +6922,22 @@
     Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the
     cloud, and help teams scale work across tools securely.
   url: https://openai.com/index/introducing-workspace-agents-in-chatgpt
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-22T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Workspace agents
+  summary: >-
+    Learn how to build and use workspace agents in ChatGPT to automate repeatable workflows, connect
+    tools, and streamline team operations.
+  details: >-
+    Learn how to build and use workspace agents in ChatGPT to automate repeatable workflows, connect
+    tools, and streamline team operations.
+  url: https://openai.com/academy/workspace-agents
   source: rss
   tags:
     - genai
@@ -7061,30 +7109,14 @@
   score: 0
   publishedAt: '2026-04-13T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Creating images with ChatGPT
+  title: AI fundamentals
   summary: >-
-    Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and
-    generate high-quality visuals in minutes.
+    Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear,
+    beginner-friendly guide to understanding artificial intelligence.
   details: >-
-    Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and
-    generate high-quality visuals in minutes.
-  url: https://openai.com/academy/image-generation
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: ChatGPT for managers
-  summary: >-
-    Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay
-    organized, and improve team effectiveness.
-  details: >-
-    Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay
-    organized, and improve team effectiveness.
-  url: https://openai.com/academy/managers
+    Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear,
+    beginner-friendly guide to understanding artificial intelligence.
+  url: https://openai.com/academy/what-is-ai
   source: rss
   tags:
     - genai
@@ -7109,6 +7141,134 @@
   score: 0
   publishedAt: '2026-04-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: ChatGPT for research
+  summary: >-
+    Learn how to use ChatGPT for research to gather sources, analyze information, and create
+    structured, citation-backed insights.
+  details: >-
+    Learn how to use ChatGPT for research to gather sources, analyze information, and create
+    structured, citation-backed insights.
+  url: https://openai.com/academy/research
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Research with ChatGPT
+  summary: >-
+    Learn how to research with ChatGPT using search and deep research to find up-to-date
+    information, analyze sources, and generate structured insights.
+  details: >-
+    Learn how to research with ChatGPT using search and deep research to find up-to-date
+    information, analyze sources, and generate structured insights.
+  url: https://openai.com/academy/search-and-deep-research
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Brainstorming with ChatGPT
+  summary: >-
+    Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into
+    structured, actionable plans.
+  details: >-
+    Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into
+    structured, actionable plans.
+  url: https://openai.com/academy/brainstorming
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: ChatGPT for managers
+  summary: >-
+    Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay
+    organized, and improve team effectiveness.
+  details: >-
+    Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay
+    organized, and improve team effectiveness.
+  url: https://openai.com/academy/managers
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Applications of AI at OpenAI
+  summary: >-
+    Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work,
+    development, and everyday tasks.
+  details: >-
+    Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work,
+    development, and everyday tasks.
+  url: https://openai.com/academy/applications-of-ai
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: ChatGPT for customer success teams
+  summary: >-
+    Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce
+    churn, and drive adoption and renewals.
+  details: >-
+    Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce
+    churn, and drive adoption and renewals.
+  url: https://openai.com/academy/customer-success
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Financial services
+  summary: >-
+    Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to
+    help institutions deploy and scale AI securely.
+  details: >-
+    Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to
+    help institutions deploy and scale AI securely.
+  url: https://openai.com/academy/financial-services
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Personalizing ChatGPT
+  summary: >-
+    Learn how to personalize ChatGPT using custom instructions and memory to get more relevant,
+    consistent, and tailored responses.
+  details: >-
+    Learn how to personalize ChatGPT using custom instructions and memory to get more relevant,
+    consistent, and tailored responses.
+  url: https://openai.com/academy/personalization
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Using projects in ChatGPT
   summary: >-
     Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing
@@ -7125,14 +7285,14 @@
   score: 0
   publishedAt: '2026-04-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Using skills
+  title: ChatGPT for marketing teams
   summary: >-
-    Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring
-    tasks, and ensure consistent, high-quality outputs.
+    Learn how marketing teams use ChatGPT to plan campaigns, create content, analyze performance,
+    and turn insights into action with practical AI workflows.
   details: >-
-    Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring
-    tasks, and ensure consistent, high-quality outputs.
-  url: https://openai.com/academy/skills
+    Learn how marketing teams use ChatGPT to plan campaigns, create content, analyze performance,
+    and turn insights into action with practical AI workflows.
+  url: https://openai.com/academy/marketing
   source: rss
   tags:
     - genai
@@ -7173,78 +7333,14 @@
   score: 0
   publishedAt: '2026-04-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: ChatGPT for customer success teams
+  title: Analyzing data with ChatGPT
   summary: >-
-    Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce
-    churn, and drive adoption and renewals.
+    Learn how to explore datasets, generate insights, create visualizations, and turn findings into
+    actionable decisions with ChatGPT.
   details: >-
-    Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce
-    churn, and drive adoption and renewals.
-  url: https://openai.com/academy/customer-success
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Applications of AI at OpenAI
-  summary: >-
-    Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work,
-    development, and everyday tasks.
-  details: >-
-    Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work,
-    development, and everyday tasks.
-  url: https://openai.com/academy/applications-of-ai
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Prompting fundamentals
-  summary: >-
-    Learn prompting fundamentals and how to write clear, effective prompts to get better, more
-    useful responses from ChatGPT.
-  details: >-
-    Learn prompting fundamentals and how to write clear, effective prompts to get better, more
-    useful responses from ChatGPT.
-  url: https://openai.com/academy/prompting
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Research with ChatGPT
-  summary: >-
-    Learn how to research with ChatGPT using search and deep research to find up-to-date
-    information, analyze sources, and generate structured insights.
-  details: >-
-    Learn how to research with ChatGPT using search and deep research to find up-to-date
-    information, analyze sources, and generate structured insights.
-  url: https://openai.com/academy/search-and-deep-research
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Personalizing ChatGPT
-  summary: >-
-    Learn how to personalize ChatGPT using custom instructions and memory to get more relevant,
-    consistent, and tailored responses.
-  details: >-
-    Learn how to personalize ChatGPT using custom instructions and memory to get more relevant,
-    consistent, and tailored responses.
-  url: https://openai.com/academy/personalization
+    Learn how to explore datasets, generate insights, create visualizations, and turn findings into
+    actionable decisions with ChatGPT.
+  url: https://openai.com/academy/data-analysis
   source: rss
   tags:
     - genai
@@ -7269,110 +7365,14 @@
   score: 0
   publishedAt: '2026-04-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: ChatGPT for research
+  title: Using skills
   summary: >-
-    Learn how to use ChatGPT for research to gather sources, analyze information, and create
-    structured, citation-backed insights.
+    Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring
+    tasks, and ensure consistent, high-quality outputs.
   details: >-
-    Learn how to use ChatGPT for research to gather sources, analyze information, and create
-    structured, citation-backed insights.
-  url: https://openai.com/academy/research
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Analyzing data with ChatGPT
-  summary: >-
-    Learn how to explore datasets, generate insights, create visualizations, and turn findings into
-    actionable decisions with ChatGPT.
-  details: >-
-    Learn how to explore datasets, generate insights, create visualizations, and turn findings into
-    actionable decisions with ChatGPT.
-  url: https://openai.com/academy/data-analysis
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: ChatGPT for operations teams
-  summary: >-
-    Learn how operations teams use ChatGPT to streamline workflows, improve coordination,
-    standardize processes, and drive faster execution.
-  details: >-
-    Learn how operations teams use ChatGPT to streamline workflows, improve coordination,
-    standardize processes, and drive faster execution.
-  url: https://openai.com/academy/operations
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: AI fundamentals
-  summary: >-
-    Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear,
-    beginner-friendly guide to understanding artificial intelligence.
-  details: >-
-    Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear,
-    beginner-friendly guide to understanding artificial intelligence.
-  url: https://openai.com/academy/what-is-ai
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: ChatGPT for marketing teams
-  summary: >-
-    Learn how marketing teams use ChatGPT to plan campaigns, create content, analyze performance,
-    and turn insights into action with practical AI workflows.
-  details: >-
-    Learn how marketing teams use ChatGPT to plan campaigns, create content, analyze performance,
-    and turn insights into action with practical AI workflows.
-  url: https://openai.com/academy/marketing
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Learn ChatGPT workflows for finance teams
-  summary: >-
-    Learn practical ChatGPT workflows for financial analysis, reporting, planning, and
-    decision-ready communication.
-  details: >-
-    Learn practical ChatGPT workflows for financial analysis, reporting, planning, and
-    decision-ready communication.
-  url: https://openai.com/academy/finance
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-04-10T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Financial services
-  summary: >-
-    Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to
-    help institutions deploy and scale AI securely.
-  details: >-
-    Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to
-    help institutions deploy and scale AI securely.
-  url: https://openai.com/academy/financial-services
+    Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring
+    tasks, and ensure consistent, high-quality outputs.
+  url: https://openai.com/academy/skills
   source: rss
   tags:
     - genai
@@ -7397,6 +7397,22 @@
   score: 0
   publishedAt: '2026-04-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: ChatGPT for operations teams
+  summary: >-
+    Learn how operations teams use ChatGPT to streamline workflows, improve coordination,
+    standardize processes, and drive faster execution.
+  details: >-
+    Learn how operations teams use ChatGPT to streamline workflows, improve coordination,
+    standardize processes, and drive faster execution.
+  url: https://openai.com/academy/operations
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Responsible and safe use of AI
   summary: >-
     Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when
@@ -7413,14 +7429,46 @@
   score: 0
   publishedAt: '2026-04-10T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Brainstorming with ChatGPT
+  title: Creating images with ChatGPT
   summary: >-
-    Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into
-    structured, actionable plans.
+    Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and
+    generate high-quality visuals in minutes.
   details: >-
-    Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into
-    structured, actionable plans.
-  url: https://openai.com/academy/brainstorming
+    Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and
+    generate high-quality visuals in minutes.
+  url: https://openai.com/academy/image-generation
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Learn ChatGPT workflows for finance teams
+  summary: >-
+    Learn practical ChatGPT workflows for financial analysis, reporting, planning, and
+    decision-ready communication.
+  details: >-
+    Learn practical ChatGPT workflows for financial analysis, reporting, planning, and
+    decision-ready communication.
+  url: https://openai.com/academy/finance
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-04-10T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Prompting fundamentals
+  summary: >-
+    Learn prompting fundamentals and how to write clear, effective prompts to get better, more
+    useful responses from ChatGPT.
+  details: >-
+    Learn prompting fundamentals and how to write clear, effective prompts to get better, more
+    useful responses from ChatGPT.
+  url: https://openai.com/academy/prompting
   source: rss
   tags:
     - genai
@@ -7636,22 +7684,6 @@
   score: 0
   publishedAt: '2026-03-24T11:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Update on the OpenAI Foundation
-  summary: >-
-    The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic
-    opportunity, AI resilience, and community programs.
-  details: >-
-    The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic
-    opportunity, AI resilience, and community programs.
-  url: https://openai.com/index/update-on-the-openai-foundation
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-03-24T09:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Powering product discovery in ChatGPT
   summary: >-
     ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol,
@@ -7666,6 +7698,22 @@
     - llm
     - openai
     - agentic-ai
+  score: 0
+  publishedAt: '2026-03-24T09:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Update on the OpenAI Foundation
+  summary: >-
+    The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic
+    opportunity, AI resilience, and community programs.
+  details: >-
+    The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic
+    opportunity, AI resilience, and community programs.
+  url: https://openai.com/index/update-on-the-openai-foundation
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
   score: 0
   publishedAt: '2026-03-24T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -7920,22 +7968,6 @@
   score: 0
   publishedAt: '2026-03-06T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing GPT-5.4
-  summary: >-
-    Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional
-    work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
-  details: >-
-    Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional
-    work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
-  url: https://openai.com/index/introducing-gpt-5-4
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-03-05T10:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Reasoning models struggle to control their chains of thought, and that’s good
   summary: >-
     OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of
@@ -7956,6 +7988,22 @@
   summary: ''
   details: ''
   url: https://openai.com/index/gpt-5-4-thinking-system-card
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-03-05T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing GPT-5.4
+  summary: >-
+    Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional
+    work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
+  details: >-
+    Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional
+    work, with state-of-the-art coding, computer use, tool search, and 1M-token context.
+  url: https://openai.com/index/introducing-gpt-5-4
   source: rss
   tags:
     - genai
@@ -7996,18 +8044,6 @@
   score: 0
   publishedAt: '2026-03-05T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing the Adoption news channel
-  summary: Practical insights and frameworks to turn AI progress into business advantage
-  details: Practical insights and frameworks to turn AI progress into business advantage
-  url: https://openai.com/index/introducing-the-adoption-news-channel
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-03-05T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing ChatGPT for Excel and new financial data integrations
   summary: >-
     OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to
@@ -8032,6 +8068,18 @@
     Five AI value models show how leaders can sequence AI from workforce fluency to process
     reinvention and build durable business advantage.
   url: https://openai.com/index/the-five-ai-value-models-driving-business-reinvention
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-03-05T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing the Adoption news channel
+  summary: Practical insights and frameworks to turn AI progress into business advantage
+  details: Practical insights and frameworks to turn AI progress into business advantage
+  url: https://openai.com/index/introducing-the-adoption-news-channel
   source: rss
   tags:
     - genai
@@ -8088,10 +8136,10 @@
   score: 0
   publishedAt: '2026-03-04T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'GPT-5.3 Instant: Smoother, more useful everyday conversations'
+  title: GPT-5.3 Instant System Card
   summary: ''
   details: ''
-  url: https://openai.com/index/gpt-5-3-instant
+  url: https://openai.com/index/gpt-5-3-instant-system-card
   source: rss
   tags:
     - genai
@@ -8100,10 +8148,10 @@
   score: 0
   publishedAt: '2026-03-03T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: GPT-5.3 Instant System Card
+  title: 'GPT-5.3 Instant: Smoother, more useful everyday conversations'
   summary: ''
   details: ''
-  url: https://openai.com/index/gpt-5-3-instant-system-card
+  url: https://openai.com/index/gpt-5-3-instant
   source: rss
   tags:
     - genai
@@ -8127,39 +8175,6 @@
     - openai
   score: 0
   publishedAt: '2026-02-28T12:30:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock
-  summary: >-
-    Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and
-    secure execution to multi-step AI workflows powered by OpenAI.
-  details: >-
-    Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and
-    secure execution to multi-step AI workflows powered by OpenAI.
-  url: >-
-    https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-02-27T05:30:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Scaling AI for everyone
-  summary: >-
-    Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes
-    $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.
-  details: >-
-    Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes
-    $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.
-  url: https://openai.com/index/scaling-ai-for-everyone
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-02-27T05:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Joint Statement from OpenAI and Microsoft
   summary: >-
@@ -8191,6 +8206,39 @@
     - llm
     - openai
     - agentic-ai
+  score: 0
+  publishedAt: '2026-02-27T05:30:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Scaling AI for everyone
+  summary: >-
+    Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes
+    $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.
+  details: >-
+    Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes
+    $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.
+  url: https://openai.com/index/scaling-ai-for-everyone
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-02-27T05:30:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock
+  summary: >-
+    Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and
+    secure execution to multi-step AI workflows powered by OpenAI.
+  details: >-
+    Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and
+    secure execution to multi-step AI workflows powered by OpenAI.
+  url: >-
+    https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
   score: 0
   publishedAt: '2026-02-27T05:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -8421,22 +8469,6 @@
   score: 0
   publishedAt: '2026-02-13T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Beyond rate limits: scaling access to Codex and Sora'
-  summary: >-
-    How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to
-    power continuous access to Sora and Codex.
-  details: >-
-    How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to
-    power continuous access to Sora and Codex.
-  url: https://openai.com/index/beyond-rate-limits
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-02-13T09:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Scaling social science research
   summary: >-
     GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and
@@ -8445,6 +8477,22 @@
     GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and
     images into quantitative data, helping social scientists analyze research at scale.
   url: https://openai.com/index/scaling-social-science-research
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-02-13T09:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Beyond rate limits: scaling access to Codex and Sora'
+  summary: >-
+    How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to
+    power continuous access to Sora and Codex.
+  details: >-
+    How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to
+    power continuous access to Sora and Codex.
+  url: https://openai.com/index/beyond-rate-limits
   source: rss
   tags:
     - genai
@@ -8662,6 +8710,22 @@
   score: 0
   publishedAt: '2026-02-02T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation “Date Bait”: AI-enabled scam targeting loveseekers'
+  summary: >-
+    OpenAI banned accounts that very likely originated in Cambodia and used AI for scam outreach to
+    Indonesian loveseekers, including translation and engagement.
+  details: >-
+    OpenAI banned accounts that very likely originated in Cambodia and used AI for scam outreach to
+    Indonesian loveseekers, including translation and engagement.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-02-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Operation “Trolling Stone”: Russia-linked influence activity'
   summary: >-
     OpenAI banned accounts linked to a previously unreported operation we dubbed "Trolling Stone",
@@ -8678,46 +8742,14 @@
   score: 0
   publishedAt: '2026-02-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Romance scams: AI-enabled romance scam workflows'
+  title: 'Operation “Fish Food”: Russia-origin content farm activity'
   summary: >-
-    OpenAI banned accounts using AI to support romance scam workflows, including outreach,
-    translation, victim engagement, and investment-fraud lures.
+    OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia,
+    that used AI to support multilingual influence activity across websites and social platforms.
   details: >-
-    OpenAI banned accounts using AI to support romance scam workflows, including outreach,
-    translation, victim engagement, and investment-fraud lures.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-02-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “False Witness”: Fake recovery service impersonating authorities'
-  summary: >-
-    OpenAI banned accounts that very likely originated in Cambodia and used AI to pose as recovery
-    services, law firms, and authorities targeting people affected by fraud.
-  details: >-
-    OpenAI banned accounts that very likely originated in Cambodia and used AI to pose as recovery
-    services, law firms, and authorities targeting people affected by fraud.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-02-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “Date Bait”: AI-enabled scam targeting loveseekers'
-  summary: >-
-    OpenAI banned accounts that very likely originated in Cambodia and used AI for scam outreach to
-    Indonesian loveseekers, including translation and engagement.
-  details: >-
-    OpenAI banned accounts that very likely originated in Cambodia and used AI for scam outreach to
-    Indonesian loveseekers, including translation and engagement.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait
+    OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia,
+    that used AI to support multilingual influence activity across websites and social platforms.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food
   source: rss
   tags:
     - genai
@@ -8744,14 +8776,14 @@
   score: 0
   publishedAt: '2026-02-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Silver lining playbook: Likely China-origin activity targeting US persons'
+  title: 'Operation “False Witness”: Fake recovery service impersonating authorities'
   summary: >-
-    OpenAI banned likely China-origin accounts using AI to research US persons, locations, and
-    social-engineering tactics.
+    OpenAI banned accounts that very likely originated in Cambodia and used AI to pose as recovery
+    services, law firms, and authorities targeting people affected by fraud.
   details: >-
-    OpenAI banned likely China-origin accounts using AI to research US persons, locations, and
-    social-engineering tactics.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook
+    OpenAI banned accounts that very likely originated in Cambodia and used AI to pose as recovery
+    services, law firms, and authorities targeting people affected by fraud.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness
   source: rss
   tags:
     - genai
@@ -8760,14 +8792,30 @@
   score: 0
   publishedAt: '2026-02-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “Fish Food”: Russia-origin content farm activity'
+  title: 'Romance scams: AI-enabled romance scam workflows'
   summary: >-
-    OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia,
-    that used AI to support multilingual influence activity across websites and social platforms.
+    OpenAI banned accounts using AI to support romance scam workflows, including outreach,
+    translation, victim engagement, and investment-fraud lures.
   details: >-
-    OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia,
-    that used AI to support multilingual influence activity across websites and social platforms.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food
+    OpenAI banned accounts using AI to support romance scam workflows, including outreach,
+    translation, victim engagement, and investment-fraud lures.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-02-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Silver lining playbook: Likely China-origin activity targeting US persons'
+  summary: >-
+    OpenAI banned likely China-origin accounts using AI to research US persons, locations, and
+    social-engineering tactics.
+  details: >-
+    OpenAI banned likely China-origin accounts using AI to research US persons, locations, and
+    social-engineering tactics.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook
   source: rss
   tags:
     - genai
@@ -8808,22 +8856,6 @@
   score: 0
   publishedAt: '2026-01-29T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Taisei Corporation shapes the next generation of talent with AI
-  summary: >-
-    Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered
-    talent development across the organization.
-  details: >-
-    Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered
-    talent development across the organization.
-  url: https://openai.com/index/taisei
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-01-29T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT
   summary: >-
     On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant,
@@ -8842,21 +8874,21 @@
   score: 0
   publishedAt: '2026-01-29T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: The next chapter for AI in the EU
+  title: Taisei Corporation shapes the next generation of talent with AI
   summary: >-
-    OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to
-    accelerate AI adoption, skills, and growth across Europe.
+    Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered
+    talent development across the organization.
   details: >-
-    OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to
-    accelerate AI adoption, skills, and growth across Europe.
-  url: https://openai.com/index/the-next-chapter-for-ai-in-the-eu
+    Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered
+    talent development across the organization.
+  url: https://openai.com/index/taisei
   source: rss
   tags:
     - genai
     - llm
     - openai
   score: 0
-  publishedAt: '2026-01-28T01:00:00.000Z'
+  publishedAt: '2026-01-29T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: EMEA Youth & Wellbeing Grant
   summary: >-
@@ -8866,6 +8898,22 @@
     Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers
     advancing youth safety and wellbeing in the age of AI.
   url: https://openai.com/index/emea-youth-and-wellbeing-grant
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-01-28T01:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: The next chapter for AI in the EU
+  summary: >-
+    OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to
+    accelerate AI adoption, skills, and growth across Europe.
+  details: >-
+    OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to
+    accelerate AI adoption, skills, and growth across Europe.
+  url: https://openai.com/index/the-next-chapter-for-ai-in-the-eu
   source: rss
   tags:
     - genai
@@ -9052,22 +9100,6 @@
   score: 0
   publishedAt: '2026-01-21T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How countries can end the capability overhang
-  summary: >-
-    Our latest report reveals stark differences in advanced AI adoption across countries and
-    outlines new initiatives to help nations capture productivity gains from AI.
-  details: >-
-    Our latest report reveals stark differences in advanced AI adoption across countries and
-    outlines new initiatives to help nations capture productivity gains from AI.
-  url: https://openai.com/index/how-countries-can-end-the-capability-overhang
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2026-01-21T01:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing Edu for Countries
   summary: >-
     Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education
@@ -9076,6 +9108,22 @@
     Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education
     systems and build future-ready workforces.
   url: https://openai.com/index/edu-for-countries
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2026-01-21T01:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How countries can end the capability overhang
+  summary: >-
+    Our latest report reveals stark differences in advanced AI adoption across countries and
+    outlines new initiatives to help nations capture productivity gains from AI.
+  details: >-
+    Our latest report reveals stark differences in advanced AI adoption across countries and
+    outlines new initiatives to help nations capture productivity gains from AI.
+  url: https://openai.com/index/how-countries-can-end-the-capability-overhang
   source: rss
   tags:
     - genai
@@ -9557,18 +9605,6 @@
   score: 0
   publishedAt: '2025-12-18T11:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Addendum to GPT-5.2 System Card: GPT-5.2-Codex'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/gpt-5-2-codex-system-card
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-12-18T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing GPT-5.2-Codex
   summary: >-
     GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning,
@@ -9577,6 +9613,18 @@
     GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning,
     large-scale code transformations, and enhanced cybersecurity capabilities.
   url: https://openai.com/index/introducing-gpt-5-2-codex
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-12-18T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Addendum to GPT-5.2 System Card: GPT-5.2-Codex'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/gpt-5-2-codex-system-card
   source: rss
   tags:
     - genai
@@ -9674,22 +9722,6 @@
   score: 0
   publishedAt: '2025-12-16T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing ChatGPT Images and GPT‑Image‑1.5
-  summary: >-
-    This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image‑1.5 in the API.
-    Explore the latest ChatGPT Images 2.5.
-  details: >-
-    This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image‑1.5 in the API.
-    Explore the latest ChatGPT Images 2.5.
-  url: https://openai.com/index/new-chatgpt-images-is-here
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-12-16T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Staying ahead in the age of AI
   summary: >-
     Discover how leaders can build AI-ready organizations using clear strategy, training,
@@ -9706,20 +9738,39 @@
   score: 0
   publishedAt: '2025-12-16T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: BNY builds “AI for everyone, everywhere” with OpenAI
+  title: Introducing ChatGPT Images and GPT‑Image‑1.5
   summary: >-
-    BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees
-    build AI agents that improve efficiency and client outcomes.
+    This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image‑1.5 in the API.
+    Explore the latest ChatGPT Images 2.5.
   details: >-
-    BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees
-    build AI agents that improve efficiency and client outcomes.
-  url: https://openai.com/index/bny
+    This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image‑1.5 in the API.
+    Explore the latest ChatGPT Images 2.5.
+  url: https://openai.com/index/new-chatgpt-images-is-here
   source: rss
   tags:
     - genai
     - llm
     - openai
-    - agentic-ai
+  score: 0
+  publishedAt: '2025-12-16T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: BBVA and OpenAI collaborate to transform global banking
+  summary: >-
+    BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling
+    out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI
+    solutions that enhance customer interactions, streamline operations, and help build an
+    AI-native…
+  details: >-
+    BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling
+    out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI
+    solutions that enhance customer interactions, streamline operations, and help build an AI-native
+    banking experience.
+  url: https://openai.com/index/bbva-collaboration-expansion
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
   score: 0
   publishedAt: '2025-12-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9739,23 +9790,20 @@
   score: 0
   publishedAt: '2025-12-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: BBVA and OpenAI collaborate to transform global banking
+  title: BNY builds “AI for everyone, everywhere” with OpenAI
   summary: >-
-    BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling
-    out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI
-    solutions that enhance customer interactions, streamline operations, and help build an
-    AI-native…
+    BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees
+    build AI agents that improve efficiency and client outcomes.
   details: >-
-    BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling
-    out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI
-    solutions that enhance customer interactions, streamline operations, and help build an AI-native
-    banking experience.
-  url: https://openai.com/index/bbva-collaboration-expansion
+    BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees
+    build AI agents that improve efficiency and client outcomes.
+  url: https://openai.com/index/bny
   source: rss
   tags:
     - genai
     - llm
     - openai
+    - agentic-ai
   score: 0
   publishedAt: '2025-12-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9778,6 +9826,25 @@
     - openai
   score: 0
   publishedAt: '2025-12-11T10:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing GPT-5.2
+  summary: >-
+    GPT-5.2 is our most advanced frontier model for everyday professional work, with
+    state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT
+    and the OpenAI API to power faster, more reliable agentic workflows.
+  details: >-
+    GPT-5.2 is our most advanced frontier model for everyday professional work, with
+    state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT
+    and the OpenAI API to power faster, more reliable agentic workflows.
+  url: https://openai.com/index/introducing-gpt-5-2
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+    - agentic-ai
+  score: 0
+  publishedAt: '2025-12-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Update to GPT-5 System Card: GPT-5.2'
   summary: >-
@@ -9818,6 +9885,23 @@
   score: 0
   publishedAt: '2025-12-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How Podium is arming 10,000+ SMBs with AI agents
+  summary: >-
+    Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and
+    transforming how Main Street businesses serve customers.
+  details: >-
+    Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and
+    transforming how Main Street businesses serve customers.
+  url: https://openai.com/index/podium
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+    - agentic-ai
+  score: 0
+  publishedAt: '2025-12-11T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora
   summary: >-
     Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and
@@ -9834,42 +9918,6 @@
     - genai
     - llm
     - openai
-  score: 0
-  publishedAt: '2025-12-11T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing GPT-5.2
-  summary: >-
-    GPT-5.2 is our most advanced frontier model for everyday professional work, with
-    state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT
-    and the OpenAI API to power faster, more reliable agentic workflows.
-  details: >-
-    GPT-5.2 is our most advanced frontier model for everyday professional work, with
-    state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT
-    and the OpenAI API to power faster, more reliable agentic workflows.
-  url: https://openai.com/index/introducing-gpt-5-2
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-    - agentic-ai
-  score: 0
-  publishedAt: '2025-12-11T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How Podium is arming 10,000+ SMBs with AI agents
-  summary: >-
-    Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and
-    transforming how Main Street businesses serve customers.
-  details: >-
-    Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and
-    transforming how Main Street businesses serve customers.
-  url: https://openai.com/index/podium
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-    - agentic-ai
   score: 0
   publishedAt: '2025-12-11T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -9958,22 +10006,6 @@
   score: 0
   publishedAt: '2025-12-09T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Commonwealth Bank of Australia builds AI fluency at scale
-  summary: >-
-    Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000
-    employees, building AI fluency at scale to improve customer service and fraud response.
-  details: >-
-    Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000
-    employees, building AI fluency at scale to improve customer service and fraud response.
-  url: https://openai.com/index/commonwealth-bank-of-australia
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-12-09T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Bringing powerful AI to millions across Europe with Deutsche Telekom
   summary: >-
     OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to
@@ -9984,6 +10016,22 @@
     millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at
     Deutsche Telekom improve workflows and accelerate innovation.
   url: https://openai.com/index/deutsche-telekom-collaboration
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-12-09T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Commonwealth Bank of Australia builds AI fluency at scale
+  summary: >-
+    Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000
+    employees, building AI fluency at scale to improve customer service and fraud response.
+  details: >-
+    Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000
+    employees, building AI fluency at scale to improve customer service and fraud response.
+  url: https://openai.com/index/commonwealth-bank-of-australia
   source: rss
   tags:
     - genai
@@ -10159,6 +10207,23 @@
   score: 0
   publishedAt: '2025-12-01T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Accenture and OpenAI accelerate enterprise AI success
+  summary: >-
+    Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into
+    the core of their business and unlock new levels of growth.
+  details: >-
+    Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into
+    the core of their business and unlock new levels of growth.
+  url: https://openai.com/index/accenture-partnership
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+    - agentic-ai
+  score: 0
+  publishedAt: '2025-12-01T05:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption
   summary: >-
     OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption,
@@ -10176,23 +10241,6 @@
     - genai
     - llm
     - openai
-  score: 0
-  publishedAt: '2025-12-01T05:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Accenture and OpenAI accelerate enterprise AI success
-  summary: >-
-    Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into
-    the core of their business and unlock new levels of growth.
-  details: >-
-    Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into
-    the core of their business and unlock new levels of growth.
-  url: https://openai.com/index/accenture-partnership
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-    - agentic-ai
   score: 0
   publishedAt: '2025-12-01T05:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -10246,22 +10294,6 @@
   score: 0
   publishedAt: '2025-11-25T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing shopping research in ChatGPT
-  summary: >-
-    Shopping research in ChatGPT helps you explore, compare, and discover products with personalized
-    buyer’s guides that simplify decision-making
-  details: >-
-    Shopping research in ChatGPT helps you explore, compare, and discover products with personalized
-    buyer’s guides that simplify decision-making
-  url: https://openai.com/index/chatgpt-shopping-research
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-11-24T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: GPT-5 and the future of mathematical discovery
   summary: >-
     UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing
@@ -10270,6 +10302,22 @@
     UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing
     AI’s role in accelerating mathematical discovery.
   url: https://openai.com/index/gpt-5-mathematical-discovery
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-11-24T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing shopping research in ChatGPT
+  summary: >-
+    Shopping research in ChatGPT helps you explore, compare, and discover products with personalized
+    buyer’s guides that simplify decision-making
+  details: >-
+    Shopping research in ChatGPT helps you explore, compare, and discover products with personalized
+    buyer’s guides that simplify decision-making
+  url: https://openai.com/index/chatgpt-shopping-research
   source: rss
   tags:
     - genai
@@ -10397,22 +10445,6 @@
   score: 0
   publishedAt: '2025-11-19T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How Scania accelerates work with AI across its global workforce
-  summary: >-
-    Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and
-    strong guardrails, AI is boosting productivity, quality, and innovation.
-  details: >-
-    Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and
-    strong guardrails, AI is boosting productivity, quality, and innovation.
-  url: https://openai.com/index/scania
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-11-19T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: GPT-5.1-Codex-Max System Card
   summary: >-
     This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It
@@ -10424,6 +10456,38 @@
     prompt injections, and product-level mitigations like agent sandboxing and configurable network
     access.
   url: https://openai.com/index/gpt-5-1-codex-max-system-card
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-11-19T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: A free version of ChatGPT built for teachers
+  summary: >-
+    ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free
+    for verified U.S. K–12 educators through June 2027.
+  details: >-
+    ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free
+    for verified U.S. K–12 educators through June 2027.
+  url: https://openai.com/index/chatgpt-for-teachers
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-11-19T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How Scania accelerates work with AI across its global workforce
+  summary: >-
+    Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and
+    strong guardrails, AI is boosting productivity, quality, and innovation.
+  details: >-
+    Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and
+    strong guardrails, AI is boosting productivity, quality, and innovation.
+  url: https://openai.com/index/scania
   source: rss
   tags:
     - genai
@@ -10448,22 +10512,6 @@
     - llm
     - openai
     - agentic-ai
-  score: 0
-  publishedAt: '2025-11-19T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: A free version of ChatGPT built for teachers
-  summary: >-
-    ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free
-    for verified U.S. K–12 educators through June 2027.
-  details: >-
-    ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free
-    for verified U.S. K–12 educators through June 2027.
-  url: https://openai.com/index/chatgpt-for-teachers
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
   score: 0
   publishedAt: '2025-11-19T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -10551,22 +10599,6 @@
   score: 0
   publishedAt: '2025-11-13T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How Philips is scaling AI literacy across 70,000 employees
-  summary: >-
-    Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI
-    responsibly and improve healthcare outcomes worldwide.
-  details: >-
-    Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI
-    responsibly and improve healthcare outcomes worldwide.
-  url: https://openai.com/index/philips
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-11-13T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing group chats in ChatGPT
   summary: Collaborate with others, and ChatGPT, in the same conversation.
   details: Collaborate with others, and ChatGPT, in the same conversation.
@@ -10587,6 +10619,22 @@
     GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt
     caching, improved coding performance, and new apply_patch and shell tools.
   url: https://openai.com/index/gpt-5-1-for-developers
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-11-13T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How Philips is scaling AI literacy across 70,000 employees
+  summary: >-
+    Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI
+    responsibly and improve healthcare outcomes worldwide.
+  details: >-
+    Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI
+    responsibly and improve healthcare outcomes worldwide.
+  url: https://openai.com/index/philips
   source: rss
   tags:
     - genai
@@ -10865,22 +10913,6 @@
   score: 0
   publishedAt: '2025-10-30T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing gpt-oss-safeguard
-  summary: >-
-    OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that
-    let developers apply and iterate on custom policies.
-  details: >-
-    OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that
-    let developers apply and iterate on custom policies.
-  url: https://openai.com/index/introducing-gpt-oss-safeguard
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-10-29T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: gpt-oss-safeguard technical report
   summary: >-
     gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models
@@ -10895,6 +10927,22 @@
     underlying gpt-oss models as a baseline. For more information about the development and
     architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.
   url: https://openai.com/index/gpt-oss-safeguard-technical-report
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-10-29T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing gpt-oss-safeguard
+  summary: >-
+    OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that
+    let developers apply and iterate on custom policies.
+  details: >-
+    OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that
+    let developers apply and iterate on custom policies.
+  url: https://openai.com/index/introducing-gpt-oss-safeguard
   source: rss
   tags:
     - genai
@@ -10935,22 +10983,6 @@
   score: 0
   publishedAt: '2025-10-28T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Built to benefit everyone
-  summary: >-
-    OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure
-    AI benefits everyone while advancing innovation responsibly.
-  details: >-
-    OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure
-    AI benefits everyone while advancing innovation responsibly.
-  url: https://openai.com/index/built-to-benefit-everyone
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-10-28T06:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: The next chapter of the Microsoft–OpenAI partnership
   summary: >-
     Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands
@@ -10959,6 +10991,22 @@
     Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands
     innovation, and ensures responsible AI progress.
   url: https://openai.com/index/next-chapter-of-microsoft-openai-partnership
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-10-28T06:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Built to benefit everyone
+  summary: >-
+    OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure
+    AI benefits everyone while advancing innovation responsibly.
+  details: >-
+    OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure
+    AI benefits everyone while advancing innovation responsibly.
+  url: https://openai.com/index/built-to-benefit-everyone
   source: rss
   tags:
     - genai
@@ -11075,22 +11123,6 @@
   score: 0
   publishedAt: '2025-10-23T09:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: AI in South Korea—OpenAI’s Economic Blueprint
-  summary: >-
-    OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through
-    sovereign capabilities and strategic partnerships to drive growth.
-  details: >-
-    OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through
-    sovereign capabilities and strategic partnerships to drive growth.
-  url: https://openai.com/index/south-korea-economic-blueprint
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-10-23T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Work smarter with your company knowledge in ChatGPT
   summary: >-
     Company knowledge brings context from your apps into ChatGPT for answers specific to your
@@ -11101,6 +11133,22 @@
     business, with clear citations, security, privacy, and admin controls. Available now for
     Business, Enterprise, and Edu users.
   url: https://openai.com/index/introducing-company-knowledge
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-10-23T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: AI in South Korea—OpenAI’s Economic Blueprint
+  summary: >-
+    OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through
+    sovereign capabilities and strategic partnerships to drive growth.
+  details: >-
+    OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through
+    sovereign capabilities and strategic partnerships to drive growth.
+  url: https://openai.com/index/south-korea-economic-blueprint
   source: rss
   tags:
     - genai
@@ -11445,16 +11493,14 @@
   score: 0
   publishedAt: '2025-10-01T03:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Cyber Operation: Phishing and scripting support'
+  title: 'Operation “Stop News”: Recidivist influence activity'
   summary: >-
-    OpenAI banned accounts involved in activity that overlapped with publicly reported threat groups
-    and displayed hallmarks consistent with PRC intelligence requirements, using AI to support
-    phishing and scripting workflows.
+    OpenAI banned accounts linked to a Russia-origin operation we dubbed “Stop News”, using AI to
+    generate recidivist influence content targeting Africa and the UK.
   details: >-
-    OpenAI banned accounts involved in activity that overlapped with publicly reported threat groups
-    and displayed hallmarks consistent with PRC intelligence requirements, using AI to support
-    phishing and scripting workflows.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support
+    OpenAI banned accounts linked to a Russia-origin operation we dubbed “Stop News”, using AI to
+    generate recidivist influence content targeting Africa and the UK.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025
   source: rss
   tags:
     - genai
@@ -11463,14 +11509,14 @@
   score: 0
   publishedAt: '2025-10-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Scam operations: Online fraud networks'
+  title: 'PRC-linked abuse: Surveillance and influence activity'
   summary: >-
-    OpenAI banned accounts tied to online fraud networks using AI to support scam scripts,
-    impersonation, translation, and victim engagement.
+    OpenAI banned PRC-linked accounts using AI to support surveillance-related planning, targeted
+    profiling, and research on critics and other individuals.
   details: >-
-    OpenAI banned accounts tied to online fraud networks using AI to support scam scripts,
-    impersonation, translation, and victim engagement.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-scam-operations
+    OpenAI banned PRC-linked accounts using AI to support surveillance-related planning, targeted
+    profiling, and research on critics and other individuals.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-prc-linked-abuse
   source: rss
   tags:
     - genai
@@ -11497,22 +11543,6 @@
   score: 0
   publishedAt: '2025-10-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “Stop News”: Recidivist influence activity'
-  summary: >-
-    OpenAI banned accounts linked to a Russia-origin operation we dubbed “Stop News”, using AI to
-    generate recidivist influence content targeting Africa and the UK.
-  details: >-
-    OpenAI banned accounts linked to a Russia-origin operation we dubbed “Stop News”, using AI to
-    generate recidivist influence content targeting Africa and the UK.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-10-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Cyber Operation: Korean-language malware support'
   summary: >-
     OpenAI banned Korean-language accounts using AI for malware development support, debugging,
@@ -11529,14 +11559,14 @@
   score: 0
   publishedAt: '2025-10-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'PRC-linked abuse: Surveillance and influence activity'
+  title: 'Scam operations: Online fraud networks'
   summary: >-
-    OpenAI banned PRC-linked accounts using AI to support surveillance-related planning, targeted
-    profiling, and research on critics and other individuals.
+    OpenAI banned accounts tied to online fraud networks using AI to support scam scripts,
+    impersonation, translation, and victim engagement.
   details: >-
-    OpenAI banned PRC-linked accounts using AI to support surveillance-related planning, targeted
-    profiling, and research on critics and other individuals.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-prc-linked-abuse
+    OpenAI banned accounts tied to online fraud networks using AI to support scam scripts,
+    impersonation, translation, and victim engagement.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-scam-operations
   source: rss
   tags:
     - genai
@@ -11561,6 +11591,40 @@
   score: 0
   publishedAt: '2025-10-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Cyber Operation: Phishing and scripting support'
+  summary: >-
+    OpenAI banned accounts involved in activity that overlapped with publicly reported threat groups
+    and displayed hallmarks consistent with PRC intelligence requirements, using AI to support
+    phishing and scripting workflows.
+  details: >-
+    OpenAI banned accounts involved in activity that overlapped with publicly reported threat groups
+    and displayed hallmarks consistent with PRC intelligence requirements, using AI to support
+    phishing and scripting workflows.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-10-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Sora 2 is here
+  summary: >-
+    This post introduced Sora 2, a video generation model with synchronized dialogue and sound
+    effects. The Sora product is no longer available.
+  details: >-
+    This post introduced Sora 2, a video generation model with synchronized dialogue and sound
+    effects. The Sora product is no longer available.
+  url: https://openai.com/index/sora-2
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-09-30T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Sora 2 System Card
   summary: >-
     Sora 2 is our new state of the art video and audio generation model. Building on the foundation
@@ -11572,22 +11636,6 @@
     to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced
     steerability, and an expanded stylistic range.
   url: https://openai.com/index/sora-2-system-card
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-09-30T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Sora 2 is here
-  summary: >-
-    This post introduced Sora 2, a video generation model with synchronized dialogue and sound
-    effects. The Sora product is no longer available.
-  details: >-
-    This post introduced Sora 2, a video generation model with synchronized dialogue and sound
-    effects. The Sora product is no longer available.
-  url: https://openai.com/index/sora-2
   source: rss
   tags:
     - genai
@@ -11632,14 +11680,14 @@
   score: 0
   publishedAt: '2025-09-29T13:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Turning contracts into searchable data at OpenAI
+  title: Driving sales productivity and customer success at OpenAI
   summary: >-
-    OpenAI built a system to extract contract data quickly, cutting turnaround times and making it
-    easier for teams to access the details they need.
+    See how OpenAI built an internal AI sales assistant to automate account research, meeting
+    preparation, product knowledge, and customer follow-up.
   details: >-
-    OpenAI built a system to extract contract data quickly, cutting turnaround times and making it
-    easier for teams to access the details they need.
-  url: https://openai.com/index/openai-contract-data-agent
+    See how OpenAI built an internal AI sales assistant to automate account research, meeting
+    preparation, product knowledge, and customer follow-up.
+  url: https://openai.com/index/openai-gtm-assistant
   source: rss
   tags:
     - genai
@@ -11664,6 +11712,22 @@
   score: 0
   publishedAt: '2025-09-29T13:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Converting inbound leads into customers at OpenAI
+  summary: >-
+    Learn how OpenAI used an internal AI sales assistant to qualify inbound leads, personalize
+    responses, and help sales teams convert customer interest.
+  details: >-
+    Learn how OpenAI used an internal AI sales assistant to qualify inbound leads, personalize
+    responses, and help sales teams convert customer interest.
+  url: https://openai.com/index/openai-inbound-sales-assistant
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-09-29T13:30:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Improving support with every interaction at OpenAI
   summary: >-
     Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and
@@ -11680,30 +11744,14 @@
   score: 0
   publishedAt: '2025-09-29T13:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Driving sales productivity and customer success at OpenAI
+  title: Turning contracts into searchable data at OpenAI
   summary: >-
-    See how OpenAI built an internal AI sales assistant to automate account research, meeting
-    preparation, product knowledge, and customer follow-up.
+    OpenAI built a system to extract contract data quickly, cutting turnaround times and making it
+    easier for teams to access the details they need.
   details: >-
-    See how OpenAI built an internal AI sales assistant to automate account research, meeting
-    preparation, product knowledge, and customer follow-up.
-  url: https://openai.com/index/openai-gtm-assistant
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-09-29T13:30:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Converting inbound leads into customers at OpenAI
-  summary: >-
-    Learn how OpenAI used an internal AI sales assistant to qualify inbound leads, personalize
-    responses, and help sales teams convert customer interest.
-  details: >-
-    Learn how OpenAI used an internal AI sales assistant to qualify inbound leads, personalize
-    responses, and help sales teams convert customer interest.
-  url: https://openai.com/index/openai-inbound-sales-assistant
+    OpenAI built a system to extract contract data quickly, cutting turnaround times and making it
+    easier for teams to access the details they need.
+  url: https://openai.com/index/openai-contract-data-agent
   source: rss
   tags:
     - genai
@@ -12475,28 +12523,16 @@
   score: 0
   publishedAt: '2025-08-07T00:01:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing GPT-5
+  title: 'From hard refusals to safe-completions: toward output-centric safety training'
   summary: >-
-    We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence
-    over all our previous models, featuring state-of-the-art performance across coding, math,
-    writing, health, visual perception, and more.
+    Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and
+    helpfulness in AI responses—moving beyond hard refusals to nuanced, output-centric safety
+    training for handling dual-use prompts.
   details: >-
-    We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence
-    over all our previous models, featuring state-of-the-art performance across coding, math,
-    writing, health, visual perception, and more.
-  url: https://openai.com/index/introducing-gpt-5
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-08-07T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How Amgen uses GPT-5
-  summary: Learn how Amgen uses GPT-5.
-  details: Learn how Amgen uses GPT-5.
-  url: https://openai.com/index/gpt-5-amgen
+    Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and
+    helpfulness in AI responses—moving beyond hard refusals to nuanced, output-centric safety
+    training for handling dual-use prompts.
+  url: https://openai.com/index/gpt-5-safe-completions
   source: rss
   tags:
     - genai
@@ -12523,18 +12559,6 @@
   score: 0
   publishedAt: '2025-08-07T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: How Cursor uses GPT-5
-  summary: Learn how Cursor uses GPT-5.
-  details: Learn how Cursor uses GPT-5.
-  url: https://openai.com/index/gpt-5-cursor
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-08-07T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: First look at GPT-5
   summary: See how a group of leading developers use GPT-5 for the first time.
   details: See how a group of leading developers use GPT-5 for the first time.
@@ -12547,16 +12571,40 @@
   score: 0
   publishedAt: '2025-08-07T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'From hard refusals to safe-completions: toward output-centric safety training'
+  title: How Cursor uses GPT-5
+  summary: Learn how Cursor uses GPT-5.
+  details: Learn how Cursor uses GPT-5.
+  url: https://openai.com/index/gpt-5-cursor
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-08-07T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: How Amgen uses GPT-5
+  summary: Learn how Amgen uses GPT-5.
+  details: Learn how Amgen uses GPT-5.
+  url: https://openai.com/index/gpt-5-amgen
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-08-07T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing GPT-5
   summary: >-
-    Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and
-    helpfulness in AI responses—moving beyond hard refusals to nuanced, output-centric safety
-    training for handling dual-use prompts.
+    We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence
+    over all our previous models, featuring state-of-the-art performance across coding, math,
+    writing, health, visual perception, and more.
   details: >-
-    Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and
-    helpfulness in AI responses—moving beyond hard refusals to nuanced, output-centric safety
-    training for handling dual-use prompts.
-  url: https://openai.com/index/gpt-5-safe-completions
+    We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence
+    over all our previous models, featuring state-of-the-art performance across coding, math,
+    writing, health, visual perception, and more.
+  url: https://openai.com/index/introducing-gpt-5
   source: rss
   tags:
     - genai
@@ -12654,22 +12702,6 @@
   score: 0
   publishedAt: '2025-08-05T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: gpt-oss-120b & gpt-oss-20b Model Card
-  summary: >-
-    We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the
-    Apache 2.0 license and our gpt-oss usage policy.
-  details: >-
-    We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the
-    Apache 2.0 license and our gpt-oss usage policy.
-  url: https://openai.com/index/gpt-oss-model-card
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-08-05T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Open Weights and AI for All
   summary: >-
     AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put
@@ -12681,6 +12713,22 @@
     capable  open-weights models is a major step forward that makes advanced AI more open, flexible,
     and accessible worldwide.
   url: https://openai.com/global-affairs/open-weights-and-ai-for-all
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-08-05T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: gpt-oss-120b & gpt-oss-20b Model Card
+  summary: >-
+    We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the
+    Apache 2.0 license and our gpt-oss usage policy.
+  details: >-
+    We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the
+    Apache 2.0 license and our gpt-oss usage policy.
+  url: https://openai.com/index/gpt-oss-model-card
   source: rss
   tags:
     - genai
@@ -12960,14 +13008,18 @@
   score: 0
   publishedAt: '2025-07-17T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Statement from the OpenAI Board of Directors on the Nonprofit Commission Report
+  title: OpenAI nonprofit jam
   summary: >-
-    The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for
-    their extensive work and engagement.
+    At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the
+    frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family
+    Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Non…
   details: >-
-    The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for
-    their extensive work and engagement.
-  url: https://openai.com/index/nonprofit-commission-report
+    At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the
+    frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family
+    Foundation, Emerson Collective, and a network of local nonprofit organizations to host the
+    Nonprofit Jam—a one-day, nationwide event bringing together more than 1,000 nonprofit leaders
+    across 10 locations.
+  url: https://openai.com/global-affairs/openai-nonprofit-jam
   source: rss
   tags:
     - genai
@@ -12992,18 +13044,14 @@
   score: 0
   publishedAt: '2025-07-17T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: OpenAI nonprofit jam
+  title: Statement from the OpenAI Board of Directors on the Nonprofit Commission Report
   summary: >-
-    At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the
-    frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family
-    Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Non…
+    The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for
+    their extensive work and engagement.
   details: >-
-    At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the
-    frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family
-    Foundation, Emerson Collective, and a network of local nonprofit organizations to host the
-    Nonprofit Jam—a one-day, nationwide event bringing together more than 1,000 nonprofit leaders
-    across 10 locations.
-  url: https://openai.com/global-affairs/openai-nonprofit-jam
+    The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for
+    their extensive work and engagement.
+  url: https://openai.com/index/nonprofit-commission-report
   source: rss
   tags:
     - genai
@@ -13251,62 +13299,14 @@
   score: 0
   publishedAt: '2025-06-05T02:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “Uncle Spam”: US polarization influence activity'
+  title: 'Operation “High Five”: Philippines political comments'
   summary: >-
-    OpenAI banned China-origin accounts using AI to generate US political content and research
-    people, movements, and online communities.
+    OpenAI banned accounts using AI to generate comments about Philippine politics and public
+    officials across social platforms.
   details: >-
-    OpenAI banned China-origin accounts using AI to generate US political content and research
-    people, movements, and online communities.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-uncle-spam
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-06-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Deceptive Employment Scheme: IT worker activity'
-  summary: >-
-    OpenAI banned accounts associated with suspected deceptive employment campaigns that used AI to
-    develop materials for potentially fraudulent remote-job applications.
-  details: >-
-    OpenAI banned accounts associated with suspected deceptive employment campaigns that used AI to
-    develop materials for potentially fraudulent remote-job applications.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-it-workers
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-06-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “Wrong Number”: AI-assisted task scam'
-  summary: >-
-    OpenAI banned accounts that likely originated in Cambodia and used AI to support scam workflows
-    targeting people in the UK.
-  details: >-
-    OpenAI banned accounts that likely originated in Cambodia and used AI to support scam workflows
-    targeting people in the UK.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-wrong-number
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-06-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “VAGue Focus”: Social engineering and influence activity'
-  summary: >-
-    OpenAI banned accounts using AI for social engineering, surveillance-themed research, and
-    influence activity targeting critics.
-  details: >-
-    OpenAI banned accounts using AI for social engineering, surveillance-themed research, and
-    influence activity targeting critics.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-vague-focus
+    OpenAI banned accounts using AI to generate comments about Philippine politics and public
+    officials across social platforms.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-high-five
   source: rss
   tags:
     - genai
@@ -13363,22 +13363,6 @@
   score: 0
   publishedAt: '2025-06-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “High Five”: Philippines political comments'
-  summary: >-
-    OpenAI banned accounts using AI to generate comments about Philippine politics and public
-    officials across social platforms.
-  details: >-
-    OpenAI banned accounts using AI to generate comments about Philippine politics and public
-    officials across social platforms.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-high-five
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-06-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Vixen and Keyhole Panda: China-linked cyber operations'
   summary: >-
     OpenAI banned accounts associated with threat actors publicly attributed to the PRC, using AI to
@@ -13387,6 +13371,70 @@
     OpenAI banned accounts associated with threat actors publicly attributed to the PRC, using AI to
     support vulnerability research, scripting, translation, and operational troubleshooting.
   url: https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-06-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Deceptive Employment Scheme: IT worker activity'
+  summary: >-
+    OpenAI banned accounts associated with suspected deceptive employment campaigns that used AI to
+    develop materials for potentially fraudulent remote-job applications.
+  details: >-
+    OpenAI banned accounts associated with suspected deceptive employment campaigns that used AI to
+    develop materials for potentially fraudulent remote-job applications.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-it-workers
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-06-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation “VAGue Focus”: Social engineering and influence activity'
+  summary: >-
+    OpenAI banned accounts using AI for social engineering, surveillance-themed research, and
+    influence activity targeting critics.
+  details: >-
+    OpenAI banned accounts using AI for social engineering, surveillance-themed research, and
+    influence activity targeting critics.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-vague-focus
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-06-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation “Wrong Number”: AI-assisted task scam'
+  summary: >-
+    OpenAI banned accounts that likely originated in Cambodia and used AI to support scam workflows
+    targeting people in the UK.
+  details: >-
+    OpenAI banned accounts that likely originated in Cambodia and used AI to support scam workflows
+    targeting people in the UK.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-wrong-number
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-06-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation “Uncle Spam”: US polarization influence activity'
+  summary: >-
+    OpenAI banned China-origin accounts using AI to generate US political content and research
+    people, movements, and online communities.
+  details: >-
+    OpenAI banned China-origin accounts using AI to generate US political content and research
+    people, movements, and online communities.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-uncle-spam
   source: rss
   tags:
     - genai
@@ -13499,18 +13547,6 @@
   score: 0
   publishedAt: '2025-05-21T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing Codex
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-codex
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-05-16T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Addendum to o3 and o4-mini system card: Codex'
   summary: >-
     Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3
@@ -13524,6 +13560,18 @@
     style and PR preferences, adheres precisely to instructions, and iteratively runs tests until
     passing results are achieved.
   url: https://openai.com/index/o3-o4-mini-codex-system-card-addendum
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-05-16T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing Codex
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-codex
   source: rss
   tags:
     - genai
@@ -13574,14 +13622,26 @@
   score: 0
   publishedAt: '2025-05-12T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Connect internal knowledge from Google Drive
+  title: Collaborate and write with GPT-4o
   summary: >-
-    See how ChatGPT can connect to Google Drive to use internal knowledge and answer questions with
-    relevant context.
+    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
+    and adjust tone faster.
   details: >-
-    See how ChatGPT can connect to Google Drive to use internal knowledge and answer questions with
-    relevant context.
-  url: https://openai.com/business/learn/connect-internal-knowledge-from-google-drive
+    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
+    and adjust tone faster.
+  url: https://openai.com/business/learn/collaborate-and-write-with-gpt-4o
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-05-08T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Automate complex workflows with OpenAI o3
+  summary: See how OpenAI o3 can reason through complex tasks and help automate multi-step workflows.
+  details: See how OpenAI o3 can reason through complex tasks and help automate multi-step workflows.
+  url: https://openai.com/business/learn/automate-complex-workflows-with-openai-o3
   source: rss
   tags:
     - genai
@@ -13606,26 +13666,14 @@
   score: 0
   publishedAt: '2025-05-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Automate complex workflows with OpenAI o3
-  summary: See how OpenAI o3 can reason through complex tasks and help automate multi-step workflows.
-  details: See how OpenAI o3 can reason through complex tasks and help automate multi-step workflows.
-  url: https://openai.com/business/learn/automate-complex-workflows-with-openai-o3
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-05-08T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Collaborate and write with GPT-4o
+  title: Connect internal knowledge from Google Drive
   summary: >-
-    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
-    and adjust tone faster.
+    See how ChatGPT can connect to Google Drive to use internal knowledge and answer questions with
+    relevant context.
   details: >-
-    Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine,
-    and adjust tone faster.
-  url: https://openai.com/business/learn/collaborate-and-write-with-gpt-4o
+    See how ChatGPT can connect to Google Drive to use internal knowledge and answer questions with
+    relevant context.
+  url: https://openai.com/business/learn/connect-internal-knowledge-from-google-drive
   source: rss
   tags:
     - genai
@@ -13863,10 +13911,16 @@
   score: 0
   publishedAt: '2025-04-22T06:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing OpenAI o3 and o4-mini
-  summary: Our smartest and most capable models to date with full tool access
-  details: Our smartest and most capable models to date with full tool access
-  url: https://openai.com/index/introducing-o3-and-o4-mini
+  title: OpenAI o3 and o4-mini System Card
+  summary: >-
+    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
+    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
+    and memory.
+  details: >-
+    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
+    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
+    and memory.
+  url: https://openai.com/index/o3-o4-mini-system-card
   source: rss
   tags:
     - genai
@@ -13887,16 +13941,10 @@
   score: 0
   publishedAt: '2025-04-16T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: OpenAI o3 and o4-mini System Card
-  summary: >-
-    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
-    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
-    and memory.
-  details: >-
-    OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web
-    browsing, Python, image and file analysis, image generation, canvas, automations, file search,
-    and memory.
-  url: https://openai.com/index/o3-o4-mini-system-card
+  title: Introducing OpenAI o3 and o4-mini
+  summary: Our smartest and most capable models to date with full tool access
+  details: Our smartest and most capable models to date with full tool access
+  url: https://openai.com/index/introducing-o3-and-o4-mini
   source: rss
   tags:
     - genai
@@ -13951,22 +13999,6 @@
   score: 0
   publishedAt: '2025-04-14T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Market research with ChatGPT
-  summary: >-
-    See how ChatGPT can plan, search, read sources, and compile a detailed research report to
-    support market analysis.
-  details: >-
-    See how ChatGPT can plan, search, read sources, and compile a detailed research report to
-    support market analysis.
-  url: https://openai.com/business/learn/market-research-with-chatgpt
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-04-13T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Prototyping with canvas in ChatGPT
   summary: >-
     See how to go from a product requirements document to a working HTML/React prototype using
@@ -13975,6 +14007,22 @@
     See how to go from a product requirements document to a working HTML/React prototype using
     canvas in ChatGPT.
   url: https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-04-13T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Market research with ChatGPT
+  summary: >-
+    See how ChatGPT can plan, search, read sources, and compile a detailed research report to
+    support market analysis.
+  details: >-
+    See how ChatGPT can plan, search, read sources, and compile a detailed research report to
+    support market analysis.
+  url: https://openai.com/business/learn/market-research-with-chatgpt
   source: rss
   tags:
     - genai
@@ -14023,10 +14071,26 @@
   score: 0
   publishedAt: '2025-04-09T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Writing with canvas in ChatGPT
-  summary: See how canvas in ChatGPT helps turn notes, transcripts, and rough drafts into polished writing.
-  details: See how canvas in ChatGPT helps turn notes, transcripts, and rough drafts into polished writing.
-  url: https://openai.com/business/learn/writing-with-canvas-in-chatgpt
+  title: Strategic planning with ChatGPT
+  summary: >-
+    See how ChatGPT can support strategic planning by analyzing context, generating options, and
+    turning decisions into next steps.
+  details: >-
+    See how ChatGPT can support strategic planning by analyzing context, generating options, and
+    turning decisions into next steps.
+  url: https://openai.com/business/learn/strategic-planning-with-chatgpt
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-04-08T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Shipping code to your IDE with ChatGPT
+  summary: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
+  details: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
+  url: https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt
   source: rss
   tags:
     - genai
@@ -14051,26 +14115,10 @@
   score: 0
   publishedAt: '2025-04-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Shipping code to your IDE with ChatGPT
-  summary: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
-  details: See how ChatGPT can help move generated code into your IDE to speed up development workflows.
-  url: https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-04-08T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Strategic planning with ChatGPT
-  summary: >-
-    See how ChatGPT can support strategic planning by analyzing context, generating options, and
-    turning decisions into next steps.
-  details: >-
-    See how ChatGPT can support strategic planning by analyzing context, generating options, and
-    turning decisions into next steps.
-  url: https://openai.com/business/learn/strategic-planning-with-chatgpt
+  title: Writing with canvas in ChatGPT
+  summary: See how canvas in ChatGPT helps turn notes, transcripts, and rough drafts into polished writing.
+  details: See how canvas in ChatGPT helps turn notes, transcripts, and rough drafts into polished writing.
+  url: https://openai.com/business/learn/writing-with-canvas-in-chatgpt
   source: rss
   tags:
     - genai
@@ -14697,6 +14745,18 @@
   score: 0
   publishedAt: '2025-02-04T11:30:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Building a custom math tutor powered by ChatGPT
+  summary: ChatGPT and personal tutoring
+  details: ChatGPT and personal tutoring
+  url: https://openai.com/index/my-dog-the-math-tutor
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-02-04T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Creating nail art with ChatGPT
   summary: Using ChatGPT to find inspiration for nail art
   details: Using ChatGPT to find inspiration for nail art
@@ -14721,30 +14781,6 @@
   score: 0
   publishedAt: '2025-02-04T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Building a custom math tutor powered by ChatGPT
-  summary: ChatGPT and personal tutoring
-  details: ChatGPT and personal tutoring
-  url: https://openai.com/index/my-dog-the-math-tutor
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-02-04T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Understanding complex trends with deep research
-  summary: How OpenAI deep research helps Bain & Company understand complex industry trends.
-  details: How OpenAI deep research helps Bain & Company understand complex industry trends.
-  url: https://openai.com/index/deep-research
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-02-02T16:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing deep research
   summary: >-
     An agent that uses reasoning to synthesize large amounts of online information and complete
@@ -14753,6 +14789,18 @@
     An agent that uses reasoning to synthesize large amounts of online information and complete
     multi-step research tasks for you. Available to Pro users today, Plus and Team next.
   url: https://openai.com/index/introducing-deep-research
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-02-02T16:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Understanding complex trends with deep research
+  summary: How OpenAI deep research helps Bain & Company understand complex industry trends.
+  details: How OpenAI deep research helps Bain & Company understand complex industry trends.
+  url: https://openai.com/index/deep-research
   source: rss
   tags:
     - genai
@@ -14793,6 +14841,22 @@
   score: 0
   publishedAt: '2025-02-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Iranian influence nexus: Cross-platform activity'
+  summary: >-
+    OpenAI banned Iran-linked accounts using AI to generate articles and social posts tied to IUVM
+    and STORM-2035 influence activity.
+  details: >-
+    OpenAI banned Iran-linked accounts using AI to generate articles and social posts tied to IUVM
+    and STORM-2035 influence activity.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-02-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Cyber threat actors: AI-assisted intrusion research'
   summary: >-
     OpenAI banned accounts potentially associated with publicly reported DPRK-affiliated threat
@@ -14801,38 +14865,6 @@
     OpenAI banned accounts potentially associated with publicly reported DPRK-affiliated threat
     actors using AI to research intrusion tooling, phishing, malware, and cryptocurrency targeting.
   url: https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-threat-actors
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-02-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Deceptive Employment Scheme: AI-assisted hiring deception'
-  summary: >-
-    OpenAI banned accounts potentially used to facilitate a deceptive employment scheme with
-    characteristics of publicly reported North Korea-linked IT-worker activity.
-  details: >-
-    OpenAI banned accounts potentially used to facilitate a deceptive employment scheme with
-    characteristics of publicly reported North Korea-linked IT-worker activity.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-deceptive-employment-scheme
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2025-02-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “Peer Review”: AI-assisted surveillance planning'
-  summary: >-
-    OpenAI banned likely China-origin accounts using AI to draft surveillance-tool pitches, analyze
-    documents, and debug code.
-  details: >-
-    OpenAI banned likely China-origin accounts using AI to draft surveillance-tool pitches, analyze
-    documents, and debug code.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-peer-review
   source: rss
   tags:
     - genai
@@ -14873,14 +14905,30 @@
   score: 0
   publishedAt: '2025-02-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Iranian influence nexus: Cross-platform activity'
+  title: 'Operation “Peer Review”: AI-assisted surveillance planning'
   summary: >-
-    OpenAI banned Iran-linked accounts using AI to generate articles and social posts tied to IUVM
-    and STORM-2035 influence activity.
+    OpenAI banned likely China-origin accounts using AI to draft surveillance-tool pitches, analyze
+    documents, and debug code.
   details: >-
-    OpenAI banned Iran-linked accounts using AI to generate articles and social posts tied to IUVM
-    and STORM-2035 influence activity.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus
+    OpenAI banned likely China-origin accounts using AI to draft surveillance-tool pitches, analyze
+    documents, and debug code.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-peer-review
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2025-02-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Deceptive Employment Scheme: AI-assisted hiring deception'
+  summary: >-
+    OpenAI banned accounts potentially used to facilitate a deceptive employment scheme with
+    characteristics of publicly reported North Korea-linked IT-worker activity.
+  details: >-
+    OpenAI banned accounts potentially used to facilitate a deceptive employment scheme with
+    characteristics of publicly reported North Korea-linked IT-worker activity.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-deceptive-employment-scheme
   source: rss
   tags:
     - genai
@@ -15151,6 +15199,18 @@
   score: 0
   publishedAt: '2024-12-09T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Animator Lyndon Barrois creates new worlds with Sora
+  summary: Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.
+  details: Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.
+  url: https://openai.com/index/sora-lyndon-barrois
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-12-09T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Minne Atairu & Sora
   summary: Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.
   details: Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.
@@ -15185,18 +15245,6 @@
     generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is
     designed to give people expanded tools for storytelling and creative expression.
   url: https://openai.com/index/sora-system-card
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-12-09T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Animator Lyndon Barrois creates new worlds with Sora
-  summary: Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.
-  details: Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.
-  url: https://openai.com/index/sora-lyndon-barrois
   source: rss
   tags:
     - genai
@@ -15606,78 +15654,14 @@
   score: 0
   publishedAt: '2024-10-01T09:59:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Rwandan election content: Political commenting network'
+  title: 'Operation “A2Z”: Multilingual influence activity'
   summary: >-
-    OpenAI banned Rwanda-origin accounts using AI to generate partisan comments ahead of the
-    country’s elections.
+    OpenAI banned “A2Z” accounts using AI to generate multilingual influence content about
+    elections, Ukraine, and politics across platforms.
   details: >-
-    OpenAI banned Rwanda-origin accounts using AI to generate partisan comments ahead of the
-    country’s elections.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-10-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “STORM-2035”: Iran-origin influence activity'
-  summary: >-
-    OpenAI banned Iran-origin STORM-2035 accounts using AI to generate US and UK election content
-    and publish it across sites.
-  details: >-
-    OpenAI banned Iran-origin STORM-2035 accounts using AI to generate US and UK election content
-    and publish it across sites.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-10-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “Stop News”: Russia-origin influence activity'
-  summary: >-
-    OpenAI banned Russia-origin “Stop News” accounts using AI to generate multilingual articles and
-    posts targeting Ukraine and the West.
-  details: >-
-    OpenAI banned Russia-origin “Stop News” accounts using AI to generate multilingual articles and
-    posts targeting Ukraine and the West.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-10-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Hoax: Fake Russian “troll” error message'
-  summary: >-
-    OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT
-    error message claiming to detect “Russian troll” activity.
-  details: >-
-    OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT
-    error message claiming to detect “Russian troll” activity.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-10-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Corrupt Comment: Anti-corruption foundation criticism'
-  summary: >-
-    OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption
-    foundation and related figures.
-  details: >-
-    OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption
-    foundation and related figures.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment
+    OpenAI banned “A2Z” accounts using AI to generate multilingual influence content about
+    elections, Ukraine, and politics across platforms.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-a2z
   source: rss
   tags:
     - genai
@@ -15736,22 +15720,6 @@
   score: 0
   publishedAt: '2024-10-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation “A2Z”: Multilingual influence activity'
-  summary: >-
-    OpenAI banned “A2Z” accounts using AI to generate multilingual influence content about
-    elections, Ukraine, and politics across platforms.
-  details: >-
-    OpenAI banned “A2Z” accounts using AI to generate multilingual influence content about
-    elections, Ukraine, and politics across platforms.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-a2z
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-10-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'CyberAv3ngers: Iran-linked cyber research activity'
   summary: >-
     OpenAI banned accounts that appeared to belong to CyberAv3ngers using AI to research industrial
@@ -15768,6 +15736,70 @@
   score: 0
   publishedAt: '2024-10-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Corrupt Comment: Anti-corruption foundation criticism'
+  summary: >-
+    OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption
+    foundation and related figures.
+  details: >-
+    OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption
+    foundation and related figures.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-10-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation “Stop News”: Russia-origin influence activity'
+  summary: >-
+    OpenAI banned Russia-origin “Stop News” accounts using AI to generate multilingual articles and
+    posts targeting Ukraine and the West.
+  details: >-
+    OpenAI banned Russia-origin “Stop News” accounts using AI to generate multilingual articles and
+    posts targeting Ukraine and the West.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-10-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation “STORM-2035”: Iran-origin influence activity'
+  summary: >-
+    OpenAI banned Iran-origin STORM-2035 accounts using AI to generate US and UK election content
+    and publish it across sites.
+  details: >-
+    OpenAI banned Iran-origin STORM-2035 accounts using AI to generate US and UK election content
+    and publish it across sites.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-10-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Rwandan election content: Political commenting network'
+  summary: >-
+    OpenAI banned Rwanda-origin accounts using AI to generate partisan comments ahead of the
+    country’s elections.
+  details: >-
+    OpenAI banned Rwanda-origin accounts using AI to generate partisan comments ahead of the
+    country’s elections.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-10-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Tort Report: Abusive reporting activity'
   summary: >-
     OpenAI banned accounts using AI to draft abusive reports and complaints targeting Vietnamese
@@ -15776,6 +15808,22 @@
     OpenAI banned accounts using AI to draft abusive reports and complaints targeting Vietnamese
     public figures and platforms.
   url: https://openai.com/index/disrupting-malicious-uses-of-ai-tort-report
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-10-01T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Hoax: Fake Russian “troll” error message'
+  summary: >-
+    OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT
+    error message claiming to detect “Russian troll” activity.
+  details: >-
+    OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT
+    error message claiming to detect “Russian troll” activity.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll
   source: rss
   tags:
     - genai
@@ -16368,14 +16416,14 @@
   score: 0
   publishedAt: '2024-06-20T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: A Holistic Approach to Undesired Content Detection in the Real World
+  title: Improved Techniques for Training Consistency Models
   summary: >-
-    We present a holistic approach to building a robust and useful natural language classification
-    system for real-world content moderation.
+    Consistency models are a nascent family of generative models that can sample high quality data
+    in one step without the need for adversarial training.
   details: >-
-    We present a holistic approach to building a robust and useful natural language classification
-    system for real-world content moderation.
-  url: https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world
+    Consistency models are a nascent family of generative models that can sample high quality data
+    in one step without the need for adversarial training.
+  url: https://openai.com/index/improved-techniques-for-training-consistency-models
   source: rss
   tags:
     - genai
@@ -16400,14 +16448,14 @@
   score: 0
   publishedAt: '2024-06-20T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Improved Techniques for Training Consistency Models
+  title: A Holistic Approach to Undesired Content Detection in the Real World
   summary: >-
-    Consistency models are a nascent family of generative models that can sample high quality data
-    in one step without the need for adversarial training.
+    We present a holistic approach to building a robust and useful natural language classification
+    system for real-world content moderation.
   details: >-
-    Consistency models are a nascent family of generative models that can sample high quality data
-    in one step without the need for adversarial training.
-  url: https://openai.com/index/improved-techniques-for-training-consistency-models
+    We present a holistic approach to building a robust and useful natural language classification
+    system for real-world content moderation.
+  url: https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world
   source: rss
   tags:
     - genai
@@ -16565,18 +16613,6 @@
   score: 0
   publishedAt: '2024-05-30T10:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: OpenAI for Education
-  summary: An affordable offering for universities to responsibly bring AI to campus.
-  details: An affordable offering for universities to responsibly bring AI to campus.
-  url: https://openai.com/index/introducing-chatgpt-edu
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-30T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing OpenAI for Nonprofits
   summary: >-
     We’re launching a new initiative to enhance the accessibility of our tools for nonprofit
@@ -16585,6 +16621,18 @@
     We’re launching a new initiative to enhance the accessibility of our tools for nonprofit
     organizations, including discounted rates for ChatGPT Team and Enterprise.
   url: https://openai.com/index/introducing-openai-for-nonprofits
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-30T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: OpenAI for Education
+  summary: An affordable offering for universities to responsibly bring AI to campus.
+  details: An affordable offering for universities to responsibly bring AI to campus.
+  url: https://openai.com/index/introducing-chatgpt-edu
   source: rss
   tags:
     - genai
@@ -16848,24 +16896,6 @@
   score: 0
   publishedAt: '2024-05-08T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Our approach to data and AI
-  summary: >-
-    Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also
-    raised important conversations about data in the age of AI. More on our approach, a new Media
-    Manager for creators and content owners, and where we’re headed.
-  details: >-
-    Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also
-    raised important conversations about data in the age of AI. More on our approach, a new Media
-    Manager for creators and content owners, and where we’re headed.
-  url: https://openai.com/index/approach-to-data-and-ai
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-07T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Understanding the source of what we see and hear online
   summary: >-
     Today we’re introducing new technology to help researchers identify content created by our tools
@@ -16876,6 +16906,24 @@
     and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote
     industry standards.
   url: https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-07T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Our approach to data and AI
+  summary: >-
+    Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also
+    raised important conversations about data in the age of AI. More on our approach, a new Media
+    Manager for creators and content owners, and where we’re headed.
+  details: >-
+    Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also
+    raised important conversations about data in the age of AI. More on our approach, a new Media
+    Manager for creators and content owners, and where we’re headed.
+  url: https://openai.com/index/approach-to-data-and-ai
   source: rss
   tags:
     - genai
@@ -16907,6 +16955,24 @@
     - openai
   score: 0
   publishedAt: '2024-05-06T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: 'Operation "Zero Zeno": Israel-linked influence activity'
+  summary: >-
+    OpenAI banned accounts linked to a previously unreported Israel-origin operation we dubbed “Zero
+    Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut
+    content.
+  details: >-
+    OpenAI banned accounts linked to a previously unreported Israel-origin operation we dubbed “Zero
+    Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut
+    content.
+  url: https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-05-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: '"Bad Grammar": Russian-linked Telegram comment activity'
   summary: >-
@@ -16958,24 +17024,6 @@
   score: 0
   publishedAt: '2024-05-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'Operation "Zero Zeno": Israel-linked influence activity'
-  summary: >-
-    OpenAI banned accounts linked to a previously unreported Israel-origin operation we dubbed “Zero
-    Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut
-    content.
-  details: >-
-    OpenAI banned accounts linked to a previously unreported Israel-origin operation we dubbed “Zero
-    Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut
-    content.
-  url: https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-05-01T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: 'Operation "Doppelganger": Russian influence activity targeting Ukraine'
   summary: >-
     OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to
@@ -17018,18 +17066,6 @@
   score: 0
   publishedAt: '2024-04-24T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing ChatGPT and Whisper APIs
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-chatgpt-and-whisper-apis
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-04-24T00:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: GPT-4 API general availability and deprecation of older models in the Completions API
   summary: >-
     GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a
@@ -17040,6 +17076,18 @@
     deprecation plan for older models of the Completions API, which will retire at the beginning of
     2024.
   url: https://openai.com/index/gpt-4-api-general-availability
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-04-24T00:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing ChatGPT and Whisper APIs
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-chatgpt-and-whisper-apis
   source: rss
   tags:
     - genai
@@ -17153,10 +17201,10 @@
   score: 0
   publishedAt: '2024-04-02T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Reducing health insurance costs and improving care
-  summary: Oscar brings AI to health insurance, reducing costs and improving patient care.
-  details: Oscar brings AI to health insurance, reducing costs and improving patient care.
-  url: https://openai.com/index/oscar
+  title: Start using ChatGPT instantly
+  summary: We’re making it easier for people to experience the benefits of AI without needing to sign up
+  details: We’re making it easier for people to experience the benefits of AI without needing to sign up
+  url: https://openai.com/index/start-using-chatgpt-instantly
   source: rss
   tags:
     - genai
@@ -17165,10 +17213,10 @@
   score: 0
   publishedAt: '2024-04-01T00:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Start using ChatGPT instantly
-  summary: We’re making it easier for people to experience the benefits of AI without needing to sign up
-  details: We’re making it easier for people to experience the benefits of AI without needing to sign up
-  url: https://openai.com/index/start-using-chatgpt-instantly
+  title: Reducing health insurance costs and improving care
+  summary: Oscar brings AI to health insurance, reducing costs and improving patient care.
+  details: Oscar brings AI to health insurance, reducing costs and improving patient care.
+  url: https://openai.com/index/oscar
   source: rss
   tags:
     - genai
@@ -17233,18 +17281,6 @@
   score: 0
   publishedAt: '2024-03-21T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Enterprise-ready trust and safety
-  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
-  url: https://openai.com/index/salesforce
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-03-18T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Building a data-driven, efficient culture with AI
   summary: >-
     Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
@@ -17253,6 +17289,18 @@
     Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500
     hours weekly.
   url: https://openai.com/index/holiday-extras
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-03-18T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Enterprise-ready trust and safety
+  summary: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  details: Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.
+  url: https://openai.com/index/salesforce
   source: rss
   tags:
     - genai
@@ -17301,10 +17349,10 @@
   score: 0
   publishedAt: '2024-03-13T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: OpenAI announces new members to board of directors
-  summary: Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board
-  details: Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board
-  url: https://openai.com/index/openai-announces-new-members-to-board-of-directors
+  title: Review completed & Altman, Brockman to continue to lead OpenAI
+  summary: New board members named and enhancements to the governance structure introduced
+  details: New board members named and enhancements to the governance structure introduced
+  url: https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai
   source: rss
   tags:
     - genai
@@ -17313,10 +17361,10 @@
   score: 0
   publishedAt: '2024-03-08T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Review completed & Altman, Brockman to continue to lead OpenAI
-  summary: New board members named and enhancements to the governance structure introduced
-  details: New board members named and enhancements to the governance structure introduced
-  url: https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai
+  title: OpenAI announces new members to board of directors
+  summary: Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board
+  details: Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board
+  url: https://openai.com/index/openai-announces-new-members-to-board-of-directors
   source: rss
   tags:
     - genai
@@ -17494,18 +17542,6 @@
   score: 0
   publishedAt: '2024-01-12T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Introducing the GPT Store
-  summary: ''
-  details: ''
-  url: https://openai.com/index/introducing-the-gpt-store
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2024-01-10T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Introducing ChatGPT Team
   summary: >-
     We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
@@ -17514,6 +17550,18 @@
     We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure,
     collaborative workspace to get the most out of ChatGPT at work.
   url: https://openai.com/index/introducing-chatgpt-team
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2024-01-10T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Introducing the GPT Store
+  summary: ''
+  details: ''
+  url: https://openai.com/index/introducing-the-gpt-store
   source: rss
   tags:
     - genai
@@ -17562,19 +17610,6 @@
   score: 0
   publishedAt: '2023-12-14T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Practices for Governing Agentic AI Systems
-  summary: ''
-  details: ''
-  url: https://openai.com/index/practices-for-governing-agentic-ai-systems
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-    - agentic-ai
-  score: 0
-  publishedAt: '2023-12-14T08:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Superalignment Fast Grants
   summary: >-
     We’re launching $10M in grants to support technical research towards the alignment and safety of
@@ -17590,6 +17625,19 @@
     - genai
     - llm
     - openai
+  score: 0
+  publishedAt: '2023-12-14T08:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Practices for Governing Agentic AI Systems
+  summary: ''
+  details: ''
+  url: https://openai.com/index/practices-for-governing-agentic-ai-systems
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+    - agentic-ai
   score: 0
   publishedAt: '2023-12-14T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
@@ -17749,10 +17797,10 @@
   score: 0
   publishedAt: '2023-10-19T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Building AI-powered apps for business
-  summary: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
-  details: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
-  url: https://openai.com/index/retool
+  title: Simplifying contract reviews with AI
+  summary: Ironclad uses GPT-4 to simplify the contract review process.
+  details: Ironclad uses GPT-4 to simplify the contract review process.
+  url: https://openai.com/index/ironclad
   source: rss
   tags:
     - genai
@@ -17761,10 +17809,10 @@
   score: 0
   publishedAt: '2023-10-11T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Simplifying contract reviews with AI
-  summary: Ironclad uses GPT-4 to simplify the contract review process.
-  details: Ironclad uses GPT-4 to simplify the contract review process.
-  url: https://openai.com/index/ironclad
+  title: Building AI-powered apps for business
+  summary: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
+  details: Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.
+  url: https://openai.com/index/retool
   source: rss
   tags:
     - genai
@@ -18300,46 +18348,10 @@
   score: 0
   publishedAt: '2023-03-17T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Filling crucial language learning gaps
-  summary: GPT-4 deepens the conversation on Duolingo.
-  details: GPT-4 deepens the conversation on Duolingo.
-  url: https://openai.com/index/duolingo
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2023-03-14T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Powering virtual education for the classroom
-  summary: Khan Academy explores the potential for GPT-4 in a limited pilot program.
-  details: Khan Academy explores the potential for GPT-4 in a limited pilot program.
-  url: https://openai.com/index/khan-academy
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2023-03-14T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Preserving languages for the future
-  summary: How Iceland is using GPT-4 to preserve its language.
-  details: How Iceland is using GPT-4 to preserve its language.
-  url: https://openai.com/index/government-of-iceland
-  source: rss
-  tags:
-    - genai
-    - llm
-    - openai
-  score: 0
-  publishedAt: '2023-03-14T07:00:00.000Z'
-- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Stripe
-  summary: Stripe leverages GPT-4 to streamline user experience and combat fraud.
-  details: Stripe leverages GPT-4 to streamline user experience and combat fraud.
-  url: https://openai.com/index/stripe
+  title: Transforming visual accessibility
+  summary: Be My Eyes uses GPT-4 to transform visual accessibility.
+  details: Be My Eyes uses GPT-4 to transform visual accessibility.
+  url: https://openai.com/index/be-my-eyes
   source: rss
   tags:
     - genai
@@ -18367,10 +18379,46 @@
   score: 0
   publishedAt: '2023-03-14T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Transforming visual accessibility
-  summary: Be My Eyes uses GPT-4 to transform visual accessibility.
-  details: Be My Eyes uses GPT-4 to transform visual accessibility.
-  url: https://openai.com/index/be-my-eyes
+  title: Stripe
+  summary: Stripe leverages GPT-4 to streamline user experience and combat fraud.
+  details: Stripe leverages GPT-4 to streamline user experience and combat fraud.
+  url: https://openai.com/index/stripe
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2023-03-14T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Powering virtual education for the classroom
+  summary: Khan Academy explores the potential for GPT-4 in a limited pilot program.
+  details: Khan Academy explores the potential for GPT-4 in a limited pilot program.
+  url: https://openai.com/index/khan-academy
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2023-03-14T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Filling crucial language learning gaps
+  summary: GPT-4 deepens the conversation on Duolingo.
+  details: GPT-4 deepens the conversation on Duolingo.
+  url: https://openai.com/index/duolingo
+  source: rss
+  tags:
+    - genai
+    - llm
+    - openai
+  score: 0
+  publishedAt: '2023-03-14T07:00:00.000Z'
+- id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
+  title: Preserving languages for the future
+  summary: How Iceland is using GPT-4 to preserve its language.
+  details: How Iceland is using GPT-4 to preserve its language.
+  url: https://openai.com/index/government-of-iceland
   source: rss
   tags:
     - genai
@@ -18921,10 +18969,10 @@
   score: 0
   publishedAt: '2022-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Lessons learned on language model safety and misuse
-  summary: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
-  details: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
-  url: https://openai.com/index/language-model-safety-and-misuse
+  title: Economic impacts research at OpenAI
+  summary: "Call for expressions of interest to study the economic impacts of large language\_models."
+  details: "Call for expressions of interest to study the economic impacts of large language\_models."
+  url: https://openai.com/index/economic-impacts
   source: rss
   tags:
     - genai
@@ -18933,10 +18981,10 @@
   score: 0
   publishedAt: '2022-03-03T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Economic impacts research at OpenAI
-  summary: "Call for expressions of interest to study the economic impacts of large language\_models."
-  details: "Call for expressions of interest to study the economic impacts of large language\_models."
-  url: https://openai.com/index/economic-impacts
+  title: Lessons learned on language model safety and misuse
+  summary: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
+  details: "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed\_models."
+  url: https://openai.com/index/language-model-safety-and-misuse
   source: rss
   tags:
     - genai
@@ -19079,10 +19127,10 @@
   score: 0
   publishedAt: '2021-09-23T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Helen Toner joins OpenAI’s board of directors
-  summary: Today, we’re excited to announce the appointment of Helen Toner to our board of directors.
-  details: Today, we’re excited to announce the appointment of Helen Toner to our board of directors.
-  url: https://openai.com/index/helen-toner-joins
+  title: 'TruthfulQA: Measuring how models mimic human falsehoods'
+  summary: ''
+  details: ''
+  url: https://openai.com/index/truthfulqa
   source: rss
   tags:
     - genai
@@ -19091,10 +19139,10 @@
   score: 0
   publishedAt: '2021-09-08T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'TruthfulQA: Measuring how models mimic human falsehoods'
-  summary: ''
-  details: ''
-  url: https://openai.com/index/truthfulqa
+  title: Helen Toner joins OpenAI’s board of directors
+  summary: Today, we’re excited to announce the appointment of Helen Toner to our board of directors.
+  details: Today, we’re excited to announce the appointment of Helen Toner to our board of directors.
+  url: https://openai.com/index/helen-toner-joins
   source: rss
   tags:
     - genai
@@ -19241,13 +19289,10 @@
   score: 0
   publishedAt: '2021-01-25T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'CLIP: Connecting text and images'
-  summary: >-
-    We’re introducing a neural network called CLIP which efficiently learns visual concepts from
-    natural language supervision. CLIP can be applied to any visual classification benchmark by
-    simply providing the names of the visual categories to be recognized, similar to the “zero-shot…
-  details: "We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and\_GPT-3."
-  url: https://openai.com/index/clip
+  title: 'DALL·E: Creating images from text'
+  summary: "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural\_language."
+  details: "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural\_language."
+  url: https://openai.com/index/dall-e
   source: rss
   tags:
     - genai
@@ -19256,10 +19301,13 @@
   score: 0
   publishedAt: '2021-01-05T08:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: 'DALL·E: Creating images from text'
-  summary: "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural\_language."
-  details: "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural\_language."
-  url: https://openai.com/index/dall-e
+  title: 'CLIP: Connecting text and images'
+  summary: >-
+    We’re introducing a neural network called CLIP which efficiently learns visual concepts from
+    natural language supervision. CLIP can be applied to any visual classification benchmark by
+    simply providing the names of the visual categories to be recognized, similar to the “zero-shot…
+  details: "We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and\_GPT-3."
+  url: https://openai.com/index/clip
   source: rss
   tags:
     - genai
@@ -21563,10 +21611,10 @@
   score: 0
   publishedAt: '2016-06-16T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Team update
-  summary: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
-  details: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
-  url: https://openai.com/index/team-update
+  title: Adversarial training methods for semi-supervised text classification
+  summary: ''
+  details: ''
+  url: https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification
   source: rss
   tags:
     - genai
@@ -21575,10 +21623,10 @@
   score: 0
   publishedAt: '2016-05-25T07:00:00.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
-  title: Adversarial training methods for semi-supervised text classification
-  summary: ''
-  details: ''
-  url: https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification
+  title: Team update
+  summary: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
+  details: We’d like to welcome the latest set of team members to OpenAI (and we’re still hiring!)
+  url: https://openai.com/index/team-update
   source: rss
   tags:
     - genai
