@@ -1,0 +1,285 @@
+- id: arxiv-2611.18553v1
+  title: 'WeightBench: Evaluating Language Models as Weight-Space Programmers'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18553v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T18:58:08.000Z'
+- id: arxiv-2611.18517v1
+  title: >-
+    OpenLayout: An Open and Agentic-Driven Platform for Holistic VLSI Physical Design and
+    Benchmarking
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18517v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-13T18:36:22.000Z'
+- id: arxiv-2611.18514v1
+  title: >-
+    Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element
+    Hallucination
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18514v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-13T18:30:58.000Z'
+- id: arxiv-2611.18513v1
+  title: >-
+    MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook
+    Reading
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18513v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T18:29:51.000Z'
+- id: arxiv-2611.18506v1
+  title: >-
+    Agentic induction of common data elements and information extraction from sarcoma case report
+    abstracts
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18506v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-13T18:23:11.000Z'
+- id: arxiv-2611.18504v1
+  title: Agentic AI for Discovering Fault-Tolerant Quantum Circuits
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18504v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-13T18:20:23.000Z'
+- id: arxiv-2611.18484v1
+  title: >-
+    From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and
+    Care Integration
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18484v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-13T17:59:40.000Z'
+- id: arxiv-2611.18453v1
+  title: Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18453v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-13T17:26:39.000Z'
+- id: arxiv-2611.18436v1
+  title: >-
+    Efficiency Gains in Social Science Research: A Prospective Silicon Sampling Protocol for
+    Pre-Treatment and Code Optimization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18436v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T17:13:48.000Z'
+- id: arxiv-2611.18417v1
+  title: 'CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18417v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T16:58:35.000Z'
+- id: arxiv-2611.18385v1
+  title: >-
+    Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization,
+    Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18385v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T16:27:58.000Z'
+- id: arxiv-2611.18371v1
+  title: >-
+    Evaluating Human Sensitivity to Gender Biased AI-Generated Content through Human Assessment of
+    Google's Autocomplete Function
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18371v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T16:16:34.000Z'
+- id: arxiv-2611.18370v1
+  title: f-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18370v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-13T16:16:03.000Z'
+- id: arxiv-2611.18274v1
+  title: 'Right Token, Right Time: From Per-Token Gating to Trajectory-Aware Activation Steering'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18274v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T15:06:43.000Z'
+- id: arxiv-2611.18272v1
+  title: 'From Bytes to Behavior: Request-Level Attribution from Live GPU Hidden States'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18272v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T15:04:05.000Z'
+- id: arxiv-2611.18248v1
+  title: Dancing Tokens on the Vocabulary Network from LLM Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18248v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-13T14:43:55.000Z'
+- id: arxiv-2611.18235v1
+  title: 'NeoResearch: Literature- and Experience-Guided Autonomous Time Series Model Discovery'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18235v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T14:30:36.000Z'
+- id: arxiv-2611.18230v1
+  title: Personalization of Basic and Moral Values Guiding LLM-Controlled Assistant Robots
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18230v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-13T14:28:47.000Z'
+- id: arxiv-2611.18219v1
+  title: Large language models put existential risk from artificial intelligence at 10%
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18219v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-13T14:22:12.000Z'
+- id: arxiv-2611.18183v1
+  title: >-
+    When Should a Virtual Patient Ask? RISP-Guided Proactive Information Seeking in Multi-Agent
+    Patient Simulation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18183v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-13T13:51:21.000Z'
+- id: arxiv-2611.18157v1
+  title: A Multi-Layered AI Pipeline for BPMN Generation from Natural Language
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18157v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T13:31:08.000Z'
+- id: arxiv-2611.18143v1
+  title: 'DRA-HTR: Disentangling Representation and Adaptation for Handwritten Text Recognition'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18143v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T13:15:46.000Z'
+- id: arxiv-2611.18140v1
+  title: >-
+    Large Language Model-Empowered Intelligent Agent for Adaptive Fast-Charging Control of
+    Lithium-Ion Batteries
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18140v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-13T13:11:04.000Z'
+- id: arxiv-2611.18133v1
+  title: 'Forget the Lineage: Forward-Secure, Lineage-Complete Cryptographic Erasure for LLM-Agent Memory'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18133v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-13T13:01:47.000Z'
+- id: arxiv-2611.18130v1
+  title: >-
+    JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification
+    Exams
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.18130v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-13T12:59:12.000Z'
