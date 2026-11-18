@@ -1,0 +1,280 @@
+- id: arxiv-2611.21604v1
+  title: 'FaceJev: Direct Visual Decisions for Face Forgery Detection'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21604v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T18:59:04.000Z'
+- id: arxiv-2611.21577v1
+  title: 'When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21577v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-16T18:49:37.000Z'
+- id: arxiv-2611.21535v1
+  title: Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21535v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-16T18:24:48.000Z'
+- id: arxiv-2611.21519v1
+  title: Embedding Cosine Measures Text Length Before It Measures Homogenization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21519v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T18:12:15.000Z'
+- id: arxiv-2611.21480v1
+  title: >-
+    RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and
+    Energy Systems
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21480v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T17:51:46.000Z'
+- id: arxiv-2611.21476v1
+  title: >-
+    Generative AI and the Crisis of Higher Education Assessments: Examining 'AI-Proofing' Strategies
+    for College-Level Assessments
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21476v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-11-16T17:50:14.000Z'
+- id: arxiv-2611.21457v1
+  title: >-
+    Out of Sight, Into Memory: Compact Visual Latents Retain Local Evidence in Ultra-High-Resolution
+    Remote Sensing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21457v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T17:42:12.000Z'
+- id: arxiv-2611.21449v1
+  title: >-
+    Replicating and Extending Weight-Space Programming: Frontier LLMs Compile Programs into Weights
+    and Read Input Layers
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21449v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-16T17:35:18.000Z'
+- id: arxiv-2611.21441v1
+  title: Learning to Reason with Predictive Gains for Generative Recommendation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21441v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T17:28:45.000Z'
+- id: arxiv-2611.21422v1
+  title: >-
+    Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning
+    Using Ensembles of LLMs
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21422v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-16T17:12:36.000Z'
+- id: arxiv-2611.21394v1
+  title: 'Beyond Bilingual: Studying Quadrilingual Code-Switching with Conversational AI'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21394v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T16:49:54.000Z'
+- id: arxiv-2611.21384v1
+  title: >-
+    Stability-Compensated Threshold Calibration for Selection-Conditioned Risk Control in Large
+    Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21384v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-16T16:45:29.000Z'
+- id: arxiv-2611.21376v1
+  title: A Crowd-Audited Atlas of Implicit Bias in LLM-Powered Agents
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21376v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-16T16:36:47.000Z'
+- id: arxiv-2611.21348v1
+  title: 'Representational Change Under Self-Consuming Training: A Sparse Autoencoder Analysis'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21348v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T16:27:02.000Z'
+- id: arxiv-2611.21338v1
+  title: Generating a simple silicon detector simulation with an open-weight large language model
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21338v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-16T16:20:38.000Z'
+- id: arxiv-2611.21331v1
+  title: 'TRIAGE-CPG: A Cross-Model Study of Budgeted Static Malware Triage with Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21331v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-16T16:19:01.000Z'
+- id: arxiv-2611.21300v1
+  title: >-
+    LATTE-WordSeg-Lite: Multi-Granularity Thai Word Segmentation on a CPU, with a Reproducible
+    Benchmark
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21300v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T16:03:17.000Z'
+- id: arxiv-2611.21299v1
+  title: 'Turing Agent: Agentic Formal Verification for Mathematical Research'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21299v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-16T16:02:37.000Z'
+- id: arxiv-2611.21298v1
+  title: 'Agent-Native by Design: A Programming Language for Agentic Applications'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21298v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-16T16:01:06.000Z'
+- id: arxiv-2611.21295v1
+  title: 'Deep Learning for Physicists: From Linear Regression to Reasoning Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21295v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T15:56:53.000Z'
+- id: arxiv-2611.21291v1
+  title: Benchmarking Large Language Models for Linguistic Annotation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21291v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-16T15:55:45.000Z'
+- id: arxiv-2611.21274v1
+  title: 'SURMA: Efficient Fine-Grained Communication Offload for SuperPOD'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21274v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T15:41:12.000Z'
+- id: arxiv-2611.21259v1
+  title: Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21259v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-16T15:33:50.000Z'
+- id: arxiv-2611.21232v1
+  title: >-
+    A Generative AI-Driven Architecture for Whole-Home Intelligent Services: Edge Models, Memory
+    Management, and Household Applications
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21232v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-11-16T15:16:17.000Z'
+- id: arxiv-2611.21218v1
+  title: 'InclusionMed: Benchmarking AI for Inclusive Healthcare'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.21218v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-16T15:08:25.000Z'
