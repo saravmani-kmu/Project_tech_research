@@ -1,276 +1,278 @@
-- id: arxiv-2611.23218v1
-  title: What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution
+- id: arxiv-2611.24936v1
+  title: Jailbreak Detection on Large Language Models via Contrastive Prototype Structures
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.23218v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-17T18:57:08.000Z'
-- id: arxiv-2611.23158v1
-  title: 'MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.23158v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-17T18:11:42.000Z'
-- id: arxiv-2611.23154v1
-  title: Learning Stratified Policies for Inference-Time Objectives
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.23154v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-17T18:06:12.000Z'
-- id: arxiv-2611.23153v1
-  title: >-
-    VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity
-    Dynamics in Video MLLMs
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.23153v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-17T18:05:51.000Z'
-- id: arxiv-2611.23138v1
-  title: 'RSI-Prime: Training Models to Train Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.23138v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-17T17:55:30.000Z'
-- id: arxiv-2611.23119v1
-  title: Dynamic Task Allocation with Dialogue
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.23119v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-17T17:37:17.000Z'
-- id: arxiv-2611.23106v1
-  title: >-
-    Natural Language Programming: Rethinking Language, Memory, and Cognition in the Era of
-    Generative AI
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.23106v1
-  source: arxiv
-  tags:
-    - arxiv
-    - genai
-  score: 0
-  publishedAt: '2026-11-17T17:27:01.000Z'
-- id: arxiv-2611.23091v1
-  title: 'BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.23091v1
+  url: http://arxiv.org/abs/2611.24936v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-11-17T17:11:54.000Z'
-- id: arxiv-2611.23045v1
-  title: 'ForecastGym: A Live, Controlled, and Replayable Benchmark for Forecasting Agents'
+  publishedAt: '2026-11-18T18:56:12.000Z'
+- id: arxiv-2611.24917v1
+  title: Unified Law for Visual Tasks (The Four Laws of Computer Vision)
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.23045v1
+  url: http://arxiv.org/abs/2611.24917v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-17T16:44:38.000Z'
-- id: arxiv-2611.22988v1
-  title: Structured AI ideation yields physical strategies for epithelial barrier repair
+  publishedAt: '2026-11-18T18:48:38.000Z'
+- id: arxiv-2611.24888v1
+  title: Who are you? The Personal Imitation Game
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22988v1
+  url: http://arxiv.org/abs/2611.24888v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-17T16:05:22.000Z'
-- id: arxiv-2611.22975v1
-  title: Large Language Models Have Not Yet Transformed Science
+  publishedAt: '2026-11-18T18:32:14.000Z'
+- id: arxiv-2611.24887v1
+  title: 'Ground, Iterate, Trace: Decomposing AI Research Ideation'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22975v1
+  url: http://arxiv.org/abs/2611.24887v1
   source: arxiv
   tags:
     - arxiv
-    - llm
   score: 0
-  publishedAt: '2026-11-17T15:57:22.000Z'
-- id: arxiv-2611.22973v1
-  title: >-
-    VITAL: A Framework for Validating Agentic AI in Pharmaceutical Drug Development and Clinical
-    Trial Operations
+  publishedAt: '2026-11-18T18:31:37.000Z'
+- id: arxiv-2611.24880v1
+  title: 'Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22973v1
+  url: http://arxiv.org/abs/2611.24880v1
   source: arxiv
   tags:
     - arxiv
     - agentic-ai
   score: 0
-  publishedAt: '2026-11-17T15:55:13.000Z'
-- id: arxiv-2611.22949v1
-  title: Can Decision Models Replace LLMs in Real-World Contact Center Classification and Judging Tasks?
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.22949v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-17T15:39:40.000Z'
-- id: arxiv-2611.22926v1
+  publishedAt: '2026-11-18T18:27:40.000Z'
+- id: arxiv-2611.24877v1
   title: >-
-    When Do Typed Decision Models Work in Transportation? Evidence from Travel Choice and Traffic
-    Signal Control
+    Auditing black-box clinical prediction models with a large language model through queries alone:
+    a blinded test with planted flaws
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22926v1
+  url: http://arxiv.org/abs/2611.24877v1
   source: arxiv
   tags:
     - arxiv
+    - llm
   score: 0
-  publishedAt: '2026-11-17T15:24:40.000Z'
-- id: arxiv-2611.22889v1
+  publishedAt: '2026-11-18T18:24:54.000Z'
+- id: arxiv-2611.24849v1
   title: >-
-    Beyond Attribute-Centric Fairness: Modelling and Mitigating Unified Bias Representation in
-    Omni-modal Large Language Models
+    Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance
+    Labeling
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22889v1
+  url: http://arxiv.org/abs/2611.24849v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-11-17T14:59:33.000Z'
-- id: arxiv-2611.22827v1
-  title: Compact and Decodable Electrocardiogram Text for Large Language Models
+  publishedAt: '2026-11-18T18:09:16.000Z'
+- id: arxiv-2611.24846v1
+  title: 'Atomic MathReasoner: Instance-Level Composition of Atomic Reasoning Skills for Mathematical LLMs'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22827v1
+  url: http://arxiv.org/abs/2611.24846v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-11-17T14:13:27.000Z'
-- id: arxiv-2611.22820v1
-  title: Pixel is All You Need
+  publishedAt: '2026-11-18T18:08:08.000Z'
+- id: arxiv-2611.24830v1
+  title: A Foundation Model to Measure and Predict Human Behaviour
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22820v1
+  url: http://arxiv.org/abs/2611.24830v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-17T14:06:40.000Z'
-- id: arxiv-2611.22766v1
+  publishedAt: '2026-11-18T17:59:08.000Z'
+- id: arxiv-2611.24795v1
   title: >-
-    StitchRAG: Constructing Compact and Evidence-Preserving Contexts for RAG with Diffusion-Based
-    Stitching
+    Ultimate3D: Teaching Multimodal LLMs 3D Camera-Object Relations by Large-Scale Visual
+    Instruction Data
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22766v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-17T13:33:26.000Z'
-- id: arxiv-2611.22761v1
-  title: Network-Exposed Configuration Attacks on LLM-Controlled Social Robots
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.22761v1
+  url: http://arxiv.org/abs/2611.24795v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-11-17T13:27:57.000Z'
-- id: arxiv-2611.22746v1
-  title: 'LaFlash: Capacity-Driven Acceleration for Coding Agent Workflows via QLC-HBF'
+  publishedAt: '2026-11-18T17:39:54.000Z'
+- id: arxiv-2611.24765v1
+  title: LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22746v1
+  url: http://arxiv.org/abs/2611.24765v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-18T17:16:56.000Z'
+- id: arxiv-2611.24762v1
+  title: 'A$^3$Bench: Compositional Reasoning over Aggressive Interactions in Videos'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24762v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-17T13:16:09.000Z'
-- id: arxiv-2611.22740v1
+  publishedAt: '2026-11-18T17:15:58.000Z'
+- id: arxiv-2611.24728v1
+  title: 'How Generative Models Generate: A Concise Guide to the Generative AI Landscape'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24728v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-11-18T16:45:19.000Z'
+- id: arxiv-2611.24706v1
+  title: Can Omni-modal LLMs Understand Spoken Intentions?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24706v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-18T16:31:52.000Z'
+- id: arxiv-2611.24697v1
+  title: 'Depth Before Breadth: Reverse-to-Forward Curriculum with Advantage Decomposition for LLM Agent'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24697v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-18T16:25:14.000Z'
+- id: arxiv-2611.24684v1
   title: >-
-    AI as Anchor: How Interview Sequencing Relates to the Appropriation of Synthetic Stakeholder
-    Voices in Design Education
+    Hi Gemini, Who Should I Vote For? The Benefits (and Problems) of Using LLMs As Voting Advice
+    Applications
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22740v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-17T13:09:00.000Z'
-- id: arxiv-2611.22726v1
-  title: Stress Testing a Multimodal Large Language Model Grading Assistant on Kinematics Graph Reading
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.22726v1
+  url: http://arxiv.org/abs/2611.24684v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-11-17T13:00:23.000Z'
-- id: arxiv-2611.22721v1
-  title: 'HADVQ: Hessian Aware Directional Vector Quantization'
+  publishedAt: '2026-11-18T16:16:54.000Z'
+- id: arxiv-2611.24661v1
+  title: 'Metadata-Driven AI: An Architectural Pattern for Sustainable Data Analysis with LLMs'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22721v1
+  url: http://arxiv.org/abs/2611.24661v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-18T15:59:03.000Z'
+- id: arxiv-2611.24654v1
+  title: 'CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24654v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-17T12:57:53.000Z'
-- id: arxiv-2611.22708v1
+  publishedAt: '2026-11-18T15:56:20.000Z'
+- id: arxiv-2611.24650v1
   title: >-
-    Cross-cultural Adaptation of Recipes for Low-Resource Languages: A Benchmark and Multilingual
-    Culinary Lexicon for Hausa, Yorùbá, and Igbo
+    Self-Rewarded Reinforcement Learning for Better-Structured Medical Explanations in Small
+    Language Models
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22708v1
+  url: http://arxiv.org/abs/2611.24650v1
   source: arxiv
   tags:
     - arxiv
   score: 0
-  publishedAt: '2026-11-17T12:50:12.000Z'
-- id: arxiv-2611.22670v1
-  title: Worldviews in Large Language Models
+  publishedAt: '2026-11-18T15:52:24.000Z'
+- id: arxiv-2611.24619v1
+  title: 'GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits'
   summary: ''
   details: ''
-  url: http://arxiv.org/abs/2611.22670v1
+  url: http://arxiv.org/abs/2611.24619v1
   source: arxiv
   tags:
     - arxiv
     - llm
   score: 0
-  publishedAt: '2026-11-17T12:24:19.000Z'
+  publishedAt: '2026-11-18T15:37:04.000Z'
+- id: arxiv-2611.24598v1
+  title: Chain-of-Thought Hidden States Reveal Task-Solving Directions for Direct Answers
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24598v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-18T15:25:14.000Z'
+- id: arxiv-2611.24588v1
+  title: >-
+    Large Language Models or AI Agents for English to Arabic Translation? An assessment on
+    WikiEn-Ar190
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24588v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-11-18T15:15:03.000Z'
+- id: arxiv-2611.24522v1
+  title: 'MECI: Multi-Element Collaborative Interaction for Multimodal Entity Linking'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24522v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-18T14:39:07.000Z'
+- id: arxiv-2611.24518v1
+  title: Towards Online Adaptive LLM-based Semantic Filtering
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24518v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-18T14:37:58.000Z'
+- id: arxiv-2611.24496v1
+  title: Harvesting Expert-Parallel Bubbles for Fine-Tuning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.24496v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-18T14:24:23.000Z'
