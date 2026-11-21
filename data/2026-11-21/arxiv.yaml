@@ -1,0 +1,278 @@
+- id: arxiv-2611.26553v1
+  title: 'Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26553v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-19T18:23:35.000Z'
+- id: arxiv-2611.26545v1
+  title: >-
+    The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language
+    Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26545v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T18:20:01.000Z'
+- id: arxiv-2611.26517v1
+  title: 'From Seed to BLOOM: Autonomously Growing a Better Out-of-Order Core'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26517v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-19T17:59:02.000Z'
+- id: arxiv-2611.26492v1
+  title: 'Multimodal Error Detection in Chest X-ray Reports: A Large Language Model Reading Image Evidence'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26492v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T17:46:42.000Z'
+- id: arxiv-2611.26469v1
+  title: 'Introducing ReTiNA-Cinema: Real-Time Neuro-Augmented Cinema via Generative AI'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26469v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-11-19T17:30:43.000Z'
+- id: arxiv-2611.26422v1
+  title: Reasoning-Trace Analysis Using Large Language Models for Interpretable Q-Matrix Construction
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26422v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T17:03:16.000Z'
+- id: arxiv-2611.26408v1
+  title: Training Vision Models for LLM-Driven Weight-Space Programming
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26408v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T16:56:27.000Z'
+- id: arxiv-2611.26398v1
+  title: >-
+    Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience:
+    an Agentic AI Ecosystem
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26398v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-19T16:49:04.000Z'
+- id: arxiv-2611.26380v1
+  title: 'EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26380v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-19T16:39:59.000Z'
+- id: arxiv-2611.26363v1
+  title: 'HiSA: Sparsifying the Hidden Dimension of RoPE Attention in LLMs'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26363v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T16:31:46.000Z'
+- id: arxiv-2611.26349v1
+  title: >-
+    Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and
+    Electronic Band Prediction for First-Principle Calculation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26349v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T16:23:33.000Z'
+- id: arxiv-2611.26342v1
+  title: Training LLMs to Follow Reasoning Instructions with Minimal Edits
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26342v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T16:18:25.000Z'
+- id: arxiv-2611.26335v1
+  title: 'ClosureBench: A Benchmark for Reasoning under Closure Assumptions'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26335v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-19T16:15:04.000Z'
+- id: arxiv-2611.26333v1
+  title: >-
+    OceanCoder: A Verification-Guided Large Language Model for Automated Simulation Modelling in
+    Ocean Engineering
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26333v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T16:13:20.000Z'
+- id: arxiv-2611.26309v1
+  title: Client Exits - A Way to Increase LLM Transparency on the Client Side
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26309v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T15:58:09.000Z'
+- id: arxiv-2611.26298v1
+  title: 'DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26298v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-19T15:51:12.000Z'
+- id: arxiv-2611.26282v1
+  title: What If Chain-of-Thought Is Not Enough?
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26282v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-19T15:43:51.000Z'
+- id: arxiv-2611.26264v1
+  title: A Statistical Framework for Training Data Auditing of Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26264v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T15:34:44.000Z'
+- id: arxiv-2611.26221v1
+  title: 'Sightline: Calibrated Data-Flow Summaries for LLM-Integrated Applications'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26221v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T15:00:25.000Z'
+- id: arxiv-2611.26186v1
+  title: Reward misalignment as an opportunity for materials discovery
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26186v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-19T14:36:15.000Z'
+- id: arxiv-2611.26171v1
+  title: 'The FrontierOR Challenge: Agentic Algorithm Design for Operations Research'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26171v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-19T14:20:27.000Z'
+- id: arxiv-2611.26164v1
+  title: 'MultiBinder: Preventing Multi-Subject Identity Leakage in Personalized Video Generation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26164v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-19T14:18:00.000Z'
+- id: arxiv-2611.26117v1
+  title: 'ChronoPatch: Black-Box Energy-Latency Attacks on Vision-Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26117v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-19T13:45:20.000Z'
+- id: arxiv-2611.26096v1
+  title: >-
+    From Sessions to Serving: Integrating LLM-Based Embeddings into Retrieval for Production Content
+    Recommendation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26096v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T13:31:04.000Z'
+- id: arxiv-2611.26090v1
+  title: Dynamic Human-Robot Role Allocation through Entropy-Based Monitoring and LLM Reasoning
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.26090v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-19T13:28:44.000Z'
