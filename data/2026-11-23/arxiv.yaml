@@ -1,0 +1,280 @@
+- id: arxiv-2611.27973v1
+  title: 'MemOnce: A Scalable Memory Architecture for Large Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27973v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-20T18:51:29.000Z'
+- id: arxiv-2611.27947v1
+  title: Perceived Differences in Activity and Experience Between Developing Software With and Without AI
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27947v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T18:18:55.000Z'
+- id: arxiv-2611.27920v1
+  title: 'Autonomous Parameter Surgery: How LLMs Implant Selective Backdoors into Language Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27920v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-20T17:57:44.000Z'
+- id: arxiv-2611.27868v1
+  title: >-
+    Integrating Generative Artificial Intelligence with Learning Style Models: Opportunities,
+    Challenges, and Future Directions
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27868v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T17:14:52.000Z'
+- id: arxiv-2611.27835v1
+  title: >-
+    Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality
+    Evaluation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27835v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T16:54:47.000Z'
+- id: arxiv-2611.27831v1
+  title: 'DistDNA: Language Model Fingerprinting under Stochastic Decoding'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27831v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T16:52:51.000Z'
+- id: arxiv-2611.27807v1
+  title: >-
+    Evaluating Prompting Strategies for Zero-Shot Multilingual Aspect-Based Sentiment Analysis with
+    Large Language Models
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27807v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-20T16:34:21.000Z'
+- id: arxiv-2611.27799v1
+  title: >-
+    ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's
+    Digital Rights
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27799v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T16:30:05.000Z'
+- id: arxiv-2611.27765v1
+  title: 'Weave: Routing-Adaptive Runtime Warp Scheduling for MoE Megakernels'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27765v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T15:55:34.000Z'
+- id: arxiv-2611.27764v1
+  title: Enhancing Attention with Higher-Order Attention
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27764v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T15:51:54.000Z'
+- id: arxiv-2611.27738v1
+  title: Average-Depth Variable Execution via Request-Local Token Routing
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27738v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T15:35:08.000Z'
+- id: arxiv-2611.27725v1
+  title: A Cognitive Agentic AI Framework for Interactive Process Analysis and Optimization
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27725v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-20T15:25:07.000Z'
+- id: arxiv-2611.27721v1
+  title: >-
+    Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and
+    Encoders
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27721v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-20T15:24:05.000Z'
+- id: arxiv-2611.27701v1
+  title: 'FOREST: Coordinating Tree-based HBF, RRAM, and HBM for Efficient Speculative LLM Inference'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27701v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-20T15:07:53.000Z'
+- id: arxiv-2611.27659v1
+  title: >-
+    Hierarchical Agentic Mid-Band Agility for Reliable Low-Latency Space-Air-Ground Integrated V2X
+    Networks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27659v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-20T14:28:21.000Z'
+- id: arxiv-2611.27652v1
+  title: Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27652v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T14:17:08.000Z'
+- id: arxiv-2611.27621v1
+  title: Automating Multi-View Quality Assessment of 3D Annotation Layouts
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27621v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T13:50:01.000Z'
+- id: arxiv-2611.27578v1
+  title: >-
+    PRISM: Validation-Free Online Batch Selection for LLM Fine-Tuning via Preconditioned Conic Ghost
+    Matching
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27578v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-20T13:13:37.000Z'
+- id: arxiv-2611.27561v1
+  title: Exploring the Potential of Ultra-Low-Bit Inference on LLM Accelerators
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27561v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-20T12:57:48.000Z'
+- id: arxiv-2611.27556v1
+  title: >-
+    Bringing AI Assistance to the Beznau Nuclear Power Plant: A Hierarchical System of LLM Agents
+    for Reactor Monitoring
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27556v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-20T12:52:34.000Z'
+- id: arxiv-2611.27533v1
+  title: Standard-Anchored Delegation in Teachers' Use of Generative AI
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27533v1
+  source: arxiv
+  tags:
+    - arxiv
+    - genai
+  score: 0
+  publishedAt: '2026-11-20T12:29:14.000Z'
+- id: arxiv-2611.27504v1
+  title: The Assistant Persona Differs Across Languages in Activation Space
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27504v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T11:52:33.000Z'
+- id: arxiv-2611.27499v1
+  title: 'NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27499v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T11:47:47.000Z'
+- id: arxiv-2611.27489v1
+  title: Efficient Natural Language to Temporal Logic Translation for Real-Time Physical AI
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27489v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-20T11:35:56.000Z'
+- id: arxiv-2611.27483v1
+  title: >-
+    From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation
+    Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.27483v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-20T11:31:12.000Z'

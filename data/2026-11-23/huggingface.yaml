@@ -20,7 +20,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 20952
+  score: 21677
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -40,7 +40,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 16310
+  score: 16323
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -65,7 +65,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 14480
+  score: 14484
 - id: huggingface-model-Lightricks/LTX-2.5
   title: Lightricks/LTX-2.5
   summary: image-to-video
@@ -107,7 +107,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 13095
+  score: 13186
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -131,7 +131,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 12016
+  score: 12021
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -170,7 +170,7 @@
     - endpoints_compatible
     - deploy:sagemaker
     - region:us
-  score: 9072
+  score: 9086
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -197,46 +197,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8500
-- id: huggingface-model-hexgrad/Kokoro-82M
-  title: hexgrad/Kokoro-82M
-  summary: text-to-speech
-  details: >-
-    Model · text-to-speech, en, arxiv:2306.07691, arxiv:2203.02395,
-    base_model:yl4579/StyleTTS2-LJSpeech, base_model:finetune:yl4579/StyleTTS2-LJSpeech,
-    doi:10.57967/hf/4329, license:apache-2.0, region:us
-  url: https://huggingface.co/hexgrad/Kokoro-82M
-  source: huggingface
-  tags:
-    - text-to-speech
-    - en
-    - arxiv:2306.07691
-    - arxiv:2203.02395
-    - base_model:yl4579/StyleTTS2-LJSpeech
-    - base_model:finetune:yl4579/StyleTTS2-LJSpeech
-    - doi:10.57967/hf/4329
-    - license:apache-2.0
-    - region:us
-  score: 7494
-- id: huggingface-model-Qwen/Qwen3.8-Flash-Next
-  title: Qwen/Qwen3.8-Flash-Next
-  summary: image-text-to-text
-  details: >-
-    Model · transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other,
-    eval-results, endpoints_compatible, region:us
-  url: https://huggingface.co/Qwen/Qwen3.8-Flash-Next
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - qwen4_exp
-    - image-text-to-text
-    - conversational
-    - license:other
-    - eval-results
-    - endpoints_compatible
-    - region:us
-  score: 7460
+  score: 8503
 - id: huggingface-model-facebook/sam3
   title: facebook/sam3
   summary: mask-generation
@@ -259,7 +220,46 @@
     - deploy:azure
     - region:us
     - azure
-  score: 7266
+  score: 8022
+- id: huggingface-model-hexgrad/Kokoro-82M
+  title: hexgrad/Kokoro-82M
+  summary: text-to-speech
+  details: >-
+    Model · text-to-speech, en, arxiv:2306.07691, arxiv:2203.02395,
+    base_model:yl4579/StyleTTS2-LJSpeech, base_model:finetune:yl4579/StyleTTS2-LJSpeech,
+    doi:10.57967/hf/4329, license:apache-2.0, region:us
+  url: https://huggingface.co/hexgrad/Kokoro-82M
+  source: huggingface
+  tags:
+    - text-to-speech
+    - en
+    - arxiv:2306.07691
+    - arxiv:2203.02395
+    - base_model:yl4579/StyleTTS2-LJSpeech
+    - base_model:finetune:yl4579/StyleTTS2-LJSpeech
+    - doi:10.57967/hf/4329
+    - license:apache-2.0
+    - region:us
+  score: 7502
+- id: huggingface-model-Qwen/Qwen3.8-Flash-Next
+  title: Qwen/Qwen3.8-Flash-Next
+  summary: image-text-to-text
+  details: >-
+    Model · transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other,
+    eval-results, endpoints_compatible, region:us
+  url: https://huggingface.co/Qwen/Qwen3.8-Flash-Next
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - qwen4_exp
+    - image-text-to-text
+    - conversational
+    - license:other
+    - eval-results
+    - endpoints_compatible
+    - region:us
+  score: 7476
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -296,7 +296,7 @@
     - nl
     - license:other
     - region:us
-  score: 7252
+  score: 7285
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -323,6 +323,28 @@
     - diffusers:StableDiffusionPipeline
     - region:us
   score: 7151
+- id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
+  title: unsloth/Qwen3.8-27B-GGUF
+  summary: gguf, qwen3_5, unsloth
+  details: >-
+    Model · gguf, qwen3_5, unsloth, qwen, base_model:Qwen/Qwen3.8-27B,
+    base_model:quantized:Qwen/Qwen3.8-27B, license:apache-2.0, endpoints_compatible, region:us,
+    imatrix, conversational
+  url: https://huggingface.co/unsloth/Qwen3.8-27B-GGUF
+  source: huggingface
+  tags:
+    - gguf
+    - qwen3_5
+    - unsloth
+    - qwen
+    - base_model:Qwen/Qwen3.8-27B
+    - base_model:quantized:Qwen/Qwen3.8-27B
+    - license:apache-2.0
+    - endpoints_compatible
+    - region:us
+    - imatrix
+    - conversational
+  score: 7044
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -345,7 +367,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6904
+  score: 6913
 - id: huggingface-model-openai/whisper-large-v3
   title: openai/whisper-large-v3
   summary: automatic-speech-recognition
@@ -475,7 +497,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6841
+  score: 6846
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -501,7 +523,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 6812
+  score: 6815
 - id: huggingface-model-xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic
   title: xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic
   summary: text-generation
@@ -549,7 +571,32 @@
     - license:apache-2.0
     - endpoints_compatible
     - region:us
-  score: 6643
+  score: 6655
+- id: huggingface-model-deepseek-ai/DeepSeek-V4.1-Flash-1017
+  title: deepseek-ai/DeepSeek-V4.1-Flash-1017
+  summary: image-text-to-text
+  details: >-
+    Model · transformers, safetensors, deepseek_v41, text-generation, image-text-to-text,
+    conversational, license:mit, eval-results, endpoints_compatible, 8-bit, fp8, deploy:azure,
+    region:us
+  url: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+  source: huggingface
+  tags:
+    - transformers
+    - safetensors
+    - deepseek_v41
+    - text-generation
+    - image-text-to-text
+    - conversational
+    - license:mit
+    - eval-results
+    - endpoints_compatible
+    - 8-bit
+    - fp8
+    - deploy:azure
+    - region:us
+    - azure
+  score: 6617
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -578,29 +625,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6555
-- id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
-  title: unsloth/Qwen3.8-27B-GGUF
-  summary: gguf, qwen3_5, unsloth
-  details: >-
-    Model · gguf, qwen3_5, unsloth, qwen, base_model:Qwen/Qwen3.8-27B,
-    base_model:quantized:Qwen/Qwen3.8-27B, license:apache-2.0, endpoints_compatible, region:us,
-    imatrix, conversational
-  url: https://huggingface.co/unsloth/Qwen3.8-27B-GGUF
-  source: huggingface
-  tags:
-    - gguf
-    - qwen3_5
-    - unsloth
-    - qwen
-    - base_model:Qwen/Qwen3.8-27B
-    - base_model:quantized:Qwen/Qwen3.8-27B
-    - license:apache-2.0
-    - endpoints_compatible
-    - region:us
-    - imatrix
-    - conversational
-  score: 6368
+  score: 6590
 - id: huggingface-model-autotrust/AutoTrust-Decider-Pro-Vision-27B
   title: autotrust/AutoTrust-Decider-Pro-Vision-27B
   summary: image-text-to-text
@@ -642,7 +667,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6292
+  score: 6293
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -710,7 +735,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6165
+  score: 6171
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -764,32 +789,7 @@
     - base_model:quantized:Qwen/Qwen-Image-2.1-Turbo
     - license:other
     - region:us
-  score: 5979
-- id: huggingface-model-deepseek-ai/DeepSeek-V4.1-Flash-1017
-  title: deepseek-ai/DeepSeek-V4.1-Flash-1017
-  summary: image-text-to-text
-  details: >-
-    Model · transformers, safetensors, deepseek_v41, text-generation, image-text-to-text,
-    conversational, license:mit, eval-results, endpoints_compatible, 8-bit, fp8, deploy:azure,
-    region:us
-  url: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
-  source: huggingface
-  tags:
-    - transformers
-    - safetensors
-    - deepseek_v41
-    - text-generation
-    - image-text-to-text
-    - conversational
-    - license:mit
-    - eval-results
-    - endpoints_compatible
-    - 8-bit
-    - fp8
-    - deploy:azure
-    - region:us
-    - azure
-  score: 5926
+  score: 5981
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -811,7 +811,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 5732
+  score: 5737
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -873,7 +873,7 @@
   tags:
     - docker
     - region:us
-  score: 11334
+  score: 11335
 - id: huggingface-space-Kwai-Kolors/Kolors-Virtual-Try-On
   title: Kwai-Kolors/Kolors-Virtual-Try-On
   summary: gradio, region:us
@@ -893,7 +893,7 @@
   tags:
     - gradio
     - region:us
-  score: 9587
+  score: 9589
 - id: huggingface-space-mteb/leaderboard
   title: mteb/leaderboard
   summary: docker, leaderboard, region:us
@@ -904,7 +904,7 @@
     - docker
     - leaderboard
     - region:us
-  score: 7788
+  score: 7789
 - id: huggingface-space-dalle-mini/dalle-mini
   title: dalle-mini/dalle-mini
   summary: static, region:us
@@ -934,7 +934,7 @@
   tags:
     - gradio
     - region:us
-  score: 5165
+  score: 5166
 - id: huggingface-space-facebook/MusicGen
   title: facebook/MusicGen
   summary: gradio, music generation, language models
@@ -959,7 +959,7 @@
     - static
     - leaderboard
     - region:us
-  score: 5045
+  score: 5044
 - id: huggingface-space-microsoft/TRELLIS
   title: microsoft/TRELLIS
   summary: gradio, region:us
@@ -989,7 +989,7 @@
   tags:
     - static
     - region:us
-  score: 4149
+  score: 4150
 - id: huggingface-space-mrfakename/Z-Image-Turbo
   title: mrfakename/Z-Image-Turbo
   summary: gradio, mcp-server, region:us
@@ -1000,7 +1000,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3963
+  score: 3964
 - id: huggingface-space-zerogpu-aoti/wan2-2-fp8da-aoti-faster
   title: zerogpu-aoti/wan2-2-fp8da-aoti-faster
   summary: gradio, mcp-server, region:us
@@ -1011,7 +1011,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3907
+  score: 3911
 - id: huggingface-space-KlingTeam/LivePortrait
   title: KlingTeam/LivePortrait
   summary: gradio, Multimodal, Motion control
@@ -1030,7 +1030,7 @@
     - LLMs
     - region:us
     - llm
-  score: 3825
+  score: 3826
 - id: huggingface-space-InstantX/InstantID
   title: InstantX/InstantID
   summary: gradio, region:us
@@ -1041,6 +1041,16 @@
     - gradio
     - region:us
   score: 3659
+- id: huggingface-space-YuyaoTechnology/MatterSeek
+  title: YuyaoTechnology/MatterSeek
+  summary: static, region:us
+  details: Space · static, region:us
+  url: https://huggingface.co/spaces/YuyaoTechnology/MatterSeek
+  source: huggingface
+  tags:
+    - static
+    - region:us
+  score: 3582
 - id: huggingface-space-hexgrad/Kokoro-TTS
   title: hexgrad/Kokoro-TTS
   summary: gradio, region:us
@@ -1051,16 +1061,6 @@
     - gradio
     - region:us
   score: 3564
-- id: huggingface-space-YuyaoTechnology/MatterSeek
-  title: YuyaoTechnology/MatterSeek
-  summary: static, region:us
-  details: Space · static, region:us
-  url: https://huggingface.co/spaces/YuyaoTechnology/MatterSeek
-  source: huggingface
-  tags:
-    - static
-    - region:us
-  score: 3483
 - id: huggingface-space-tencent/Hunyuan3D-2
   title: tencent/Hunyuan3D-2
   summary: gradio, region:us
@@ -1097,7 +1097,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3336
+  score: 3339
 - id: huggingface-space-akhaliq/anycoder
   title: akhaliq/anycoder
   summary: docker, region:us
