@@ -105,7 +105,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 21677
+  score: 21693
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -125,7 +125,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 16323
+  score: 16326
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -192,7 +192,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 13186
+  score: 13232
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -216,7 +216,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 12021
+  score: 12024
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -255,7 +255,7 @@
     - endpoints_compatible
     - deploy:sagemaker
     - region:us
-  score: 9086
+  score: 9091
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -305,7 +305,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8022
+  score: 8053
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -325,7 +325,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7502
+  score: 7507
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -344,7 +344,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 7476
+  score: 7484
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -381,7 +381,7 @@
     - nl
     - license:other
     - region:us
-  score: 7285
+  score: 7290
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -429,7 +429,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 7044
+  score: 7060
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -452,7 +452,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6913
+  score: 6917
 - id: huggingface-model-openai/whisper-large-v3
   title: openai/whisper-large-v3
   summary: automatic-speech-recognition
@@ -582,7 +582,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6846
+  score: 6847
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -656,7 +656,7 @@
     - license:apache-2.0
     - endpoints_compatible
     - region:us
-  score: 6655
+  score: 6662
 - id: huggingface-model-deepseek-ai/DeepSeek-V4.1-Flash-1017
   title: deepseek-ai/DeepSeek-V4.1-Flash-1017
   summary: image-text-to-text
@@ -681,7 +681,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6617
+  score: 6631
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -710,7 +710,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6590
+  score: 6595
 - id: huggingface-model-autotrust/AutoTrust-Decider-Pro-Vision-27B
   title: autotrust/AutoTrust-Decider-Pro-Vision-27B
   summary: image-text-to-text
@@ -820,7 +820,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6171
+  score: 6175
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -850,7 +850,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6012
+  score: 6014
 - id: huggingface-model-abenzerps/Qwen-Image-2.1-Turbo-Quantized
   title: abenzerps/Qwen-Image-2.1-Turbo-Quantized
   summary: text-to-image
@@ -874,7 +874,7 @@
     - base_model:quantized:Qwen/Qwen-Image-2.1-Turbo
     - license:other
     - region:us
-  score: 5981
+  score: 5984
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -896,7 +896,7 @@
     - fp8
     - deploy:sagemaker
     - region:us
-  score: 5737
+  score: 5738
 - id: huggingface-model-Tongyi-MAI/Z-Image-Turbo
   title: Tongyi-MAI/Z-Image-Turbo
   summary: text-to-image
@@ -918,7 +918,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 5655
+  score: 5657
 - id: huggingface-space-enzostvs/deepsite
   title: enzostvs/deepsite
   summary: docker, region:us
@@ -948,7 +948,7 @@
     - eval:math
     - region:us
     - llm
-  score: 14169
+  score: 14170
 - id: huggingface-space-jbilcke-hf/ai-comic-factory
   title: jbilcke-hf/ai-comic-factory
   summary: docker, region:us
@@ -1074,7 +1074,7 @@
   tags:
     - static
     - region:us
-  score: 4150
+  score: 4151
 - id: huggingface-space-mrfakename/Z-Image-Turbo
   title: mrfakename/Z-Image-Turbo
   summary: gradio, mcp-server, region:us
@@ -1085,7 +1085,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3964
+  score: 3965
 - id: huggingface-space-zerogpu-aoti/wan2-2-fp8da-aoti-faster
   title: zerogpu-aoti/wan2-2-fp8da-aoti-faster
   summary: gradio, mcp-server, region:us
@@ -1096,7 +1096,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3911
+  score: 3914
 - id: huggingface-space-KlingTeam/LivePortrait
   title: KlingTeam/LivePortrait
   summary: gradio, Multimodal, Motion control
@@ -1135,7 +1135,7 @@
   tags:
     - static
     - region:us
-  score: 3582
+  score: 3652
 - id: huggingface-space-hexgrad/Kokoro-TTS
   title: hexgrad/Kokoro-TTS
   summary: gradio, region:us
@@ -1203,6 +1203,283 @@
     - gradio
     - region:us
   score: 3005
+- id: arxiv-2611.31223v1
+  title: Agentic AI for Intent Management and Control in Autonomous Communication Networks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31223v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-23T18:57:32.000Z'
+- id: arxiv-2611.31211v1
+  title: 'Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31211v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T18:55:06.000Z'
+- id: arxiv-2611.31209v1
+  title: 'WorldLatent: A Unified 4D Latent Space for World Perception and Generation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31209v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T18:53:44.000Z'
+- id: arxiv-2611.31185v1
+  title: >-
+    CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy
+    Grafting
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31185v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T18:38:53.000Z'
+- id: arxiv-2611.31166v1
+  title: Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31166v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T18:27:57.000Z'
+- id: arxiv-2611.31158v1
+  title: >-
+    Reducing RSA-2048 Factoring Resources Below One Billion Toffolis via LLM-Driven Verifiable
+    Quantum Compilation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31158v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T18:22:25.000Z'
+- id: arxiv-2611.31105v1
+  title: 'LiveLoRA: Exact KV Cache Migration Across LoRA Updates for LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31105v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T17:43:16.000Z'
+- id: arxiv-2611.31090v1
+  title: 'Revisiting Learning to Delegate: LLM Discovered Heuristics for Large-Scale Vehicle Routing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31090v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T17:36:48.000Z'
+- id: arxiv-2611.31088v1
+  title: 'MAASAI: A Tool-Augmented Multi-Agent System for Astronomical Data Analysis'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31088v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-23T17:35:44.000Z'
+- id: arxiv-2611.31083v1
+  title: AI-Assisted Programming and Labor Demand
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31083v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:33:22.000Z'
+- id: arxiv-2611.31063v1
+  title: >-
+    From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent
+    LLM Systems
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31063v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T17:20:43.000Z'
+- id: arxiv-2611.31051v1
+  title: Automatic Occupational Coding through Retrieval-Augmented Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31051v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:15:08.000Z'
+- id: arxiv-2611.31044v1
+  title: Grower-in-the-loop AI for Deployable Precision Fertilisation in Sustainable Agriculture
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31044v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:13:32.000Z'
+- id: arxiv-2611.31033v1
+  title: >-
+    AI-Assisted Auto-formalization for Trustworthy Scientific Computing: Case Studies and Lessons
+    Learned
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31033v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:08:36.000Z'
+- id: arxiv-2611.31022v1
+  title: 'OmniV-Bench: Can MLLMs Comprehend Immersive Spatio-temporal Scenes?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31022v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:03:16.000Z'
+- id: arxiv-2611.31012v1
+  title: >-
+    Triage Accuracy of Jev and Open-Weight System One Decision Models and Their Use for Early
+    Emergency Recognition in Symptom-Assessment Applications
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31012v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:58:56.000Z'
+- id: arxiv-2611.31009v1
+  title: 'Origins of City Reputation: Measuring Trust and Bias in Online Reviews Using Agentic AI and NLP'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31009v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-23T16:56:31.000Z'
+- id: arxiv-2611.31001v1
+  title: Congestion-Aware Adaptive Routing for LLM Classification
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31001v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T16:53:45.000Z'
+- id: arxiv-2611.30997v1
+  title: Generalizing Agentic Robotics via Multi-Teacher On-Policy Distillation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30997v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-23T16:49:38.000Z'
+- id: arxiv-2611.30989v1
+  title: 'WorldLeague: Benchmarking Physical Agency'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30989v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:44:19.000Z'
+- id: arxiv-2611.30965v1
+  title: 'Beyond Self-Consistency: Recursive Self-Improvement at Test Time'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30965v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:33:00.000Z'
+- id: arxiv-2611.30951v1
+  title: >-
+    Evaluable Language-Model Treatment Policies for Sepsis Resuscitation via Offline Value-Guided
+    Selection
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30951v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:27:55.000Z'
+- id: arxiv-2611.30932v1
+  title: Carried-Over and Agent-Native Threats in the Supply Chain of LLM Agent Skills
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30932v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T16:20:29.000Z'
+- id: arxiv-2611.30927v1
+  title: >-
+    SpeechSplice: Pronunciation Control in Encoder-Decoder LLM-based TTS by Replacing Encoder Hidden
+    States
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30927v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T16:17:10.000Z'
+- id: arxiv-2611.30925v1
+  title: 'PRIMEAPE: A Multilingual Benchmark for Fine-Grained Meta-Evaluation of Judge Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30925v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:16:40.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Perplexity and Intelligence
   summary: >-
@@ -1219,286 +1496,6 @@
     - openai
   score: 0
   publishedAt: '2026-11-22T00:00:00.000Z'
-- id: arxiv-2611.27973v1
-  title: 'MemOnce: A Scalable Memory Architecture for Large Language Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27973v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-20T18:51:29.000Z'
-- id: arxiv-2611.27947v1
-  title: Perceived Differences in Activity and Experience Between Developing Software With and Without AI
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27947v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T18:18:55.000Z'
-- id: arxiv-2611.27920v1
-  title: 'Autonomous Parameter Surgery: How LLMs Implant Selective Backdoors into Language Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27920v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-20T17:57:44.000Z'
-- id: arxiv-2611.27868v1
-  title: >-
-    Integrating Generative Artificial Intelligence with Learning Style Models: Opportunities,
-    Challenges, and Future Directions
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27868v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T17:14:52.000Z'
-- id: arxiv-2611.27835v1
-  title: >-
-    Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality
-    Evaluation
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27835v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T16:54:47.000Z'
-- id: arxiv-2611.27831v1
-  title: 'DistDNA: Language Model Fingerprinting under Stochastic Decoding'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27831v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T16:52:51.000Z'
-- id: arxiv-2611.27807v1
-  title: >-
-    Evaluating Prompting Strategies for Zero-Shot Multilingual Aspect-Based Sentiment Analysis with
-    Large Language Models
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27807v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-20T16:34:21.000Z'
-- id: arxiv-2611.27799v1
-  title: >-
-    ChildAI-Gov: An Evidence-Linked AI System for Assessing EdTech Policies Against Children's
-    Digital Rights
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27799v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T16:30:05.000Z'
-- id: arxiv-2611.27765v1
-  title: 'Weave: Routing-Adaptive Runtime Warp Scheduling for MoE Megakernels'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27765v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T15:55:34.000Z'
-- id: arxiv-2611.27764v1
-  title: Enhancing Attention with Higher-Order Attention
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27764v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T15:51:54.000Z'
-- id: arxiv-2611.27738v1
-  title: Average-Depth Variable Execution via Request-Local Token Routing
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27738v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T15:35:08.000Z'
-- id: arxiv-2611.27725v1
-  title: A Cognitive Agentic AI Framework for Interactive Process Analysis and Optimization
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27725v1
-  source: arxiv
-  tags:
-    - arxiv
-    - agentic-ai
-  score: 0
-  publishedAt: '2026-11-20T15:25:07.000Z'
-- id: arxiv-2611.27721v1
-  title: >-
-    Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and
-    Encoders
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27721v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-20T15:24:05.000Z'
-- id: arxiv-2611.27701v1
-  title: 'FOREST: Coordinating Tree-based HBF, RRAM, and HBM for Efficient Speculative LLM Inference'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27701v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-20T15:07:53.000Z'
-- id: arxiv-2611.27659v1
-  title: >-
-    Hierarchical Agentic Mid-Band Agility for Reliable Low-Latency Space-Air-Ground Integrated V2X
-    Networks
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27659v1
-  source: arxiv
-  tags:
-    - arxiv
-    - agentic-ai
-  score: 0
-  publishedAt: '2026-11-20T14:28:21.000Z'
-- id: arxiv-2611.27652v1
-  title: Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27652v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T14:17:08.000Z'
-- id: arxiv-2611.27621v1
-  title: Automating Multi-View Quality Assessment of 3D Annotation Layouts
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27621v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T13:50:01.000Z'
-- id: arxiv-2611.27578v1
-  title: >-
-    PRISM: Validation-Free Online Batch Selection for LLM Fine-Tuning via Preconditioned Conic Ghost
-    Matching
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27578v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-20T13:13:37.000Z'
-- id: arxiv-2611.27561v1
-  title: Exploring the Potential of Ultra-Low-Bit Inference on LLM Accelerators
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27561v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-20T12:57:48.000Z'
-- id: arxiv-2611.27556v1
-  title: >-
-    Bringing AI Assistance to the Beznau Nuclear Power Plant: A Hierarchical System of LLM Agents
-    for Reactor Monitoring
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27556v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-20T12:52:34.000Z'
-- id: arxiv-2611.27533v1
-  title: Standard-Anchored Delegation in Teachers' Use of Generative AI
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27533v1
-  source: arxiv
-  tags:
-    - arxiv
-    - genai
-  score: 0
-  publishedAt: '2026-11-20T12:29:14.000Z'
-- id: arxiv-2611.27504v1
-  title: The Assistant Persona Differs Across Languages in Activation Space
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27504v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T11:52:33.000Z'
-- id: arxiv-2611.27499v1
-  title: 'NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27499v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T11:47:47.000Z'
-- id: arxiv-2611.27489v1
-  title: Efficient Natural Language to Temporal Logic Translation for Real-Time Physical AI
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27489v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-20T11:35:56.000Z'
-- id: arxiv-2611.27483v1
-  title: >-
-    From Manufacturing Event Logs to Simulation: Enabling SMEs with Agentic AI for SimPy Simulation
-    Generation
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.27483v1
-  source: arxiv
-  tags:
-    - arxiv
-    - agentic-ai
-  score: 0
-  publishedAt: '2026-11-20T11:31:12.000Z'
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Combatting adversarial distillation
   summary: >-

@@ -1,0 +1,277 @@
+- id: arxiv-2611.31223v1
+  title: Agentic AI for Intent Management and Control in Autonomous Communication Networks
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31223v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-23T18:57:32.000Z'
+- id: arxiv-2611.31211v1
+  title: 'Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31211v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T18:55:06.000Z'
+- id: arxiv-2611.31209v1
+  title: 'WorldLatent: A Unified 4D Latent Space for World Perception and Generation'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31209v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T18:53:44.000Z'
+- id: arxiv-2611.31185v1
+  title: >-
+    CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy
+    Grafting
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31185v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T18:38:53.000Z'
+- id: arxiv-2611.31166v1
+  title: Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31166v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T18:27:57.000Z'
+- id: arxiv-2611.31158v1
+  title: >-
+    Reducing RSA-2048 Factoring Resources Below One Billion Toffolis via LLM-Driven Verifiable
+    Quantum Compilation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31158v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T18:22:25.000Z'
+- id: arxiv-2611.31105v1
+  title: 'LiveLoRA: Exact KV Cache Migration Across LoRA Updates for LLM Agents'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31105v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T17:43:16.000Z'
+- id: arxiv-2611.31090v1
+  title: 'Revisiting Learning to Delegate: LLM Discovered Heuristics for Large-Scale Vehicle Routing'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31090v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T17:36:48.000Z'
+- id: arxiv-2611.31088v1
+  title: 'MAASAI: A Tool-Augmented Multi-Agent System for Astronomical Data Analysis'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31088v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-23T17:35:44.000Z'
+- id: arxiv-2611.31083v1
+  title: AI-Assisted Programming and Labor Demand
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31083v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:33:22.000Z'
+- id: arxiv-2611.31063v1
+  title: >-
+    From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent
+    LLM Systems
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31063v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T17:20:43.000Z'
+- id: arxiv-2611.31051v1
+  title: Automatic Occupational Coding through Retrieval-Augmented Generation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31051v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:15:08.000Z'
+- id: arxiv-2611.31044v1
+  title: Grower-in-the-loop AI for Deployable Precision Fertilisation in Sustainable Agriculture
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31044v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:13:32.000Z'
+- id: arxiv-2611.31033v1
+  title: >-
+    AI-Assisted Auto-formalization for Trustworthy Scientific Computing: Case Studies and Lessons
+    Learned
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31033v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:08:36.000Z'
+- id: arxiv-2611.31022v1
+  title: 'OmniV-Bench: Can MLLMs Comprehend Immersive Spatio-temporal Scenes?'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31022v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T17:03:16.000Z'
+- id: arxiv-2611.31012v1
+  title: >-
+    Triage Accuracy of Jev and Open-Weight System One Decision Models and Their Use for Early
+    Emergency Recognition in Symptom-Assessment Applications
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31012v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:58:56.000Z'
+- id: arxiv-2611.31009v1
+  title: 'Origins of City Reputation: Measuring Trust and Bias in Online Reviews Using Agentic AI and NLP'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31009v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-23T16:56:31.000Z'
+- id: arxiv-2611.31001v1
+  title: Congestion-Aware Adaptive Routing for LLM Classification
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.31001v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T16:53:45.000Z'
+- id: arxiv-2611.30997v1
+  title: Generalizing Agentic Robotics via Multi-Teacher On-Policy Distillation
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30997v1
+  source: arxiv
+  tags:
+    - arxiv
+    - agentic-ai
+  score: 0
+  publishedAt: '2026-11-23T16:49:38.000Z'
+- id: arxiv-2611.30989v1
+  title: 'WorldLeague: Benchmarking Physical Agency'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30989v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:44:19.000Z'
+- id: arxiv-2611.30965v1
+  title: 'Beyond Self-Consistency: Recursive Self-Improvement at Test Time'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30965v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:33:00.000Z'
+- id: arxiv-2611.30951v1
+  title: >-
+    Evaluable Language-Model Treatment Policies for Sepsis Resuscitation via Offline Value-Guided
+    Selection
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30951v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:27:55.000Z'
+- id: arxiv-2611.30932v1
+  title: Carried-Over and Agent-Native Threats in the Supply Chain of LLM Agent Skills
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30932v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T16:20:29.000Z'
+- id: arxiv-2611.30927v1
+  title: >-
+    SpeechSplice: Pronunciation Control in Encoder-Decoder LLM-based TTS by Replacing Encoder Hidden
+    States
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30927v1
+  source: arxiv
+  tags:
+    - arxiv
+    - llm
+  score: 0
+  publishedAt: '2026-11-23T16:17:10.000Z'
+- id: arxiv-2611.30925v1
+  title: 'PRIMEAPE: A Multilingual Benchmark for Fine-Grained Meta-Evaluation of Judge Models'
+  summary: ''
+  details: ''
+  url: http://arxiv.org/abs/2611.30925v1
+  source: arxiv
+  tags:
+    - arxiv
+  score: 0
+  publishedAt: '2026-11-23T16:16:40.000Z'
