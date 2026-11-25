@@ -1,0 +1,35 @@
+- id: github-1466678553
+  title: ProNoob-Dev/Axiom-self-evident-truth
+  summary: >-
+    Axiom — Enterprise agentic copilot: conversational analytics (NL-to-SQL) + disputes intelligence
+    + dev assistant on one LangGraph core. Confidence routing, SQL guardrails, HITL, evals. Every
+    answer ships with its proof.
+  details: >-
+    Axiom — Enterprise agentic copilot: conversational analytics (NL-to-SQL) + disputes intelligence
+    + dev assistant on one LangGraph core. Confidence routing, SQL guardrails, HITL, evals. Every
+    answer ships with its proof.
+  url: https://github.com/ProNoob-Dev/Axiom-self-evident-truth
+  source: github
+  tags:
+    - agentic-ai
+    - ai-agents
+    - conversational-analytics
+    - developer-tools
+    - disputes
+    - evaluation
+    - fastapi
+    - genai
+    - generative-ai
+    - guardrails
+    - hallucination-detection
+    - langgraph
+    - llm
+    - mcp
+    - multi-agent-systems
+    - nl-to-sql
+    - open-source
+    - python
+    - rag
+    - text-to-sql
+  score: 0
+  publishedAt: '2026-11-22T01:54:17Z'
