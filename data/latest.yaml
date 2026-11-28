@@ -181,7 +181,7 @@
     - deploy:sagemaker
     - region:us
     - azure
-  score: 21924
+  score: 21946
 - id: huggingface-model-black-forest-labs/FLUX.1-dev
   title: black-forest-labs/FLUX.1-dev
   summary: text-to-image
@@ -201,7 +201,7 @@
     - endpoints_compatible
     - diffusers:FluxPipeline
     - region:us
-  score: 16400
+  score: 16407
 - id: huggingface-model-deepseek-ai/DeepSeek-R1
   title: deepseek-ai/DeepSeek-R1
   summary: text-generation
@@ -268,7 +268,7 @@
     - arxiv:2601.03233
     - license:other
     - region:us
-  score: 13713
+  score: 13751
 - id: huggingface-model-moonshotai/Kimi-K3
   title: moonshotai/Kimi-K3
   summary: image-text-to-text
@@ -292,7 +292,7 @@
     - 8-bit
     - deploy:sagemaker
     - region:us
-  score: 12032
+  score: 12034
 - id: huggingface-model-meta-llama/Llama-3.1-8B-Instruct
   title: meta-llama/Llama-3.1-8B-Instruct
   summary: text-generation
@@ -331,7 +331,7 @@
     - endpoints_compatible
     - deploy:sagemaker
     - region:us
-  score: 9158
+  score: 9164
 - id: huggingface-model-stabilityai/stable-diffusion-xl-base-1.0
   title: stabilityai/stable-diffusion-xl-base-1.0
   summary: text-to-image
@@ -358,7 +358,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8511
+  score: 8512
 - id: huggingface-model-facebook/sam3
   title: facebook/sam3
   summary: mask-generation
@@ -381,7 +381,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 8366
+  score: 8383
 - id: huggingface-model-Qwen/Qwen3.8-Flash-Next
   title: Qwen/Qwen3.8-Flash-Next
   summary: image-text-to-text
@@ -400,7 +400,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 7611
+  score: 7615
 - id: huggingface-model-hexgrad/Kokoro-82M
   title: hexgrad/Kokoro-82M
   summary: text-to-speech
@@ -420,7 +420,7 @@
     - doi:10.57967/hf/4329
     - license:apache-2.0
     - region:us
-  score: 7562
+  score: 7563
 - id: huggingface-model-MiniMaxAI/MiniMax-H3
   title: MiniMaxAI/MiniMax-H3
   summary: image-text-to-video
@@ -457,7 +457,7 @@
     - nl
     - license:other
     - region:us
-  score: 7443
+  score: 7448
 - id: huggingface-model-unsloth/Qwen3.8-27B-GGUF
   title: unsloth/Qwen3.8-27B-GGUF
   summary: gguf, qwen3_5, unsloth
@@ -479,7 +479,7 @@
     - region:us
     - imatrix
     - conversational
-  score: 7182
+  score: 7189
 - id: huggingface-model-CompVis/stable-diffusion-v1-4
   title: CompVis/stable-diffusion-v1-4
   summary: text-to-image
@@ -505,7 +505,7 @@
     - endpoints_compatible
     - diffusers:StableDiffusionPipeline
     - region:us
-  score: 7150
+  score: 7151
 - id: huggingface-model-black-forest-labs/FLUX.1-schnell
   title: black-forest-labs/FLUX.1-schnell
   summary: text-to-image
@@ -528,7 +528,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 7009
+  score: 7016
 - id: huggingface-model-openai/whisper-large-v3
   title: openai/whisper-large-v3
   summary: automatic-speech-recognition
@@ -658,7 +658,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6859
+  score: 6860
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B
   title: meta-llama/Meta-Llama-3-8B
   summary: text-generation
@@ -684,7 +684,7 @@
     - endpoints_compatible
     - region:us
     - deploy:sagemaker
-  score: 6820
+  score: 6821
 - id: huggingface-model-deepseek-ai/DeepSeek-V4.1-Flash-1017
   title: deepseek-ai/DeepSeek-V4.1-Flash-1017
   summary: image-text-to-text
@@ -709,7 +709,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6811
+  score: 6820
 - id: huggingface-model-meta-llama/Meta-Llama-3-8B-Instruct
   title: meta-llama/Meta-Llama-3-8B-Instruct
   summary: text-generation
@@ -738,7 +738,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6780
+  score: 6797
 - id: huggingface-model-xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic
   title: xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic
   summary: text-generation
@@ -786,7 +786,7 @@
     - license:apache-2.0
     - endpoints_compatible
     - region:us
-  score: 6693
+  score: 6694
 - id: huggingface-model-thinkingmachines/Inkling-2-Mini
   title: thinkingmachines/Inkling-2-Mini
   summary: image-text-to-text
@@ -808,7 +808,7 @@
     - 8-bit
     - modelopt
     - region:us
-  score: 6446
+  score: 6505
 - id: huggingface-model-autotrust/AutoTrust-Decider-Pro-Vision-27B
   title: autotrust/AutoTrust-Decider-Pro-Vision-27B
   summary: image-text-to-text
@@ -850,7 +850,7 @@
     - eval-results
     - endpoints_compatible
     - region:us
-  score: 6412
+  score: 6414
 - id: huggingface-model-sentence-transformers/all-MiniLM-L6-v2
   title: sentence-transformers/all-MiniLM-L6-v2
   summary: sentence-similarity
@@ -918,7 +918,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6193
+  score: 6197
 - id: huggingface-model-convaiinnovations/laya
   title: convaiinnovations/laya
   summary: text-classification
@@ -948,7 +948,7 @@
     - deploy:azure
     - region:us
     - azure
-  score: 6028
+  score: 6029
 - id: huggingface-model-abenzerps/Qwen-Image-2.1-Turbo-Quantized
   title: abenzerps/Qwen-Image-2.1-Turbo-Quantized
   summary: text-to-image
@@ -972,7 +972,7 @@
     - base_model:quantized:Qwen/Qwen-Image-2.1-Turbo
     - license:other
     - region:us
-  score: 6002
+  score: 6003
 - id: huggingface-model-deepseek-ai/DeepSeek-V4-Pro
   title: deepseek-ai/DeepSeek-V4-Pro
   summary: text-generation
@@ -1172,7 +1172,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3934
+  score: 3936
 - id: huggingface-space-KlingTeam/LivePortrait
   title: KlingTeam/LivePortrait
   summary: gradio, Multimodal, Motion control
@@ -1258,7 +1258,7 @@
     - gradio
     - mcp-server
     - region:us
-  score: 3356
+  score: 3357
 - id: huggingface-space-akhaliq/anycoder
   title: akhaliq/anycoder
   summary: docker, region:us
@@ -1268,7 +1268,7 @@
   tags:
     - docker
     - region:us
-  score: 3327
+  score: 3328
 - id: huggingface-space-selfit-camera/Omni-Image-Editor
   title: selfit-camera/Omni-Image-Editor
   summary: gradio, region:us
@@ -1278,268 +1278,7 @@
   tags:
     - gradio
     - region:us
-  score: 3017
-- id: arxiv-2611.34928v1
-  title: Diverse Alternative Reasoning Traces for Hard Math Problems
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34928v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:59:11.000Z'
-- id: arxiv-2611.34925v1
-  title: 'One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34925v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:58:56.000Z'
-- id: arxiv-2611.34903v1
-  title: 'ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34903v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:53:10.000Z'
-- id: arxiv-2611.34881v1
-  title: 'Stranger Things: When Objects Appear Without Their Typical Neighbors'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34881v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:39:28.000Z'
-- id: arxiv-2611.34868v1
-  title: A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34868v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-25T18:33:07.000Z'
-- id: arxiv-2611.34848v1
-  title: 'Put the World Back: Timestamps Matter in Time Series Reasoning'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34848v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:23:07.000Z'
-- id: arxiv-2611.34841v1
-  title: 'Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34841v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:19:02.000Z'
-- id: arxiv-2611.34832v1
-  title: Proverbs As A Window On Collective Prescriptions
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34832v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:12:23.000Z'
-- id: arxiv-2611.34831v1
-  title: Repairing the Trustworthiness of Distilled Language Models
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34831v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:12:20.000Z'
-- id: arxiv-2611.34819v1
-  title: 'VulnSafe: Measuring Vulnerability-Aware Relational Safety in Large Language Models'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34819v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-25T18:03:09.000Z'
-- id: arxiv-2611.34814v1
-  title: >-
-    Deterministic Verification and Computation of Real Matrix Products Have the Same Arithmetic
-    Exponent
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34814v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T18:01:25.000Z'
-- id: arxiv-2611.34785v1
-  title: 'PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34785v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T17:42:31.000Z'
-- id: arxiv-2611.34770v1
-  title: >-
-    Make the Adversary Spend More: Stateful Deception as a Cost-Exchange Primitive for AI-Era Cyber
-    Defense
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34770v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T17:35:27.000Z'
-- id: arxiv-2611.34751v1
-  title: What Is a Theory Worth to an LLM Solver? Measuring, Inducing, and Merging Theories in Context
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34751v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-25T17:25:56.000Z'
-- id: arxiv-2611.34700v1
-  title: 'Seeing the Right Context: Grounded On-Policy Distillation for Remote Sensing'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34700v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T16:58:12.000Z'
-- id: arxiv-2611.34673v1
-  title: 'Supporting Without Taking Over: AI Support in Gratitude Writing'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34673v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T16:38:14.000Z'
-- id: arxiv-2611.34635v1
-  title: 'ZeroHero: Training Small Language Agents from Scratch'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34635v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T16:20:13.000Z'
-- id: arxiv-2611.34630v1
-  title: A Differential Computing Accelerator for LLM Inference Leveraging Bit-Slice Transition Sparsity
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34630v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-25T16:16:59.000Z'
-- id: arxiv-2611.34623v1
-  title: 'From Models to Services: Systematizing Security Assurance for Model-as-a-Service'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34623v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T16:11:04.000Z'
-- id: arxiv-2611.34598v1
-  title: 'SEAM: A Self-Evolving and Adaptive Probing Framework for Automatic MLLM Hallucination Evaluation'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34598v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T15:57:12.000Z'
-- id: arxiv-2611.34584v1
-  title: 'Routing and Cache Retention for Multi-Turn LLM Inference: Theory and Implementation'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34584v1
-  source: arxiv
-  tags:
-    - arxiv
-    - llm
-  score: 0
-  publishedAt: '2026-11-25T15:45:44.000Z'
-- id: arxiv-2611.34575v1
-  title: 'Sage-Med: Scaling Medical Multimodal Intelligence'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34575v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T15:39:45.000Z'
-- id: arxiv-2611.34539v1
-  title: >-
-    EPPC-CARE: Staged Hierarchical Annotation of Communication Behaviors in Secure Patient-Provider
-    Messages
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34539v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T15:21:01.000Z'
-- id: arxiv-2611.34521v1
-  title: 'PURA: Video Token Pruning via Unified Spatiotemporal Redundancy Assessment'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34521v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T15:08:53.000Z'
-- id: arxiv-2611.34511v1
-  title: 'SMOTE 25 Years of Magic: What Has Been Done, What the Evidence Shows, and Whom It Reached'
-  summary: ''
-  details: ''
-  url: http://arxiv.org/abs/2611.34511v1
-  source: arxiv
-  tags:
-    - arxiv
-  score: 0
-  publishedAt: '2026-11-25T14:59:32.000Z'
+  score: 3018
 - id: rss-OpenAI-aHR0cHM6Ly9vcGVuYWkuY29t
   title: Perplexity and Intelligence
   summary: >-
